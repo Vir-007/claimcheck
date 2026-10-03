@@ -79,6 +79,9 @@ class SerpClient:
             dirs.append(self.fixture_dir)
         return [d / f"{key}.json" for d in dirs]
 
+    def has(self, params: dict[str, Any]) -> bool:
+        return any(p.exists() for p in self._paths(cache_key(params)))
+
     def lookup(self, params: dict[str, Any]) -> dict[str, Any] | None:
         for path in self._paths(cache_key(params)):
             if path.exists():

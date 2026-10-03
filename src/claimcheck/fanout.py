@@ -23,7 +23,7 @@ class TaskResult:
 def run(client: SerpClient, tasks: list[SearchTask], max_workers: int = 6) -> list[TaskResult]:
     def one(task: SearchTask) -> TaskResult:
         t0 = time.perf_counter()
-        cached = client.lookup(task.params) is not None
+        cached = client.has(task.params)
         try:
             resp = client.search(task.params)
             return TaskResult(task, resp, None, time.perf_counter() - t0, cached)

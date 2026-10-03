@@ -140,7 +140,7 @@ class HeuristicBackend:
             return Stance(CONTRADICTS, round(0.55 + 0.4 * rel, 2), ev, self.name, rel)
         if HEDGE.search(text) or is_question(s) or numeric_conflict(claim, text):
             return Stance(PARTIAL, round(0.4 + 0.3 * rel, 2), ev, self.name, rel)
-        if rel >= 0.6:
+        if rel >= 0.6 and not (s.is_factchecker and not CONFIRM.search(s.title)):
             return Stance(SUPPORTS, round(0.45 + 0.5 * rel, 2), ev, self.name, rel)
         return Stance(PARTIAL, round(0.35 + 0.3 * rel, 2), ev, self.name, rel)
 
@@ -169,10 +169,19 @@ class NLIBackend:
         from huggingface_hub import hf_hub_download
         from tokenizers import Tokenizer
 
-        offline = os.environ.get("HF_HUB_OFFLINE") == "1"
-        tok_path = hf_hub_download(model_id, "tokenizer.json", local_files_only=offline)
-        cfg_path = hf_hub_download(model_id, "config.json", local_files_only=offline)
-        onnx_path = hf_hub_download(model_id, "onnx/model_quantized.onnx", local_files_only=offline)
+        def fetch(name: str) -> str:
+            # Use the local HF cache when present, so repeat runs (and --offline
+            # runs) never touch the network; download on first use otherwise.
+            try:
+                return hf_hub_download(model_id, name, local_files_only=True)
+            except Exception:
+                if os.environ.get("HF_HUB_OFFLINE") == "1":
+                    raise
+                return hf_hub_download(model_id, name)
+
+        tok_path = fetch("tokenizer.json")
+        cfg_path = fetch("config.json")
+        onnx_path = fetch("onnx/model_quantized.onnx")
         self.tok = Tokenizer.from_file(tok_path)
         self.tok.enable_truncation(max_length=256)
         self.tok.enable_padding()
