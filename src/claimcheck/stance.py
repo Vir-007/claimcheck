@@ -178,7 +178,10 @@ class NLIBackend:
         import numpy as np  # noqa: F401  (fail fast if missing)
         import onnxruntime as ort
         from huggingface_hub import hf_hub_download
+        from huggingface_hub.utils import logging as hf_logging
         from tokenizers import Tokenizer
+
+        hf_logging.set_verbosity_error()  # no "unauthenticated requests" banner
 
         def fetch(name: str) -> str:
             # Use the local HF cache when present, so repeat runs (and --offline
