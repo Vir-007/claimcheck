@@ -106,6 +106,7 @@ def voice_dict(v: Voice) -> dict[str, Any]:
     return {
         "id": v.id, "stance": v.stance, "weight": v.weight, "rule": v.rule, "size": len(v.items),
         "wire": v.cluster.wire, "outlets": v.outlets, "origin": evidence_dict(v.origin),
+        "representative": evidence_dict(v.representative),
         "span_hours": _span_hours(v),
     }
 

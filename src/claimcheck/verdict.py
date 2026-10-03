@@ -39,6 +39,12 @@ class Voice:
         return self.items[0]
 
     @property
+    def representative(self) -> Evidence:
+        """The member that best states this voice's stance (for dissent quotes)."""
+        same = [e for e in self.items if e.stance.label == self.stance] or self.items
+        return max(same, key=lambda e: e.stance.confidence)
+
+    @property
     def outlets(self) -> list[str]:
         seen: list[str] = []
         for e in self.items:

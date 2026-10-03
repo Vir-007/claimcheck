@@ -111,7 +111,7 @@ def render(v: Verdict, console: Console, max_rows: int = 30) -> None:
         d.add_column("Source")
         d.add_column("Evidence")
         for voice in v.dissent:
-            e = voice.origin
+            e = voice.representative
             d.add_row(Text(STANCE_ICON[voice.stance], style=STANCE_STYLE[voice.stance]),
                       f"{e.source.outlet} ({e.source.kind}, {_date(e)})", e.stance.evidence)
         console.print(d)

@@ -1,7 +1,7 @@
 [project]
 name = "claimcheck"
 version = "0.1.0"
-description = "Add your description here"
+description = "Claim triangulation across SerpApi engines with syndication detection"
 readme = "README.md"
 authors = [
     { name = "anarch", email = "2vir.sharma@gmail.com" }
@@ -21,6 +21,7 @@ dependencies = [
 
 [project.scripts]
 claimcheck = "claimcheck:main"
+claimcheck-web = "claimcheck.web:main"
 
 [project.optional-dependencies]
 llm = [

@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>claimcheck</title>
+<style>
+  :root {
+    --bg: #f6f7f9; --card: #ffffff; --ink: #14171c; --muted: #5d6673; --line: #e2e5ea;
+    --sup: #1f8a4c; --sup-bg: #e3f4ea; --con: #c62f2f; --con-bg: #fbe6e6; --par: #a8700a; --par-bg: #fbf1dc;
+    --accent: #3657d6; --accent-bg: #e8edff; --chip: #eef0f4;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1115; --card: #171a21; --ink: #e8ebf0; --muted: #9aa3b1; --line: #2a2f3a;
+      --sup: #4cc27e; --sup-bg: #15301f; --con: #f06b6b; --con-bg: #3a1a1a; --par: #e0a93a; --par-bg: #332611;
+      --accent: #8aa2ff; --accent-bg: #1e2540; --chip: #232833;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 1100px; margin: 0 auto; padding: 24px 16px 64px; }
+  header h1 { margin: 0; font-size: 26px; letter-spacing: -0.02em; }
+  header p { margin: 4px 0 18px; color: var(--muted); }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 18px 20px; margin-bottom: 16px; }
+  form { display: flex; gap: 10px; flex-wrap: wrap; }
+  textarea { flex: 1 1 520px; min-height: 56px; resize: vertical; font: inherit; padding: 10px 12px;
+             border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink); }
+  button { font: inherit; border: 0; border-radius: 8px; padding: 10px 18px; cursor: pointer; background: var(--accent); color: #fff; font-weight: 600; }
+  button:disabled { opacity: .6; cursor: wait; }
+  .row { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin-top: 10px; color: var(--muted); font-size: 13px; }
+  .demo { background: var(--chip); color: var(--ink); font-weight: 500; padding: 5px 10px; font-size: 13px; }
+  .banner { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+  .label { font-size: 20px; font-weight: 700; padding: 6px 14px; border-radius: 8px; }
+  .l-sup { background: var(--sup-bg); color: var(--sup); } .l-con { background: var(--con-bg); color: var(--con); }
+  .l-par { background: var(--par-bg); color: var(--par); }
+  .score { color: var(--muted); }
+  .summary { margin: 10px 0 0; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  @media (max-width: 760px) { .grid { grid-template-columns: 1fr; } }
+  h2 { font-size: 15px; margin: 0 0 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+  .bars { display: grid; grid-template-columns: 170px 1fr; gap: 8px 12px; align-items: center; }
+  .bar { display: flex; height: 26px; border-radius: 6px; overflow: hidden; background: var(--chip); }
+  .bar span { display: flex; align-items: center; justify-content: center; color: #fff; font-size: 12px; font-weight: 700; min-width: 0; }
+  .s-sup { background: var(--sup); } .s-con { background: var(--con); } .s-par { background: var(--par); }
+  .legend { display: flex; gap: 14px; font-size: 12px; color: var(--muted); margin-top: 10px; }
+  .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 5px; vertical-align: -1px; }
+  .src { margin-bottom: 12px; } .src b { display: block; } .src a { color: var(--accent); word-break: break-all; font-size: 13px; }
+  .k { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+  .cluster { border: 1px solid var(--line); border-left: 4px solid var(--par); border-radius: 8px; padding: 10px 12px; margin-bottom: 10px; }
+  .cluster.sup { border-left-color: var(--sup); } .cluster.con { border-left-color: var(--con); }
+  .cluster .why { color: var(--muted); font-size: 13px; }
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
+  .chip { background: var(--chip); border-radius: 999px; padding: 2px 9px; font-size: 12px; }
+  .chip.fc { background: var(--accent-bg); color: var(--accent); font-weight: 600; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th { text-align: left; color: var(--muted); font-weight: 600; border-bottom: 1px solid var(--line); padding: 6px 8px; }
+  td { border-bottom: 1px solid var(--line); padding: 7px 8px; vertical-align: top; }
+  td a { color: var(--ink); text-decoration: none; } td a:hover { text-decoration: underline; }
+  .st { font-weight: 700; white-space: nowrap; } .st.sup { color: var(--sup); } .st.con { color: var(--con); } .st.par { color: var(--par); }
+  .eng { display: inline-block; font-size: 11px; padding: 1px 6px; border-radius: 4px; margin: 1px; background: var(--accent-bg); color: var(--accent); font-weight: 600; }
+  .muted { color: var(--muted); } .err { color: var(--con); }
+  .table-wrap { overflow-x: auto; }
+  svg text { fill: var(--muted); font-size: 11px; }
+  .spinner { display: inline-block; width: 14px; height: 14px; border: 2px solid var(--line); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.8s linear infinite; vertical-align: -2px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>claimcheck</h1>
+    <p>Paste a claim. It is searched across Google Web, News and Scholar via SerpApi, each source's stance is classified, and syndicated copies are collapsed so <b>forty outlets running one wire story count once</b>.</p>
+  </header>
+
+  <div class="card">
+    <form id="f">
+      <textarea id="claim" placeholder="e.g. UNESCO declared Jana Gana Mana the best national anthem in the world"></textarea>
+      <button id="go" type="submit">Check claim</button>
+    </form>
+    <div class="row">
+      <span>Demo claims:</span><span id="demos"></span>
+    </div>
+    <div class="row">
+      <label><input type="checkbox" id="offline"> offline (replay recorded SerpApi responses)</label>
+      <span id="keyinfo"></span>
+    </div>
+  </div>
+
+  <div id="out"></div>
+</main>
+
+<script>
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const ST = { supports: ["sup", "✔ supports"], contradicts: ["con", "✘ contradicts"], partial: ["par", "◐ partial"] };
+const ENG = { google: "Web", google_news: "News", google_scholar: "Scholar" };
+const RULE = { wire: "Wire copy: near-identical text published within 72 h", publisher: "Same publisher network",
+               "copy-paste": "Copy-pasted text (a forward reposted)", undated: "Near-identical text" };
+
+function fmtDate(e) {
+  if (!e || !e.published) return "undated";
+  const d = new Date(e.published);
+  if (/^\d{4}$/.test(e.date_text || "")) return String(d.getUTCFullYear());
+  const opts = { day: "2-digit", month: "short", year: "numeric", timeZone: "UTC" };
+  if ((e.date_text || "").includes("T") || (e.date_text || "").includes("UTC"))
+    return d.toLocaleString("en-GB", { ...opts, hour: "2-digit", minute: "2-digit" }) + " UTC";
+  return d.toLocaleDateString("en-GB", opts);
+}
+function labelClass(l) { return /^(False|Contradicted|Leaning contra)/.test(l) ? "l-con" : /^(Supported|Leaning sup)/.test(l) ? "l-sup" : "l-par"; }
+
+function bar(counts, max) {
+  const parts = ["supports", "contradicts", "partial"].map(k => {
+    const n = counts[k] || 0; if (!n) return "";
+    return `<span class="s-${ST[k][0]}" style="width:${(100 * n / max).toFixed(1)}%" title="${k}: ${n}">${n}</span>`;
+  }).join("");
+  return `<div class="bar">${parts}</div>`;
+}
+
+function srcBlock(title, e) {
+  if (!e) return "";
+  return `<div class="src"><span class="k">${title}</span><b>${esc(e.outlet)} · <span class="muted">${esc(fmtDate(e))}</span></b>
+    ${esc(e.title)}<br><a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.url)}</a></div>`;
+}
+
+function timeline(v) {
+  // One lane per syndication cluster (top), then everything else. x = publication time.
+  const ev = v.evidence.filter(e => e.published && !/^\d{4}$/.test(e.date_text || ""));
+  if (ev.length < 3) return "";
+  const t = ev.map(e => +new Date(e.published));
+  let lo = Math.min(...t), hi = Math.max(...t); if (hi === lo) hi = lo + 3600e3;
+  const lanes = v.syndicated.slice(0, 4).map(s => s.id);
+  const W = 1000, laneH = 26, H = (lanes.length + 1) * laneH + 30, pad = 150, padR = 45;
+  const x = ms => pad + (W - pad - padR) * (ms - lo) / (hi - lo);
+  const spanDays = (hi - lo) / 864e5;
+  const tick = ms => { const d = new Date(ms); return spanDays < 3 ? d.toISOString().slice(11, 16) + " UTC" : spanDays < 400 ? d.toISOString().slice(0, 10) : String(d.getUTCFullYear()); };
+  let svg = `<svg viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Publication timeline">`;
+  [...lanes, "rest"].forEach((id, i) => {
+    const y = 14 + i * laneH;
+    const name = id === "rest" ? "independent" : `cluster ${i + 1} (${v.syndicated[i].size})`;
+    svg += `<text x="0" y="${y + 4}">${esc(name)}</text><line x1="${pad}" x2="${W - padR}" y1="${y}" y2="${y}" stroke="currentColor" stroke-opacity=".12"/>`;
+  });
+  ev.forEach(e => {
+    const lane = lanes.indexOf(e.cluster); const y = 14 + (lane < 0 ? lanes.length : lane) * laneH;
+    const col = { supports: "var(--sup)", contradicts: "var(--con)", partial: "var(--par)" }[e.stance];
+    svg += `<circle cx="${x(+new Date(e.published)).toFixed(1)}" cy="${y}" r="6" fill="${col}" fill-opacity=".85"><title>${esc(e.outlet + " · " + fmtDate(e) + " · " + e.stance)}</title></circle>`;
+  });
+  for (let i = 0; i <= 4; i++) { const ms = lo + (hi - lo) * i / 4; svg += `<text x="${x(ms)}" y="${H - 4}" text-anchor="middle">${esc(tick(ms))}</text>`; }
+  return svg + "</svg>";
+}
+
+function render(v) {
+  const maxN = Math.max(1, ...["naive", "independent"].map(k => Object.values(v[k]).reduce((a, b) => a + b, 0)));
+  const clusters = v.syndicated.map((s, i) => {
+    const spread = s.span_hours != null && s.rule === "wire" ? ` · spread ${Math.round(s.span_hours)} h` : "";
+    return `<div class="cluster ${ST[s.stance][0]}"><b>${s.size} copies → 1 voice</b>
+      <span class="st ${ST[s.stance][0]}"> ${ST[s.stance][1]}</span>
+      <div class="why">${esc(RULE[s.rule] || s.rule)}${s.wire ? " · byline " + esc(s.wire) : ""}${spread} · origin: ${esc(s.origin.outlet)}, ${esc(fmtDate(s.origin))}</div>
+      <div class="chips">${s.outlets.map(o => `<span class="chip">${esc(o)}</span>`).join("")}</div></div>`;
+  }).join("") || `<p class="muted">No syndication detected: every relevant source is independent.</p>`;
+  const dissent = v.dissent.map(d => { const r = d.representative; return `<div class="src"><span class="st ${ST[d.stance][0]}">${ST[d.stance][1]}</span>
+      <b>${esc(r.outlet)} <span class="muted">(${esc(r.kind)}, ${esc(fmtDate(r))}${d.size > 1 ? `, +${d.size - 1} copies` : ""})</span></b>
+      <a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.evidence)}</a></div>`; }).join("")
+      || `<p class="muted">No independent voice disagrees with the majority.</p>`;
+  const sizes = Object.fromEntries(v.syndicated.map((s, i) => [s.id, i + 1]));
+  const rows = v.evidence.map(e => `<tr>
+      <td>${e.engines.map(x => `<span class="eng">${ENG[x] || x}</span>`).join("")}</td>
+      <td>${esc(e.outlet)}${e.factchecker ? ' <span class="chip fc">fact-checker</span>' : ""}</td>
+      <td class="muted" style="white-space:nowrap">${esc(fmtDate(e)).replace(" UTC", "")}</td>
+      <td class="st ${ST[e.stance][0]}">${ST[e.stance][1]} <span class="muted">${e.confidence.toFixed(2)}</span></td>
+      <td>${sizes[e.cluster] ? `<span class="chip">#${sizes[e.cluster]}</span>` : ""}</td>
+      <td><a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.evidence)}</a></td></tr>`).join("");
+  const eng = v.engines.map(e => `<tr><td><span class="eng">${ENG[e.engine] || e.engine}</span> ${esc(e.engine)}</td>
+      <td>${e.queries.map(esc).join(", ")}</td><td>${e.results}</td><td>${e.relevant}</td><td>${e.unique_relevant}</td>
+      <td class="${e.errors.length ? "err" : "muted"}">${e.errors.length ? esc(e.errors[0]) : e.cached ? "cache" : "live"}</td></tr>`).join("");
+  const run = v.run || {};
+  $("#out").innerHTML = `
+  <div class="card">
+    <div class="banner"><span class="label ${labelClass(v.label)}">${esc(v.label)}</span>
+      <span class="score">consensus score ${v.score >= 0 ? "+" : ""}${v.score.toFixed(2)} &nbsp;(−1 contradicted … +1 supported)</span></div>
+    <p class="summary">${esc(v.summary)}</p>
+  </div>
+  <div class="grid">
+    <div class="card"><h2>Consensus strength</h2>
+      <div class="bars"><span>Naive count<br><span class="muted">every article</span></span>${bar(v.naive, maxN)}
+        <span><b>Independent voices</b><br><span class="muted">syndication collapsed</span></span>${bar(v.independent, maxN)}</div>
+      <div class="legend"><span><i class="dot s-sup"></i>supports</span><span><i class="dot s-con"></i>contradicts</span><span><i class="dot s-par"></i>partial</span></div>
+    </div>
+    <div class="card"><h2>Origin</h2>${srcBlock("Earliest trace of the claim", v.earliest)}${srcBlock("First rebuttal", v.earliest_contradiction)}</div>
+  </div>
+  <div class="card"><h2>Syndication clusters: each counts once</h2>${clusters}${timeline(v)}</div>
+  <div class="card"><h2>Notable dissent</h2>${dissent}</div>
+  <div class="card"><h2>Sources (${v.evidence.length} relevant of ${v.total_sources} found)</h2>
+    <div class="table-wrap"><table><thead><tr><th>Engine</th><th>Outlet</th><th>Date</th><th>Stance</th><th>Cluster</th><th>Evidence</th></tr></thead><tbody>${rows}</tbody></table></div></div>
+  <div class="card"><h2>SerpApi engines used</h2>
+    <div class="table-wrap"><table><thead><tr><th>Engine</th><th>Query variants</th><th>Results</th><th>Relevant</th><th>Found only here</th><th>Source</th></tr></thead><tbody>${eng}</tbody></table></div>
+    <p class="muted" style="margin:10px 0 0">stance backend: ${esc(v.stance_method)} · ${run.seconds}s · live SerpApi calls: ${run.live_calls} · cache hits: ${run.cache_hits}${run.offline ? " · offline" : ""}</p></div>`;
+}
+
+async function go(claim) {
+  $("#claim").value = claim;
+  $("#go").disabled = true;
+  $("#out").innerHTML = `<div class="card"><span class="spinner"></span> Fanning out across Google Web, News and Scholar…</div>`;
+  try {
+    const r = await fetch("/api/check", { method: "POST", headers: { "content-type": "application/json" },
+      body: JSON.stringify({ claim, offline: $("#offline").checked }) });
+    const data = await r.json();
+    if (!r.ok) throw new Error(data.detail?.[0]?.msg || data.detail || r.statusText);
+    render(data);
+  } catch (e) {
+    $("#out").innerHTML = `<div class="card err">${esc(e.message)}</div>`;
+  } finally { $("#go").disabled = false; }
+}
+
+$("#f").addEventListener("submit", (ev) => { ev.preventDefault(); const c = $("#claim").value.trim(); if (c) go(c); });
+$("#claim").addEventListener("keydown", (ev) => { if (ev.key === "Enter" && !ev.shiftKey) { ev.preventDefault(); $("#f").requestSubmit(); } });
+
+fetch("/api/meta").then(r => r.json()).then(m => {
+  $("#demos").innerHTML = m.demos.map((d, i) => `<button class="demo" data-i="${i}" title="${esc(d.why)}">${esc(d.id)}</button>`).join(" ");
+  document.querySelectorAll(".demo").forEach(b => b.addEventListener("click", () => go(m.demos[+b.dataset.i].claim)));
+  $("#offline").checked = !m.has_key;
+  $("#keyinfo").textContent = m.has_key ? `SerpApi key loaded · live-call budget ${m.max_live_calls - m.live_calls} left this session (demo claims are cached either way)`
+                                       : "No SERPAPI_API_KEY: offline only";
+  const q = new URLSearchParams(location.search);
+  if (q.get("demo")) { const d = m.demos.find(d => d.id === q.get("demo")); if (d) go(d.claim); }
+});
+</script>
+</body>
+</html>

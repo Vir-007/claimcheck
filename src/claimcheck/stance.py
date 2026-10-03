@@ -100,7 +100,10 @@ def numeric_conflict(claim: str, text: str) -> bool:
 
 
 def best_sentence(claim: str, text: str, limit: int = 160) -> str:
-    parts = [p.strip() for p in re.split(r"(?<=[.!?])\s+|\s+[·|]\s+|\.\s|…", text) if len(p.strip()) > 20]
+    # Split on real sentence ends only, not on the ".." / "…" that Google uses
+    # to elide text mid-sentence.
+    parts = [p.strip() for p in re.split(r"(?<![.…])(?<=[.!?])\s+(?=[A-Z\"“‘'])|\s+[·|]\s+", text)
+             if len(p.strip()) > 25]
     if not parts:
         return text[:limit]
     best = max(parts, key=lambda p: relevance(claim, p) + (0.3 if DEBUNK.search(p) else 0))
@@ -108,9 +111,17 @@ def best_sentence(claim: str, text: str, limit: int = 160) -> str:
 
 
 def is_question(s: Source) -> bool:
-    return s.title.strip().rstrip(".… ").endswith("?") or bool(
-        re.match(r"(?i)(fact ?check:\s*)?(did|does|is|was|were|can|could|will|has|have|do)\b", s.title.strip())
-    )
+    """Headlines that ask rather than assert ("Did UNESCO...?", "...? Find out here!")."""
+    title = s.title.strip()
+    return title.rstrip(".… ").endswith("?") or bool(
+        re.match(r"(?i)(fact ?check:\s*)?(did|does|is|was|were|can|could|will|has|have|do)\b", title)
+    ) or bool(re.search(r"(?i)\?\s+(find out|watch|read|know|check)\b", s.snippet))
+
+
+def checks_claim(s: Source) -> bool:
+    """A fact-checker, or any page framing itself as a fact check, quotes the
+    claim it examines; that quote must not count as support."""
+    return s.is_factchecker or bool(re.search(r"(?i)fact[- ]?check|factly|#factcheck", f"{s.outlet} {s.text}"))
 
 
 def mostly_non_latin(text: str) -> bool:
@@ -140,7 +151,7 @@ class HeuristicBackend:
             return Stance(CONTRADICTS, round(0.55 + 0.4 * rel, 2), ev, self.name, rel)
         if HEDGE.search(text) or is_question(s) or numeric_conflict(claim, text):
             return Stance(PARTIAL, round(0.4 + 0.3 * rel, 2), ev, self.name, rel)
-        if rel >= 0.6 and not (s.is_factchecker and not CONFIRM.search(s.title)):
+        if rel >= 0.6 and not (checks_claim(s) and not CONFIRM.search(s.title)):
             return Stance(SUPPORTS, round(0.45 + 0.5 * rel, 2), ev, self.name, rel)
         return Stance(PARTIAL, round(0.35 + 0.3 * rel, 2), ev, self.name, rel)
 
@@ -238,7 +249,7 @@ class NLIBackend:
             elif h.label == CONTRADICTS:
                 label, conf = CONTRADICTS, h.confidence * 0.85
             elif ent >= 0.5 and not question and not numeric_conflict(claim, src.text) and not (
-                    src.is_factchecker and not CONFIRM.search(src.title)):
+                    checks_claim(src) and not CONFIRM.search(src.title)):
                 # Fact-checkers quote the claim they are checking, so their
                 # headlines only count as support when they explicitly confirm it.
                 label, conf = SUPPORTS, ent
