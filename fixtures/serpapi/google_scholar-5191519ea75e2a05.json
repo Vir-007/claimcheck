@@ -1,0 +1,419 @@
+{
+ "engine": "google_scholar",
+ "params": {
+  "engine": "google_scholar",
+  "q": "UNESCO declared Jana Gana Mana best national anthem",
+  "hl": "en"
+ },
+ "fetched_at": "2026-10-03T17:02:32Z",
+ "response": {
+  "search_metadata": {
+   "id": "6ac1352769819d0567c50f40",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/x7ppM5v7aGG5EaN9IeAyva_41jz_bVLdqjzj4qRm5xA/6ac1352769819d0567c50f40.md",
+   "created_at": "2026-10-03 17:02:31 UTC",
+   "processed_at": "2026-10-03 17:02:31 UTC",
+   "google_scholar_url": "https://scholar.google.com/scholar?q=UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en",
+   "total_time_taken": 0.68
+  },
+  "search_parameters": {
+   "engine": "google_scholar",
+   "q": "UNESCO declared Jana Gana Mana best national anthem",
+   "hl": "en"
+  },
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "total_results": 77,
+   "time_taken_displayed": 0.23,
+   "query_displayed": "UNESCO declared Jana Gana Mana best national anthem"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Fake News: A New Trending Phenomenon and Challenges",
+    "result_id": "arvza_7DpgQJ",
+    "type": "Pdf",
+    "link": "https://www.academia.edu/download/55848263/Fake_News__A_New_Trending_Phenomenon_and_Challenges_ijariie7002.pdf",
+    "snippet": "… UNESCO declares new Rs 2,000 note best currency in the world :- Another fake UNESCO … Mukherjee, head of cultural awareness department of UNESCO announced this to media\" …",
+    "publication_info": {
+     "summary": "A Sharma - IJARIIE, 2017 - academia.edu",
+     "authors": [
+      {
+       "name": "A Sharma",
+       "link": "https://scholar.google.com/citations?user=VaQL_vEAAAAJ&hl=en&oi=sra",
+       "author_id": "VaQL_vEAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VaQL_vEAAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "academia.edu",
+      "file_format": "PDF",
+      "link": "https://www.academia.edu/download/55848263/Fake_News__A_New_Trending_Phenomenon_and_Challenges_ijariie7002.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=arvza_7DpgQJ",
+     "cited_by": {
+      "total": 2,
+      "link": "https://scholar.google.com/scholar?cites=335170719785925482&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "335170719785925482",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=335170719785925482&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:arvza_7DpgQJ:scholar.google.com/&scioq=UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3Aarvza_7DpgQJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 3,
+      "link": "https://scholar.google.com/scholar?cluster=335170719785925482&hl=en&as_sdt=0,5",
+      "cluster_id": "335170719785925482",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=335170719785925482&engine=google_scholar&hl=en"
+     },
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:arvza_7DpgQJ:scholar.google.com/+UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en&as_sdt=0,5"
+    }
+   },
+   {
+    "position": 2,
+    "title": "A nature-inspired approach based on forest fire model for modeling rumor propagation in social networks",
+    "result_id": "RCocyUa9pFgJ",
+    "link": "https://www.sciencedirect.com/science/article/pii/S108480451830314X",
+    "snippet": "… #IndianNationalAnthem#UNESCO: Another event considered for our … during March 2016 claiming that Indian National Anthem was declared as the best national anthem by UNESCO. …",
+    "publication_info": {
+     "summary": "V Indu, SM Thampi - Journal of network and computer applications, 2019 - Elsevier",
+     "authors": [
+      {
+       "name": "V Indu",
+       "link": "https://scholar.google.com/citations?user=4OxCJu8AAAAJ&hl=en&oi=sra",
+       "author_id": "4OxCJu8AAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4OxCJu8AAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "SM Thampi",
+       "link": "https://scholar.google.com/citations?user=25oQ2McAAAAJ&hl=en&oi=sra",
+       "author_id": "25oQ2McAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=25oQ2McAAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=RCocyUa9pFgJ",
+     "cited_by": {
+      "total": 72,
+      "link": "https://scholar.google.com/scholar?cites=6387438283237632580&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "6387438283237632580",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6387438283237632580&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:RCocyUa9pFgJ:scholar.google.com/&scioq=UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3ARCocyUa9pFgJ%3Ascholar.google.com%2F"
+    }
+   },
+   {
+    "position": 3,
+    "title": "Come Visit Our Country: India. Teaching Material Prepared within the Framework of the UNESCO Associated Schools Project.",
+    "result_id": "qn02r5-Q0XQJ",
+    "link": "https://eric.ed.gov/?id=ED383611",
+    "snippet": "… The national anthem of our country is taken from a song which was composed by Rabindranath … Tagore's song 'Jana Gana Mana' became India's National Anthem when the country won …",
+    "publication_info": {
+     "summary": "N Khan - 1992 - ERIC",
+     "authors": [
+      {
+       "name": "N Khan"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "ed.gov",
+      "file_format": "PDF",
+      "link": "https://files.eric.ed.gov/fulltext/ED383611.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qn02r5-Q0XQJ",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:qn02r5-Q0XQJ:scholar.google.com/&scioq=UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3Aqn02r5-Q0XQJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 2,
+      "link": "https://scholar.google.com/scholar?cluster=8417668194045951402&hl=en&as_sdt=0,5",
+      "cluster_id": "8417668194045951402",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8417668194045951402&engine=google_scholar&hl=en"
+     },
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:qn02r5-Q0XQJ:scholar.google.com/+UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en&as_sdt=0,5"
+    }
+   },
+   {
+    "position": 4,
+    "title": "How the disabled body unites the national body: Disability as 'feel good'diversity in urban India",
+    "result_id": "whpav_KlgZAJ",
+    "link": "https://www.tandfonline.com/doi/abs/10.1080/09584935.2017.1374925",
+    "snippet": "… Their signs are an ISL version of Jana Gana Mana, a five-stanza poem and folk … national anthem featuring individuals and communities who are both central and marginal in the national …",
+    "publication_info": {
+     "summary": "M Friedner - Contemporary South Asia, 2017 - Taylor & Francis",
+     "authors": [
+      {
+       "name": "M Friedner",
+       "link": "https://scholar.google.com/citations?user=0O38Gu0AAAAJ&hl=en&oi=sra",
+       "author_id": "0O38Gu0AAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0O38Gu0AAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "academia.edu",
+      "file_format": "PDF",
+      "link": "https://www.academia.edu/download/54416066/How_the_disabled_body_unites_the_national_body_disability_as_feel_good_diversity_in_urban_India.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=whpav_KlgZAJ",
+     "cited_by": {
+      "total": 42,
+      "link": "https://scholar.google.com/scholar?cites=10412786275468319426&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "10412786275468319426",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10412786275468319426&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:whpav_KlgZAJ:scholar.google.com/&scioq=UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3Awhpav_KlgZAJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 4,
+      "link": "https://scholar.google.com/scholar?cluster=10412786275468319426&hl=en&as_sdt=0,5",
+      "cluster_id": "10412786275468319426",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=10412786275468319426&engine=google_scholar&hl=en"
+     }
+    }
+   },
+   {
+    "position": 5,
+    "title": "A ong Unto Itself",
+    "result_id": "DHKUnFGoRE8J",
+    "type": "Pdf",
+    "link": "https://www.researchgate.net/profile/Ananya-Vajpeyi/publication/254693528_A_Song_Unto_Itself_How_Rabindranath_Tagore_Ram_Gopal_Varma_and_the_Supreme_Court_of_India_Hear_the_National_Anthem/links/58517cf008aef7d0309d1856/A-Song-Unto-Itself-How-Rabindranath-Tagore-Ram-Gopal-Varma-and-the-Supreme-Court-of-India-Hear-the-National-Anthem.pdf",
+    "snippet": "… it the form of the anthem, or its meaning? When we say we care about Jana gana mana, what … the words and music known as Jana Gana Mana is the National Anthem of India, subject to …",
+    "publication_info": {
+     "summary": "A Vajpeyi - The Caravan, 2010 - researchgate.net",
+     "authors": [
+      {
+       "name": "A Vajpeyi",
+       "link": "https://scholar.google.com/citations?user=bDmPDFIAAAAJ&hl=en&oi=sra",
+       "author_id": "bDmPDFIAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bDmPDFIAAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "researchgate.net",
+      "file_format": "PDF",
+      "link": "https://www.researchgate.net/profile/Ananya-Vajpeyi/publication/254693528_A_Song_Unto_Itself_How_Rabindranath_Tagore_Ram_Gopal_Varma_and_the_Supreme_Court_of_India_Hear_the_National_Anthem/links/58517cf008aef7d0309d1856/A-Song-Unto-Itself-How-Rabindranath-Tagore-Ram-Gopal-Varma-and-the-Supreme-Court-of-India-Hear-the-National-Anthem.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=DHKUnFGoRE8J",
+     "cited_by": {
+      "total": 1,
+      "link": "https://scholar.google.com/scholar?cites=5711875295885423116&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "5711875295885423116",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5711875295885423116&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:DHKUnFGoRE8J:scholar.google.com/&scioq=UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3ADHKUnFGoRE8J%3Ascholar.google.com%2F",
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:DHKUnFGoRE8J:scholar.google.com/+UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en&as_sdt=0,5"
+    }
+   },
+   {
+    "position": 6,
+    "title": "Monuments, Museums, Media: Rethinking Heritage and Public History",
+    "result_id": "sclPly0faI0J",
+    "link": "https://brill.com/view/journals/arwh/14/2/article-p336_9.xml",
+    "snippet": "… a national song by the Constituent Assembly in 1950 along with “Jana Gana Mana” as the national anthem, … , as evident in the appropriation of UNESCO’s 1988 project entitled “Integral …",
+    "publication_info": {
+     "summary": "HP Ray - Asian Review of World Histories, 2026 - brill.com",
+     "authors": [
+      {
+       "name": "HP Ray"
+      }
+     ]
+    },
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sclPly0faI0J",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:sclPly0faI0J:scholar.google.com/&scioq=UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AsclPly0faI0J%3Ascholar.google.com%2F"
+    }
+   },
+   {
+    "position": 7,
+    "title": "Honouring National Anthem and Song: A Facet to Constitutional Patriotism vis-a-vis Reconstruction of Fundamental Right and Duty Jurisprudence",
+    "result_id": "OUi-k0N_wQUJ",
+    "link": "https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/gnlujldp13&section=29",
+    "snippet": "… \"Jana gana mana adhinayaka jayo hey-Bharata bhagya bidhata Panjab o shindhu gujarata … In the context of India's stated position, the National Anthems of two countries Pakistan and …",
+    "publication_info": {
+     "summary": "PP Paul - GNLU JL Dev. & Pol., 2023 - HeinOnline",
+     "authors": [
+      {
+       "name": "PP Paul"
+      }
+     ]
+    },
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=OUi-k0N_wQUJ",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:OUi-k0N_wQUJ:scholar.google.com/&scioq=UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AOUi-k0N_wQUJ%3Ascholar.google.com%2F"
+    }
+   },
+   {
+    "position": 8,
+    "title": "“A symbol of freedom”: the Indian flag and the transformations of nationalism, 1906–2002",
+    "result_id": "UE6_kC2myycJ",
+    "link": "https://www.cambridge.org/core/journals/journal-of-asian-studies/article/symbol-of-freedom-the-indian-flag-and-the-transformations-of-nationalism-19062002/582E554700CA36C32D1BCB77E18D4764",
+    "snippet": "… Flag Code Committee and announced a revised code that liberalized the display of the flag. … song of the nationalist movement, and “Jana Gana Mana,” the Indian national anthem) were …",
+    "publication_info": {
+     "summary": "R Srirupa - The Journal of Asian Studies, 2006 - cambridge.org",
+     "authors": [
+      {
+       "name": "R Srirupa"
+      }
+     ]
+    },
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=UE6_kC2myycJ",
+     "cited_by": {
+      "total": 52,
+      "link": "https://scholar.google.com/scholar?cites=2867568302383648336&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "2867568302383648336",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2867568302383648336&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:UE6_kC2myycJ:scholar.google.com/&scioq=UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AUE6_kC2myycJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 7,
+      "link": "https://scholar.google.com/scholar?cluster=2867568302383648336&hl=en&as_sdt=0,5",
+      "cluster_id": "2867568302383648336",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2867568302383648336&engine=google_scholar&hl=en"
+     }
+    }
+   },
+   {
+    "position": 9,
+    "title": "Sustainability in Rabindranath Tagore's Philosophy of Religion",
+    "result_id": "ugxscowppYoJ",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-031-67360-3_6",
+    "snippet": "… His song “Jana Gana Mana” (National Anthem of India) expresses a robust humanistic outlook among all Indians. The humanistic philosophy of Tagore has a significant impact on …",
+    "publication_info": {
+     "summary": "P Swain, MM Rahman, S Dey - A Pragmatic Approach to Religion And …, 2024 - Springer",
+     "authors": [
+      {
+       "name": "P Swain",
+       "link": "https://scholar.google.com/citations?user=7JnVXycAAAAJ&hl=en&oi=sra",
+       "author_id": "7JnVXycAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7JnVXycAAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "MM Rahman",
+       "link": "https://scholar.google.com/citations?user=kKR6DrAAAAAJ&hl=en&oi=sra",
+       "author_id": "kKR6DrAAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kKR6DrAAAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "S Dey",
+       "link": "https://scholar.google.com/citations?user=Ojw8B44AAAAJ&hl=en&oi=sra",
+       "author_id": "Ojw8B44AAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ojw8B44AAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "researchgate.net",
+      "file_format": "PDF",
+      "link": "https://www.researchgate.net/profile/Md-Masudur-Rahman-13/publication/384221311_Sustainability_in_Rabindranath_Tagore%27s_Philosophy_of_Religion/links/685067e011be4823fbdeba66/Sustainability-in-Rabindranath-Tagores-Philosophy-of-Religion.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ugxscowppYoJ",
+     "cited_by": {
+      "total": 1,
+      "link": "https://scholar.google.com/scholar?cites=9990437031583157434&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "9990437031583157434",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9990437031583157434&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:ugxscowppYoJ:scholar.google.com/&scioq=UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AugxscowppYoJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 4,
+      "link": "https://scholar.google.com/scholar?cluster=9990437031583157434&hl=en&as_sdt=0,5",
+      "cluster_id": "9990437031583157434",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=9990437031583157434&engine=google_scholar&hl=en"
+     }
+    }
+   },
+   {
+    "position": 10,
+    "title": "A Song Unto Itself: How Rabindranath Tagore, Ram Gopal Varma and the Supreme Court of India Hear the National Anthem",
+    "result_id": "WscZj84hWscJ",
+    "type": "Pdf",
+    "link": "https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1000&context=history_faculty_pubs",
+    "snippet": "… of the likes of Ram Gopal Varma – is it the form of the anthem, or its meaning? When we say we care about Jana gana mana, what exactly is it that we are claiming to honour and to …",
+    "publication_info": {
+     "summary": "A Vajpeyi - 2010 - scholarworks.umb.edu",
+     "authors": [
+      {
+       "name": "A Vajpeyi",
+       "link": "https://scholar.google.com/citations?user=bDmPDFIAAAAJ&hl=en&oi=sra",
+       "author_id": "bDmPDFIAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bDmPDFIAAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "umb.edu",
+      "file_format": "PDF",
+      "link": "https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1000&context=history_faculty_pubs"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=WscZj84hWscJ",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:WscZj84hWscJ:scholar.google.com/&scioq=UNESCO+declared+Jana+Gana+Mana+best+national+anthem&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AWscZj84hWscJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 2,
+      "link": "https://scholar.google.com/scholar?cluster=14364831132499429210&hl=en&as_sdt=0,5",
+      "cluster_id": "14364831132499429210",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14364831132499429210&engine=google_scholar&hl=en"
+     }
+    }
+   }
+  ]
+ }
+}

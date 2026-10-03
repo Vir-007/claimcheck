@@ -1,0 +1,337 @@
+{
+ "engine": "google",
+ "params": {
+  "engine": "google",
+  "q": "Seven people killed truck hit pickup van Amravati fact check",
+  "gl": "in",
+  "hl": "en"
+ },
+ "fetched_at": "2026-10-03T17:03:47Z",
+ "response": {
+  "search_metadata": {
+   "id": "6ac13572f6e926dbe6e9099e",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/9PFV9gMgCFDS0_5K-148clYhk_LmeTWD5o3QenvbmWY/6ac13572f6e926dbe6e9099e.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/9PFV9gMgCFDS0_5K-148clYhk_LmeTWD5o3QenvbmWY/6ac13572f6e926dbe6e9099e.json_with_pixel_position",
+   "created_at": "2026-10-03 17:03:46 UTC",
+   "processed_at": "2026-10-03 17:03:46 UTC",
+   "google_url": "https://www.google.com/search?q=Seven+people+killed+truck+hit+pickup+van+Amravati+fact+check&oq=Seven+people+killed+truck+hit+pickup+van+Amravati+fact+check&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+   "total_time_taken": 0.5
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Seven people killed truck hit pickup van Amravati fact check",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Seven people killed truck hit pickup van Amravati fact check",
+   "total_results": 55,
+   "time_taken_displayed": 0.2,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+   "page_token": "jxPSB3iczVZdkqJIED7AnmN5cVpQ1Gk7gpgoSkQUW1G7beeFgAILlB_lR9p-m7vsWfYQe5otQBRb7Z6Zh42tCCyqKjPJ_Cq_-Pzxl2N763_--NuKok34QNNJklSx72PHrCLfpbVw7yF66TthgKxv2OFsjwr9OECmbXDICnzXpCyHMz1qv-NYCoUcQ5k2h1YvvLaJ7x5HrBHEwrh9N3jBSkJl4ThV10JzRb72ugpplSY_6z_ZDllUw6rpqSJfFUVl2BsNZ7uQqdaZOlsd0ZpLbMB_OrAEFMADSB4g3bQih_BnogkCsZWAUPLks6nkjckxn06Skq27t6NJWSDJOgZQVz1XTAB4PMZSbnr3yws5n6Rhng3x4oULjw9HngDEh9Q-tby-mZWeD7F0ehN5gfiVSyRgCWNMQBUKF3z-GaVsn9ok2VtPAmO-BZREuQ136i4B6ILHvvJxhSDtiMkLHhQrHTBkhzYw6V-G1gMy1WgbWSh7CcK0reGszfji0h1sl5v5ajfqgf3WYlf9YAa-jiW-jmmkEzvH1wzTUC2V-Zata_Vak2mzX--_ZJRC4ZFTYZlTi8Ra6HY9fOyDqlzlawWbYBncMpLp7tO17knJkFbPXzlL71ECl00HoX-2PFwK6fCFAIRzLGG3lx4feU5eXjGIzy-y8CAsuWATLDI5ZQywwh-Smpzu7ixNSYCnROBZk44uquTf9xXxl_KMMQ-GBaTJMZEzsHA_bcTiC_A9XpiUAQk0OMPpGQl5qCMfNIUf8nDyPicpxZ544Twmf4ye_Z7YlB48Z_aiQOgD-cmUwAOmh4rSXPxDcV2YbZZKxRd152NKHvl6R3w2-Cv9cs2qoM07FpTZI9w1-m7H955FzZ5P_UgbMP15x_B2wTa5zhbf1X9NgtD_jVKFQOFcoG5TCv4MpYhA4SsCdeBD3kyFQCn9g0DdptQgS-QgUKl3IVDjg8lJoC4p1S9TSs4hle7zgt4L1C9TSviAUkfuX6EUKf0apaRblCoEqkSpNREoqyxQ5bpPAlVQ6vcESvk9gcoYZubTuVrFK3xTtYTxuvs6eZoKttXr2DgexGJ7t3jp1vjh56q1dKMHVzOcL6ptPPD1frQ3vqhkw38wDWrLTc2d6VU2pr9xzMradhzTqERBjNYVy44qGxut401lp3kV4AbaTovsylJDUQVZJlpTrhP4HKM1u0L7e_Bmz9UW6sr3T4wgBNMmepoJviq7oizVNpOppwCZXS3xqNas27ARWi0neJO-QzxfsjNvMnnbKz6r1loauNuzdWu0tIC9Hsl-2_D3Md-476031hi_jbadxWzxallQjTuxHG5nzkujZsvNKMsm5FpN0EBYad3J95QbII40SAODRwXMMUAALoBCevRJ88mcAEUkdy7wdXKbVIg01QzJX2yk65qhG-2m1mR1Q6dcHO03XJuhQi_gav8CbmdYLw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jxPSB3iczVZdkqJIED7AnmN5cVpQ1Gk7gpgoSkQUW1G7beeFgAILlB_lR9p-m7vsWfYQe5otQBRb7Z6Zh42tCCyqKjPJ_Cq_-Pzxl2N763_--NuKok34QNNJklSx72PHrCLfpbVw7yF66TthgKxv2OFsjwr9OECmbXDICnzXpCyHMz1qv-NYCoUcQ5k2h1YvvLaJ7x5HrBHEwrh9N3jBSkJl4ThV10JzRb72ugpplSY_6z_ZDllUw6rpqSJfFUVl2BsNZ7uQqdaZOlsd0ZpLbMB_OrAEFMADSB4g3bQih_BnogkCsZWAUPLks6nkjckxn06Skq27t6NJWSDJOgZQVz1XTAB4PMZSbnr3yws5n6Rhng3x4oULjw9HngDEh9Q-tby-mZWeD7F0ehN5gfiVSyRgCWNMQBUKF3z-GaVsn9ok2VtPAmO-BZREuQ136i4B6ILHvvJxhSDtiMkLHhQrHTBkhzYw6V-G1gMy1WgbWSh7CcK0reGszfji0h1sl5v5ajfqgf3WYlf9YAa-jiW-jmmkEzvH1wzTUC2V-Zata_Vak2mzX--_ZJRC4ZFTYZlTi8Ra6HY9fOyDqlzlawWbYBncMpLp7tO17knJkFbPXzlL71ECl00HoX-2PFwK6fCFAIRzLGG3lx4feU5eXjGIzy-y8CAsuWATLDI5ZQywwh-Smpzu7ixNSYCnROBZk44uquTf9xXxl_KMMQ-GBaTJMZEzsHA_bcTiC_A9XpiUAQk0OMPpGQl5qCMfNIUf8nDyPicpxZ544Twmf4ye_Z7YlB48Z_aiQOgD-cmUwAOmh4rSXPxDcV2YbZZKxRd152NKHvl6R3w2-Cv9cs2qoM07FpTZI9w1-m7H955FzZ5P_UgbMP15x_B2wTa5zhbf1X9NgtD_jVKFQOFcoG5TCv4MpYhA4SsCdeBD3kyFQCn9g0DdptQgS-QgUKl3IVDjg8lJoC4p1S9TSs4hle7zgt4L1C9TSviAUkfuX6EUKf0apaRblCoEqkSpNREoqyxQ5bpPAlVQ6vcESvk9gcoYZubTuVrFK3xTtYTxuvs6eZoKttXr2DgexGJ7t3jp1vjh56q1dKMHVzOcL6ptPPD1frQ3vqhkw38wDWrLTc2d6VU2pr9xzMradhzTqERBjNYVy44qGxut401lp3kV4AbaTovsylJDUQVZJlpTrhP4HKM1u0L7e_Bmz9UW6sr3T4wgBNMmepoJviq7oizVNpOppwCZXS3xqNas27ARWi0neJO-QzxfsjNvMnnbKz6r1loauNuzdWu0tIC9Hsl-2_D3Md-476031hi_jbadxWzxallQjTuxHG5nzkujZsvNKMsm5FpN0EBYad3J95QbII40SAODRwXMMUAALoBCevRJ88mcAEUkdy7wdXKbVIg01QzJX2yk65qhG-2m1mR1Q6dcHO03XJuhQi_gav8CbmdYLw"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "\"5 killed, 7 critically injured as van plunges into ravine ...",
+    "link": "https://x.com/IndiaToday/status/2025776531184988492",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVpZBe2M5ihp89fLddMjWke-Pcr_MwRE4Bkun_i2Uh7UUPynJFL_wLJezQqrL8I4wEMT1hip300-N2W_vVqp_evLIFV0YYV8fsObnLCNyo6VhY1T7eKF7GyQKQP6TrUqHubifi6c4A&ved=2ahUKEwibv7-Oqp6XAxXtrisGHXfxJcAQFnoECCEQAQ&uoh=1",
+    "displayed_link": "1 like · 7 months ago",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+    "snippet": "A tragic road accident claimed five lives and left seven others critically injured after a pickup van plunged into a deep ravine on the ...",
+    "snippet_highlighted_words": [
+     "five lives and left seven others critically injured"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "A tragic road accident claimed five lives and left seven others critically injured after a pickup van plunged into a deep ravine on the ...",
+      "source_info_link": "https://x.com/IndiaToday/status/2025776531184988492",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnBaQmUyTTVpaHA4OWZMZGRNaldrZS1QY3JfTXdSRTRCa3VuX2kyVWg3VVVQeW5KRkxfd0xKZXpRcXJMOEk0d0VNVDFoaXAzMDAtTjJXX3ZWcXBfZXZMSUZWMFlZVjhmc09ibkxDTnlvNlZoWTFUN2VLRjdHeVFLUVA2VHJVcUh1YmlmaTZjNEESBBoCCAAagAcSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA3AYIABAAGAAgACoTCgVzZXZlbhX2MrA-GgVzZTdlbipFCgZwZW9wbGUVoWI6PRoIY2l0aXplbnMaB21lbWJlcnMaA21lbhoGcGVyc29uGgV0aG9zZRoHdmljdGltcxoGZGVhdGhzKicKBmtpbGxlZBXvkSRAGgVkZWF0aBoEZGllZBoLaXY7cDtraWxsZWQqDAoFdHJ1Y2sVAAAAACohCgNoaXQVAAAAABoEaGl0cxoHaGl0dGluZxoGc3RydWNrKjMKBnBpY2t1cBXCbVA_GgdwaWNrIHVwGgdwaWNrdXBzGgVwaWt1cBoLaXY7cDtwaWNrdXAqIQoDdmFuFQWwTUAaBXBpa3VwGgR2YW5zGgh2ZWhpY2xlcyo0CghhbXJhdmF0aRW5KhdAGhRnZW87M2JkNmIwMDAwMDAwMDAwMBoNaXY7cDthbXJhdmF0aSo4CgRmYWN0FQAAAAAaCWZhY3RjaGVjaxoFZmFjdHMaB3JlYWxpdHkaBXRydXRoGglmYWN0Y2hlY2sqQQoFY2hlY2sVAAAAABoHY2hlY2tlZBoHY2hlY2tlchoIY2hlY2tpbmcaBmNoZWNrcxoEY2hlaxoJZmFjdGNoZWNrMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnBaQmUyTTVpaHA4OWZMZGRNaldrZS1QY3JfTXdSRTRCa3VuX2kyVWg3VVVQeW5KRkxfd0xKZXpRcXJMOEk0d0VNVDFoaXAzMDAtTjJXX3ZWcXBfZXZMSUZWMFlZVjhmc09ibkxDTnlvNlZoWTFUN2VLRjdHeVFLUVA2VHJVcUh1YmlmaTZjNEE6VkluZGlhVG9kYXkgb24gWDogJnF1b3Q7NSA8Yj5raWxsZWQ8L2I-LCA3IGNyaXRpY2FsbHkgaW5qdXJlZCBhcyA8Yj52YW48L2I-IHBsdW5nZXMgLi4uQpcBQSB0cmFnaWMgcm9hZCBhY2NpZGVudCBjbGFpbWVkIDxiPmZpdmUgbGl2ZXMgYW5kIGxlZnQgc2V2ZW4gb3RoZXJzIGNyaXRpY2FsbHkgaW5qdXJlZDwvYj4gYWZ0ZXIgYSBwaWNrdXAgdmFuIHBsdW5nZWQgaW50byBhIGRlZXAgcmF2aW5lIG9uIHRoZSZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnBaQmUyTTVpaHA4OWZMZGRNaldrZS1QY3JfTXdSRTRCa3VuX2kyVWg3VVVQeW5KRkxfd0xKZXpRcXJMOEk0d0VNVDFoaXAzMDAtTjJXX3ZWcXBfZXZMSUZWMFlZVjhmc09ibkxDTnlvNlZoWTFUN2VLRjdHeVFLUVA2VHJVcUh1YmlmaTZjNEESBBoCCAAagAcSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA3AYIABAAGAAgACoTCgVzZXZlbhX2MrA-GgVzZTdlbipFCgZwZW9wbGUVoWI6PRoIY2l0aXplbnMaB21lbWJlcnMaA21lbhoGcGVyc29uGgV0aG9zZRoHdmljdGltcxoGZGVhdGhzKicKBmtpbGxlZBXvkSRAGgVkZWF0aBoEZGllZBoLaXY7cDtraWxsZWQqDAoFdHJ1Y2sVAAAAACohCgNoaXQVAAAAABoEaGl0cxoHaGl0dGluZxoGc3RydWNrKjMKBnBpY2t1cBXCbVA_GgdwaWNrIHVwGgdwaWNrdXBzGgVwaWt1cBoLaXY7cDtwaWNrdXAqIQoDdmFuFQWwTUAaBXBpa3VwGgR2YW5zGgh2ZWhpY2xlcyo0CghhbXJhdmF0aRW5KhdAGhRnZW87M2JkNmIwMDAwMDAwMDAwMBoNaXY7cDthbXJhdmF0aSo4CgRmYWN0FQAAAAAaCWZhY3RjaGVjaxoFZmFjdHMaB3JlYWxpdHkaBXRydXRoGglmYWN0Y2hlY2sqQQoFY2hlY2sVAAAAABoHY2hlY2tlZBoHY2hlY2tlchoIY2hlY2tpbmcaBmNoZWNrcxoEY2hlaxoJZmFjdGNoZWNrMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnBaQmUyTTVpaHA4OWZMZGRNaldrZS1QY3JfTXdSRTRCa3VuX2kyVWg3VVVQeW5KRkxfd0xKZXpRcXJMOEk0d0VNVDFoaXAzMDAtTjJXX3ZWcXBfZXZMSUZWMFlZVjhmc09ibkxDTnlvNlZoWTFUN2VLRjdHeVFLUVA2VHJVcUh1YmlmaTZjNEE6VkluZGlhVG9kYXkgb24gWDogJnF1b3Q7NSA8Yj5raWxsZWQ8L2I-LCA3IGNyaXRpY2FsbHkgaW5qdXJlZCBhcyA8Yj52YW48L2I-IHBsdW5nZXMgLi4uQpcBQSB0cmFnaWMgcm9hZCBhY2NpZGVudCBjbGFpbWVkIDxiPmZpdmUgbGl2ZXMgYW5kIGxlZnQgc2V2ZW4gb3RoZXJzIGNyaXRpY2FsbHkgaW5qdXJlZDwvYj4gYWZ0ZXIgYSBwaWNrdXAgdmFuIHBsdW5nZWQgaW50byBhIGRlZXAgcmF2aW5lIG9uIHRoZSZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "X · IndiaToday",
+    "read_more_link": "https://x.com/IndiaToday/status/2025776531184988492#:~:text=A%20tragic%20road%20accident%20claimed,Maharashtra's%20Amravati%20district%20on%20Monday."
+   },
+   {
+    "position": 2,
+    "title": "जखमी युवकाचा उपचारादरम्यान मृत्यू: ट्रकला मागून पिकअपने ...",
+    "link": "https://divyamarathi.bhaskar.com/local/maharashtra/amravati/news/the-accident-occurred-when-a-pickup-truck-hit-the-truck-from-behind-134152207.html",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzAEB6zswFbJfboD-sJxI9D83BrieZDiOcmARXF6YFDCy9eeKt1eIhLMwtQ1T0loPsR9AmUplf2-rHm3xXg9w4MwSh3qPDD5t98xPxRfBWGFsyFufJ6O2SM1j-MrF6RBGtvHVjjYUJCO-2IKyyAHxKQFlpeNt4D7SpTmfu-LpuZw8DF2c2gONua8WKsWEIlkIBPZKdDJeV7yMRSYmnFBL7ZrvhqpvmsmA2kgX5dzT_eUhgBHfDU4RGlpaHkCSnfLCll3-s21EBzay_qH93_o&ved=2ahUKEwibv7-Oqp6XAxXtrisGHXfxJcAQFnoECC4QAQ&uoh=1",
+    "displayed_link": "https://divyamarathi.bhaskar.com › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAABQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDmfs3CB2qH__IrUX_CRRu7R8lcgQp24NpFLgaiqAAD-9gqhfpzz3II-DVHUoB48Qa7v0NZhwFLnLgYfnZ8kg-g7KdjfrUTHVUopguPLfLMiZbdRyvvWTKkYWebA3NT1R-iw6QayLWuiEf1MwZm5FSLD5aplezOcrRGSg3svRMuDn94qXTE2kuPvVYBXBHzChxGg5VB03eNMmjhUsqUZK-G7H7u9PFQcsJZotlxw9ZDClc5cPfV5lajs8ynxh9batevto_7BA8YG_8psDvFxvRDN-LonD7v8Z7Y5XbhKttX_QFC2ZL95IBAFJWTfyBSGPh83u1wAAAA.webp",
+    "snippet": "उभ्या ट्रकला मागून पिकअपची जोरदार धडक बसल्याने झालेल्या भीषण अपघातात जखमी पिकअप ...",
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.1,
+       "reviews": 1700
+      },
+      "extensions": [
+       "4.1(1,700)",
+       "Free",
+       "Android",
+       "Reference"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "उभ्या ट्रकला मागून पिकअपची जोरदार धडक बसल्याने झालेल्या भीषण अपघातात जखमी पिकअप ...",
+      "source_info_link": "https://divyamarathi.bhaskar.com/local/maharashtra/amravati/news/the-accident-occurred-when-a-pickup-truck-hit-the-truck-from-behind-134152207.html",
+      "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAABQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDmfs3CB2qH__IrUX_CRRu7R8lcgQp24NpFLgaiqAAD-9gqhfpzz3II-DVHUoB48Qa7v0NZhwFLnLgYfnZ8kg-g7KdjfrUTHVUopguPLfLMiZbdRyvvWTKkYWebA3NT1R-iw6QayLWuiEf1MwZm5FSLD5aplezOcrRGSg3svRMuDn94qXTE2kuPvVYBXBHzChxGg5VB03eNMmjhUsqUZK-G7H7u9PFQcsJZotlxw9ZDClc5cPfV5lajs8ynxh9batevto_7BA8YG_8psDvFxvRDN-LonD7v8Z7Y5XbhKttX_QFC2ZL95IBAFJWTfyBSGPh83u1wAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqECL2dvdG8_dXJsPUNBRVN6QUVCNnpzd0ZiSmZib0Qtc0p4STlEODNCcmllWkRpT2NtQVJYRjZZRkRDeTllZUt0MWVJaExNd3RRMVQwbG9Qc1I5QW1VcGxmMi1ySG0zeFhnOXc0TXdTaDNxUERENXQ5OHhQeFJmQldHRnN5RnVmSjZPMlNNMWotTXJGNlJCR3R2SFZqallVSkNPLTJJS3l5QUh4S1FGbHBlTnQ0RDdTcFRtZnUtTHB1Wnc4REYyYzJnT051YThXS3NXRUlsa0lCUFpLZERKZVY3eU1SU1ltbkZCTDdacnZocXB2bXNtQTJrZ1g1ZHpUX2VVaGdCSGZEVTRSR2xwYUhrQ1NuZkxDbGwzLXMyMUVCemF5X3FIOTNfbxIEGgIIABqcCRIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkD4CAgAEAAYACAAKhMKBXNldmVuFQAAAAAaBXNlN2VuKkUKBnBlb3BsZRUAAAAAGghjaXRpemVucxoHbWVtYmVycxoDbWVuGgZwZXJzb24aBXRob3NlGgd2aWN0aW1zGgZkZWF0aHMqJwoGa2lsbGVkFQAAAAAaBWRlYXRoGgRkaWVkGgtpdjtwO2tpbGxlZCoMCgV0cnVjaxX7bIJAKiEKA2hpdBXU_VhAGgRoaXRzGgdoaXR0aW5nGgZzdHJ1Y2sqMwoGcGlja3VwFaChS0AaB3BpY2sgdXAaB3BpY2t1cHMaBXBpa3VwGgtpdjtwO3BpY2t1cCohCgN2YW4VAAAAABoFcGlrdXAaBHZhbnMaCHZlaGljbGVzKjQKCGFtcmF2YXRpFfoTXj8aFGdlbzszYmQ2YjAwMDAwMDAwMDAwGg1pdjtwO2FtcmF2YXRpKjgKBGZhY3QVAAAAABoJZmFjdGNoZWNrGgVmYWN0cxoHcmVhbGl0eRoFdHJ1dGgaCWZhY3RjaGVjaypBCgVjaGVjaxUAAAAAGgdjaGVja2VkGgdjaGVja2VyGghjaGVja2luZxoGY2hlY2tzGgRjaGVrGglmYWN0Y2hlY2syoQIvZ290bz91cmw9Q0FFU3pBRUI2enN3RmJKZmJvRC1zSnhJOUQ4M0JyaWVaRGlPY21BUlhGNllGREN5OWVlS3QxZUloTE13dFExVDBsb1BzUjlBbVVwbGYyLXJIbTN4WGc5dzRNd1NoM3FQREQ1dDk4eFB4UmZCV0dGc3lGdWZKNk8yU00xai1NckY2UkJHdHZIVmpqWVVKQ08tMklLeXlBSHhLUUZscGVOdDREN1NwVG1mdS1McHVadzhERjJjMmdPTnVhOFdLc1dFSWxrSUJQWktkREplVjd5TVJTWW1uRkJMN1pydmhxcHZtc21BMmtnWDVkelRfZVVoZ0JIZkRVNFJHbHBhSGtDU25mTENsbDMtczIxRUJ6YXlfcUg5M19vOqUB4KSc4KSW4KSu4KWAIOCkr-ClgeCkteCkleCkvuCkmuCkviDgpIngpKrgpJrgpL7gpLDgpL7gpKbgpLDgpK7gpY3gpK_gpL7gpKgg4KSu4KWD4KSk4KWN4KSv4KWCOiDgpJ_gpY3gpLDgpJXgpLLgpL4g4KSu4KS-4KSX4KWC4KSoIOCkquCkv-CkleCkheCkquCkqOClhyDgpKfgpKHgpJUgLi4uQuAB4KSJ4KSt4KWN4KSv4KS-IOCkn-CljeCksOCkleCksuCkviDgpK7gpL7gpJfgpYLgpKgg4KSq4KS_4KSV4KSF4KSq4KSa4KWAIOCknOCli-CksOCkpuCkvuCksCDgpKfgpKHgpJUg4KSs4KS44KSy4KWN4KSv4KS-4KSo4KWHIOCkneCkvuCksuClh-CksuCljeCkr-CkviDgpK3gpYDgpLfgpKMg4KSF4KSq4KSY4KS-4KSk4KS-4KSkIOCknOCkluCkruClgCDgpKrgpL_gpJXgpIXgpKombmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqECL2dvdG8_dXJsPUNBRVN6QUVCNnpzd0ZiSmZib0Qtc0p4STlEODNCcmllWkRpT2NtQVJYRjZZRkRDeTllZUt0MWVJaExNd3RRMVQwbG9Qc1I5QW1VcGxmMi1ySG0zeFhnOXc0TXdTaDNxUERENXQ5OHhQeFJmQldHRnN5RnVmSjZPMlNNMWotTXJGNlJCR3R2SFZqallVSkNPLTJJS3l5QUh4S1FGbHBlTnQ0RDdTcFRtZnUtTHB1Wnc4REYyYzJnT051YThXS3NXRUlsa0lCUFpLZERKZVY3eU1SU1ltbkZCTDdacnZocXB2bXNtQTJrZ1g1ZHpUX2VVaGdCSGZEVTRSR2xwYUhrQ1NuZkxDbGwzLXMyMUVCemF5X3FIOTNfbxIEGgIIABqcCRIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkD4CAgAEAAYACAAKhMKBXNldmVuFQAAAAAaBXNlN2VuKkUKBnBlb3BsZRUAAAAAGghjaXRpemVucxoHbWVtYmVycxoDbWVuGgZwZXJzb24aBXRob3NlGgd2aWN0aW1zGgZkZWF0aHMqJwoGa2lsbGVkFQAAAAAaBWRlYXRoGgRkaWVkGgtpdjtwO2tpbGxlZCoMCgV0cnVjaxX7bIJAKiEKA2hpdBXU_VhAGgRoaXRzGgdoaXR0aW5nGgZzdHJ1Y2sqMwoGcGlja3VwFaChS0AaB3BpY2sgdXAaB3BpY2t1cHMaBXBpa3VwGgtpdjtwO3BpY2t1cCohCgN2YW4VAAAAABoFcGlrdXAaBHZhbnMaCHZlaGljbGVzKjQKCGFtcmF2YXRpFfoTXj8aFGdlbzszYmQ2YjAwMDAwMDAwMDAwGg1pdjtwO2FtcmF2YXRpKjgKBGZhY3QVAAAAABoJZmFjdGNoZWNrGgVmYWN0cxoHcmVhbGl0eRoFdHJ1dGgaCWZhY3RjaGVjaypBCgVjaGVjaxUAAAAAGgdjaGVja2VkGgdjaGVja2VyGghjaGVja2luZxoGY2hlY2tzGgRjaGVrGglmYWN0Y2hlY2syoQIvZ290bz91cmw9Q0FFU3pBRUI2enN3RmJKZmJvRC1zSnhJOUQ4M0JyaWVaRGlPY21BUlhGNllGREN5OWVlS3QxZUloTE13dFExVDBsb1BzUjlBbVVwbGYyLXJIbTN4WGc5dzRNd1NoM3FQREQ1dDk4eFB4UmZCV0dGc3lGdWZKNk8yU00xai1NckY2UkJHdHZIVmpqWVVKQ08tMklLeXlBSHhLUUZscGVOdDREN1NwVG1mdS1McHVadzhERjJjMmdPTnVhOFdLc1dFSWxrSUJQWktkREplVjd5TVJTWW1uRkJMN1pydmhxcHZtc21BMmtnWDVkelRfZVVoZ0JIZkRVNFJHbHBhSGtDU25mTENsbDMtczIxRUJ6YXlfcUg5M19vOqUB4KSc4KSW4KSu4KWAIOCkr-ClgeCkteCkleCkvuCkmuCkviDgpIngpKrgpJrgpL7gpLDgpL7gpKbgpLDgpK7gpY3gpK_gpL7gpKgg4KSu4KWD4KSk4KWN4KSv4KWCOiDgpJ_gpY3gpLDgpJXgpLLgpL4g4KSu4KS-4KSX4KWC4KSoIOCkquCkv-CkleCkheCkquCkqOClhyDgpKfgpKHgpJUgLi4uQuAB4KSJ4KSt4KWN4KSv4KS-IOCkn-CljeCksOCkleCksuCkviDgpK7gpL7gpJfgpYLgpKgg4KSq4KS_4KSV4KSF4KSq4KSa4KWAIOCknOCli-CksOCkpuCkvuCksCDgpKfgpKHgpJUg4KSs4KS44KSy4KWN4KSv4KS-4KSo4KWHIOCkneCkvuCksuClh-CksuCljeCkr-CkviDgpK3gpYDgpLfgpKMg4KSF4KSq4KSY4KS-4KSk4KS-4KSkIOCknOCkluCkruClgCDgpKrgpL_gpJXgpIXgpKombmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Divya Marathi",
+    "read_more_link": "https://divyamarathi.bhaskar.com/local/maharashtra/amravati/news/the-accident-occurred-when-a-pickup-truck-hit-the-truck-from-behind-134152207.html#:~:text=%E0%A4%89%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A4%BE%20%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B2%E0%A4%BE%20%E0%A4%AE%E0%A4%BE%E0%A4%97%E0%A5%82%E0%A4%A8%20%E0%A4%AA%E0%A4%BF%E0%A4%95%E0%A4%85%E0%A4%AA%E0%A4%9A%E0%A5%80%20%E0%A4%9C%E0%A5%8B%E0%A4%B0%E0%A4%A6%E0%A4%BE%E0%A4%B0,%E0%A4%9D%E0%A4%BE%E0%A4%B2%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%20%E0%A4%AD%E0%A5%80%E0%A4%B7%E0%A4%A3%20%E0%A4%85%E0%A4%AA%E0%A4%98%E0%A4%BE%E0%A4%A4%E0%A4%BE%E0%A4%A4%20%E0%A4%9C%E0%A4%96%E0%A4%AE%E0%A5%80%20%E0%A4%AA%E0%A4%BF%E0%A4%95%E0%A4%85%E0%A4%AA"
+   },
+   {
+    "position": 3,
+    "title": "5 Of Family Killed In Car-Truck Collision In Maharashtra",
+    "link": "https://www.ndtv.com/cities/5-of-family-killed-in-car-truck-collision-in-maharashtras-amravati-police-2845974",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFYWv29wyUDOyeSaDbj8z1z2O9HnYKhhNiouePaxYGXhKRYOl_PzAQP5G3jaiWYNDgS_fsj55-C0mVxiUEJimHPtIHn7WRyeogyco6p2V-5VILUa9rmg1KweBHoebIPKPGqIfcO4IV9U7Uo9zBu54N37jDK0GbCuCAD0FK_CaSPAfxA5pDFvJFd-7rIKlbd7lxxMridnJp4ZC7bFobdhY9Wg&ved=2ahUKEwibv7-Oqp6XAxXtrisGHXfxJcAQFnoECCMQAQ&uoh=1",
+    "displayed_link": "https://www.ndtv.com › Cities",
+    "favicon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABQBQCdASocABwAPrUurVanIacnG_DgFolsAKwvonqp-DREZEbzNa160cy3odLRXX6A2KAA_tiylXPEc6YXkqB1JqdbJ_0wt_luIZj3g6ya3_m_3_ZtVAb4lHQbesRN54jZ_QjvwVwf_6tD_VodrlOPhLwr_rr2AOfVSn0mqQ08VZiS9zfOJBvU5OJrc0lbLAl4yuEcMieU7vq3eGLWDIcL5UefFA0orIWj5oC58sZUkWqA47wg7fu4r0jPPKk5oAWxpM817ciBIroVQAA.webp",
+    "date": "27 Mar 2022",
+    "snippet": "Five members of a family were killed after a truck collided with their car in Maharashtra's Amravati district on Sunday. The car was completely ...",
+    "snippet_highlighted_words": [
+     "Five members of a family were killed"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.2,
+       "reviews": 51401
+      },
+      "extensions": [
+       "4.2(51,401)"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Five members of a family were killed after a truck collided with their car in Maharashtra's Amravati district on Sunday. The car was completely ...",
+      "source_info_link": "https://www.ndtv.com/cities/5-of-family-killed-in-car-truck-collision-in-maharashtras-amravati-police-2845974",
+      "icon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABQBQCdASocABwAPrUurVanIacnG_DgFolsAKwvonqp-DREZEbzNa160cy3odLRXX6A2KAA_tiylXPEc6YXkqB1JqdbJ_0wt_luIZj3g6ya3_m_3_ZtVAb4lHQbesRN54jZ_QjvwVwf_6tD_VodrlOPhLwr_rr2AOfVSn0mqQ08VZiS9zfOJBvU5OJrc0lbLAl4yuEcMieU7vq3eGLWDIcL5UefFA0orIWj5oC58sZUkWqA47wg7fu4r0jPPKk5oAWxpM817ciBIroVQAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZZV3YyOXd5VURPeWVTYURiajh6MXoyTzlIbllLaGhOaW91ZVBheFlHWGhLUllPbF9QekFRUDVHM2phaVdZTkRnU19mc2o1NS1DMG1WeGlVRUppbUhQdElIbjdXUnllb2d5Y282cDJWLTVWSUxVYTlybWcxS3dlQkhvZWJJUEtQR3FJZmNPNElWOVU3VW85ekJ1NTROMzdqREswR2JDdUNBRDBGS19DYVNQQWZ4QTVwREZ2SkZkLTdySUtsYmQ3bHh4TXJpZG5KcDRaQzdiRm9iZGhZOVdnEgQaAggAGtMHEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQK8HCAAQABgAIAAqEwoFc2V2ZW4VAAAAABoFc2U3ZW4qRQoGcGVvcGxlFQAAAAAaCGNpdGl6ZW5zGgdtZW1iZXJzGgNtZW4aBnBlcnNvbhoFdGhvc2UaB3ZpY3RpbXMaBmRlYXRocyonCgZraWxsZWQVzNWcQBoFZGVhdGgaBGRpZWQaC2l2O3A7a2lsbGVkKgwKBXRydWNrFZcpqEAqIQoDaGl0FQAAAAAaBGhpdHMaB2hpdHRpbmcaBnN0cnVjayozCgZwaWNrdXAVAAAAABoHcGljayB1cBoHcGlja3VwcxoFcGlrdXAaC2l2O3A7cGlja3VwKiEKA3ZhbhUAAAAAGgVwaWt1cBoEdmFucxoIdmVoaWNsZXMqNAoIYW1yYXZhdGkVmJVkQBoUZ2VvOzNiZDZiMDAwMDAwMDAwMDAaDWl2O3A7YW1yYXZhdGkqOAoEZmFjdBUAAAAAGglmYWN0Y2hlY2saBWZhY3RzGgdyZWFsaXR5GgV0cnV0aBoJZmFjdGNoZWNrKkEKBWNoZWNrFRKlGz0aB2NoZWNrZWQaB2NoZWNrZXIaCGNoZWNraW5nGgZjaGVja3MaBGNoZWsaCWZhY3RjaGVjazLtAS9nb3RvP3VybD1DQUVTcFFFQjZ6c3dGWVd2Mjl3eVVET3llU2FEYmo4ejF6Mk85SG5ZS2hoTmlvdWVQYXhZR1hoS1JZT2xfUHpBUVA1RzNqYWlXWU5EZ1NfZnNqNTUtQzBtVnhpVUVKaW1IUHRJSG43V1J5ZW9neWNvNnAyVi01VklMVWE5cm1nMUt3ZUJIb2ViSVBLUEdxSWZjTzRJVjlVN1VvOXpCdTU0TjM3akRLMEdiQ3VDQUQwRktfQ2FTUEFmeEE1cERGdkpGZC03cklLbGJkN2x4eE1yaWRuSnA0WkM3YkZvYmRoWTlXZzpONSBPZiBGYW1pbHkgPGI-S2lsbGVkPC9iPiBJbiBDYXItPGI-VHJ1Y2s8L2I-IENvbGxpc2lvbiBJbiBNYWhhcmFzaHRyYTogUG9saWNlQqMBPGI-Rml2ZSBtZW1iZXJzIG9mIGEgZmFtaWx5IHdlcmUga2lsbGVkPC9iPiBhZnRlciBhIHRydWNrIGNvbGxpZGVkIHdpdGggdGhlaXIgY2FyIGluIE1haGFyYXNodHJhJiMzOTtzIEFtcmF2YXRpIGRpc3RyaWN0IG9uIFN1bmRheS4gVGhlIGNhciB3YXMgY29tcGxldGVseSZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZZV3YyOXd5VURPeWVTYURiajh6MXoyTzlIbllLaGhOaW91ZVBheFlHWGhLUllPbF9QekFRUDVHM2phaVdZTkRnU19mc2o1NS1DMG1WeGlVRUppbUhQdElIbjdXUnllb2d5Y282cDJWLTVWSUxVYTlybWcxS3dlQkhvZWJJUEtQR3FJZmNPNElWOVU3VW85ekJ1NTROMzdqREswR2JDdUNBRDBGS19DYVNQQWZ4QTVwREZ2SkZkLTdySUtsYmQ3bHh4TXJpZG5KcDRaQzdiRm9iZGhZOVdnEgQaAggAGtMHEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQK8HCAAQABgAIAAqEwoFc2V2ZW4VAAAAABoFc2U3ZW4qRQoGcGVvcGxlFQAAAAAaCGNpdGl6ZW5zGgdtZW1iZXJzGgNtZW4aBnBlcnNvbhoFdGhvc2UaB3ZpY3RpbXMaBmRlYXRocyonCgZraWxsZWQVzNWcQBoFZGVhdGgaBGRpZWQaC2l2O3A7a2lsbGVkKgwKBXRydWNrFZcpqEAqIQoDaGl0FQAAAAAaBGhpdHMaB2hpdHRpbmcaBnN0cnVjayozCgZwaWNrdXAVAAAAABoHcGljayB1cBoHcGlja3VwcxoFcGlrdXAaC2l2O3A7cGlja3VwKiEKA3ZhbhUAAAAAGgVwaWt1cBoEdmFucxoIdmVoaWNsZXMqNAoIYW1yYXZhdGkVmJVkQBoUZ2VvOzNiZDZiMDAwMDAwMDAwMDAaDWl2O3A7YW1yYXZhdGkqOAoEZmFjdBUAAAAAGglmYWN0Y2hlY2saBWZhY3RzGgdyZWFsaXR5GgV0cnV0aBoJZmFjdGNoZWNrKkEKBWNoZWNrFRKlGz0aB2NoZWNrZWQaB2NoZWNrZXIaCGNoZWNraW5nGgZjaGVja3MaBGNoZWsaCWZhY3RjaGVjazLtAS9nb3RvP3VybD1DQUVTcFFFQjZ6c3dGWVd2Mjl3eVVET3llU2FEYmo4ejF6Mk85SG5ZS2hoTmlvdWVQYXhZR1hoS1JZT2xfUHpBUVA1RzNqYWlXWU5EZ1NfZnNqNTUtQzBtVnhpVUVKaW1IUHRJSG43V1J5ZW9neWNvNnAyVi01VklMVWE5cm1nMUt3ZUJIb2ViSVBLUEdxSWZjTzRJVjlVN1VvOXpCdTU0TjM3akRLMEdiQ3VDQUQwRktfQ2FTUEFmeEE1cERGdkpGZC03cklLbGJkN2x4eE1yaWRuSnA0WkM3YkZvYmRoWTlXZzpONSBPZiBGYW1pbHkgPGI-S2lsbGVkPC9iPiBJbiBDYXItPGI-VHJ1Y2s8L2I-IENvbGxpc2lvbiBJbiBNYWhhcmFzaHRyYTogUG9saWNlQqMBPGI-Rml2ZSBtZW1iZXJzIG9mIGEgZmFtaWx5IHdlcmUga2lsbGVkPC9iPiBhZnRlciBhIHRydWNrIGNvbGxpZGVkIHdpdGggdGhlaXIgY2FyIGluIE1haGFyYXNodHJhJiMzOTtzIEFtcmF2YXRpIGRpc3RyaWN0IG9uIFN1bmRheS4gVGhlIGNhciB3YXMgY29tcGxldGVseSZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "NDTV"
+   },
+   {
+    "position": 4,
+    "title": "मिनी ट्रकच्या धडकेत पती-पत्नी‎ ठार, बाळासह सात जण जखमी‎",
+    "link": "https://divyamarathi.bhaskar.com/local/maharashtra/amravati/news/husband-and-wife-killed-seven-injured-including-baby-in-collision-with-mini-truck-130995618.html",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES2gEB6zswFbBG1sROjEV9_bRRlv2ZUbje2isfNkl6NiIboKc-GT7MOUxYeOoirdTpPwwYH8tVnn9SpX8gPCyF3AayFCaQBmBSBcypwH8tPjoMZJJwNG2prD1raJBqaqCrgotfMpdwLSD3YVOpwv8pXNNnTkTovr2M-lkQH5FFRS4wQ_JJmYdcEcUNOwjcP_cgme4tQClWfd1ol2OY3IjPyKiia9qHP1h1QtMZEMh63KinQpyfg5ua9ZScKpLv3AUmtZZ4QsajAU6QQuRVKG8eHU57YRdPrAWuC6eWAg&ved=2ahUKEwibv7-Oqp6XAxXtrisGHXfxJcAQFnoECCYQAQ&uoh=1",
+    "displayed_link": "https://divyamarathi.bhaskar.com › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAABQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDmfs3CB2qH__IrUX_CRRu7R8lcgQp24NpFLgaiqAAD-9gqhfpzz3II-DVHUoB48Qa7v0NZhwFLnLgYfnZ8kg-g7KdjfrUTHVUopguPLfLMiZbdRyvvWTKkYWebA3NT1R-iw6QayLWuiEf1MwZm5FSLD5aplezOcrRGSg3svRMuDn94qXTE2kuPvVYBXBHzChxGg5VB03eNMmjhUsqUZK-G7H7u9PFQcsJZotlxw9ZDClc5cPfV5lajs8ynxh9batevto_7BA8YG_8psDvFxvRDN-LonD7v8Z7Y5XbhKttX_QFC2ZL95IBAFJWTfyBSGPh83u1wAAAA.webp",
+    "snippet": "Amravati; Husband And Wife Killed, Seven Injured Including Baby In Collision With Mini Truck. ‎अपघात:मिनी ट्रकच्या धडकेत पती ...",
+    "snippet_highlighted_words": [
+     "Husband And Wife Killed, Seven Injured Including Baby In Collision With Mini Truck"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.1,
+       "reviews": 1700
+      },
+      "extensions": [
+       "4.1(1,700)",
+       "Free",
+       "Android",
+       "Reference"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Amravati; Husband And Wife Killed, Seven Injured Including Baby In Collision With Mini Truck. ‎अपघात:मिनी ट्रकच्या धडकेत पती ...",
+      "source_info_link": "https://divyamarathi.bhaskar.com/local/maharashtra/amravati/news/husband-and-wife-killed-seven-injured-including-baby-in-collision-with-mini-truck-130995618.html",
+      "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAABQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDmfs3CB2qH__IrUX_CRRu7R8lcgQp24NpFLgaiqAAD-9gqhfpzz3II-DVHUoB48Qa7v0NZhwFLnLgYfnZ8kg-g7KdjfrUTHVUopguPLfLMiZbdRyvvWTKkYWebA3NT1R-iw6QayLWuiEf1MwZm5FSLD5aplezOcrRGSg3svRMuDn94qXTE2kuPvVYBXBHzChxGg5VB03eNMmjhUsqUZK-G7H7u9PFQcsJZotlxw9ZDClc5cPfV5lajs8ynxh9batevto_7BA8YG_8psDvFxvRDN-LonD7v8Z7Y5XbhKttX_QFC2ZL95IBAFJWTfyBSGPh83u1wAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQCL2dvdG8_dXJsPUNBRVMyZ0VCNnpzd0ZiQkcxc1JPakVWOV9iUlJsdjJaVWJqZTJpc2ZOa2w2TmlJYm9LYy1HVDdNT1V4WWVPb2lyZFRwUHd3WUg4dFZubjlTcFg4Z1BDeUYzQWF5RkNhUUJtQlNCY3lwd0g4dFBqb01aSkp3TkcycHJEMXJhSkJxYXFDcmdvdGZNcGR3TFNEM1lWT3B3djhwWE5OblRrVG92cjJNLWxrUUg1RkZSUzR3UV9KSm1ZZGNFY1VOT3dqY1BfY2dtZTR0UUNsV2ZkMW9sMk9ZM0lqUHlLaWlhOXFIUDFoMVF0TVpFTWg2M0tpblFweWZnNXVhOVpTY0twTHYzQVVtdFpaNFFzYWpBVTZRUXVSVktHOGVIVTU3WVJkUHJBV3VDNmVXQWcSBBoCCAAaiQkSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA5QgIABAAGAAgACoTCgVzZXZlbhW2LRxAGgVzZTdlbipFCgZwZW9wbGUVAAAAABoIY2l0aXplbnMaB21lbWJlcnMaA21lbhoGcGVyc29uGgV0aG9zZRoHdmljdGltcxoGZGVhdGhzKicKBmtpbGxlZBVx0CFAGgVkZWF0aBoEZGllZBoLaXY7cDtraWxsZWQqDAoFdHJ1Y2sVaP-rPyohCgNoaXQVAAAAABoEaGl0cxoHaGl0dGluZxoGc3RydWNrKjMKBnBpY2t1cBUAAAAAGgdwaWNrIHVwGgdwaWNrdXBzGgVwaWt1cBoLaXY7cDtwaWNrdXAqIQoDdmFuFQAAAAAaBXBpa3VwGgR2YW5zGgh2ZWhpY2xlcyo0CghhbXJhdmF0aRVdu0Q_GhRnZW87M2JkNmIwMDAwMDAwMDAwMBoNaXY7cDthbXJhdmF0aSo4CgRmYWN0FQAAAAAaCWZhY3RjaGVjaxoFZmFjdHMaB3JlYWxpdHkaBXRydXRoGglmYWN0Y2hlY2sqQQoFY2hlY2sVAAAAABoHY2hlY2tlZBoHY2hlY2tlchoIY2hlY2tpbmcaBmNoZWNrcxoEY2hlaxoJZmFjdGNoZWNrMrQCL2dvdG8_dXJsPUNBRVMyZ0VCNnpzd0ZiQkcxc1JPakVWOV9iUlJsdjJaVWJqZTJpc2ZOa2w2TmlJYm9LYy1HVDdNT1V4WWVPb2lyZFRwUHd3WUg4dFZubjlTcFg4Z1BDeUYzQWF5RkNhUUJtQlNCY3lwd0g4dFBqb01aSkp3TkcycHJEMXJhSkJxYXFDcmdvdGZNcGR3TFNEM1lWT3B3djhwWE5OblRrVG92cjJNLWxrUUg1RkZSUzR3UV9KSm1ZZGNFY1VOT3dqY1BfY2dtZTR0UUNsV2ZkMW9sMk9ZM0lqUHlLaWlhOXFIUDFoMVF0TVpFTWg2M0tpblFweWZnNXVhOVpTY0twTHYzQVVtdFpaNFFzYWpBVTZRUXVSVktHOGVIVTU3WVJkUHJBV3VDNmVXQWc6nwHgpIXgpKrgpJjgpL7gpKQ6IOCkruCkv-CkqOClgCDgpJ_gpY3gpLDgpJXgpJrgpY3gpK_gpL4g4KSn4KSh4KSV4KWH4KSkIOCkquCkpOClgC3gpKrgpKTgpY3gpKjgpYDigI4g4KSg4KS-4KSwLCDgpKzgpL7gpLPgpL7gpLjgpLkg4KS44KS-4KSkIOCknOCkoyDgpJzgpJbgpK7gpYBCwAFBbXJhdmF0aTsgPGI-SHVzYmFuZCBBbmQgV2lmZSBLaWxsZWQsIFNldmVuIEluanVyZWQgSW5jbHVkaW5nIEJhYnkgSW4gQ29sbGlzaW9uIFdpdGggTWluaSBUcnVjazwvYj4uIOKAjuCkheCkquCkmOCkvuCkpDrgpK7gpL_gpKjgpYAg4KSf4KWN4KSw4KSV4KSa4KWN4KSv4KS-IOCkp-CkoeCkleClh-CkpCDgpKrgpKTgpYAmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQCL2dvdG8_dXJsPUNBRVMyZ0VCNnpzd0ZiQkcxc1JPakVWOV9iUlJsdjJaVWJqZTJpc2ZOa2w2TmlJYm9LYy1HVDdNT1V4WWVPb2lyZFRwUHd3WUg4dFZubjlTcFg4Z1BDeUYzQWF5RkNhUUJtQlNCY3lwd0g4dFBqb01aSkp3TkcycHJEMXJhSkJxYXFDcmdvdGZNcGR3TFNEM1lWT3B3djhwWE5OblRrVG92cjJNLWxrUUg1RkZSUzR3UV9KSm1ZZGNFY1VOT3dqY1BfY2dtZTR0UUNsV2ZkMW9sMk9ZM0lqUHlLaWlhOXFIUDFoMVF0TVpFTWg2M0tpblFweWZnNXVhOVpTY0twTHYzQVVtdFpaNFFzYWpBVTZRUXVSVktHOGVIVTU3WVJkUHJBV3VDNmVXQWcSBBoCCAAaiQkSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA5QgIABAAGAAgACoTCgVzZXZlbhW2LRxAGgVzZTdlbipFCgZwZW9wbGUVAAAAABoIY2l0aXplbnMaB21lbWJlcnMaA21lbhoGcGVyc29uGgV0aG9zZRoHdmljdGltcxoGZGVhdGhzKicKBmtpbGxlZBVx0CFAGgVkZWF0aBoEZGllZBoLaXY7cDtraWxsZWQqDAoFdHJ1Y2sVaP-rPyohCgNoaXQVAAAAABoEaGl0cxoHaGl0dGluZxoGc3RydWNrKjMKBnBpY2t1cBUAAAAAGgdwaWNrIHVwGgdwaWNrdXBzGgVwaWt1cBoLaXY7cDtwaWNrdXAqIQoDdmFuFQAAAAAaBXBpa3VwGgR2YW5zGgh2ZWhpY2xlcyo0CghhbXJhdmF0aRVdu0Q_GhRnZW87M2JkNmIwMDAwMDAwMDAwMBoNaXY7cDthbXJhdmF0aSo4CgRmYWN0FQAAAAAaCWZhY3RjaGVjaxoFZmFjdHMaB3JlYWxpdHkaBXRydXRoGglmYWN0Y2hlY2sqQQoFY2hlY2sVAAAAABoHY2hlY2tlZBoHY2hlY2tlchoIY2hlY2tpbmcaBmNoZWNrcxoEY2hlaxoJZmFjdGNoZWNrMrQCL2dvdG8_dXJsPUNBRVMyZ0VCNnpzd0ZiQkcxc1JPakVWOV9iUlJsdjJaVWJqZTJpc2ZOa2w2TmlJYm9LYy1HVDdNT1V4WWVPb2lyZFRwUHd3WUg4dFZubjlTcFg4Z1BDeUYzQWF5RkNhUUJtQlNCY3lwd0g4dFBqb01aSkp3TkcycHJEMXJhSkJxYXFDcmdvdGZNcGR3TFNEM1lWT3B3djhwWE5OblRrVG92cjJNLWxrUUg1RkZSUzR3UV9KSm1ZZGNFY1VOT3dqY1BfY2dtZTR0UUNsV2ZkMW9sMk9ZM0lqUHlLaWlhOXFIUDFoMVF0TVpFTWg2M0tpblFweWZnNXVhOVpTY0twTHYzQVVtdFpaNFFzYWpBVTZRUXVSVktHOGVIVTU3WVJkUHJBV3VDNmVXQWc6nwHgpIXgpKrgpJjgpL7gpKQ6IOCkruCkv-CkqOClgCDgpJ_gpY3gpLDgpJXgpJrgpY3gpK_gpL4g4KSn4KSh4KSV4KWH4KSkIOCkquCkpOClgC3gpKrgpKTgpY3gpKjgpYDigI4g4KSg4KS-4KSwLCDgpKzgpL7gpLPgpL7gpLjgpLkg4KS44KS-4KSkIOCknOCkoyDgpJzgpJbgpK7gpYBCwAFBbXJhdmF0aTsgPGI-SHVzYmFuZCBBbmQgV2lmZSBLaWxsZWQsIFNldmVuIEluanVyZWQgSW5jbHVkaW5nIEJhYnkgSW4gQ29sbGlzaW9uIFdpdGggTWluaSBUcnVjazwvYj4uIOKAjuCkheCkquCkmOCkvuCkpDrgpK7gpL_gpKjgpYAg4KSf4KWN4KSw4KSV4KSa4KWN4KSv4KS-IOCkp-CkoeCkleClh-CkpCDgpKrgpKTgpYAmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Divya Marathi",
+    "read_more_link": "https://divyamarathi.bhaskar.com/local/maharashtra/amravati/news/husband-and-wife-killed-seven-injured-including-baby-in-collision-with-mini-truck-130995618.html#:~:text=%E2%80%8E%E0%A4%85%E0%A4%AA%E0%A4%98%E0%A4%BE%E0%A4%A4%3A%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A5%80%20%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%9A%E0%A5%8D%E0%A4%AF%E0%A4%BE%20%E0%A4%A7%E0%A4%A1%E0%A4%95%E0%A5%87%E0%A4%A4%20%E0%A4%AA%E0%A4%A4%E0%A5%80%2D%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A5%80%E2%80%8E%20%E0%A4%A0%E0%A4%BE%E0%A4%B0%2C,%E0%A4%AC%E0%A4%BE%E0%A4%B3%E0%A4%BE%E0%A4%B8%E0%A4%B9%20%E0%A4%B8%E0%A4%BE%E0%A4%A4%20%E0%A4%9C%E0%A4%A3%20%E0%A4%9C%E0%A4%96%E0%A4%AE%E0%A5%80%E2%80%8E"
+   },
+   {
+    "position": 5,
+    "title": "अमरावतीत रेतीची वाहतूक करणारा ट्रक आणि दुचाकीचा अपघात",
+    "link": "https://www.youtube.com/watch?v=lV9X4AA0xAs",
+    "displayed_link": "9.9K+ views · 2 years ago",
+    "thumbnail": "https://serpapi.com/searches/6ac13572f6e926dbe6e9099e/images/vey4lCKtDee9j5MN-CUIsSXy_HpdnQDPoqE9fSqvofU.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "snippet": "Amravati Fire Case : दुर्घटनेत बाळं गमावलेल्या परिवारानं टाहो फोडला, थरार सांगितला ...",
+    "duration": "0:26",
+    "about_this_result": {
+     "source": {
+      "description": "Amravati Fire Case : दुर्घटनेत बाळं गमावलेल्या परिवारानं टाहो फोडला, थरार सांगितला ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnBoQTFMM19ROUxfRmJESVpCcTVoRWVlQW5hSUw5V0xrT0JmSlgtRWFJdUlDeGVyczQtWTd1WXl0RjdpMXNsbWNVLXNZTlJaQ1RhdW1IY3k4a3V2cGhWTG5jTW5mOU15bGt5aTNCYUZBZVFod04wMklWSjRQeHJjVTZyMkd0QRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnBoQTFMM19ROUxfRmJESVpCcTVoRWVlQW5hSUw5V0xrT0JmSlgtRWFJdUlDeGVyczQtWTd1WXl0RjdpMXNsbWNVLXNZTlJaQ1RhdW1IY3k4a3V2cGhWTG5jTW5mOU15bGt5aTNCYUZBZVFod04wMklWSjRQeHJjVTZyMkd0QRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTCQxzYa6es4rUWcMMIuoPrPNrCXBoBchFdLA",
+    "source": "YouTube · ABP MAJHA"
+   },
+   {
+    "position": 6,
+    "title": "United - As many as five people were killed ...",
+    "link": "https://www.facebook.com/UNINewsagency/photos/as-many-as-five-people-were-killed-and-more-than-15-others-seriously-injured-aft/1396368372503280/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyQEB6zswFd4qYA_JbaDw9dRLUxMReL1HvnhXYUzgK_T3y_-7yVaP9V9S-L7yz_h8KTwyhTYSc-4Sp_fuZE-J367_l-cGGd9XXFmx3AkREfWmzGiDsYKq7-AP_uexYhBEZK_Osw2Uj18yfI0bSNQoiDo52LCbE3VtmMM8XeAltw10l5JSI8vuyhdxt7AQNXbnZxJuZtzKfCEQFQQm8kSOCPzk1_PL-QoxCQfmaSkhUkhLD5sCaTZRo1Kia0LqFwjm4o7EfD1fy0_TRng&ved=2ahUKEwibv7-Oqp6XAxXtrisGHXfxJcAQFnoECCQQAQ&uoh=1",
+    "displayed_link": "1 reaction · 7 months ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "As many as five people were killed and more than 15 others seriously injured after a pickup vehicle overturned. Five people were declared dead ...",
+    "snippet_highlighted_words": [
+     "people",
+     "killed",
+     "pickup",
+     "people"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "As many as five people were killed and more than 15 others seriously injured after a pickup vehicle overturned. Five people were declared dead ...",
+      "source_info_link": "https://www.facebook.com/UNINewsagency/photos/as-many-as-five-people-were-killed-and-more-than-15-others-seriously-injured-aft/1396368372503280/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZkNHFZQV9KYmFEdzlkUkxVeE1SZUwxSHZuaFhZVXpnS19UM3lfLTd5VmFQOVY5Uy1MN3l6X2g4S1R3eWhUWVNjLTRTcF9mdVpFLUozNjdfbC1jR0dkOVhYRm14M0FrUkVmV216R2lEc1lLcTctQVBfdWV4WWhCRVpLX09zdzJVajE4eWZJMGJTTlFvaURvNTJMQ2JFM1Z0bU1NOFhlQWx0dzEwbDVKU0k4dnV5aGR4dDdBUU5YYm5aeEp1WnR6S2ZDRVFGUVFtOGtTT0NQemsxX1BMLVFveENRZm1hU2toVWtoTEQ1c0NhVFpSbzFLaWEwTHFGd2ptNG83RWZEMWZ5MF9UUm5nEgQaAggAGtYHEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLIHCAAQABgAIAAqEwoFc2V2ZW4VAAAAABoFc2U3ZW4qRQoGcGVvcGxlFbJ7Q0AaCGNpdGl6ZW5zGgdtZW1iZXJzGgNtZW4aBnBlcnNvbhoFdGhvc2UaB3ZpY3RpbXMaBmRlYXRocyonCgZraWxsZWQV2FYjQBoFZGVhdGgaBGRpZWQaC2l2O3A7a2lsbGVkKgwKBXRydWNrFQAAAAAqIQoDaGl0FQAAAAAaBGhpdHMaB2hpdHRpbmcaBnN0cnVjayozCgZwaWNrdXAV8opFPxoHcGljayB1cBoHcGlja3VwcxoFcGlrdXAaC2l2O3A7cGlja3VwKiEKA3ZhbhUAAAAAGgVwaWt1cBoEdmFucxoIdmVoaWNsZXMqNAoIYW1yYXZhdGkV_FpJPxoUZ2VvOzNiZDZiMDAwMDAwMDAwMDAaDWl2O3A7YW1yYXZhdGkqOAoEZmFjdBUAAAAAGglmYWN0Y2hlY2saBWZhY3RzGgdyZWFsaXR5GgV0cnV0aBoJZmFjdGNoZWNrKkEKBWNoZWNrFQAAAAAaB2NoZWNrZWQaB2NoZWNrZXIaCGNoZWNraW5nGgZjaGVja3MaBGNoZWsaCWZhY3RjaGVjazKdAi9nb3RvP3VybD1DQUVTeVFFQjZ6c3dGZDRxWUFfSmJhRHc5ZFJMVXhNUmVMMUh2bmhYWVV6Z0tfVDN5Xy03eVZhUDlWOVMtTDd5el9oOEtUd3loVFlTYy00U3BfZnVaRS1KMzY3X2wtY0dHZDlYWEZteDNBa1JFZldtekdpRHNZS3E3LUFQX3VleFloQkVaS19Pc3cyVWoxOHlmSTBiU05Rb2lEbzUyTENiRTNWdG1NTThYZUFsdHcxMGw1SlNJOHZ1eWhkeHQ3QVFOWGJuWnhKdVp0ektmQ0VRRlFRbThrU09DUHprMV9QTC1Rb3hDUWZtYVNraFVraExENXNDYVRaUm8xS2lhMExxRndqbTRvN0VmRDFmeTBfVFJuZzoRVW5pdGVkIC0gRmFjZWJvb2tCswFBcyBtYW55IGFzIGZpdmUgPGI-cGVvcGxlPC9iPiB3ZXJlIDxiPmtpbGxlZDwvYj4gYW5kIG1vcmUgdGhhbiAxNSBvdGhlcnMgc2VyaW91c2x5IGluanVyZWQgYWZ0ZXIgYSA8Yj5waWNrdXA8L2I-IHZlaGljbGUgb3ZlcnR1cm5lZC4gRml2ZSA8Yj5wZW9wbGU8L2I-IHdlcmUgZGVjbGFyZWQgZGVhZCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZkNHFZQV9KYmFEdzlkUkxVeE1SZUwxSHZuaFhZVXpnS19UM3lfLTd5VmFQOVY5Uy1MN3l6X2g4S1R3eWhUWVNjLTRTcF9mdVpFLUozNjdfbC1jR0dkOVhYRm14M0FrUkVmV216R2lEc1lLcTctQVBfdWV4WWhCRVpLX09zdzJVajE4eWZJMGJTTlFvaURvNTJMQ2JFM1Z0bU1NOFhlQWx0dzEwbDVKU0k4dnV5aGR4dDdBUU5YYm5aeEp1WnR6S2ZDRVFGUVFtOGtTT0NQemsxX1BMLVFveENRZm1hU2toVWtoTEQ1c0NhVFpSbzFLaWEwTHFGd2ptNG83RWZEMWZ5MF9UUm5nEgQaAggAGtYHEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLIHCAAQABgAIAAqEwoFc2V2ZW4VAAAAABoFc2U3ZW4qRQoGcGVvcGxlFbJ7Q0AaCGNpdGl6ZW5zGgdtZW1iZXJzGgNtZW4aBnBlcnNvbhoFdGhvc2UaB3ZpY3RpbXMaBmRlYXRocyonCgZraWxsZWQV2FYjQBoFZGVhdGgaBGRpZWQaC2l2O3A7a2lsbGVkKgwKBXRydWNrFQAAAAAqIQoDaGl0FQAAAAAaBGhpdHMaB2hpdHRpbmcaBnN0cnVjayozCgZwaWNrdXAV8opFPxoHcGljayB1cBoHcGlja3VwcxoFcGlrdXAaC2l2O3A7cGlja3VwKiEKA3ZhbhUAAAAAGgVwaWt1cBoEdmFucxoIdmVoaWNsZXMqNAoIYW1yYXZhdGkV_FpJPxoUZ2VvOzNiZDZiMDAwMDAwMDAwMDAaDWl2O3A7YW1yYXZhdGkqOAoEZmFjdBUAAAAAGglmYWN0Y2hlY2saBWZhY3RzGgdyZWFsaXR5GgV0cnV0aBoJZmFjdGNoZWNrKkEKBWNoZWNrFQAAAAAaB2NoZWNrZWQaB2NoZWNrZXIaCGNoZWNraW5nGgZjaGVja3MaBGNoZWsaCWZhY3RjaGVjazKdAi9nb3RvP3VybD1DQUVTeVFFQjZ6c3dGZDRxWUFfSmJhRHc5ZFJMVXhNUmVMMUh2bmhYWVV6Z0tfVDN5Xy03eVZhUDlWOVMtTDd5el9oOEtUd3loVFlTYy00U3BfZnVaRS1KMzY3X2wtY0dHZDlYWEZteDNBa1JFZldtekdpRHNZS3E3LUFQX3VleFloQkVaS19Pc3cyVWoxOHlmSTBiU05Rb2lEbzUyTENiRTNWdG1NTThYZUFsdHcxMGw1SlNJOHZ1eWhkeHQ3QVFOWGJuWnhKdVp0ektmQ0VRRlFRbThrU09DUHprMV9QTC1Rb3hDUWZtYVNraFVraExENXNDYVRaUm8xS2lhMExxRndqbTRvN0VmRDFmeTBfVFJuZzoRVW5pdGVkIC0gRmFjZWJvb2tCswFBcyBtYW55IGFzIGZpdmUgPGI-cGVvcGxlPC9iPiB3ZXJlIDxiPmtpbGxlZDwvYj4gYW5kIG1vcmUgdGhhbiAxNSBvdGhlcnMgc2VyaW91c2x5IGluanVyZWQgYWZ0ZXIgYSA8Yj5waWNrdXA8L2I-IHZlaGljbGUgb3ZlcnR1cm5lZC4gRml2ZSA8Yj5wZW9wbGU8L2I-IHdlcmUgZGVjbGFyZWQgZGVhZCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "Facebook · United News of India - UNI"
+   },
+   {
+    "position": 7,
+    "title": "Incident in Morshi, Amravati: Truck driver dies under suspicious ...",
+    "link": "https://www.youtube.com/watch?v=uvBqcbbFtxs",
+    "displayed_link": "900+ views · 2 months ago",
+    "thumbnail": "https://serpapi.com/searches/6ac13572f6e926dbe6e9099e/images/vey4lCKtDee9j5MN-CUIscmmhjjO9udIedylellKwfs.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "snippet": "Incident in Morshi, Amravati: Truck driver dies under suspicious circumstances, investigation ': Woman biker shares video of car hitting her in ...",
+    "duration": "1:14",
+    "about_this_result": {
+     "source": {
+      "description": "Incident in Morshi, Amravati: Truck driver dies under suspicious circumstances, investigation ': Woman biker shares video of car hitting her in ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkItajN0Si1TRXRENEVrUWVtLWN3ZFowdmxDS0x2QVR3TXNfb29PTkhzdUM2MTBuY0NDY0twaHBqa1JyNzFnR3BpejBZMzRCVm4tV3NIUkFQanA4YVU0Z3BXbWM3ZW40QTljQnctaUg3V1lKSUFIbHBESjBUN1Rlakw5X01VQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkItajN0Si1TRXRENEVrUWVtLWN3ZFowdmxDS0x2QVR3TXNfb29PTkhzdUM2MTBuY0NDY0twaHBqa1JyNzFnR3BpejBZMzRCVm4tV3NIUkFQanA4YVU0Z3BXbWM3ZW40QTljQnctaUg3V1lKSUFIbHBESjBUN1Rlakw5X01VQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQRTvFYOeT31sfRXF3IMBEJxAdMglQsffwtAw",
+    "source": "YouTube · Mandal News"
+   },
+   {
+    "position": 8,
+    "title": "भरधाव ट्रकने साखरझोपेतील मजुरांना चिरडले: 4 ठार, 6 जखमी",
+    "link": "https://divyamarathi.bhaskar.com/local/maharashtra/mumbai/news/amravati-accident-update-truck-crushes-7-laborers-nandura-to-malkapur-road-131928229.html",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0QEB6zswFej7ZzW-cIJTpqnLLgFMDmwriqdRkzLJEeB96FX8MaWrVcdUSrh9kDS30BRekD3vgsPLr0uMmjzkfjpTW8YDtQo2EE-RQ6doAG-HBbprYWK0V3g5n3q-6A4EuAebgmpukKQgsBzUZ9MTY2pFjt9CeUKCJEc9dr4cm-kqzjZDup-WxPXx6O6aPtiXIbFHciTBkoLP2nwyzv57Uq5RYedLZsEMC12yzGXgQ1zTda9r0tnDCrEoU7JuoZ0l3CCOM0yg2HjoxpkX0JuENpcXrQ&ved=2ahUKEwibv7-Oqp6XAxXtrisGHXfxJcAQFnoECDgQAQ&uoh=1",
+    "displayed_link": "https://divyamarathi.bhaskar.com › ...",
+    "favicon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAABQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDmfs3CB2qH__IrUX_CRRu7R8lcgQp24NpFLgaiqAAD-9gqhfpzz3II-DVHUoB48Qa7v0NZhwFLnLgYfnZ8kg-g7KdjfrUTHVUopguPLfLMiZbdRyvvWTKkYWebA3NT1R-iw6QayLWuiEf1MwZm5FSLD5aplezOcrRGSg3svRMuDn94qXTE2kuPvVYBXBHzChxGg5VB03eNMmjhUsqUZK-G7H7u9PFQcsJZotlxw9ZDClc5cPfV5lajs8ynxh9batevto_7BA8YG_8psDvFxvRDN-LonD7v8Z7Y5XbhKttX_QFC2ZL95IBAFJWTfyBSGPh83u1wAAAA.webp",
+    "snippet": "Amravati Accident Update Truck Crushes 7 Laborers Nandura To Malkapur Road, रोजगाराच्या शोधात मेळघाटातून बुलडाणा",
+    "snippet_highlighted_words": [
+     "Truck Crushes 7 Laborers Nandura To Malkapur Road"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 4.1,
+       "reviews": 1700
+      },
+      "extensions": [
+       "4.1(1,700)",
+       "Free",
+       "Android",
+       "Reference"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Amravati Accident Update Truck Crushes 7 Laborers Nandura To Malkapur Road, रोजगाराच्या शोधात मेळघाटातून बुलडाणा",
+      "source_info_link": "https://divyamarathi.bhaskar.com/local/maharashtra/mumbai/news/amravati-accident-update-truck-crushes-7-laborers-nandura-to-malkapur-road-131928229.html",
+      "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAABQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDmfs3CB2qH__IrUX_CRRu7R8lcgQp24NpFLgaiqAAD-9gqhfpzz3II-DVHUoB48Qa7v0NZhwFLnLgYfnZ8kg-g7KdjfrUTHVUopguPLfLMiZbdRyvvWTKkYWebA3NT1R-iw6QayLWuiEf1MwZm5FSLD5aplezOcrRGSg3svRMuDn94qXTE2kuPvVYBXBHzChxGg5VB03eNMmjhUsqUZK-G7H7u9PFQcsJZotlxw9ZDClc5cPfV5lajs8ynxh9batevto_7BA8YG_8psDvFxvRDN-LonD7v8Z7Y5XbhKttX_QFC2ZL95IBAFJWTfyBSGPh83u1wAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgCL2dvdG8_dXJsPUNBRVMwUUVCNnpzd0ZlajdaelctY0lKVHBxbkxMZ0ZNRG13cmlxZFJrekxKRWVCOTZGWDhNYVdyVmNkVVNyaDlrRFMzMEJSZWtEM3Znc1BMcjB1TW1qemtmanBUVzhZRHRRbzJFRS1SUTZkb0FHLUhCYnByWVdLMFYzZzVuM3EtNkE0RXVBZWJnbXB1a0tRZ3NCelVaOU1UWTJwRmp0OUNlVUtDSkVjOWRyNGNtLWtxempaRHVwLVd4UFh4Nk82YVB0aVhJYkZIY2lUQmtvTFAybnd5enY1N1VxNVJZZWRMWnNFTUMxMnl6R1hnUTF6VGRhOXIwdG5EQ3JFb1U3SnVvWjBsM0NDT00weWcySGpveHBrWDBKdUVOcGNYclESBBoCCAAa5AgSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAwAgIABAAGAAgACoTCgVzZXZlbhUAAAAAGgVzZTdlbipFCgZwZW9wbGUVAAAAABoIY2l0aXplbnMaB21lbWJlcnMaA21lbhoGcGVyc29uGgV0aG9zZRoHdmljdGltcxoGZGVhdGhzKicKBmtpbGxlZBUAAAAAGgVkZWF0aBoEZGllZBoLaXY7cDtraWxsZWQqDAoFdHJ1Y2sVWlMaQCohCgNoaXQVAAAAABoEaGl0cxoHaGl0dGluZxoGc3RydWNrKjMKBnBpY2t1cBUAAAAAGgdwaWNrIHVwGgdwaWNrdXBzGgVwaWt1cBoLaXY7cDtwaWNrdXAqIQoDdmFuFQAAAAAaBXBpa3VwGgR2YW5zGgh2ZWhpY2xlcyo0CghhbXJhdmF0aRVZvh9AGhRnZW87M2JkNmIwMDAwMDAwMDAwMBoNaXY7cDthbXJhdmF0aSo4CgRmYWN0FQAAAAAaCWZhY3RjaGVjaxoFZmFjdHMaB3JlYWxpdHkaBXRydXRoGglmYWN0Y2hlY2sqQQoFY2hlY2sVAAAAABoHY2hlY2tlZBoHY2hlY2tlchoIY2hlY2tpbmcaBmNoZWNrcxoEY2hlaxoJZmFjdGNoZWNrMqgCL2dvdG8_dXJsPUNBRVMwUUVCNnpzd0ZlajdaelctY0lKVHBxbkxMZ0ZNRG13cmlxZFJrekxKRWVCOTZGWDhNYVdyVmNkVVNyaDlrRFMzMEJSZWtEM3Znc1BMcjB1TW1qemtmanBUVzhZRHRRbzJFRS1SUTZkb0FHLUhCYnByWVdLMFYzZzVuM3EtNkE0RXVBZWJnbXB1a0tRZ3NCelVaOU1UWTJwRmp0OUNlVUtDSkVjOWRyNGNtLWtxempaRHVwLVd4UFh4Nk82YVB0aVhJYkZIY2lUQmtvTFAybnd5enY1N1VxNVJZZWRMWnNFTUMxMnl6R1hnUTF6VGRhOXIwdG5EQ3JFb1U3SnVvWjBsM0NDT00weWcySGpveHBrWDBKdUVOcGNYclE6jQHgpK3gpLDgpKfgpL7gpLUg4KSf4KWN4KSw4KSV4KSo4KWHIOCkuOCkvuCkluCksOCkneCli-CkquClh-CkpOClgOCksiDgpK7gpJzgpYHgpLDgpL7gpILgpKjgpL4g4KSa4KS_4KSw4KSh4KSy4KWHOiA0IOCkoOCkvuCksCwgNiDgpJzgpJbgpK7gpYBCuQFBbXJhdmF0aSBBY2NpZGVudCBVcGRhdGUgPGI-VHJ1Y2sgQ3J1c2hlcyA3IExhYm9yZXJzIE5hbmR1cmEgVG8gTWFsa2FwdXIgUm9hZDwvYj4sIOCksOCli-CknOCkl-CkvuCksOCkvuCkmuCljeCkr-CkviDgpLbgpYvgpKfgpL7gpKQg4KSu4KWH4KSz4KSY4KS-4KSf4KS-4KSk4KWC4KSoIOCkrOClgeCksuCkoeCkvuCko-CkviICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgCL2dvdG8_dXJsPUNBRVMwUUVCNnpzd0ZlajdaelctY0lKVHBxbkxMZ0ZNRG13cmlxZFJrekxKRWVCOTZGWDhNYVdyVmNkVVNyaDlrRFMzMEJSZWtEM3Znc1BMcjB1TW1qemtmanBUVzhZRHRRbzJFRS1SUTZkb0FHLUhCYnByWVdLMFYzZzVuM3EtNkE0RXVBZWJnbXB1a0tRZ3NCelVaOU1UWTJwRmp0OUNlVUtDSkVjOWRyNGNtLWtxempaRHVwLVd4UFh4Nk82YVB0aVhJYkZIY2lUQmtvTFAybnd5enY1N1VxNVJZZWRMWnNFTUMxMnl6R1hnUTF6VGRhOXIwdG5EQ3JFb1U3SnVvWjBsM0NDT00weWcySGpveHBrWDBKdUVOcGNYclESBBoCCAAa5AgSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAwAgIABAAGAAgACoTCgVzZXZlbhUAAAAAGgVzZTdlbipFCgZwZW9wbGUVAAAAABoIY2l0aXplbnMaB21lbWJlcnMaA21lbhoGcGVyc29uGgV0aG9zZRoHdmljdGltcxoGZGVhdGhzKicKBmtpbGxlZBUAAAAAGgVkZWF0aBoEZGllZBoLaXY7cDtraWxsZWQqDAoFdHJ1Y2sVWlMaQCohCgNoaXQVAAAAABoEaGl0cxoHaGl0dGluZxoGc3RydWNrKjMKBnBpY2t1cBUAAAAAGgdwaWNrIHVwGgdwaWNrdXBzGgVwaWt1cBoLaXY7cDtwaWNrdXAqIQoDdmFuFQAAAAAaBXBpa3VwGgR2YW5zGgh2ZWhpY2xlcyo0CghhbXJhdmF0aRVZvh9AGhRnZW87M2JkNmIwMDAwMDAwMDAwMBoNaXY7cDthbXJhdmF0aSo4CgRmYWN0FQAAAAAaCWZhY3RjaGVjaxoFZmFjdHMaB3JlYWxpdHkaBXRydXRoGglmYWN0Y2hlY2sqQQoFY2hlY2sVAAAAABoHY2hlY2tlZBoHY2hlY2tlchoIY2hlY2tpbmcaBmNoZWNrcxoEY2hlaxoJZmFjdGNoZWNrMqgCL2dvdG8_dXJsPUNBRVMwUUVCNnpzd0ZlajdaelctY0lKVHBxbkxMZ0ZNRG13cmlxZFJrekxKRWVCOTZGWDhNYVdyVmNkVVNyaDlrRFMzMEJSZWtEM3Znc1BMcjB1TW1qemtmanBUVzhZRHRRbzJFRS1SUTZkb0FHLUhCYnByWVdLMFYzZzVuM3EtNkE0RXVBZWJnbXB1a0tRZ3NCelVaOU1UWTJwRmp0OUNlVUtDSkVjOWRyNGNtLWtxempaRHVwLVd4UFh4Nk82YVB0aVhJYkZIY2lUQmtvTFAybnd5enY1N1VxNVJZZWRMWnNFTUMxMnl6R1hnUTF6VGRhOXIwdG5EQ3JFb1U3SnVvWjBsM0NDT00weWcySGpveHBrWDBKdUVOcGNYclE6jQHgpK3gpLDgpKfgpL7gpLUg4KSf4KWN4KSw4KSV4KSo4KWHIOCkuOCkvuCkluCksOCkneCli-CkquClh-CkpOClgOCksiDgpK7gpJzgpYHgpLDgpL7gpILgpKjgpL4g4KSa4KS_4KSw4KSh4KSy4KWHOiA0IOCkoOCkvuCksCwgNiDgpJzgpJbgpK7gpYBCuQFBbXJhdmF0aSBBY2NpZGVudCBVcGRhdGUgPGI-VHJ1Y2sgQ3J1c2hlcyA3IExhYm9yZXJzIE5hbmR1cmEgVG8gTWFsa2FwdXIgUm9hZDwvYj4sIOCksOCli-CknOCkl-CkvuCksOCkvuCkmuCljeCkr-CkviDgpLbgpYvgpKfgpL7gpKQg4KSu4KWH4KSz4KSY4KS-4KSf4KS-4KSk4KWC4KSoIOCkrOClgeCksuCkoeCkvuCko-CkviICEAFIAFgAaAA",
+    "source": "Divya Marathi"
+   },
+   {
+    "position": 9,
+    "title": "Maha: Four killed as van overturns in Amravati district",
+    "link": "https://theprint.in/india/maha-four-killed-as-van-overturns-in-amravati-district/1068220/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFeyzhcB1teT3UnO9gGwBam0qS8Lfda-wuEXhtIyMirLgLDF4DM17dPg_HNDbz_jMYAByxP76dNii3s5An3nCLOOY7K2eju0ozIZW8QcvzybTGY9yld1Mb5t-GIZFoSKP1wXzFaSScCfJJC_XZChNjRytkTpcY5p_A0uZlIJ7JERBgDYLgmFJHyxn5OJc&ved=2ahUKEwibv7-Oqp6XAxXtrisGHXfxJcAQFnoECDkQAQ&uoh=1",
+    "displayed_link": "https://theprint.in › India",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAACQCQCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHUHru93thXk9tRz__og3jPeY657yAWLv_M8sF4B-zIbL3NKiECQosMcH52bRby58DdAHuoAYigAAP72DA_hLG3JQgQgouuQbIzgr3WuDHa72bNsRCoEROlfzGm41Sy7z9i8GfozL2O8slI3pa9bnj5-VICYeOsVyDYbe3et3HhD5VVzDJl76h1CyDPAIYOK98nr_PpDxyP-f3O9iAjjX9pzxdT2FI4trqzYAP9KYZog--iola5_7OeHzPy4sIO9fmoTyZz-PfOsTf-jJoSpNRY1SzYcNOGbd4Kmz-yUb9CNbIROqxsY-hPzbeyb2MM9Vz0yYGPaLifbAbQyD8ZXXDJ7e4kqwHxqINV1yBZCYaXb0gBlsycxwls5KlnjPbzGjHP9Nxt-VwmDg9yG4byl8AgoJOegqpy_1oKRlcSqTg7d_G7Q53kyLT6Bm_1pbtdFtgxvqEAMuMJE_G2SB90G4yn_9DNwPPnhKO2ZzLoyoh_eOnaiGljMhW2vj32JqajgAAA.webp",
+    "date": "4 Aug 2022",
+    "snippet": "The deceased were from Akot in Akola district and were returning from Susurda village in Dharni taluka in a pick-up van after selling vegetables ...",
+    "snippet_highlighted_words": [
+     "pick-up van"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "The deceased were from Akot in Akola district and were returning from Susurda village in Dharni taluka in a pick-up van after selling vegetables ...",
+      "source_info_link": "https://theprint.in/india/maha-four-killed-as-van-overturns-in-amravati-district/1068220/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAACQCQCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHUHru93thXk9tRz__og3jPeY657yAWLv_M8sF4B-zIbL3NKiECQosMcH52bRby58DdAHuoAYigAAP72DA_hLG3JQgQgouuQbIzgr3WuDHa72bNsRCoEROlfzGm41Sy7z9i8GfozL2O8slI3pa9bnj5-VICYeOsVyDYbe3et3HhD5VVzDJl76h1CyDPAIYOK98nr_PpDxyP-f3O9iAjjX9pzxdT2FI4trqzYAP9KYZog--iola5_7OeHzPy4sIO9fmoTyZz-PfOsTf-jJoSpNRY1SzYcNOGbd4Kmz-yUb9CNbIROqxsY-hPzbeyb2MM9Vz0yYGPaLifbAbQyD8ZXXDJ7e4kqwHxqINV1yBZCYaXb0gBlsycxwls5KlnjPbzGjHP9Nxt-VwmDg9yG4byl8AgoJOegqpy_1oKRlcSqTg7d_G7Q53kyLT6Bm_1pbtdFtgxvqEAMuMJE_G2SB90G4yn_9DNwPPnhKO2ZzLoyoh_eOnaiGljMhW2vj32JqajgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZleXpoY0IxdGVUM1VuTzlnR3dCYW0wcVM4TGZkYS13dUVYaHRJeU1pckxnTERGNERNMTdkUGdfSE5EYnpfak1ZQUJ5eFA3NmROaWkzczVBbjNuQ0xPT1k3SzJlanUwb3pJWlc4UWN2enliVEdZOXlsZDFNYjV0LUdJWkZvU0tQMXdYekZhU1NjQ2ZKSkNfWFpDaE5qUnl0a1RwY1k1cF9BMHVabElKN0pFUkJnRFlMZ21GSkh5eG41T0pjEgQaAggAGr4HEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQJoHCAAQABgAIAAqEwoFc2V2ZW4VAAAAABoFc2U3ZW4qRQoGcGVvcGxlFeL-mj8aCGNpdGl6ZW5zGgdtZW1iZXJzGgNtZW4aBnBlcnNvbhoFdGhvc2UaB3ZpY3RpbXMaBmRlYXRocyonCgZraWxsZWQVFSuGQBoFZGVhdGgaBGRpZWQaC2l2O3A7a2lsbGVkKgwKBXRydWNrFQAAAAAqIQoDaGl0FQAAAAAaBGhpdHMaB2hpdHRpbmcaBnN0cnVjayozCgZwaWNrdXAV-65BPxoHcGljayB1cBoHcGlja3VwcxoFcGlrdXAaC2l2O3A7cGlja3VwKiEKA3ZhbhWUv5JAGgVwaWt1cBoEdmFucxoIdmVoaWNsZXMqNAoIYW1yYXZhdGkVM52EQBoUZ2VvOzNiZDZiMDAwMDAwMDAwMDAaDWl2O3A7YW1yYXZhdGkqOAoEZmFjdBUAAAAAGglmYWN0Y2hlY2saBWZhY3RzGgdyZWFsaXR5GgV0cnV0aBoJZmFjdGNoZWNrKkEKBWNoZWNrFQAAAAAaB2NoZWNrZWQaB2NoZWNrZXIaCGNoZWNraW5nGgZjaGVja3MaBGNoZWsaCWZhY3RjaGVjazLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGZXl6aGNCMXRlVDNVbk85Z0d3QmFtMHFTOExmZGEtd3VFWGh0SXlNaXJMZ0xERjRETTE3ZFBnX0hORGJ6X2pNWUFCeXhQNzZkTmlpM3M1QW4zbkNMT09ZN0syZWp1MG96SVpXOFFjdnp5YlRHWTl5bGQxTWI1dC1HSVpGb1NLUDF3WHpGYVNTY0NmSkpDX1haQ2hOalJ5dGtUcGNZNXBfQTB1WmxJSjdKRVJCZ0RZTGdtRkpIeXhuNU9KYzpXTWFoYTogRm91ciA8Yj5raWxsZWQ8L2I-IGFzIDxiPnZhbjwvYj4gb3ZlcnR1cm5zIGluIDxiPkFtcmF2YXRpPC9iPiBkaXN0cmljdCAtIFRoZVByaW50QqABVGhlIGRlY2Vhc2VkIHdlcmUgZnJvbSBBa290IGluIEFrb2xhIGRpc3RyaWN0IGFuZCB3ZXJlIHJldHVybmluZyBmcm9tIFN1c3VyZGEgdmlsbGFnZSBpbiBEaGFybmkgdGFsdWthIGluIGEgPGI-cGljay11cCB2YW48L2I-IGFmdGVyIHNlbGxpbmcgdmVnZXRhYmxlcyZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZleXpoY0IxdGVUM1VuTzlnR3dCYW0wcVM4TGZkYS13dUVYaHRJeU1pckxnTERGNERNMTdkUGdfSE5EYnpfak1ZQUJ5eFA3NmROaWkzczVBbjNuQ0xPT1k3SzJlanUwb3pJWlc4UWN2enliVEdZOXlsZDFNYjV0LUdJWkZvU0tQMXdYekZhU1NjQ2ZKSkNfWFpDaE5qUnl0a1RwY1k1cF9BMHVabElKN0pFUkJnRFlMZ21GSkh5eG41T0pjEgQaAggAGr4HEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQJoHCAAQABgAIAAqEwoFc2V2ZW4VAAAAABoFc2U3ZW4qRQoGcGVvcGxlFeL-mj8aCGNpdGl6ZW5zGgdtZW1iZXJzGgNtZW4aBnBlcnNvbhoFdGhvc2UaB3ZpY3RpbXMaBmRlYXRocyonCgZraWxsZWQVFSuGQBoFZGVhdGgaBGRpZWQaC2l2O3A7a2lsbGVkKgwKBXRydWNrFQAAAAAqIQoDaGl0FQAAAAAaBGhpdHMaB2hpdHRpbmcaBnN0cnVjayozCgZwaWNrdXAV-65BPxoHcGljayB1cBoHcGlja3VwcxoFcGlrdXAaC2l2O3A7cGlja3VwKiEKA3ZhbhWUv5JAGgVwaWt1cBoEdmFucxoIdmVoaWNsZXMqNAoIYW1yYXZhdGkVM52EQBoUZ2VvOzNiZDZiMDAwMDAwMDAwMDAaDWl2O3A7YW1yYXZhdGkqOAoEZmFjdBUAAAAAGglmYWN0Y2hlY2saBWZhY3RzGgdyZWFsaXR5GgV0cnV0aBoJZmFjdGNoZWNrKkEKBWNoZWNrFQAAAAAaB2NoZWNrZWQaB2NoZWNrZXIaCGNoZWNraW5nGgZjaGVja3MaBGNoZWsaCWZhY3RjaGVjazLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGZXl6aGNCMXRlVDNVbk85Z0d3QmFtMHFTOExmZGEtd3VFWGh0SXlNaXJMZ0xERjRETTE3ZFBnX0hORGJ6X2pNWUFCeXhQNzZkTmlpM3M1QW4zbkNMT09ZN0syZWp1MG96SVpXOFFjdnp5YlRHWTl5bGQxTWI1dC1HSVpGb1NLUDF3WHpGYVNTY0NmSkpDX1haQ2hOalJ5dGtUcGNZNXBfQTB1WmxJSjdKRVJCZ0RZTGdtRkpIeXhuNU9KYzpXTWFoYTogRm91ciA8Yj5raWxsZWQ8L2I-IGFzIDxiPnZhbjwvYj4gb3ZlcnR1cm5zIGluIDxiPkFtcmF2YXRpPC9iPiBkaXN0cmljdCAtIFRoZVByaW50QqABVGhlIGRlY2Vhc2VkIHdlcmUgZnJvbSBBa290IGluIEFrb2xhIGRpc3RyaWN0IGFuZCB3ZXJlIHJldHVybmluZyBmcm9tIFN1c3VyZGEgdmlsbGFnZSBpbiBEaGFybmkgdGFsdWthIGluIGEgPGI-cGljay11cCB2YW48L2I-IGFmdGVyIHNlbGxpbmcgdmVnZXRhYmxlcyZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "ThePrint",
+    "read_more_link": "https://theprint.in/india/maha-four-killed-as-van-overturns-in-amravati-district/1068220/#:~:text=The%20deceased%20were%20from%20Akot,vegetables%20in%20a%20weekly%20market."
+   }
+  ]
+ }
+}

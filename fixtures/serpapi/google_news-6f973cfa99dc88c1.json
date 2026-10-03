@@ -1,0 +1,131 @@
+{
+ "engine": "google_news",
+ "params": {
+  "engine": "google_news",
+  "q": "Seven people killed truck hit pickup van Amravati fact check",
+  "gl": "in",
+  "hl": "en"
+ },
+ "fetched_at": "2026-10-03T17:03:47Z",
+ "response": {
+  "search_metadata": {
+   "id": "6ac135722c2bb43a61dc59e2",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/FOrCybz6cbjnkSwiPs-utQM8DBjOJtlisdkR5-ZAM9g/6ac135722c2bb43a61dc59e2.md",
+   "created_at": "2026-10-03 17:03:46 UTC",
+   "processed_at": "2026-10-03 17:03:46 UTC",
+   "google_news_url": "https://news.google.com/search?q=Seven+people+killed+truck+hit+pickup+van+Amravati+fact+check&hl=en&gl=IN",
+   "total_time_taken": 0.75
+  },
+  "search_parameters": {
+   "engine": "google_news",
+   "gl": "in",
+   "hl": "en",
+   "q": "Seven people killed truck hit pickup van Amravati fact check"
+  },
+  "news_results": [
+   {
+    "position": 1,
+    "title": "Samruddhi expressway crash kills 7, Injures 20",
+    "source": {
+     "name": "The Times of India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Anil Jadhav"
+     ]
+    },
+    "link": "https://timesofindia.indiatimes.com/city/nagpur/samruddhi-expressway-crash-kills-7-injures-20/amp_articleshow/134645640.cms",
+    "thumbnail": "https://static.toiimg.com/thumb/msid-134645639,width-1280,height-720,imgsize-137181,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9lRkZSUzBkbVpVOVdSRWx6VFJDZkF4ampCU2dLTWdhQk1ZeEtvUVU",
+    "date": "10/02/2026, 06:47 PM, +0000 UTC",
+    "iso_date": "2026-10-02T18:47:00Z"
+   },
+   {
+    "position": 2,
+    "title": "'Owners failed to take safety precautions': Delhi Police to HC on Satya Niketan building collapse",
+    "source": {
+     "name": "Press Trust of India",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ptinews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.ptinews.com/story/business/Owners-failed-to-take-safety-precautions-Delhi-Police-to-HC-on-Satya-Niketan-building-collapse/4097433",
+    "thumbnail": "https://pti-xml.multitvsolution.com/ptiimage/gall_content/2022/PTI09_07_2026_000027B.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdla2xmYjFwVmRYVlNla0p2VFJDM0F4aTdCU2dLTWdZQk1JWnFMQVE",
+    "date": "09/24/2026, 02:48 PM, +0000 UTC",
+    "iso_date": "2026-09-24T14:48:29Z"
+   },
+   {
+    "position": 3,
+    "title": "Surat records 17 rain-related deaths so far; CM announces Rs 500 cr for measures to prevent flooding",
+    "source": {
+     "name": "Press Trust of India",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ptinews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.ptinews.com/detail/national/Surat-records-17-rain-related-deaths-so-far;-CM-announces-Rs-500-cr-for-measures-to-prevent-flooding/3846150",
+    "thumbnail": "https://pti-xml.multitvsolution.com/ptiimage/gall_content/2022/PTI07_09_2026_000435B.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpOVlJPU3kxc09EWnhVamhhVFJEWEF4aUxCU2dLTWdhWkU1Q3JKUWM",
+    "date": "07/09/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-09T07:00:00Z"
+   },
+   {
+    "position": 4,
+    "title": "India dominates World's 100 Hottest Cities list for second week in a row; check all names",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/weather/india-dominates-worlds-100-hottest-cities-list-for-second-week-in-a-row-check-full-list-bihar-uttar-pradesh-chhattisgarh-maharashtra-heatwave-alert/articleshow/131260485.cms",
+    "thumbnail": "https://m.economictimes.com/thumb/msid-131260968,width-1200,height-900,resizemode-4,imgsize-44470/india-dominates-worlds-100-hottest-cities-list-for-second-week-in-a-row-check-full-listbr.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1kMkkxVUVWaFVFb3RkbTFZVFJEZ0F4aUFCU2dLTWdrVlFvb3ZzV1U5aVFJ",
+    "date": "05/22/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-22T07:00:00Z"
+   }
+  ],
+  "menu_links": [
+   {
+    "title": "India",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+   },
+   {
+    "title": "World",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Your local news",
+    "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+   },
+   {
+    "title": "Business",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Technology",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Entertainment",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Sports",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Science",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Health",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+   }
+  ]
+ }
+}

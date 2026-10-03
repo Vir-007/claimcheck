@@ -1,0 +1,385 @@
+{
+ "engine": "google",
+ "params": {
+  "engine": "google",
+  "q": "Seven people killed truck hit pickup van Amravati",
+  "tbs": "qdr:m",
+  "gl": "in",
+  "hl": "en"
+ },
+ "fetched_at": "2026-10-03T17:04:08Z",
+ "response": {
+  "search_metadata": {
+   "id": "6ac135729f8abc37c42937ce",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/bnzWMEHGQQDERkVDu9BBxVlnhnlJLwKXeWlCwYy4N0w/6ac135729f8abc37c42937ce.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/bnzWMEHGQQDERkVDu9BBxVlnhnlJLwKXeWlCwYy4N0w/6ac135729f8abc37c42937ce.json_with_pixel_position",
+   "created_at": "2026-10-03 17:03:46 UTC",
+   "processed_at": "2026-10-03 17:03:46 UTC",
+   "google_url": "https://www.google.com/search?q=Seven+people+killed+truck+hit+pickup+van+Amravati&oq=Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&gl=in&tbs=qdr:m&sourceid=chrome&ie=UTF-8",
+   "total_time_taken": 22.05
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Seven people killed truck hit pickup van Amravati",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop",
+   "tbs": "qdr:m"
+  },
+  "search_information": {
+   "query_displayed": "Seven people killed truck hit pickup van Amravati",
+   "total_results": 8,
+   "time_taken_displayed": 0.29,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+   {
+    "source": "https://www.instagram.com/reel/Dd_Q7aBjZcf/",
+    "thumbnail": "https://serpapi.com/searches/6ac135729f8abc37c42937ce/images/deeHtjQxgbGgwMljAfpr8yJdmlsJ0LDtm0IR5ikhZ6E.jpeg",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3998786124570905881",
+    "title": "Edition Tv | Maharashtra: 7 killed, 20 injured as truck rams ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.instagram.com/reel/Dd_Q7aBjZcf/",
+    "thumbnail": "https://serpapi.com/searches/6ac135729f8abc37c42937ce/images/3rt9KjRonwBeRxZ0rsdbterWIvuOa8Ldj3lxa51LdhQ.jpeg",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3998878277761659406",
+    "title": "Edition Tv | Maharashtra: 7 killed, 20 injured as truck rams ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.instagram.com/p/Dd-v81CRlDM/",
+    "thumbnail": "https://serpapi.com/searches/6ac135729f8abc37c42937ce/images/LfHVmrUEx4LymuYdcP9J3lO7xMkAhPuzHHHG0e1NcQs.jpeg",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3998782477811873345",
+    "title": "Seven people were killed and 18 injured after a container ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.facebook.com/IndiaToday/videos/at-least-seven-people-were-killed-and-21-others-were-injured-after-a-truck-colli/1584884529746018/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDxYl0ijBtiDvxIJSac1mP9tBaqaOgvugYz1rLWe1a2__IuQpb5nJM_yA&s",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1584884529746018&get_thumbnail=1",
+    "title": "At least seven people were killed, and 21 others were injured after a truck  collided with a tempo pickup on Maharashtra's Samruddhi Highway in Amravati  district on Thursday., The tempo pickup was ...",
+    "source_name": "Facebook"
+   },
+   {
+    "source": "https://www.instagram.com/p/Dd-v81CRlDM/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8k3w2d5rnhHuVgN2JEnJSaqsDqlUy-YXx7KuUiYNOj2DigUoz3XFZD-c&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3998875572204491511",
+    "title": "Seven people were killed and 18 injured after a container ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.instagram.com/p/Dd-kqOKDNyu/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3eHmKyQ3CwTJd5TcRpBb7C5C5U_cMx8rOa63DsCKVTtqw7Ddz-xu5ErI&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3998794750245002414",
+    "title": "7 people were killed and around 19 injured when a pickup ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.instagram.com/p/Dd-v81CRlDM/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIXyuz0-B-Zq_K33HFkCt7V6qOXhQIvd7JHf9oDFtVWvWem_dJd8CXM00&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3998863818947335865",
+    "title": "Seven people were killed and 18 injured after a container ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.facebook.com/hitavada/posts/eight-people-were-killed-and-four-others-injured-after-a-truck-collided-with-a-p/1676543327816176/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBqhwlfO59Bp74Ph3Uy_oebDHlvvtDOXzvE8JLyXMXwQLnOwXwhIWksYw&s",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1068268852627846&get_thumbnail=1",
+    "title": "Eight people were killed and four others injured after a truck collided  with a pickup van on the Nagpur-Raipur National Highway near Pimpalgaon in  Bhandara district early Friday morning. The collision ...",
+    "source_name": "Facebook"
+   },
+   {
+    "source": "https://www.facebook.com/SahilOnlineNews/posts/in-maharashtras-akola-district-a-man-allegedly-rammed-a-bolero-pickup-vehicle-in/1538955624932572/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj4X2e_fpq2gZKywynMnPB3tXzZy5JpDDhlddBpHZnZ4WCpvS0GW5Oubo&s",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1450129383831558&get_thumbnail=1",
+    "title": "In Maharashtra’s Akola district, a man allegedly rammed a Bolero pickup  vehicle into a house four to five times over a land dispute in Jamvasu  village, causing part of the house to collapse. A ...",
+    "source_name": "Facebook"
+   }
+  ],
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "At least seven people were killed, and 21 others were injured ...",
+    "link": "https://www.facebook.com/IndiaToday/videos/at-least-seven-people-were-killed-and-21-others-were-injured-after-a-truck-colli/1584884529746018/",
+    "thumbnail": "https://serpapi.com/searches/6ac135729f8abc37c42937ce/images/QquaiN183Loe30nscq4irfD8aMbjdDY3PVZSnjqWJHY.jpeg",
+    "channel": "India Today",
+    "duration": "0:26",
+    "platform": "Facebook",
+    "date": "1 day ago"
+   },
+   {
+    "position": 2,
+    "title": "In Maharashtra's Akola district, a man allegedly rammed ...",
+    "link": "https://www.facebook.com/SahilOnlineNews/posts/in-maharashtras-akola-district-a-man-allegedly-rammed-a-bolero-pickup-vehicle-in/1538955624932572/",
+    "thumbnail": "https://serpapi.com/searches/6ac135729f8abc37c42937ce/images/MW0A6YGwSnVjWZrvDsrIxk5m8gCxu8r1ybLcEbOgFDs.jpeg",
+    "channel": "SahilOnline",
+    "duration": "1:04",
+    "platform": "Facebook",
+    "date": "3 weeks ago"
+   },
+   {
+    "position": 3,
+    "title": "Eight people were killed and four others injured after a truck ...",
+    "link": "https://www.facebook.com/hitavada/posts/eight-people-were-killed-and-four-others-injured-after-a-truck-collided-with-a-p/1676543327816176/",
+    "thumbnail": "https://serpapi.com/searches/6ac135729f8abc37c42937ce/images/coUSrg6DQg64qJAOQa0fvqGxV-O7zjkVOtmilHNdK7s.jpeg",
+    "channel": "The Hitavada",
+    "duration": "0:11",
+    "platform": "Facebook",
+    "date": "3 weeks ago"
+   }
+  ],
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "A major road a ccident took place near Amravati ...",
+    "link": "https://www.instagram.com/reel/Dd-zS8JoMa2/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVFok0rkWhE2GDxoNEgmfigDyJ_Kjk3B1Dg3Elr0fCUGhgtsVUf2lbE7pYtIjzahjDCpMWn9NM2p9aIYMzeY4-mMiheiXzArP3sS2fuV7fJsNEQhrRrMIg7m5FFltQkw&ved=2ahUKEwicmNCYqp6XAxVZTFUIHexMO18QFnoECBsQAQ&uoh=1",
+    "displayed_link": "1 like",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "snippet": "A Bolero pickup carrying a Durga idol from Shegaon to Wardha collided with a truck near Channel No. 97. Seven people were k illed in the a ccident, while 18 ...",
+    "snippet_highlighted_words": [
+     "Seven people were k illed in the a ccident"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "A Bolero pickup carrying a Durga idol from Shegaon to Wardha collided with a truck near Channel No. 97. Seven people were k illed in the a ccident, while 18 ...",
+      "source_info_link": "https://www.instagram.com/reel/Dd-zS8JoMa2/",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkZvazBya1doRTJHRHhvTkVnbWZpZ0R5Sl9LamszQjFEZzNFbHIwZkNVR2hndHNWVWYybGJFN3BZdElqemFoakRDcE1XbjlOTTJwOWFJWU16ZVk0LW1NaWhlaVh6QXJQM3NTMmZ1VjdmSnNORVFoclJyTUlnN201RkZsdFFrdxIEGgIIABqJBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDlBQgAEAEYACAAKhMKBXNldmVuFTE4rj8aBXNlN2VuKlAKBnBlb3BsZRXvx70_GghjaXRpemVucxoHbWVtYmVycxoDbWVuGgZwZXJzb24aBXRob3NlGgd2aWN0aW1zGgNtYW4aBGRlYWQaBmRlYXRocyonCgZraWxsZWQVVlvjPxoFZGVhdGgaBGRpZWQaC2l2O3A7a2lsbGVkKgwKBXRydWNrFT6GyT8qIQoDaGl0FQAAAAAaBGhpdHMaB2hpdHRpbmcaBnN0cnVjayozCgZwaWNrdXAV4EjpPhoHcGljayB1cBoHcGlja3VwcxoFcGlrdXAaC2l2O3A7cGlja3VwKiEKA3ZhbhUAAAAAGgVwaWt1cBoEdmFucxoIdmVoaWNsZXMqNAoIYW1yYXZhdGkVku0cQBoUZ2VvOzNiZDZiMDAwMDAwMDAwMDAaDWl2O3A7YW1yYXZhdGkylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWRm9rMHJrV2hFMkdEeG9ORWdtZmlnRHlKX0tqazNCMURnM0VscjBmQ1VHaGd0c1ZVZjJsYkU3cFl0SWp6YWhqRENwTVduOU5NMnA5YUlZTXplWTQtbU1paGVpWHpBclAzc1MyZnVWN2ZKc05FUWhyUnJNSWc3bTVGRmx0UWt3OkZBIG1ham9yIHJvYWQgYSBjY2lkZW50IHRvb2sgcGxhY2UgbmVhciA8Yj5BbXJhdmF0aTwvYj4gLi4uIC0gSW5zdGFncmFtQqwBQSBCb2xlcm8gcGlja3VwIGNhcnJ5aW5nIGEgRHVyZ2EgaWRvbCBmcm9tIFNoZWdhb24gdG8gV2FyZGhhIGNvbGxpZGVkIHdpdGggYSB0cnVjayBuZWFyIENoYW5uZWwgTm8uIDk3LiA8Yj5TZXZlbiBwZW9wbGUgd2VyZSBrIGlsbGVkIGluIHRoZSBhIGNjaWRlbnQ8L2I-LCB3aGlsZSAxOCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkZvazBya1doRTJHRHhvTkVnbWZpZ0R5Sl9LamszQjFEZzNFbHIwZkNVR2hndHNWVWYybGJFN3BZdElqemFoakRDcE1XbjlOTTJwOWFJWU16ZVk0LW1NaWhlaVh6QXJQM3NTMmZ1VjdmSnNORVFoclJyTUlnN201RkZsdFFrdxIEGgIIABqJBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDlBQgAEAEYACAAKhMKBXNldmVuFTE4rj8aBXNlN2VuKlAKBnBlb3BsZRXvx70_GghjaXRpemVucxoHbWVtYmVycxoDbWVuGgZwZXJzb24aBXRob3NlGgd2aWN0aW1zGgNtYW4aBGRlYWQaBmRlYXRocyonCgZraWxsZWQVVlvjPxoFZGVhdGgaBGRpZWQaC2l2O3A7a2lsbGVkKgwKBXRydWNrFT6GyT8qIQoDaGl0FQAAAAAaBGhpdHMaB2hpdHRpbmcaBnN0cnVjayozCgZwaWNrdXAV4EjpPhoHcGljayB1cBoHcGlja3VwcxoFcGlrdXAaC2l2O3A7cGlja3VwKiEKA3ZhbhUAAAAAGgVwaWt1cBoEdmFucxoIdmVoaWNsZXMqNAoIYW1yYXZhdGkVku0cQBoUZ2VvOzNiZDZiMDAwMDAwMDAwMDAaDWl2O3A7YW1yYXZhdGkylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWRm9rMHJrV2hFMkdEeG9ORWdtZmlnRHlKX0tqazNCMURnM0VscjBmQ1VHaGd0c1ZVZjJsYkU3cFl0SWp6YWhqRENwTVduOU5NMnA5YUlZTXplWTQtbU1paGVpWHpBclAzc1MyZnVWN2ZKc05FUWhyUnJNSWc3bTVGRmx0UWt3OkZBIG1ham9yIHJvYWQgYSBjY2lkZW50IHRvb2sgcGxhY2UgbmVhciA8Yj5BbXJhdmF0aTwvYj4gLi4uIC0gSW5zdGFncmFtQqwBQSBCb2xlcm8gcGlja3VwIGNhcnJ5aW5nIGEgRHVyZ2EgaWRvbCBmcm9tIFNoZWdhb24gdG8gV2FyZGhhIGNvbGxpZGVkIHdpdGggYSB0cnVjayBuZWFyIENoYW5uZWwgTm8uIDk3LiA8Yj5TZXZlbiBwZW9wbGUgd2VyZSBrIGlsbGVkIGluIHRoZSBhIGNjaWRlbnQ8L2I-LCB3aGlsZSAxOCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "missing": [
+     "hit",
+     "van"
+    ],
+    "source": "Instagram · ansarishahidahamad",
+    "read_more_link": "https://www.instagram.com/reel/Dd-zS8JoMa2/#:~:text=A%20Bolero%20pickup%20carrying%20a,others%20sustained%20serious%20i%20njuries."
+   },
+   {
+    "position": 2,
+    "title": "Maharashtra Deputy CM Sunetra Pawar expressed grief ...",
+    "link": "https://www.instagram.com/p/Dd_Kp9SHXkn/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVV4fK_qaQKXyhDPLZDoL0rRAG2aheB4lqhstuv63ZpvVJvp09NhknqkfMLMvYTgsJ-slvkKlci7rAWVPlz2ch4ulHUZVNvel2tUhQISMjPJ2eEImlhanXK2nzOw&ved=2ahUKEwicmNCYqp6XAxVZTFUIHexMO18QFnoECCEQAQ&uoh=1",
+    "displayed_link": "https://www.instagram.com › ...",
+    "thumbnail": "https://serpapi.com/searches/6ac135729f8abc37c42937ce/images/67xhmP8fOOg5NAaq9aZBj5tSZQkn0kXleP1FKVmHfow.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "snippet": "Maharashtra Accident: Five people were killed and 21 others injured after a truck rammed into a Bolero pickup van from behind on the Samruddhi Expressway ...",
+    "snippet_highlighted_words": [
+     "Five people were killed and 21 others injured"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Maharashtra Accident: Five people were killed and 21 others injured after a truck rammed into a Bolero pickup van from behind on the Samruddhi Expressway ...",
+      "source_info_link": "https://www.instagram.com/p/Dd_Kp9SHXkn/",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVlY0ZktfcWFRS1h5aERQTFpEb0wwclJBRzJhaGVCNGxxaHN0dXY2M1pwdlZKdnAwOU5oa25xa2ZNTE12WVRnc0otc2x2a0tsY2k3ckFXVlBsejJjaDR1bEhVWlZOdmVsMnRVaFFJU01qUEoyZUVJbWxoYW5YSzJuek93EgQaAggAGvgFEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQNQFCAAQARgAIAAqEwoFc2V2ZW4VpijLPxoFc2U3ZW4qUAoGcGVvcGxlFcBCGUAaCGNpdGl6ZW5zGgdtZW1iZXJzGgNtZW4aBnBlcnNvbhoFdGhvc2UaB3ZpY3RpbXMaA21hbhoEZGVhZBoGZGVhdGhzKicKBmtpbGxlZBVfx5o_GgVkZWF0aBoEZGllZBoLaXY7cDtraWxsZWQqDAoFdHJ1Y2sVinHgPyohCgNoaXQVAAAAABoEaGl0cxoHaGl0dGluZxoGc3RydWNrKjMKBnBpY2t1cBV6nSBAGgdwaWNrIHVwGgdwaWNrdXBzGgVwaWt1cBoLaXY7cDtwaWNrdXAqIQoDdmFuFZGXtz8aBXBpa3VwGgR2YW5zGgh2ZWhpY2xlcyo0CghhbXJhdmF0aRWcVUFAGhRnZW87M2JkNmIwMDAwMDAwMDAwMBoNaXY7cDthbXJhdmF0aTKQAS9nb3RvP3VybD1DQUVTWUFIck96QVZWNGZLX3FhUUtYeWhEUExaRG9MMHJSQUcyYWhlQjRscWhzdHV2NjNacHZWSnZwMDlOaGtucWtmTUxNdllUZ3NKLXNsdmtLbGNpN3JBV1ZQbHoyY2g0dWxIVVpWTnZlbDJ0VWhRSVNNalBKMmVFSW1saGFuWEsybnpPdzo8TWFoYXJhc2h0cmEgRGVwdXR5IENNIFN1bmV0cmEgUGF3YXIgZXhwcmVzc2VkIGdyaWVmIG92ZXIgLi4uQqkBTWFoYXJhc2h0cmEgQWNjaWRlbnQ6IDxiPkZpdmUgcGVvcGxlIHdlcmUga2lsbGVkIGFuZCAyMSBvdGhlcnMgaW5qdXJlZDwvYj4gYWZ0ZXIgYSB0cnVjayByYW1tZWQgaW50byBhIEJvbGVybyBwaWNrdXAgdmFuIGZyb20gYmVoaW5kIG9uIHRoZSBTYW1ydWRkaGkgRXhwcmVzc3dheSZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVlY0ZktfcWFRS1h5aERQTFpEb0wwclJBRzJhaGVCNGxxaHN0dXY2M1pwdlZKdnAwOU5oa25xa2ZNTE12WVRnc0otc2x2a0tsY2k3ckFXVlBsejJjaDR1bEhVWlZOdmVsMnRVaFFJU01qUEoyZUVJbWxoYW5YSzJuek93EgQaAggAGvgFEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQNQFCAAQARgAIAAqEwoFc2V2ZW4VpijLPxoFc2U3ZW4qUAoGcGVvcGxlFcBCGUAaCGNpdGl6ZW5zGgdtZW1iZXJzGgNtZW4aBnBlcnNvbhoFdGhvc2UaB3ZpY3RpbXMaA21hbhoEZGVhZBoGZGVhdGhzKicKBmtpbGxlZBVfx5o_GgVkZWF0aBoEZGllZBoLaXY7cDtraWxsZWQqDAoFdHJ1Y2sVinHgPyohCgNoaXQVAAAAABoEaGl0cxoHaGl0dGluZxoGc3RydWNrKjMKBnBpY2t1cBV6nSBAGgdwaWNrIHVwGgdwaWNrdXBzGgVwaWt1cBoLaXY7cDtwaWNrdXAqIQoDdmFuFZGXtz8aBXBpa3VwGgR2YW5zGgh2ZWhpY2xlcyo0CghhbXJhdmF0aRWcVUFAGhRnZW87M2JkNmIwMDAwMDAwMDAwMBoNaXY7cDthbXJhdmF0aTKQAS9nb3RvP3VybD1DQUVTWUFIck96QVZWNGZLX3FhUUtYeWhEUExaRG9MMHJSQUcyYWhlQjRscWhzdHV2NjNacHZWSnZwMDlOaGtucWtmTUxNdllUZ3NKLXNsdmtLbGNpN3JBV1ZQbHoyY2g0dWxIVVpWTnZlbDJ0VWhRSVNNalBKMmVFSW1saGFuWEsybnpPdzo8TWFoYXJhc2h0cmEgRGVwdXR5IENNIFN1bmV0cmEgUGF3YXIgZXhwcmVzc2VkIGdyaWVmIG92ZXIgLi4uQqkBTWFoYXJhc2h0cmEgQWNjaWRlbnQ6IDxiPkZpdmUgcGVvcGxlIHdlcmUga2lsbGVkIGFuZCAyMSBvdGhlcnMgaW5qdXJlZDwvYj4gYWZ0ZXIgYSB0cnVjayByYW1tZWQgaW50byBhIEJvbGVybyBwaWNrdXAgdmFuIGZyb20gYmVoaW5kIG9uIHRoZSBTYW1ydWRkaGkgRXhwcmVzc3dheSZuYnNwOy4uLiICEAFIAFgAaAA",
+    "missing": [
+     "hit"
+    ],
+    "must_include": {
+     "word": "hit",
+     "link": "https://www.google.com/search?sca_esv=3cbbadbd95a53bdb&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnuzK8DAya_RfzgOJZsdQJ9024-Q5Q:1791047048113&q=Seven+people+killed+truck+%22hit%22+pickup+van+Amravati+&sa=X&ved=2ahUKEwicmNCYqp6XAxVZTFUIHexMO18Q5t4CegQIKhAB"
+    },
+    "source": "Instagram",
+    "read_more_link": "https://www.instagram.com/p/Dd_Kp9SHXkn/#:~:text=Maharashtra%20Accident%3A%20Five%20people%20were,in%20Amravati%20district%20early%20Friday."
+   },
+   {
+    "position": 3,
+    "title": "Akola, Maharashtra: A 75-year-old woman was killed and 2–3 ...",
+    "link": "https://www.facebook.com/SMNEWSHYDERABAD/posts/1537857795027200/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVXNes4rBmOU3rauHcwKtzpV7d3XLTfSWVkCoeQACDHRgAmQyw5jLEZtidkSJYLjCa8oaOtYpUkzxO56bR18qSda4YUieytmUMi5vgZZ4UnN6u2Kfl_aZP2LK89ypk1Tn7Qqty85c2oM5GVlpzO1TNIRd1Qg&ved=2ahUKEwicmNCYqp6XAxVZTFUIHexMO18QFnoECBkQAQ&uoh=1",
+    "displayed_link": "https://www.facebook.com › posts",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "date": "11 Sept 2026",
+    "snippet": "Akola, Maharashtra: A 75-year-old woman was killed and 2–3 others seriously injured after a Bolero pickup allegedly rammed into a house four to five times amid ...",
+    "snippet_highlighted_words": [
+     "killed",
+     "pickup"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Akola, Maharashtra: A 75-year-old woman was killed and 2–3 others seriously injured after a Bolero pickup allegedly rammed into a house four to five times amid ...",
+      "source_info_link": "https://www.facebook.com/SMNEWSHYDERABAD/posts/1537857795027200/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlhOZXM0ckJtT1UzcmF1SGN3S3R6cFY3ZDNYTFRmU1dWa0NvZVFBQ0RIUmdBbVF5dzVqTEVadGlka1NKWUxqQ2E4b2FPdFlwVWt6eE81NmJSMThxU2RhNFlVaWV5dG1VTWk1dmdaWjRVbk42dTJLZmxfYVpQMkxLODl5cGsxVG43UXF0eTg1YzJvTTVHVmxwek8xVE5JUmQxUWcSBBoCCAAauQYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAlQYIABABGAAgACoTCgVzZXZlbhVK-EA9GgVzZTdlbipQCgZwZW9wbGUVPnAyPxoIY2l0aXplbnMaB21lbWJlcnMaA21lbhoGcGVyc29uGgV0aG9zZRoHdmljdGltcxoDbWFuGgRkZWFkGgZkZWF0aHMqJwoGa2lsbGVkFW2OQUAaBWRlYXRoGgRkaWVkGgtpdjtwO2tpbGxlZCoMCgV0cnVjaxWPo7o_KiEKA2hpdBUgeX0_GgRoaXRzGgdoaXR0aW5nGgZzdHJ1Y2sqMwoGcGlja3VwFbo7yT8aB3BpY2sgdXAaB3BpY2t1cHMaBXBpa3VwGgtpdjtwO3BpY2t1cCohCgN2YW4VAAAAABoFcGlrdXAaBHZhbnMaCHZlaGljbGVzKjQKCGFtcmF2YXRpFYGC3DwaFGdlbzszYmQ2YjAwMDAwMDAwMDAwGg1pdjtwO2FtcmF2YXRpMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlhOZXM0ckJtT1UzcmF1SGN3S3R6cFY3ZDNYTFRmU1dWa0NvZVFBQ0RIUmdBbVF5dzVqTEVadGlka1NKWUxqQ2E4b2FPdFlwVWt6eE81NmJSMThxU2RhNFlVaWV5dG1VTWk1dmdaWjRVbk42dTJLZmxfYVpQMkxLODl5cGsxVG43UXF0eTg1YzJvTTVHVmxwek8xVE5JUmQxUWc6TkFrb2xhLCBNYWhhcmFzaHRyYTogQSA3NS15ZWFyLW9sZCB3b21hbiB3YXMgPGI-a2lsbGVkPC9iPiBhbmQgMuKAkzMgb3RoZXJzIC4uLkK4AUFrb2xhLCBNYWhhcmFzaHRyYTogQSA3NS15ZWFyLW9sZCB3b21hbiB3YXMgPGI-a2lsbGVkPC9iPiBhbmQgMuKAkzMgb3RoZXJzIHNlcmlvdXNseSBpbmp1cmVkIGFmdGVyIGEgQm9sZXJvIDxiPnBpY2t1cDwvYj4gYWxsZWdlZGx5IHJhbW1lZCBpbnRvIGEgaG91c2UgZm91ciB0byBmaXZlIHRpbWVzIGFtaWQmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlhOZXM0ckJtT1UzcmF1SGN3S3R6cFY3ZDNYTFRmU1dWa0NvZVFBQ0RIUmdBbVF5dzVqTEVadGlka1NKWUxqQ2E4b2FPdFlwVWt6eE81NmJSMThxU2RhNFlVaWV5dG1VTWk1dmdaWjRVbk42dTJLZmxfYVpQMkxLODl5cGsxVG43UXF0eTg1YzJvTTVHVmxwek8xVE5JUmQxUWcSBBoCCAAauQYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAlQYIABABGAAgACoTCgVzZXZlbhVK-EA9GgVzZTdlbipQCgZwZW9wbGUVPnAyPxoIY2l0aXplbnMaB21lbWJlcnMaA21lbhoGcGVyc29uGgV0aG9zZRoHdmljdGltcxoDbWFuGgRkZWFkGgZkZWF0aHMqJwoGa2lsbGVkFW2OQUAaBWRlYXRoGgRkaWVkGgtpdjtwO2tpbGxlZCoMCgV0cnVjaxWPo7o_KiEKA2hpdBUgeX0_GgRoaXRzGgdoaXR0aW5nGgZzdHJ1Y2sqMwoGcGlja3VwFbo7yT8aB3BpY2sgdXAaB3BpY2t1cHMaBXBpa3VwGgtpdjtwO3BpY2t1cCohCgN2YW4VAAAAABoFcGlrdXAaBHZhbnMaCHZlaGljbGVzKjQKCGFtcmF2YXRpFYGC3DwaFGdlbzszYmQ2YjAwMDAwMDAwMDAwGg1pdjtwO2FtcmF2YXRpMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlhOZXM0ckJtT1UzcmF1SGN3S3R6cFY3ZDNYTFRmU1dWa0NvZVFBQ0RIUmdBbVF5dzVqTEVadGlka1NKWUxqQ2E4b2FPdFlwVWt6eE81NmJSMThxU2RhNFlVaWV5dG1VTWk1dmdaWjRVbk42dTJLZmxfYVpQMkxLODl5cGsxVG43UXF0eTg1YzJvTTVHVmxwek8xVE5JUmQxUWc6TkFrb2xhLCBNYWhhcmFzaHRyYTogQSA3NS15ZWFyLW9sZCB3b21hbiB3YXMgPGI-a2lsbGVkPC9iPiBhbmQgMuKAkzMgb3RoZXJzIC4uLkK4AUFrb2xhLCBNYWhhcmFzaHRyYTogQSA3NS15ZWFyLW9sZCB3b21hbiB3YXMgPGI-a2lsbGVkPC9iPiBhbmQgMuKAkzMgb3RoZXJzIHNlcmlvdXNseSBpbmp1cmVkIGFmdGVyIGEgQm9sZXJvIDxiPnBpY2t1cDwvYj4gYWxsZWdlZGx5IHJhbW1lZCBpbnRvIGEgaG91c2UgZm91ciB0byBmaXZlIHRpbWVzIGFtaWQmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Facebook"
+   },
+   {
+    "position": 4,
+    "title": "Focus Plus Odisha's post",
+    "link": "https://www.facebook.com/focusplusodisha1/posts/%E0%AC%B0%E0%AC%BE%E0%AC%B8%E0%AD%8D%E0%AC%A4%E0%AC%BE_%E0%AC%95%E0%AC%A1%E0%AC%BC%E0%AC%95%E0%AD%81_%E0%AC%AE%E0%AC%BE%E0%AC%A1%E0%AC%BC%E0%AC%BF%E0%AC%97%E0%AC%B2%E0%AC%BE_%E0%AC%AF%E0%AC%BE%E0%AC%A4%E0%AD%8D%E0%AC%B0%E0%AD%80%E0%AC%AC%E0%AC%BE%E0%AC%B9%E0%AD%80_%E0%AC%AC%E0%AC%B8%E0%AD%8D_%E0%AC%85%E0%AC%B3%E0%AD%8D%E0%AC%AA%E0%AC%95%E0%AD%87_%E0%AC%AC%E0%AC%B0%E0%AD%8D%E0%AC%A4%E0%AD%8D%E0%AC%A4%E0%AC%BF%E0%AC%B2%E0%AD%87_%E0%AC%AF%E0%AC%BE%E0%AC%A4%E0%AD%8D%E0%AC%B0%E0%AD%80-focusplus-busaccide/1547935544024279/",
+    "displayed_link": "60+ reactions · 1 week ago",
+    "thumbnail": "https://serpapi.com/searches/6ac135729f8abc37c42937ce/images/67xhmP8fOOg5NAaq9aZBj66hm87GO2wqaD67jISbD8E.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "The bus collided head-on with a pick-up van in the area. Several people on the bus are feared to have suffered minor injuries. The injured passengers were ...",
+    "duration": "1:04",
+    "about_this_result": {
+     "source": {
+      "description": "The bus collided head-on with a pick-up van in the area. Several people on the bus are feared to have suffered minor injuries. The injured passengers were ...",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUGL2dvdG8_dXJsPUNBRVM4d1FCNnpzd0ZSZW9uN3pfR2Y5bHJCQVpvbG1BR0hCSll6SmFtQU8yRUdpVjU3ZUl0YldKNmhZcXNUcHpneHYxV3pGeGVQajI0MXhnMzZGNHpNOEQyR0NtVzYtdTgyX0R4QnZTMFFobG10Q0JKTWt0VVNVQWhIRjJUX3FkRk1iRmVLQzdjblFWZFFRMU16dWZmLXI0eWVIRXlKd283Rk1CQ3ZaYmNmZVNaaEV2UGpETVZMSy1kR1BJT3BsQnF6UjExZUtlbURvbEhkcFgxVWNqNU9taWtOdktwajg4M3hUbFNTejE1TFFoeTgtNEZNcGZGbDRNUGsxVGpuWDhUMUxOd3hZdHFDdy1COTlrTDlMakl0bUdkR2JCMGdsMHUtdFlfUzQ1UmpZb25zRnVKRVlDdWk5TmtkdWV6OUxoS0tFMmRJUG1aclQ2Y1FsVEZ3WnQwVzlNN2JRYTV3cXVOcExlTTAtSm54aXllUFNFOUtuRFdUQzZYRmliX0djbHBiY3NtWXVUZGJ6REY2WTlWQlR5NU1fZlpVUzFwV3BPVS01UXlHS3JreUp2ZDg3b3plTjk0Ul8wWFQ0RERsT3Iza19DakJ6emVhWUlsNVM5VU9NOFY2RnlwanNuNWlycFlIYlVqeElKaFlBc3N5cndkUlBGaS1wLTFlQTNDbWxlbEJSWDJLRy1rOUV3OUdxTzJoNldBYjFWeDh1UFNUTjdnS2p2ZjNWUk1sNUh2U2puVl9qcWg4b2lXLU1IRHZDSkt3REVpdGJDN0I1Sm5xM1Bya1Vta29MU3g2N0dLR0t2c0NjcG9DU3Q1S3kyVHBIQXczWm5Nd3FzaGI4MEhNTzhaekN6U0k2NG9IbjUzR2VPSVRnM05wYkJtUnJCRXhwNXAxcEdVczUxUGVabm1PSGE5UDNoSnRSdXBMalF4MnMtOHk5ZDc3Zk9ScUx5SXlwc29sLW1vbzdDY2FJZENNZ1JZeE1IdDlaUUdnMEVnM29kVXFhSXlaNXdCaFVWQjlVbWlBZjN6ZkpDV3RWdm1RckVndWdpTllpVEgzcnJiZkQ0bmV3M3VJdGpLMWMzdXZzNlg5bWZYZzFvMFp4R0lHS2hfd3VBbzU4WUs5QRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUGL2dvdG8_dXJsPUNBRVM4d1FCNnpzd0ZSZW9uN3pfR2Y5bHJCQVpvbG1BR0hCSll6SmFtQU8yRUdpVjU3ZUl0YldKNmhZcXNUcHpneHYxV3pGeGVQajI0MXhnMzZGNHpNOEQyR0NtVzYtdTgyX0R4QnZTMFFobG10Q0JKTWt0VVNVQWhIRjJUX3FkRk1iRmVLQzdjblFWZFFRMU16dWZmLXI0eWVIRXlKd283Rk1CQ3ZaYmNmZVNaaEV2UGpETVZMSy1kR1BJT3BsQnF6UjExZUtlbURvbEhkcFgxVWNqNU9taWtOdktwajg4M3hUbFNTejE1TFFoeTgtNEZNcGZGbDRNUGsxVGpuWDhUMUxOd3hZdHFDdy1COTlrTDlMakl0bUdkR2JCMGdsMHUtdFlfUzQ1UmpZb25zRnVKRVlDdWk5TmtkdWV6OUxoS0tFMmRJUG1aclQ2Y1FsVEZ3WnQwVzlNN2JRYTV3cXVOcExlTTAtSm54aXllUFNFOUtuRFdUQzZYRmliX0djbHBiY3NtWXVUZGJ6REY2WTlWQlR5NU1fZlpVUzFwV3BPVS01UXlHS3JreUp2ZDg3b3plTjk0Ul8wWFQ0RERsT3Iza19DakJ6emVhWUlsNVM5VU9NOFY2RnlwanNuNWlycFlIYlVqeElKaFlBc3N5cndkUlBGaS1wLTFlQTNDbWxlbEJSWDJLRy1rOUV3OUdxTzJoNldBYjFWeDh1UFNUTjdnS2p2ZjNWUk1sNUh2U2puVl9qcWg4b2lXLU1IRHZDSkt3REVpdGJDN0I1Sm5xM1Bya1Vta29MU3g2N0dLR0t2c0NjcG9DU3Q1S3kyVHBIQXczWm5Nd3FzaGI4MEhNTzhaekN6U0k2NG9IbjUzR2VPSVRnM05wYkJtUnJCRXhwNXAxcEdVczUxUGVabm1PSGE5UDNoSnRSdXBMalF4MnMtOHk5ZDc3Zk9ScUx5SXlwc29sLW1vbzdDY2FJZENNZ1JZeE1IdDlaUUdnMEVnM29kVXFhSXlaNXdCaFVWQjlVbWlBZjN6ZkpDV3RWdm1RckVndWdpTllpVEgzcnJiZkQ0bmV3M3VJdGpLMWMzdXZzNlg5bWZYZzFvMFp4R0lHS2hfd3VBbzU4WUs5QRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "source": "Facebook · Focus Plus Odisha"
+   },
+   {
+    "position": 5,
+    "title": "Horrific Road Acc@@@ in Anantapur District Car Crashes ...",
+    "link": "https://www.facebook.com/Deccan7news/posts/horrific-road-acc-in-anantapur-districtcar-crashes-into-roadside-shed-and-rams-i/1432733358991737/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxgEB6zswFYFxCUGHrfpgcuOdX5yjs9U638vFSbZmZXCGUUZp6HhX4BT9sDdHImRFTSfc9aIa5cPeDvrhpaS0GvbESQC3e3Qht9FrcBAWQeEvhPQEPveAujzp6t6EOqjKf3348klILdo5_1ITNiQVoC5u5onEy4b7dxUzAPSk0Ik-gx1ptJ9hT9sWHJANr3IQhmHc5VNC0qDe7yjvirPVC1vqJA-cbTfUj2rA7sxEvbXvYgp069BxUngu42fF29f67DNZ8csDMy0&ved=2ahUKEwicmNCYqp6XAxVZTFUIHexMO18QFnoECBgQAQ&uoh=1",
+    "displayed_link": "3 reactions",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "10 people including 2 children lost their lives and 3 were seriously injured in a head-on collision between a private bus and a Toyota Innova in broad daylight ...",
+    "snippet_highlighted_words": [
+     "people"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "10 people including 2 children lost their lives and 3 were seriously injured in a head-on collision between a private bus and a Toyota Innova in broad daylight ...",
+      "source_info_link": "https://www.facebook.com/Deccan7news/posts/horrific-road-acc-in-anantapur-districtcar-crashes-into-roadside-shed-and-rams-i/1432733358991737/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZZRnhDVUdIcmZwZ2N1T2RYNXlqczlVNjM4dkZTYlptWlhDR1VVWnA2SGhYNEJUOXNEZEhJbVJGVFNmYzlhSWE1Y1BlRHZyaHBhUzBHdmJFU1FDM2UzUWh0OUZyY0JBV1FlRXZoUFFFUHZlQXVqenA2dDZFT3FqS2YzMzQ4a2xJTGRvNV8xSVROaVFWb0M1dTVvbkV5NGI3ZHhVekFQU2swSWstZ3gxcHRKOWhUOXNXSEpBTnIzSVFobUhjNVZOQzBxRGU3eWp2aXJQVkMxdnFKQS1jYlRmVWoyckE3c3hFdmJYdllncDA2OUJ4VW5ndTQyZkYyOWY2N0ROWjhjc0RNeTASBBoCCAAahQcSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA4QYIABABGAAgACoTCgVzZXZlbhUYJPo8GgVzZTdlbipQCgZwZW9wbGUV52EdPxoIY2l0aXplbnMaB21lbWJlcnMaA21lbhoGcGVyc29uGgV0aG9zZRoHdmljdGltcxoDbWFuGgRkZWFkGgZkZWF0aHMqJwoGa2lsbGVkFcfV7D4aBWRlYXRoGgRkaWVkGgtpdjtwO2tpbGxlZCoMCgV0cnVjaxXlUMg8KiEKA2hpdBUAAAAAGgRoaXRzGgdoaXR0aW5nGgZzdHJ1Y2sqMwoGcGlja3VwFbIBzD0aB3BpY2sgdXAaB3BpY2t1cHMaBXBpa3VwGgtpdjtwO3BpY2t1cCohCgN2YW4VJW0TPRoFcGlrdXAaBHZhbnMaCHZlaGljbGVzKjQKCGFtcmF2YXRpFTypDT0aFGdlbzszYmQ2YjAwMDAwMDAwMDAwGg1pdjtwO2FtcmF2YXRpMpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZZRnhDVUdIcmZwZ2N1T2RYNXlqczlVNjM4dkZTYlptWlhDR1VVWnA2SGhYNEJUOXNEZEhJbVJGVFNmYzlhSWE1Y1BlRHZyaHBhUzBHdmJFU1FDM2UzUWh0OUZyY0JBV1FlRXZoUFFFUHZlQXVqenA2dDZFT3FqS2YzMzQ4a2xJTGRvNV8xSVROaVFWb0M1dTVvbkV5NGI3ZHhVekFQU2swSWstZ3gxcHRKOWhUOXNXSEpBTnIzSVFobUhjNVZOQzBxRGU3eWp2aXJQVkMxdnFKQS1jYlRmVWoyckE3c3hFdmJYdllncDA2OUJ4VW5ndTQyZkYyOWY2N0ROWjhjc0RNeTA6OkhvcnJpZmljIFJvYWQgQWNjQEBAIGluIEFuYW50YXB1ciBEaXN0cmljdCBDYXIgQ3Jhc2hlcyAuLi5CrwExMCA8Yj5wZW9wbGU8L2I-IGluY2x1ZGluZyAyIGNoaWxkcmVuIGxvc3QgdGhlaXIgbGl2ZXMgYW5kIDMgd2VyZSBzZXJpb3VzbHkgaW5qdXJlZCBpbiBhIGhlYWQtb24gY29sbGlzaW9uIGJldHdlZW4gYSBwcml2YXRlIGJ1cyBhbmQgYSBUb3lvdGEgSW5ub3ZhIGluIGJyb2FkIGRheWxpZ2h0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZZRnhDVUdIcmZwZ2N1T2RYNXlqczlVNjM4dkZTYlptWlhDR1VVWnA2SGhYNEJUOXNEZEhJbVJGVFNmYzlhSWE1Y1BlRHZyaHBhUzBHdmJFU1FDM2UzUWh0OUZyY0JBV1FlRXZoUFFFUHZlQXVqenA2dDZFT3FqS2YzMzQ4a2xJTGRvNV8xSVROaVFWb0M1dTVvbkV5NGI3ZHhVekFQU2swSWstZ3gxcHRKOWhUOXNXSEpBTnIzSVFobUhjNVZOQzBxRGU3eWp2aXJQVkMxdnFKQS1jYlRmVWoyckE3c3hFdmJYdllncDA2OUJ4VW5ndTQyZkYyOWY2N0ROWjhjc0RNeTASBBoCCAAahQcSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA4QYIABABGAAgACoTCgVzZXZlbhUYJPo8GgVzZTdlbipQCgZwZW9wbGUV52EdPxoIY2l0aXplbnMaB21lbWJlcnMaA21lbhoGcGVyc29uGgV0aG9zZRoHdmljdGltcxoDbWFuGgRkZWFkGgZkZWF0aHMqJwoGa2lsbGVkFcfV7D4aBWRlYXRoGgRkaWVkGgtpdjtwO2tpbGxlZCoMCgV0cnVjaxXlUMg8KiEKA2hpdBUAAAAAGgRoaXRzGgdoaXR0aW5nGgZzdHJ1Y2sqMwoGcGlja3VwFbIBzD0aB3BpY2sgdXAaB3BpY2t1cHMaBXBpa3VwGgtpdjtwO3BpY2t1cCohCgN2YW4VJW0TPRoFcGlrdXAaBHZhbnMaCHZlaGljbGVzKjQKCGFtcmF2YXRpFTypDT0aFGdlbzszYmQ2YjAwMDAwMDAwMDAwGg1pdjtwO2FtcmF2YXRpMpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZZRnhDVUdIcmZwZ2N1T2RYNXlqczlVNjM4dkZTYlptWlhDR1VVWnA2SGhYNEJUOXNEZEhJbVJGVFNmYzlhSWE1Y1BlRHZyaHBhUzBHdmJFU1FDM2UzUWh0OUZyY0JBV1FlRXZoUFFFUHZlQXVqenA2dDZFT3FqS2YzMzQ4a2xJTGRvNV8xSVROaVFWb0M1dTVvbkV5NGI3ZHhVekFQU2swSWstZ3gxcHRKOWhUOXNXSEpBTnIzSVFobUhjNVZOQzBxRGU3eWp2aXJQVkMxdnFKQS1jYlRmVWoyckE3c3hFdmJYdllncDA2OUJ4VW5ndTQyZkYyOWY2N0ROWjhjc0RNeTA6OkhvcnJpZmljIFJvYWQgQWNjQEBAIGluIEFuYW50YXB1ciBEaXN0cmljdCBDYXIgQ3Jhc2hlcyAuLi5CrwExMCA8Yj5wZW9wbGU8L2I-IGluY2x1ZGluZyAyIGNoaWxkcmVuIGxvc3QgdGhlaXIgbGl2ZXMgYW5kIDMgd2VyZSBzZXJpb3VzbHkgaW5qdXJlZCBpbiBhIGhlYWQtb24gY29sbGlzaW9uIGJldHdlZW4gYSBwcml2YXRlIGJ1cyBhbmQgYSBUb3lvdGEgSW5ub3ZhIGluIGJyb2FkIGRheWxpZ2h0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Facebook · Deccan7 News",
+    "read_more_link": "https://www.facebook.com/Deccan7news/posts/horrific-road-acc-in-anantapur-districtcar-crashes-into-roadside-shed-and-rams-i/1432733358991737/#:~:text=10%20people%20including%202%20children,Mysuru%2C%20Karnataka%20on%20Monday%202023%2D05%2D29."
+   },
+   {
+    "position": 6,
+    "title": "I Paris titi amitibi ase. Bbsr ra ghatana. 7 people of a family ...",
+    "link": "https://www.facebook.com/khirodh.rout.75/posts/i-paris-titi-amitibi-ase/1540967957715537/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFW77wQzZIHr1xosD91QB-yqalflrER1spIRhMf67Qo86Foh41oKKrOcKJrFwNAnJRoGxOEdidikLNL_ehmyu8L8AZqOj8Xbtm5Ix2P0RJbAlY6oM_baiylTYqdYfR9brXUsqXTnwIfoqueY6UovXvwjqE0VmxlBduuoCrB3dkzDEkQ2Bk-KHqqHDdgLL&ved=2ahUKEwicmNCYqp6XAxVZTFUIHexMO18QFnoECDwQAQ&uoh=1",
+    "displayed_link": "2 reactions",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "7 people of a family member are dead.. a bike collided with a pickup van on Teesta Bridge",
+    "snippet_highlighted_words": [
+     "7 people of a family member are dead"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "7 people of a family member are dead.. a bike collided with a pickup van on Teesta Bridge",
+      "source_info_link": "https://www.facebook.com/khirodh.rout.75/posts/i-paris-titi-amitibi-ase/1540967957715537/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZXNzd3UXpaSUhyMXhvc0Q5MVFCLXlxYWxmbHJFUjFzcElSaE1mNjdRbzg2Rm9oNDFvS0tyT2NLSnJGd05BbkpSb0d4T0VkaWRpa0xOTF9laG15dThMOEFacU9qOFhidG01SXgyUDBSSmJBbFk2b01fYmFpeWxUWXFkWWZSOWJyWFVzcVhUbndJZm9xdWVZNlVvdlh2d2pxRTBWbXhsQmR1dW9DckIzZGt6REVrUTJCay1LSHFxSERkZ0xMEgQaAggAGv4FEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQNoFCAAQARgAIAAqEwoFc2V2ZW4VEbZpPxoFc2U3ZW4qUAoGcGVvcGxlFSqeHkAaCGNpdGl6ZW5zGgdtZW1iZXJzGgNtZW4aBnBlcnNvbhoFdGhvc2UaB3ZpY3RpbXMaA21hbhoEZGVhZBoGZGVhdGhzKicKBmtpbGxlZBWL7DY-GgVkZWF0aBoEZGllZBoLaXY7cDtraWxsZWQqDAoFdHJ1Y2sV4YcQPiohCgNoaXQVJRlAPRoEaGl0cxoHaGl0dGluZxoGc3RydWNrKjMKBnBpY2t1cBX4XGw-GgdwaWNrIHVwGgdwaWNrdXBzGgVwaWt1cBoLaXY7cDtwaWNrdXAqIQoDdmFuFfhcbD4aBXBpa3VwGgR2YW5zGgh2ZWhpY2xlcyo0CghhbXJhdmF0aRWOwEs9GhRnZW87M2JkNmIwMDAwMDAwMDAwMBoNaXY7cDthbXJhdmF0aTLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGVzc3d1F6WklIcjF4b3NEOTFRQi15cWFsZmxyRVIxc3BJUmhNZjY3UW84NkZvaDQxb0tLck9jS0pyRndOQW5KUm9HeE9FZGlkaWtMTkxfZWhteXU4TDhBWnFPajhYYnRtNUl4MlAwUkpiQWxZNm9NX2JhaXlsVFlxZFlmUjliclhVc3FYVG53SWZvcXVlWTZVb3ZYdndqcUUwVm14bEJkdXVvQ3JCM2RrekRFa1EyQmstS0hxcUhEZGdMTDpKSSBQYXJpcyB0aXRpIGFtaXRpYmkgYXNlLiBCYnNyIHJhIGdoYXRhbmEuIDcgPGI-cGVvcGxlPC9iPiBvZiBhIGZhbWlseSAuLi5CYDxiPjcgcGVvcGxlIG9mIGEgZmFtaWx5IG1lbWJlciBhcmUgZGVhZDwvYj4uLiBhIGJpa2UgY29sbGlkZWQgd2l0aCBhIHBpY2t1cCB2YW4gb24gVGVlc3RhIEJyaWRnZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZXNzd3UXpaSUhyMXhvc0Q5MVFCLXlxYWxmbHJFUjFzcElSaE1mNjdRbzg2Rm9oNDFvS0tyT2NLSnJGd05BbkpSb0d4T0VkaWRpa0xOTF9laG15dThMOEFacU9qOFhidG01SXgyUDBSSmJBbFk2b01fYmFpeWxUWXFkWWZSOWJyWFVzcVhUbndJZm9xdWVZNlVvdlh2d2pxRTBWbXhsQmR1dW9DckIzZGt6REVrUTJCay1LSHFxSERkZ0xMEgQaAggAGv4FEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQNoFCAAQARgAIAAqEwoFc2V2ZW4VEbZpPxoFc2U3ZW4qUAoGcGVvcGxlFSqeHkAaCGNpdGl6ZW5zGgdtZW1iZXJzGgNtZW4aBnBlcnNvbhoFdGhvc2UaB3ZpY3RpbXMaA21hbhoEZGVhZBoGZGVhdGhzKicKBmtpbGxlZBWL7DY-GgVkZWF0aBoEZGllZBoLaXY7cDtraWxsZWQqDAoFdHJ1Y2sV4YcQPiohCgNoaXQVJRlAPRoEaGl0cxoHaGl0dGluZxoGc3RydWNrKjMKBnBpY2t1cBX4XGw-GgdwaWNrIHVwGgdwaWNrdXBzGgVwaWt1cBoLaXY7cDtwaWNrdXAqIQoDdmFuFfhcbD4aBXBpa3VwGgR2YW5zGgh2ZWhpY2xlcyo0CghhbXJhdmF0aRWOwEs9GhRnZW87M2JkNmIwMDAwMDAwMDAwMBoNaXY7cDthbXJhdmF0aTLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGVzc3d1F6WklIcjF4b3NEOTFRQi15cWFsZmxyRVIxc3BJUmhNZjY3UW84NkZvaDQxb0tLck9jS0pyRndOQW5KUm9HeE9FZGlkaWtMTkxfZWhteXU4TDhBWnFPajhYYnRtNUl4MlAwUkpiQWxZNm9NX2JhaXlsVFlxZFlmUjliclhVc3FYVG53SWZvcXVlWTZVb3ZYdndqcUUwVm14bEJkdXVvQ3JCM2RrekRFa1EyQmstS0hxcUhEZGdMTDpKSSBQYXJpcyB0aXRpIGFtaXRpYmkgYXNlLiBCYnNyIHJhIGdoYXRhbmEuIDcgPGI-cGVvcGxlPC9iPiBvZiBhIGZhbWlseSAuLi5CYDxiPjcgcGVvcGxlIG9mIGEgZmFtaWx5IG1lbWJlciBhcmUgZGVhZDwvYj4uLiBhIGJpa2UgY29sbGlkZWQgd2l0aCBhIHBpY2t1cCB2YW4gb24gVGVlc3RhIEJyaWRnZSICEAFIAFgAaAA",
+    "source": "Facebook · Khirodh Rout Khirod Rout"
+   },
+   {
+    "position": 7,
+    "title": "#WestBengalTouristBus #BusAccident #Nilagiri #Odisha ...",
+    "link": "https://www.facebook.com/ManasKumarHansdah/posts/westbengaltouristbus-busaccident-nilagiri-odisha-busaccident-santaligroundreport/3602352129919546/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzAEB6zswFUgR1Bx2bOs0LUYnzG27o0Clf1SxuIS-NQ_CtVWwENsK2pWz7Wu64Pnz7rDIGOhOJOTaDf0i0LEWwQ4CC0cIJsJiUqZB4PbG_tbHhOTKr37xsHZ5gQbnncetiIArMVylqq6nAxlJU3_4m7MbKUozoXqjsH4TJRoQRxywFdMQ6N7kq8lGzwAAVRn7a-DS_WJV8qHkCbwa6qJ4CGR_I4bQ6IBxNq5FGdRLj8GqDM-Bl4_1kcZ3WtUch0e9OOj67sQyXvCYL4JGWCk&ved=2ahUKEwicmNCYqp6XAxVZTFUIHexMO18QFnoECDkQAQ&uoh=1",
+    "displayed_link": "https://www.facebook.com › posts › westbengaltouristb...",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "The bus collided head-on with a pick-up van in the area. Several people on the bus are feared to have suffered minor injuries.",
+    "snippet_highlighted_words": [
+     "pick-up van",
+     "people"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "The bus collided head-on with a pick-up van in the area. Several people on the bus are feared to have suffered minor injuries.",
+      "source_info_link": "https://www.facebook.com/ManasKumarHansdah/posts/westbengaltouristbus-busaccident-nilagiri-odisha-busaccident-santaligroundreport/3602352129919546/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqECL2dvdG8_dXJsPUNBRVN6QUVCNnpzd0ZVZ1IxQngyYk9zMExVWW56RzI3bzBDbGYxU3h1SVMtTlFfQ3RWV3dFTnNLMnBXejdXdTY0UG56N3JESUdPaE9KT1RhRGYwaTBMRVd3UTRDQzBjSUpzSmlVcVpCNFBiR190YkhoT1RLcjM3eHNIWjVnUWJubmNldGlJQXJNVnlscXE2bkF4bEpVM180bTdNYktVb3pvWHFqc0g0VEpSb1FSeHl3RmRNUTZON2txOGxHendBQVZSbjdhLURTX1dKVjhxSGtDYndhNnFKNENHUl9JNGJRNklCeE5xNUZHZFJMajhHcURNLUJsNF8xa2NaM1d0VWNoMGU5T09qNjdzUXlYdkNZTDRKR1dDaxIEGgIIABroBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDEBggAEAEYACAAKhMKBXNldmVuFT7TJD0aBXNlN2VuKlAKBnBlb3BsZRW4l4Y-GghjaXRpemVucxoHbWVtYmVycxoDbWVuGgZwZXJzb24aBXRob3NlGgd2aWN0aW1zGgNtYW4aBGRlYWQaBmRlYXRocyonCgZraWxsZWQVXAmGPhoFZGVhdGgaBGRpZWQaC2l2O3A7a2lsbGVkKgwKBXRydWNrFR_UUz0qIQoDaGl0FbMzGz0aBGhpdHMaB2hpdHRpbmcaBnN0cnVjayozCgZwaWNrdXAVcXVGPhoHcGljayB1cBoHcGlja3VwcxoFcGlrdXAaC2l2O3A7cGlja3VwKiEKA3ZhbhVxdUY-GgVwaWt1cBoEdmFucxoIdmVoaWNsZXMqNAoIYW1yYXZhdGkVPvwDPRoUZ2VvOzNiZDZiMDAwMDAwMDAwMDAaDWl2O3A7YW1yYXZhdGkyoQIvZ290bz91cmw9Q0FFU3pBRUI2enN3RlVnUjFCeDJiT3MwTFVZbnpHMjdvMENsZjFTeHVJUy1OUV9DdFZXd0VOc0sycFd6N1d1NjRQbno3ckRJR09oT0pPVGFEZjBpMExFV3dRNENDMGNJSnNKaVVxWkI0UGJHX3RiSGhPVEtyMzd4c0haNWdRYm5uY2V0aUlBck1WeWxxcTZuQXhsSlUzXzRtN01iS1Vvem9YcWpzSDRUSlJvUVJ4eXdGZE1RNk43a3E4bEd6d0FBVlJuN2EtRFNfV0pWOHFIa0Nid2E2cUo0Q0dSX0k0YlE2SUJ4TnE1RkdkUkxqOEdxRE0tQmw0XzFrY1ozV3RVY2gwZTlPT2o2N3NReVh2Q1lMNEpHV0NrOjgjV2VzdEJlbmdhbFRvdXJpc3RCdXMgI0J1c0FjY2lkZW50ICNOaWxhZ2lyaSAjT2Rpc2hhIC4uLkKMAVRoZSBidXMgY29sbGlkZWQgaGVhZC1vbiB3aXRoIGEgPGI-cGljay11cCB2YW48L2I-IGluIHRoZSBhcmVhLiBTZXZlcmFsIDxiPnBlb3BsZTwvYj4gb24gdGhlIGJ1cyBhcmUgZmVhcmVkIHRvIGhhdmUgc3VmZmVyZWQgbWlub3IgaW5qdXJpZXMuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqECL2dvdG8_dXJsPUNBRVN6QUVCNnpzd0ZVZ1IxQngyYk9zMExVWW56RzI3bzBDbGYxU3h1SVMtTlFfQ3RWV3dFTnNLMnBXejdXdTY0UG56N3JESUdPaE9KT1RhRGYwaTBMRVd3UTRDQzBjSUpzSmlVcVpCNFBiR190YkhoT1RLcjM3eHNIWjVnUWJubmNldGlJQXJNVnlscXE2bkF4bEpVM180bTdNYktVb3pvWHFqc0g0VEpSb1FSeHl3RmRNUTZON2txOGxHendBQVZSbjdhLURTX1dKVjhxSGtDYndhNnFKNENHUl9JNGJRNklCeE5xNUZHZFJMajhHcURNLUJsNF8xa2NaM1d0VWNoMGU5T09qNjdzUXlYdkNZTDRKR1dDaxIEGgIIABroBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDEBggAEAEYACAAKhMKBXNldmVuFT7TJD0aBXNlN2VuKlAKBnBlb3BsZRW4l4Y-GghjaXRpemVucxoHbWVtYmVycxoDbWVuGgZwZXJzb24aBXRob3NlGgd2aWN0aW1zGgNtYW4aBGRlYWQaBmRlYXRocyonCgZraWxsZWQVXAmGPhoFZGVhdGgaBGRpZWQaC2l2O3A7a2lsbGVkKgwKBXRydWNrFR_UUz0qIQoDaGl0FbMzGz0aBGhpdHMaB2hpdHRpbmcaBnN0cnVjayozCgZwaWNrdXAVcXVGPhoHcGljayB1cBoHcGlja3VwcxoFcGlrdXAaC2l2O3A7cGlja3VwKiEKA3ZhbhVxdUY-GgVwaWt1cBoEdmFucxoIdmVoaWNsZXMqNAoIYW1yYXZhdGkVPvwDPRoUZ2VvOzNiZDZiMDAwMDAwMDAwMDAaDWl2O3A7YW1yYXZhdGkyoQIvZ290bz91cmw9Q0FFU3pBRUI2enN3RlVnUjFCeDJiT3MwTFVZbnpHMjdvMENsZjFTeHVJUy1OUV9DdFZXd0VOc0sycFd6N1d1NjRQbno3ckRJR09oT0pPVGFEZjBpMExFV3dRNENDMGNJSnNKaVVxWkI0UGJHX3RiSGhPVEtyMzd4c0haNWdRYm5uY2V0aUlBck1WeWxxcTZuQXhsSlUzXzRtN01iS1Vvem9YcWpzSDRUSlJvUVJ4eXdGZE1RNk43a3E4bEd6d0FBVlJuN2EtRFNfV0pWOHFIa0Nid2E2cUo0Q0dSX0k0YlE2SUJ4TnE1RkdkUkxqOEdxRE0tQmw0XzFrY1ozV3RVY2gwZTlPT2o2N3NReVh2Q1lMNEpHV0NrOjgjV2VzdEJlbmdhbFRvdXJpc3RCdXMgI0J1c0FjY2lkZW50ICNOaWxhZ2lyaSAjT2Rpc2hhIC4uLkKMAVRoZSBidXMgY29sbGlkZWQgaGVhZC1vbiB3aXRoIGEgPGI-cGljay11cCB2YW48L2I-IGluIHRoZSBhcmVhLiBTZXZlcmFsIDxiPnBlb3BsZTwvYj4gb24gdGhlIGJ1cyBhcmUgZmVhcmVkIHRvIGhhdmUgc3VmZmVyZWQgbWlub3IgaW5qdXJpZXMuIgIQAUgAWABoAA",
+    "source": "Facebook"
+   },
+   {
+    "position": 8,
+    "title": "𝙏𝙝𝙚 𝙃𝙤𝙣𝙙𝙖 𝘾𝙞𝙫𝙞𝙘 𝙏𝙮𝙥𝙚 𝙍 𝙞𝙨 𝙖 ...",
+    "link": "https://www.facebook.com/manishkumar.yadav.864152/posts/%F0%9D%99%8F%F0%9D%99%9D%F0%9D%99%9A-%F0%9D%99%83%F0%9D%99%A4%F0%9D%99%A3%F0%9D%99%99%F0%9D%99%96-%F0%9D%98%BE%F0%9D%99%9E%F0%9D%99%AB%F0%9D%99%9E%F0%9D%99%98-%F0%9D%99%8F%F0%9D%99%AE%F0%9D%99%A5%F0%9D%99%9A-%F0%9D%99%8D-%F0%9D%99%9E%F0%9D%99%A8-%F0%9D%99%96-%F0%9D%99%9D%F0%9D%99%9E%F0%9D%99%9C%F0%9D%99%9D%F0%9D%99%A5%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%9B%F0%9D%99%A4%F0%9D%99%A7%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%98%F0%9D%99%9A-%F0%9D%99%AB%F0%9D%99%96%F0%9D%99%A7%F0%9D%99%9E%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A9-%F0%9D%99%A4%F0%9D%99%9B-%F0%9D%99%A9%F0%9D%99%9D%F0%9D%99%9A-%F0%9D%99%83%F0%9D%99%A4%F0%9D%99%A3%F0%9D%99%99%F0%9D%99%96-%F0%9D%98%BE%F0%9D%99%9E%F0%9D%99%AB%F0%9D%99%9E%F0%9D%99%98-%F0%9D%99%A0%F0%9D%99%A3%F0%9D%99%A4%F0%9D%99%AC%F0%9D%99%A3-%F0%9D%99%9B%F0%9D%99%A4%F0%9D%99%A7/1065144952980259/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqQcB6zswFRDmikBTG0I0-b-7Zo95_qBl36aw6xOF3zArBysJQnvXb9yoCRzZ1esFATReg0pFlizEFdck8SBoJz2OfHE_ovth30l-mkYLjXeOtNo4GyBbH-BASBdCGtjn98df-XNgyuuuUl_rY4rjtCsyYSRklgG0tWoxDt5Q2dTKYP0wqKFpCCNIZHz9zudAP7ymz3eMBj-zHHvkA7WVwndQFqpE638Zh7vF79TAZRDhwIQxjyZ33jE9umwYtSB73mwwPLyEV2O-b3qxERX_yh-l6Xrqu9hXqetGv27Oriul2asccHRNFaq5YxBjKzAtg0Gy7uuLStXZb6iTLAnFghyvPwEkfhgeN4EVsjfR9bljY1d8nQp7cduxKk0RheXohefmWnNwDneqI1G9vrsTEQzC0YE0pp_oEN3N2IO19kwthwYPl_b5AVMXQORDhf6n6VKulmmDBubJOGxpy4qyS0kEymAUj4uM9uqlpANZ2IMkFyRnvexEI7Z8BH8WlLuuFE3_c-DVuH36-DwgnBqzV05zKpg4skyhuyH1MZYI5fTXl-zGwMfSe00WLUYoXu0CNPL0qdQ9c3_O22ura9o0t0-TmSw2lbE2EJAyqmqTQMFGOiSgeYWHWql878t6mNN2l1sFTAKdXLgk92tpEz_4jSSjwNqrFQUWq7h607GuZT9dygvtk9etu2uaA04vKJOr968xupGvUwro-77fURYtwcBlWsCrXArMakhEUOeiV2QOVUmsijJlzj3xcTW0aqAebrOM2BxOsmWyC9HDkg_b1tJtEvyt-qVtyFeZv-ZSXEpgBzvW-QiK2LDfhzT1S1SvF1gOF789XMlSgwcwn0S6_seGpWlPnTAYfunXpBfcayxBhpvw6_I0FBq455hmk-g6B5B4QwbEpGm_kLAzPenA3KTbc9_Wf4f8DrWIsupQtWNvXJ1artp1Sy5Tysw9UIWRSpSW81Tqdf63wPhPgbwDKIEgrSY4STgtsRodED555jXyD2JjW9Ez6lFljGI7wEifq-saw7cxfovZTaxcOcqTWc-8OklLSXWe7FZ6M0Y5c5KKWo71NWdTWFdgQVGVFrFVZAxQZDv0jYnD-aFEAhOfHxV5WOxXn8bggI5mXwWNteBnWMRxEZypW3i4QZs-PmkTmDJaC99XqfDk2nRIo4fAxC9ZrntuwuflZtziMepHug2Pu4XD6wcj2958bT1HuiodjzGzzhFynm1cmwGhLz978xeJIb0Ytzdfq9cI&ved=2ahUKEwicmNCYqp6XAxVZTFUIHexMO18QFnoECD4QAQ&uoh=1",
+    "displayed_link": "8 reactions",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Amravati, Maharashtra. any threat was extended by the accused to cause death or hurt to the victim nor his conduct gave rise to reasonable apprehension that ...",
+    "snippet_highlighted_words": [
+     "Amravati",
+     "death"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Amravati, Maharashtra. any threat was extended by the accused to cause death or hurt to the victim nor his conduct gave rise to reasonable apprehension that ...",
+      "source_info_link": "https://www.facebook.com/manishkumar.yadav.864152/posts/%F0%9D%99%8F%F0%9D%99%9D%F0%9D%99%9A-%F0%9D%99%83%F0%9D%99%A4%F0%9D%99%A3%F0%9D%99%99%F0%9D%99%96-%F0%9D%98%BE%F0%9D%99%9E%F0%9D%99%AB%F0%9D%99%9E%F0%9D%99%98-%F0%9D%99%8F%F0%9D%99%AE%F0%9D%99%A5%F0%9D%99%9A-%F0%9D%99%8D-%F0%9D%99%9E%F0%9D%99%A8-%F0%9D%99%96-%F0%9D%99%9D%F0%9D%99%9E%F0%9D%99%9C%F0%9D%99%9D%F0%9D%99%A5%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%9B%F0%9D%99%A4%F0%9D%99%A7%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%98%F0%9D%99%9A-%F0%9D%99%AB%F0%9D%99%96%F0%9D%99%A7%F0%9D%99%9E%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A9-%F0%9D%99%A4%F0%9D%99%9B-%F0%9D%99%A9%F0%9D%99%9D%F0%9D%99%9A-%F0%9D%99%83%F0%9D%99%A4%F0%9D%99%A3%F0%9D%99%99%F0%9D%99%96-%F0%9D%98%BE%F0%9D%99%9E%F0%9D%99%AB%F0%9D%99%9E%F0%9D%99%98-%F0%9D%99%A0%F0%9D%99%A3%F0%9D%99%A4%F0%9D%99%AC%F0%9D%99%A3-%F0%9D%99%9B%F0%9D%99%A4%F0%9D%99%A7/1065144952980259/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvIJL2dvdG8_dXJsPUNBRVNxUWNCNnpzd0ZSRG1pa0JURzBJMC1iLTdabzk1X3FCbDM2YXc2eE9GM3pBckJ5c0pRbnZYYjl5b0NSeloxZXNGQVRSZWcwcEZsaXpFRmRjazhTQm9KejJPZkhFX292dGgzMGwtbWtZTGpYZU90Tm80R3lCYkgtQkFTQmRDR3Rqbjk4ZGYtWE5neXV1dVVsX3JZNHJqdENzeVlTUmtsZ0cwdFdveER0NVEyZFRLWVAwd3FLRnBDQ05JWkh6OXp1ZEFQN3ltejNlTUJqLXpISHZrQTdXVnduZFFGcXBFNjM4Wmg3dkY3OVRBWlJEaHdJUXhqeVozM2pFOXVtd1l0U0I3M213d1BMeUVWMk8tYjNxeEVSWF95aC1sNlhycXU5aFhxZXRHdjI3T3JpdWwyYXNjY0hSTkZhcTVZeEJqS3pBdGcwR3k3dXVMU3RYWmI2aVRMQW5GZ2h5dlB3RWtmaGdlTjRFVnNqZlI5YmxqWTFkOG5RcDdjZHV4S2swUmhlWG9oZWZtV25Od0RuZXFJMUc5dnJzVEVRekMwWUUwcHBfb0VOM04ySU8xOWt3dGh3WVBsX2I1QVZNWFFPUkRoZjZuNlZLdWxtbURCdWJKT0d4cHk0cXlTMGtFeW1BVWo0dU05dXFscEFOWjJJTWtGeVJudmV4RUk3WjhCSDhXbEx1dUZFM19jLURWdUgzNi1Ed2duQnF6VjA1ektwZzRza3lodXlIMU1aWUk1ZlRYbC16R3dNZlNlMDBXTFVZb1h1MENOUEwwcWRROWMzX08yMnVyYTlvMHQwLVRtU3cybGJFMkVKQXlxbXFUUU1GR09pU2dlWVdIV3FsODc4dDZtTk4ybDFzRlRBS2RYTGdrOTJ0cEV6XzRqU1Nqd05xckZRVVdxN2g2MDdHdVpUOWR5Z3Z0azlldHUydWFBMDR2S0pPcjk2OHh1cEd2VXdyby03N2ZVUll0d2NCbFdzQ3JYQXJNYWtoRVVPZWlWMlFPVlVtc2lqSmx6ajN4Y1RXMGFxQWVick9NMkJ4T3NtV3lDOUhEa2dfYjF0SnRFdnl0LXFWdHlGZVp2LVpTWEVwZ0J6dlctUWlLMkxEZmh6VDFTMVN2RjFnT0Y3ODlYTWxTZ3djd24wUzZfc2VHcFdsUG5UQVlmdW5YcEJmY2F5eEJocHZ3Nl9JMEZCcTQ1NWhtay1nNkI1QjRRd2JFcEdtX2tMQXpQZW5BM0tUYmM5X1dmNGY4RHJXSXN1cFF0V052WEoxYXJ0cDFTeTVUeXN3OVVJV1JTcFNXODFUcWRmNjN3UGhQZ2J3REtJRWdyU1k0U1RndHNSb2RFRDU1NWpYeUQySmpXOUV6NmxGbGpHSTd3RWlmcS1zYXc3Y3hmb3ZaVGF4Y09jcVRXYy04T2tsTFNYV2U3Rlo2TTBZNWM1S0tXbzcxTldkVFdGZGdRVkdWRnJGVlpBeFFaRHYwalluRC1hRkVBaE9mSHhWNVdPeFhuOGJnZ0k1bVh3V050ZUJuV01SeEVaeXBXM2k0UVpzLVBta1RtREphQzk5WHFmRGsyblJJbzRmQXhDOVpybnR1d3VmbFp0emlNZXBIdWcyUHU0WEQ2d2NqMjk1OGJUMUh1aW9kanpHenpoRnlubTFjbXdHaEx6OTc4eGVKSWIwWXR6ZGZxOWNJEgQaAggAGtgOEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLQOCAAQARgAIAAqEwoFc2V2ZW4VZX_QOxoFc2U3ZW4qUAoGcGVvcGxlFVSKfT0aCGNpdGl6ZW5zGgdtZW1iZXJzGgNtZW4aBnBlcnNvbhoFdGhvc2UaB3ZpY3RpbXMaA21hbhoEZGVhZBoGZGVhdGhzKicKBmtpbGxlZBUAAAAAGgVkZWF0aBoEZGllZBoLaXY7cDtraWxsZWQqDAoFdHJ1Y2sVgPBtPCohCgNoaXQV1TOOPBoEaGl0cxoHaGl0dGluZxoGc3RydWNrKjMKBnBpY2t1cBW3XjA7GgdwaWNrIHVwGgdwaWNrdXBzGgVwaWt1cBoLaXY7cDtwaWNrdXAqIQoDdmFuFdUzDjwaBXBpa3VwGgR2YW5zGgh2ZWhpY2xlcyo0CghhbXJhdmF0aRVh_JI8GhRnZW87M2JkNmIwMDAwMDAwMDAwMBoNaXY7cDthbXJhdmF0aTLyCS9nb3RvP3VybD1DQUVTcVFjQjZ6c3dGUkRtaWtCVEcwSTAtYi03Wm85NV9xQmwzNmF3NnhPRjN6QXJCeXNKUW52WGI5eW9DUnpaMWVzRkFUUmVnMHBGbGl6RUZkY2s4U0JvSnoyT2ZIRV9vdnRoMzBsLW1rWUxqWGVPdE5vNEd5QmJILUJBU0JkQ0d0am45OGRmLVhOZ3l1dXVVbF9yWTRyanRDc3lZU1JrbGdHMHRXb3hEdDVRMmRUS1lQMHdxS0ZwQ0NOSVpIejl6dWRBUDd5bXozZU1Cai16SEh2a0E3V1Z3bmRRRnFwRTYzOFpoN3ZGNzlUQVpSRGh3SVF4anlaMzNqRTl1bXdZdFNCNzNtd3dQTHlFVjJPLWIzcXhFUlhfeWgtbDZYcnF1OWhYcWV0R3YyN09yaXVsMmFzY2NIUk5GYXE1WXhCakt6QXRnMEd5N3V1TFN0WFpiNmlUTEFuRmdoeXZQd0VrZmhnZU40RVZzamZSOWJsalkxZDhuUXA3Y2R1eEtrMFJoZVhvaGVmbVduTndEbmVxSTFHOXZyc1RFUXpDMFlFMHBwX29FTjNOMklPMTlrd3Rod1lQbF9iNUFWTVhRT1JEaGY2bjZWS3VsbW1EQnViSk9HeHB5NHF5UzBrRXltQVVqNHVNOXVxbHBBTloySU1rRnlSbnZleEVJN1o4Qkg4V2xMdXVGRTNfYy1EVnVIMzYtRHdnbkJxelYwNXpLcGc0c2t5aHV5SDFNWllJNWZUWGwtekd3TWZTZTAwV0xVWW9YdTBDTlBMMHFkUTljM19PMjJ1cmE5bzB0MC1UbVN3MmxiRTJFSkF5cW1xVFFNRkdPaVNnZVlXSFdxbDg3OHQ2bU5OMmwxc0ZUQUtkWExnazkydHBFel80alNTandOcXJGUVVXcTdoNjA3R3VaVDlkeWd2dGs5ZXR1MnVhQTA0dktKT3I5Njh4dXBHdlV3cm8tNzdmVVJZdHdjQmxXc0NyWEFyTWFraEVVT2VpVjJRT1ZVbXNpakpsemozeGNUVzBhcUFlYnJPTTJCeE9zbVd5QzlIRGtnX2IxdEp0RXZ5dC1xVnR5RmVadi1aU1hFcGdCenZXLVFpSzJMRGZoelQxUzFTdkYxZ09GNzg5WE1sU2d3Y3duMFM2X3NlR3BXbFBuVEFZZnVuWHBCZmNheXhCaHB2dzZfSTBGQnE0NTVobWstZzZCNUI0UXdiRXBHbV9rTEF6UGVuQTNLVGJjOV9XZjRmOERyV0lzdXBRdFdOdlhKMWFydHAxU3k1VHlzdzlVSVdSU3BTVzgxVHFkZjYzd1BoUGdid0RLSUVnclNZNFNUZ3RzUm9kRUQ1NTVqWHlEMkpqVzlFejZsRmxqR0k3d0VpZnEtc2F3N2N4Zm92WlRheGNPY3FUV2MtOE9rbExTWFdlN0ZaNk0wWTVjNUtLV283MU5XZFRXRmRnUVZHVkZyRlZaQXhRWkR2MGpZbkQtYUZFQWhPZkh4VjVXT3hYbjhiZ2dJNW1Yd1dOdGVCbldNUnhFWnlwVzNpNFFacy1QbWtUbURKYUM5OVhxZkRrMm5SSW80ZkF4Qzlacm50dXd1ZmxadHppTWVwSHVnMlB1NFhENndjajI5NThiVDFIdWlvZGp6R3p6aEZ5bm0xY213R2hMejk3OHhlSkliMFl0emRmcTljSTowI1RoZSBIb25kYSBDaXZpYyBUeXBlIFIgaXMgYSBoaWdocGVyZm9ybWFuY2UgLi4uQrMBPGI-QW1yYXZhdGk8L2I-LCBNYWhhcmFzaHRyYS4gYW55IHRocmVhdCB3YXMgZXh0ZW5kZWQgYnkgdGhlIGFjY3VzZWQgdG8gY2F1c2UgPGI-ZGVhdGg8L2I-IG9yIGh1cnQgdG8gdGhlIHZpY3RpbSBub3IgaGlzIGNvbmR1Y3QgZ2F2ZSByaXNlIHRvIHJlYXNvbmFibGUgYXBwcmVoZW5zaW9uIHRoYXQmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvIJL2dvdG8_dXJsPUNBRVNxUWNCNnpzd0ZSRG1pa0JURzBJMC1iLTdabzk1X3FCbDM2YXc2eE9GM3pBckJ5c0pRbnZYYjl5b0NSeloxZXNGQVRSZWcwcEZsaXpFRmRjazhTQm9KejJPZkhFX292dGgzMGwtbWtZTGpYZU90Tm80R3lCYkgtQkFTQmRDR3Rqbjk4ZGYtWE5neXV1dVVsX3JZNHJqdENzeVlTUmtsZ0cwdFdveER0NVEyZFRLWVAwd3FLRnBDQ05JWkh6OXp1ZEFQN3ltejNlTUJqLXpISHZrQTdXVnduZFFGcXBFNjM4Wmg3dkY3OVRBWlJEaHdJUXhqeVozM2pFOXVtd1l0U0I3M213d1BMeUVWMk8tYjNxeEVSWF95aC1sNlhycXU5aFhxZXRHdjI3T3JpdWwyYXNjY0hSTkZhcTVZeEJqS3pBdGcwR3k3dXVMU3RYWmI2aVRMQW5GZ2h5dlB3RWtmaGdlTjRFVnNqZlI5YmxqWTFkOG5RcDdjZHV4S2swUmhlWG9oZWZtV25Od0RuZXFJMUc5dnJzVEVRekMwWUUwcHBfb0VOM04ySU8xOWt3dGh3WVBsX2I1QVZNWFFPUkRoZjZuNlZLdWxtbURCdWJKT0d4cHk0cXlTMGtFeW1BVWo0dU05dXFscEFOWjJJTWtGeVJudmV4RUk3WjhCSDhXbEx1dUZFM19jLURWdUgzNi1Ed2duQnF6VjA1ektwZzRza3lodXlIMU1aWUk1ZlRYbC16R3dNZlNlMDBXTFVZb1h1MENOUEwwcWRROWMzX08yMnVyYTlvMHQwLVRtU3cybGJFMkVKQXlxbXFUUU1GR09pU2dlWVdIV3FsODc4dDZtTk4ybDFzRlRBS2RYTGdrOTJ0cEV6XzRqU1Nqd05xckZRVVdxN2g2MDdHdVpUOWR5Z3Z0azlldHUydWFBMDR2S0pPcjk2OHh1cEd2VXdyby03N2ZVUll0d2NCbFdzQ3JYQXJNYWtoRVVPZWlWMlFPVlVtc2lqSmx6ajN4Y1RXMGFxQWVick9NMkJ4T3NtV3lDOUhEa2dfYjF0SnRFdnl0LXFWdHlGZVp2LVpTWEVwZ0J6dlctUWlLMkxEZmh6VDFTMVN2RjFnT0Y3ODlYTWxTZ3djd24wUzZfc2VHcFdsUG5UQVlmdW5YcEJmY2F5eEJocHZ3Nl9JMEZCcTQ1NWhtay1nNkI1QjRRd2JFcEdtX2tMQXpQZW5BM0tUYmM5X1dmNGY4RHJXSXN1cFF0V052WEoxYXJ0cDFTeTVUeXN3OVVJV1JTcFNXODFUcWRmNjN3UGhQZ2J3REtJRWdyU1k0U1RndHNSb2RFRDU1NWpYeUQySmpXOUV6NmxGbGpHSTd3RWlmcS1zYXc3Y3hmb3ZaVGF4Y09jcVRXYy04T2tsTFNYV2U3Rlo2TTBZNWM1S0tXbzcxTldkVFdGZGdRVkdWRnJGVlpBeFFaRHYwalluRC1hRkVBaE9mSHhWNVdPeFhuOGJnZ0k1bVh3V050ZUJuV01SeEVaeXBXM2k0UVpzLVBta1RtREphQzk5WHFmRGsyblJJbzRmQXhDOVpybnR1d3VmbFp0emlNZXBIdWcyUHU0WEQ2d2NqMjk1OGJUMUh1aW9kanpHenpoRnlubTFjbXdHaEx6OTc4eGVKSWIwWXR6ZGZxOWNJEgQaAggAGtgOEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLQOCAAQARgAIAAqEwoFc2V2ZW4VZX_QOxoFc2U3ZW4qUAoGcGVvcGxlFVSKfT0aCGNpdGl6ZW5zGgdtZW1iZXJzGgNtZW4aBnBlcnNvbhoFdGhvc2UaB3ZpY3RpbXMaA21hbhoEZGVhZBoGZGVhdGhzKicKBmtpbGxlZBUAAAAAGgVkZWF0aBoEZGllZBoLaXY7cDtraWxsZWQqDAoFdHJ1Y2sVgPBtPCohCgNoaXQV1TOOPBoEaGl0cxoHaGl0dGluZxoGc3RydWNrKjMKBnBpY2t1cBW3XjA7GgdwaWNrIHVwGgdwaWNrdXBzGgVwaWt1cBoLaXY7cDtwaWNrdXAqIQoDdmFuFdUzDjwaBXBpa3VwGgR2YW5zGgh2ZWhpY2xlcyo0CghhbXJhdmF0aRVh_JI8GhRnZW87M2JkNmIwMDAwMDAwMDAwMBoNaXY7cDthbXJhdmF0aTLyCS9nb3RvP3VybD1DQUVTcVFjQjZ6c3dGUkRtaWtCVEcwSTAtYi03Wm85NV9xQmwzNmF3NnhPRjN6QXJCeXNKUW52WGI5eW9DUnpaMWVzRkFUUmVnMHBGbGl6RUZkY2s4U0JvSnoyT2ZIRV9vdnRoMzBsLW1rWUxqWGVPdE5vNEd5QmJILUJBU0JkQ0d0am45OGRmLVhOZ3l1dXVVbF9yWTRyanRDc3lZU1JrbGdHMHRXb3hEdDVRMmRUS1lQMHdxS0ZwQ0NOSVpIejl6dWRBUDd5bXozZU1Cai16SEh2a0E3V1Z3bmRRRnFwRTYzOFpoN3ZGNzlUQVpSRGh3SVF4anlaMzNqRTl1bXdZdFNCNzNtd3dQTHlFVjJPLWIzcXhFUlhfeWgtbDZYcnF1OWhYcWV0R3YyN09yaXVsMmFzY2NIUk5GYXE1WXhCakt6QXRnMEd5N3V1TFN0WFpiNmlUTEFuRmdoeXZQd0VrZmhnZU40RVZzamZSOWJsalkxZDhuUXA3Y2R1eEtrMFJoZVhvaGVmbVduTndEbmVxSTFHOXZyc1RFUXpDMFlFMHBwX29FTjNOMklPMTlrd3Rod1lQbF9iNUFWTVhRT1JEaGY2bjZWS3VsbW1EQnViSk9HeHB5NHF5UzBrRXltQVVqNHVNOXVxbHBBTloySU1rRnlSbnZleEVJN1o4Qkg4V2xMdXVGRTNfYy1EVnVIMzYtRHdnbkJxelYwNXpLcGc0c2t5aHV5SDFNWllJNWZUWGwtekd3TWZTZTAwV0xVWW9YdTBDTlBMMHFkUTljM19PMjJ1cmE5bzB0MC1UbVN3MmxiRTJFSkF5cW1xVFFNRkdPaVNnZVlXSFdxbDg3OHQ2bU5OMmwxc0ZUQUtkWExnazkydHBFel80alNTandOcXJGUVVXcTdoNjA3R3VaVDlkeWd2dGs5ZXR1MnVhQTA0dktKT3I5Njh4dXBHdlV3cm8tNzdmVVJZdHdjQmxXc0NyWEFyTWFraEVVT2VpVjJRT1ZVbXNpakpsemozeGNUVzBhcUFlYnJPTTJCeE9zbVd5QzlIRGtnX2IxdEp0RXZ5dC1xVnR5RmVadi1aU1hFcGdCenZXLVFpSzJMRGZoelQxUzFTdkYxZ09GNzg5WE1sU2d3Y3duMFM2X3NlR3BXbFBuVEFZZnVuWHBCZmNheXhCaHB2dzZfSTBGQnE0NTVobWstZzZCNUI0UXdiRXBHbV9rTEF6UGVuQTNLVGJjOV9XZjRmOERyV0lzdXBRdFdOdlhKMWFydHAxU3k1VHlzdzlVSVdSU3BTVzgxVHFkZjYzd1BoUGdid0RLSUVnclNZNFNUZ3RzUm9kRUQ1NTVqWHlEMkpqVzlFejZsRmxqR0k3d0VpZnEtc2F3N2N4Zm92WlRheGNPY3FUV2MtOE9rbExTWFdlN0ZaNk0wWTVjNUtLV283MU5XZFRXRmRnUVZHVkZyRlZaQXhRWkR2MGpZbkQtYUZFQWhPZkh4VjVXT3hYbjhiZ2dJNW1Yd1dOdGVCbldNUnhFWnlwVzNpNFFacy1QbWtUbURKYUM5OVhxZkRrMm5SSW80ZkF4Qzlacm50dXd1ZmxadHppTWVwSHVnMlB1NFhENndjajI5NThiVDFIdWlvZGp6R3p6aEZ5bm0xY213R2hMejk3OHhlSkliMFl0emRmcTljSTowI1RoZSBIb25kYSBDaXZpYyBUeXBlIFIgaXMgYSBoaWdocGVyZm9ybWFuY2UgLi4uQrMBPGI-QW1yYXZhdGk8L2I-LCBNYWhhcmFzaHRyYS4gYW55IHRocmVhdCB3YXMgZXh0ZW5kZWQgYnkgdGhlIGFjY3VzZWQgdG8gY2F1c2UgPGI-ZGVhdGg8L2I-IG9yIGh1cnQgdG8gdGhlIHZpY3RpbSBub3IgaGlzIGNvbmR1Y3QgZ2F2ZSByaXNlIHRvIHJlYXNvbmFibGUgYXBwcmVoZW5zaW9uIHRoYXQmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Facebook · Manishkumar Yadav"
+   }
+  ],
+  "dmca_messages": {
+   "title": "Notices about Filtered Results",
+   "messages": [
+    {
+     "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 8 already displayed.If you like, you can repeat the search with the omitted results included.",
+     "highlighted_words": [
+      {
+       "link": "https://www.google.com/search?q=Seven+people+killed+truck+hit+pickup+van+Amravati+&sca_esv=3cbbadbd95a53bdb&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnuzK8DAya_RfzgOJZsdQJ9024-Q5Q:1791047048113&filter=0",
+       "text": "repeat the search with the omitted results included"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,158 @@
+{
+ "engine": "google",
+ "params": {
+  "engine": "google",
+  "q": "Papaya leaf extract increases platelet count dengue patients",
+  "tbs": "qdr:m",
+  "gl": "in",
+  "hl": "en"
+ },
+ "fetched_at": "2026-10-03T17:04:10Z",
+ "response": {
+  "search_metadata": {
+   "id": "6ac135898d42f814b78441a3",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/b773t5OufLAAIgOjphOEmH3mVEtHUsafI7WkiGE5Dmc/6ac135898d42f814b78441a3.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/b773t5OufLAAIgOjphOEmH3mVEtHUsafI7WkiGE5Dmc/6ac135898d42f814b78441a3.json_with_pixel_position",
+   "created_at": "2026-10-03 17:04:09 UTC",
+   "processed_at": "2026-10-03 17:04:09 UTC",
+   "google_url": "https://www.google.com/search?q=Papaya+leaf+extract+increases+platelet+count+dengue+patients&oq=Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&gl=in&tbs=qdr:m&sourceid=chrome&ie=UTF-8",
+   "total_time_taken": 0.77
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Papaya leaf extract increases platelet count dengue patients",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop",
+   "tbs": "qdr:m"
+  },
+  "search_information": {
+   "query_displayed": "Papaya leaf extract increases platelet count dengue patients",
+   "total_results": 4,
+   "time_taken_displayed": 0.21,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Papaya Leaf Juice for Dengue: Does It Lift Platelets? - NNWA",
+    "link": "https://nnwa.in/blog/papaya-leaf-juice-for-dengue/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVq2JegJsyqhm30lX8l-3GnYSh-BWui433QQUJ6gOdR5bdCuDBbYFsvGG_0nx3wIatQxpRIoduYPT97_SMPqJ4M1S9zbJnkxurop_di8dPuN6g6Ebfzh1JRxSyPqksvTX1aQwggmDx4es&ved=2ahUKEwiS8auZqp6XAxVamO4BHdM9Ak8QFnoECBkQAQ&uoh=1",
+    "displayed_link": "https://nnwa.in › Blog",
+    "favicon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAAAQCACdASocABwAPtE-tFooIigoFAEAGglsAMAUgWQDbOqEBDAcQMYezZ_ID2AP0rDuoeh0voV-sU_9Y6oxNrSEP_igLJ_JKpEAAP72Et_qXbNn4GKhedj9upifBxI3jZ0ReApS7JQW_bUAp1gESTW14-7sYltmBdzHPzD8EoUWLnEzLfgipw2DJ_hLiLAsdqp4N4_pQAthAfDR6rlNQ3lcNurf7C6i2fGNMATYqtJ_p9zacl35MYcuuqG6oKM2MHf3KNZvSEST1ZCD9sh7EV64XbTY3FqAOaECYbrUtaJz8-spob2a8qdXz5KR6E7tK0uutXyT8yHGexzY6UBGA7xGJLaORV7_OmykBCXrbf1DHQzHF7sscvFDIa9_C38MRZW1y5fLYV65GSMnvNi2OYL51cbbTvHY3ZxxL_JYgd_xG0od4j4Wn6dpu-jQjlZlF7SYcSKXIbXkGox0phdNNlW-gPMvVAalVcpHchvB7-AAAA.webp",
+    "date": "14 Sept 2026",
+    "snippet": "The short version Papaya leaf juice or extract may raise platelet counts a little faster in dengue, and pooled studies suggest hospital stays about two days ...",
+    "snippet_highlighted_words": [
+     "may raise platelet counts a little faster in dengue"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "The short version Papaya leaf juice or extract may raise platelet counts a little faster in dengue, and pooled studies suggest hospital stays about two days ...",
+      "source_info_link": "https://nnwa.in/blog/papaya-leaf-juice-for-dengue/",
+      "icon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAAAQCACdASocABwAPtE-tFooIigoFAEAGglsAMAUgWQDbOqEBDAcQMYezZ_ID2AP0rDuoeh0voV-sU_9Y6oxNrSEP_igLJ_JKpEAAP72Et_qXbNn4GKhedj9upifBxI3jZ0ReApS7JQW_bUAp1gESTW14-7sYltmBdzHPzD8EoUWLnEzLfgipw2DJ_hLiLAsdqp4N4_pQAthAfDR6rlNQ3lcNurf7C6i2fGNMATYqtJ_p9zacl35MYcuuqG6oKM2MHf3KNZvSEST1ZCD9sh7EV64XbTY3FqAOaECYbrUtaJz8-spob2a8qdXz5KR6E7tK0uutXyT8yHGexzY6UBGA7xGJLaORV7_OmykBCXrbf1DHQzHF7sscvFDIa9_C38MRZW1y5fLYV65GSMnvNi2OYL51cbbTvHY3ZxxL_JYgd_xG0od4j4Wn6dpu-jQjlZlF7SYcSKXIbXkGox0phdNNlW-gPMvVAalVcpHchvB7-AAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVnEySmVnSnN5cWhtMzBsWDhsLTNHbllTaC1CV3VpNDMzUVFVSjZnT2RSNWJkQ3VEQmJZRnN2R0dfMG54M3dJYXRReHBSSW9kdVlQVDk3X1NNUHFKNE0xUzl6Ykpua3h1cm9wX2RpOGRQdU42ZzZFYmZ6aDFKUnhTeVBxa3N2VFgxYVF3Z2dtRHg0ZXMSBBoCCAAa8QcSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAzQcIABAAGAAgACpACgZwYXBheWEVAsbmQBoHcGFwYXlhcxoHcGF3IHBhdxoGcGF3cGF3GgpwYXBheWFsZWFmGgtpdjtwO3BhcGF5YSo3CgRsZWFmFcBG3kAaBmxlYXZlcxoKcGFwYXlhbGVhZhoLbGVhZmV4dHJhY3QaCWl2O3A7bGVhZip4CgdleHRyYWN0Fft3IEAaB2V4Y2VycHQaCWV4dHJhY3RlZBoKZXh0cmFjdGluZxoKZXh0cmFjdGlvbhoIZXh0cmFjdHMaBWp1aWNlGgRwdWxsGgpzdXBwbGVtZW50GgtsZWFmZXh0cmFjdBoMaXY7cDtleHRyYWN0KlEKCWluY3JlYXNlcxUAAAAAGgVib29zdBoJZGVjcmVhc2VzGgdpbXByb3ZlGghpbXByb3ZlcxoIaW5jcmVhc2UaCWluY3JlYXNlZBoFcmFpc2UqRQoIcGxhdGVsZXQVZFg4QBoJcGxhdGVsZXRzGgt0aHJvbWJvY3l0ZRoNcGxhdGVsZXRjb3VudBoNaXY7cDtwbGF0ZWxldCpGCgVjb3VudBW6mBVAGgdjb3VudGVkGghjb3VudGluZxoGY291bnRzGgZsZXZlbHMaBm51bWJlchoNcGxhdGVsZXRjb3VudCoaCgZkZW5ndWUV3IPIQBoLaXY7cDtkZW5ndWUqKgoIcGF0aWVudHMVp2vtPxoFZmV2ZXIaB3BhdGllbnQaCXBhdGllbnQnczKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZxMkplZ0pzeXFobTMwbFg4bC0zR25ZU2gtQld1aTQzM1FRVUo2Z09kUjViZEN1REJiWUZzdkdHXzBueDN3SWF0UXhwUklvZHVZUFQ5N19TTVBxSjRNMVM5emJKbmt4dXJvcF9kaThkUHVONmc2RWJmemgxSlJ4U3lQcWtzdlRYMWFRd2dnbUR4NGVzOlE8Yj5QYXBheWEgTGVhZiBKdWljZTwvYj4gZm9yIDxiPkRlbmd1ZTwvYj46IERvZXMgSXQgTGlmdCA8Yj5QbGF0ZWxldHM8L2I-PyAtIE5OV0FCrAFUaGUgc2hvcnQgdmVyc2lvbiBQYXBheWEgbGVhZiBqdWljZSBvciBleHRyYWN0IDxiPm1heSByYWlzZSBwbGF0ZWxldCBjb3VudHMgYSBsaXR0bGUgZmFzdGVyIGluIGRlbmd1ZTwvYj4sIGFuZCBwb29sZWQgc3R1ZGllcyBzdWdnZXN0IGhvc3BpdGFsIHN0YXlzIGFib3V0IHR3byBkYXlzJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVnEySmVnSnN5cWhtMzBsWDhsLTNHbllTaC1CV3VpNDMzUVFVSjZnT2RSNWJkQ3VEQmJZRnN2R0dfMG54M3dJYXRReHBSSW9kdVlQVDk3X1NNUHFKNE0xUzl6Ykpua3h1cm9wX2RpOGRQdU42ZzZFYmZ6aDFKUnhTeVBxa3N2VFgxYVF3Z2dtRHg0ZXMSBBoCCAAa8QcSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAzQcIABAAGAAgACpACgZwYXBheWEVAsbmQBoHcGFwYXlhcxoHcGF3IHBhdxoGcGF3cGF3GgpwYXBheWFsZWFmGgtpdjtwO3BhcGF5YSo3CgRsZWFmFcBG3kAaBmxlYXZlcxoKcGFwYXlhbGVhZhoLbGVhZmV4dHJhY3QaCWl2O3A7bGVhZip4CgdleHRyYWN0Fft3IEAaB2V4Y2VycHQaCWV4dHJhY3RlZBoKZXh0cmFjdGluZxoKZXh0cmFjdGlvbhoIZXh0cmFjdHMaBWp1aWNlGgRwdWxsGgpzdXBwbGVtZW50GgtsZWFmZXh0cmFjdBoMaXY7cDtleHRyYWN0KlEKCWluY3JlYXNlcxUAAAAAGgVib29zdBoJZGVjcmVhc2VzGgdpbXByb3ZlGghpbXByb3ZlcxoIaW5jcmVhc2UaCWluY3JlYXNlZBoFcmFpc2UqRQoIcGxhdGVsZXQVZFg4QBoJcGxhdGVsZXRzGgt0aHJvbWJvY3l0ZRoNcGxhdGVsZXRjb3VudBoNaXY7cDtwbGF0ZWxldCpGCgVjb3VudBW6mBVAGgdjb3VudGVkGghjb3VudGluZxoGY291bnRzGgZsZXZlbHMaBm51bWJlchoNcGxhdGVsZXRjb3VudCoaCgZkZW5ndWUV3IPIQBoLaXY7cDtkZW5ndWUqKgoIcGF0aWVudHMVp2vtPxoFZmV2ZXIaB3BhdGllbnQaCXBhdGllbnQnczKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZxMkplZ0pzeXFobTMwbFg4bC0zR25ZU2gtQld1aTQzM1FRVUo2Z09kUjViZEN1REJiWUZzdkdHXzBueDN3SWF0UXhwUklvZHVZUFQ5N19TTVBxSjRNMVM5emJKbmt4dXJvcF9kaThkUHVONmc2RWJmemgxSlJ4U3lQcWtzdlRYMWFRd2dnbUR4NGVzOlE8Yj5QYXBheWEgTGVhZiBKdWljZTwvYj4gZm9yIDxiPkRlbmd1ZTwvYj46IERvZXMgSXQgTGlmdCA8Yj5QbGF0ZWxldHM8L2I-PyAtIE5OV0FCrAFUaGUgc2hvcnQgdmVyc2lvbiBQYXBheWEgbGVhZiBqdWljZSBvciBleHRyYWN0IDxiPm1heSByYWlzZSBwbGF0ZWxldCBjb3VudHMgYSBsaXR0bGUgZmFzdGVyIGluIGRlbmd1ZTwvYj4sIGFuZCBwb29sZWQgc3R1ZGllcyBzdWdnZXN0IGhvc3BpdGFsIHN0YXlzIGFib3V0IHR3byBkYXlzJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "nnwa.in"
+   },
+   {
+    "position": 2,
+    "title": "Therapeutic Potential of Carica papaya Leaves in Dengue ...",
+    "link": "https://www.scilit.com/publications/ea5814b00d65acbc00a9d385eb054fb9",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVZ8IujmSx4dD-LKkVBD8mA6CC_MdSPoOi80dvs3OwkxzIqo5G8-3Q5tEVORQXDCL4zStrR-1JaVcBvHbraiLWMu-eBLfLl9mFxszp96-z4vVj-JA-WWW-Br1_OmGRLrabcS22c2LYVLtUQ-txHnOxTrygRkKzG8L2JmI&ved=2ahUKEwiS8auZqp6XAxVamO4BHdM9Ak8QFnoECCIQAQ&uoh=1",
+    "displayed_link": "https://www.scilit.com › Publications",
+    "favicon": "https://serpapi.com/images/i/UklGRo4BAABXRUJQVlA4IIIBAACQBwCdASocABwAPtE-tFooIigoFAEAGglpAAzxTg3lxP9by0fTnsDfqLuswd1D59MtnR1_hqbgUv6C4QFtOfL3qVQhTAAA_vYSu7TRVGEfK5QSYxnDen2Xb1q4oZtO_4Xzoan3h7An-_s6pFGthJcdt994nEZZnlg7sfnNX4P5MWeT3lbqIq3UiANkMuKNQdgDsDIYPzoEQIToz-X_o2Lm1tny5kfbmw3-5WOJt0JSkStCPn0ArvrgIPtTI5Wb_yLn7p0uH4O-P8NlHlPb1q-IvDfFvl8W36HEd4RfLxW6EisM_PA0qiCLv85razlKxAO-00Slo4NZKg781KuK-vpb5b9egvEk4rn53RZmZzNzMZvHOIjT78hWR9taf57DFt3j1_KfwTkbETe3uNIGRQ2APyIiS1Aohgq9_NXqeP19m1531yj1DIg1ELfLqhmhVSjk_UsNe_2S-7kHRa1Evi9FQeGA3PhH0dsjiSKOwvuKl5r61tRtDHxLzXvozTQ4G0AAAA.webp",
+    "date": "5 Sept 2026",
+    "snippet": "Carica papaya leaves juice significantly accelerates the rate of increase in platelet count among patients with dengue fever and dengue hemorrhagic fever.",
+    "snippet_highlighted_words": [
+     "Carica papaya leaves juice significantly accelerates the rate of increase in platelet count"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Carica papaya leaves juice significantly accelerates the rate of increase in platelet count among patients with dengue fever and dengue hemorrhagic fever.",
+      "source_info_link": "https://www.scilit.com/publications/ea5814b00d65acbc00a9d385eb054fb9",
+      "icon": "https://serpapi.com/images/i/UklGRo4BAABXRUJQVlA4IIIBAACQBwCdASocABwAPtE-tFooIigoFAEAGglpAAzxTg3lxP9by0fTnsDfqLuswd1D59MtnR1_hqbgUv6C4QFtOfL3qVQhTAAA_vYSu7TRVGEfK5QSYxnDen2Xb1q4oZtO_4Xzoan3h7An-_s6pFGthJcdt994nEZZnlg7sfnNX4P5MWeT3lbqIq3UiANkMuKNQdgDsDIYPzoEQIToz-X_o2Lm1tny5kfbmw3-5WOJt0JSkStCPn0ArvrgIPtTI5Wb_yLn7p0uH4O-P8NlHlPb1q-IvDfFvl8W36HEd4RfLxW6EisM_PA0qiCLv85razlKxAO-00Slo4NZKg781KuK-vpb5b9egvEk4rn53RZmZzNzMZvHOIjT78hWR9taf57DFt3j1_KfwTkbETe3uNIGRQ2APyIiS1Aohgq9_NXqeP19m1531yj1DIg1ELfLqhmhVSjk_UsNe_2S-7kHRa1Evi9FQeGA3PhH0dsjiSKOwvuKl5r61tRtDHxLzXvozTQ4G0AAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlo4SXVqbVN4NGRELUxLa1ZCRDhtQTZDQ19NZFNQb09pODBkdnMzT3dreHpJcW81RzgtM1E1dEVWT1JRWERDTDR6U3RyUi0xSmFWY0J2SGJyYWlMV011LWVCTGZMbDltRnhzenA5Ni16NHZWai1KQS1XV1ctQnIxX09tR1JMcmFiY1MyMmMyTFlWTHRVUS10eEhuT3hUcnlnUmtLekc4TDJKbUkSBBoCCAAa-AcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDSBwgAEAAYACAAKkAKBnBhcGF5YRV9htNAGgdwYXBheWFzGgdwYXcgcGF3GgZwYXdwYXcaCnBhcGF5YWxlYWYaC2l2O3A7cGFwYXlhKjcKBGxlYWYVAAAAABoGbGVhdmVzGgpwYXBheWFsZWFmGgtsZWFmZXh0cmFjdBoJaXY7cDtsZWFmKngKB2V4dHJhY3QVAAAAABoHZXhjZXJwdBoJZXh0cmFjdGVkGgpleHRyYWN0aW5nGgpleHRyYWN0aW9uGghleHRyYWN0cxoFanVpY2UaBHB1bGwaCnN1cHBsZW1lbnQaC2xlYWZleHRyYWN0GgxpdjtwO2V4dHJhY3QqUQoJaW5jcmVhc2VzFQAAAAAaBWJvb3N0GglkZWNyZWFzZXMaB2ltcHJvdmUaCGltcHJvdmVzGghpbmNyZWFzZRoJaW5jcmVhc2VkGgVyYWlzZSpFCghwbGF0ZWxldBXPBhxAGglwbGF0ZWxldHMaC3Rocm9tYm9jeXRlGg1wbGF0ZWxldGNvdW50Gg1pdjtwO3BsYXRlbGV0KkYKBWNvdW50FRk84j8aB2NvdW50ZWQaCGNvdW50aW5nGgZjb3VudHMaBmxldmVscxoGbnVtYmVyGg1wbGF0ZWxldGNvdW50KhoKBmRlbmd1ZRXvLu1AGgtpdjtwO2Rlbmd1ZSoqCghwYXRpZW50cxV2Bv8_GgVmZXZlchoHcGF0aWVudBoJcGF0aWVudCdzMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlo4SXVqbVN4NGRELUxLa1ZCRDhtQTZDQ19NZFNQb09pODBkdnMzT3dreHpJcW81RzgtM1E1dEVWT1JRWERDTDR6U3RyUi0xSmFWY0J2SGJyYWlMV011LWVCTGZMbDltRnhzenA5Ni16NHZWai1KQS1XV1ctQnIxX09tR1JMcmFiY1MyMmMyTFlWTHRVUS10eEhuT3hUcnlnUmtLekc4TDJKbUk6SVRoZXJhcGV1dGljIFBvdGVudGlhbCBvZiBDYXJpY2EgPGI-cGFwYXlhIExlYXZlczwvYj4gaW4gPGI-RGVuZ3VlPC9iPiAuLi5CoQE8Yj5DYXJpY2EgcGFwYXlhIGxlYXZlcyBqdWljZSBzaWduaWZpY2FudGx5IGFjY2VsZXJhdGVzIHRoZSByYXRlIG9mIGluY3JlYXNlIGluIHBsYXRlbGV0IGNvdW50PC9iPiBhbW9uZyBwYXRpZW50cyB3aXRoIGRlbmd1ZSBmZXZlciBhbmQgZGVuZ3VlIGhlbW9ycmhhZ2ljIGZldmVyLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlo4SXVqbVN4NGRELUxLa1ZCRDhtQTZDQ19NZFNQb09pODBkdnMzT3dreHpJcW81RzgtM1E1dEVWT1JRWERDTDR6U3RyUi0xSmFWY0J2SGJyYWlMV011LWVCTGZMbDltRnhzenA5Ni16NHZWai1KQS1XV1ctQnIxX09tR1JMcmFiY1MyMmMyTFlWTHRVUS10eEhuT3hUcnlnUmtLekc4TDJKbUkSBBoCCAAa-AcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDSBwgAEAAYACAAKkAKBnBhcGF5YRV9htNAGgdwYXBheWFzGgdwYXcgcGF3GgZwYXdwYXcaCnBhcGF5YWxlYWYaC2l2O3A7cGFwYXlhKjcKBGxlYWYVAAAAABoGbGVhdmVzGgpwYXBheWFsZWFmGgtsZWFmZXh0cmFjdBoJaXY7cDtsZWFmKngKB2V4dHJhY3QVAAAAABoHZXhjZXJwdBoJZXh0cmFjdGVkGgpleHRyYWN0aW5nGgpleHRyYWN0aW9uGghleHRyYWN0cxoFanVpY2UaBHB1bGwaCnN1cHBsZW1lbnQaC2xlYWZleHRyYWN0GgxpdjtwO2V4dHJhY3QqUQoJaW5jcmVhc2VzFQAAAAAaBWJvb3N0GglkZWNyZWFzZXMaB2ltcHJvdmUaCGltcHJvdmVzGghpbmNyZWFzZRoJaW5jcmVhc2VkGgVyYWlzZSpFCghwbGF0ZWxldBXPBhxAGglwbGF0ZWxldHMaC3Rocm9tYm9jeXRlGg1wbGF0ZWxldGNvdW50Gg1pdjtwO3BsYXRlbGV0KkYKBWNvdW50FRk84j8aB2NvdW50ZWQaCGNvdW50aW5nGgZjb3VudHMaBmxldmVscxoGbnVtYmVyGg1wbGF0ZWxldGNvdW50KhoKBmRlbmd1ZRXvLu1AGgtpdjtwO2Rlbmd1ZSoqCghwYXRpZW50cxV2Bv8_GgVmZXZlchoHcGF0aWVudBoJcGF0aWVudCdzMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlo4SXVqbVN4NGRELUxLa1ZCRDhtQTZDQ19NZFNQb09pODBkdnMzT3dreHpJcW81RzgtM1E1dEVWT1JRWERDTDR6U3RyUi0xSmFWY0J2SGJyYWlMV011LWVCTGZMbDltRnhzenA5Ni16NHZWai1KQS1XV1ctQnIxX09tR1JMcmFiY1MyMmMyTFlWTHRVUS10eEhuT3hUcnlnUmtLekc4TDJKbUk6SVRoZXJhcGV1dGljIFBvdGVudGlhbCBvZiBDYXJpY2EgPGI-cGFwYXlhIExlYXZlczwvYj4gaW4gPGI-RGVuZ3VlPC9iPiAuLi5CoQE8Yj5DYXJpY2EgcGFwYXlhIGxlYXZlcyBqdWljZSBzaWduaWZpY2FudGx5IGFjY2VsZXJhdGVzIHRoZSByYXRlIG9mIGluY3JlYXNlIGluIHBsYXRlbGV0IGNvdW50PC9iPiBhbW9uZyBwYXRpZW50cyB3aXRoIGRlbmd1ZSBmZXZlciBhbmQgZGVuZ3VlIGhlbW9ycmhhZ2ljIGZldmVyLiICEAFIAFgAaAA",
+    "source": "Scilit",
+    "read_more_link": "https://www.scilit.com/publications/ea5814b00d65acbc00a9d385eb054fb9#:~:text=Carica%20papaya%20leaves%20juice%20significantly,fever%20and%20dengue%20hemorrhagic%20fever."
+   },
+   {
+    "position": 3,
+    "title": "Do Papaya Leaves Really Help Increase Platelets?",
+    "link": "https://www.youtube.com/watch?v=-O9hKO0qRAs",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV8NRrMEvNzi2SDzVj1W7tQh5h9fQ6comRtOrJZ9dIjZkoyOnfzrZ8LecCJcYd1ivVy8nbhUavUavc0T1NlLKKZCm_e_fVWR0-UqGkWTsKh6OzDp1ieou3QowZBsC4bxNMQQ&ved=2ahUKEwiS8auZqp6XAxVamO4BHdM9Ak8QFnoECBsQAQ&uoh=1",
+    "displayed_link": "10+ views",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "snippet": "• When should dengue patients seek urgent medical attention? Research has found that papaya leaf extract may be associated with increases in platelet counts ...",
+    "snippet_highlighted_words": [
+     "papaya leaf extract may be associated with increases in platelet counts"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "• When should dengue patients seek urgent medical attention? Research has found that papaya leaf extract may be associated with increases in platelet counts ...",
+      "source_info_link": "https://www.youtube.com/watch?v=-O9hKO0qRAs",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjhOUnJNRXZOemkyU0R6VmoxVzd0UWg1aDlmUTZjb21SdE9ySlo5ZElqWmtveU9uZnpyWjhMZWNDSmNZZDFpdlZ5OG5iaFVhdlVhdmMwVDFObExLS1pDbV9lX2ZWV1IwLVVxR2tXVHNLaDZPekRwMWllb3UzUW93WkJzQzRieE5NUVESBBoCCAAa5gcSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAwgcIABAAGAAgACpACgZwYXBheWEVIRu9QBoHcGFwYXlhcxoHcGF3IHBhdxoGcGF3cGF3GgpwYXBheWFsZWFmGgtpdjtwO3BhcGF5YSo3CgRsZWFmFWWwLkAaBmxlYXZlcxoKcGFwYXlhbGVhZhoLbGVhZmV4dHJhY3QaCWl2O3A7bGVhZip4CgdleHRyYWN0FY4W4j8aB2V4Y2VycHQaCWV4dHJhY3RlZBoKZXh0cmFjdGluZxoKZXh0cmFjdGlvbhoIZXh0cmFjdHMaBWp1aWNlGgRwdWxsGgpzdXBwbGVtZW50GgtsZWFmZXh0cmFjdBoMaXY7cDtleHRyYWN0KlEKCWluY3JlYXNlcxVC9I0_GgVib29zdBoJZGVjcmVhc2VzGgdpbXByb3ZlGghpbXByb3ZlcxoIaW5jcmVhc2UaCWluY3JlYXNlZBoFcmFpc2UqRQoIcGxhdGVsZXQVwacXQBoJcGxhdGVsZXRzGgt0aHJvbWJvY3l0ZRoNcGxhdGVsZXRjb3VudBoNaXY7cDtwbGF0ZWxldCpGCgVjb3VudBV8yBc_Ggdjb3VudGVkGghjb3VudGluZxoGY291bnRzGgZsZXZlbHMaBm51bWJlchoNcGxhdGVsZXRjb3VudCoaCgZkZW5ndWUVZ2C2QBoLaXY7cDtkZW5ndWUqKgoIcGF0aWVudHMVXszdPhoFZmV2ZXIaB3BhdGllbnQaCXBhdGllbnQnczKYAS9nb3RvP3VybD1DQUVTWmdIck96QVY4TlJyTUV2TnppMlNEelZqMVc3dFFoNWg5ZlE2Y29tUnRPckpaOWRJalprb3lPbmZ6clo4TGVjQ0pjWWQxaXZWeThuYmhVYXZVYXZjMFQxTmxMS0taQ21fZV9mVldSMC1VcUdrV1RzS2g2T3pEcDFpZW91M1Fvd1pCc0M0YnhOTVFROk1EbyA8Yj5QYXBheWEgTGVhdmVzPC9iPiBSZWFsbHkgSGVscCA8Yj5JbmNyZWFzZSBQbGF0ZWxldHM8L2I-PyB8IEZhY3RzIHZzIC4uLkKuAeKAoiBXaGVuIHNob3VsZCBkZW5ndWUgcGF0aWVudHMgc2VlayB1cmdlbnQgbWVkaWNhbCBhdHRlbnRpb24_IFJlc2VhcmNoIGhhcyBmb3VuZCB0aGF0IDxiPnBhcGF5YSBsZWFmIGV4dHJhY3QgbWF5IGJlIGFzc29jaWF0ZWQgd2l0aCBpbmNyZWFzZXMgaW4gcGxhdGVsZXQgY291bnRzPC9iPiZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjhOUnJNRXZOemkyU0R6VmoxVzd0UWg1aDlmUTZjb21SdE9ySlo5ZElqWmtveU9uZnpyWjhMZWNDSmNZZDFpdlZ5OG5iaFVhdlVhdmMwVDFObExLS1pDbV9lX2ZWV1IwLVVxR2tXVHNLaDZPekRwMWllb3UzUW93WkJzQzRieE5NUVESBBoCCAAa5gcSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAwgcIABAAGAAgACpACgZwYXBheWEVIRu9QBoHcGFwYXlhcxoHcGF3IHBhdxoGcGF3cGF3GgpwYXBheWFsZWFmGgtpdjtwO3BhcGF5YSo3CgRsZWFmFWWwLkAaBmxlYXZlcxoKcGFwYXlhbGVhZhoLbGVhZmV4dHJhY3QaCWl2O3A7bGVhZip4CgdleHRyYWN0FY4W4j8aB2V4Y2VycHQaCWV4dHJhY3RlZBoKZXh0cmFjdGluZxoKZXh0cmFjdGlvbhoIZXh0cmFjdHMaBWp1aWNlGgRwdWxsGgpzdXBwbGVtZW50GgtsZWFmZXh0cmFjdBoMaXY7cDtleHRyYWN0KlEKCWluY3JlYXNlcxVC9I0_GgVib29zdBoJZGVjcmVhc2VzGgdpbXByb3ZlGghpbXByb3ZlcxoIaW5jcmVhc2UaCWluY3JlYXNlZBoFcmFpc2UqRQoIcGxhdGVsZXQVwacXQBoJcGxhdGVsZXRzGgt0aHJvbWJvY3l0ZRoNcGxhdGVsZXRjb3VudBoNaXY7cDtwbGF0ZWxldCpGCgVjb3VudBV8yBc_Ggdjb3VudGVkGghjb3VudGluZxoGY291bnRzGgZsZXZlbHMaBm51bWJlchoNcGxhdGVsZXRjb3VudCoaCgZkZW5ndWUVZ2C2QBoLaXY7cDtkZW5ndWUqKgoIcGF0aWVudHMVXszdPhoFZmV2ZXIaB3BhdGllbnQaCXBhdGllbnQnczKYAS9nb3RvP3VybD1DQUVTWmdIck96QVY4TlJyTUV2TnppMlNEelZqMVc3dFFoNWg5ZlE2Y29tUnRPckpaOWRJalprb3lPbmZ6clo4TGVjQ0pjWWQxaXZWeThuYmhVYXZVYXZjMFQxTmxMS0taQ21fZV9mVldSMC1VcUdrV1RzS2g2T3pEcDFpZW91M1Fvd1pCc0M0YnhOTVFROk1EbyA8Yj5QYXBheWEgTGVhdmVzPC9iPiBSZWFsbHkgSGVscCA8Yj5JbmNyZWFzZSBQbGF0ZWxldHM8L2I-PyB8IEZhY3RzIHZzIC4uLkKuAeKAoiBXaGVuIHNob3VsZCBkZW5ndWUgcGF0aWVudHMgc2VlayB1cmdlbnQgbWVkaWNhbCBhdHRlbnRpb24_IFJlc2VhcmNoIGhhcyBmb3VuZCB0aGF0IDxiPnBhcGF5YSBsZWFmIGV4dHJhY3QgbWF5IGJlIGFzc29jaWF0ZWQgd2l0aCBpbmNyZWFzZXMgaW4gcGxhdGVsZXQgY291bnRzPC9iPiZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "YouTube · FactsBay",
+    "read_more_link": "https://www.youtube.com/watch?v=-O9hKO0qRAs#:~:text=Dengue%20Treatment%3A%20Do%20Papaya%20Leaves"
+   },
+   {
+    "position": 4,
+    "title": "Dengue Season: Papaya Leaf and Platelet Claims Examined",
+    "link": "https://thecareonline.com/dengue-papaya-leaf-platelet-myths/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAViv5I0pi2bpiLJSmDfRr2s_Kz7yz4ikMT4Yfvrch3Bk16GLajcKKel9obzhD4yAh6zAm3bdNFo28f4yQptFfIu95h5lElynDEYsTTCEY610kP1fwSxrYLPYqvMUBBnE_btTx_eksLF6ics8CXwJncaPfx&ved=2ahUKEwiS8auZqp6XAxVamO4BHdM9Ak8QFnoECBoQAQ&uoh=1",
+    "displayed_link": "https://thecareonline.com › Season Shift",
+    "favicon": "https://serpapi.com/images/i/UklGRrwAAABXRUJQVlA4ILAAAADQBACdASocABwAPtEwtFooIigoGAEAGgljAAPiQg38QdGeQjbtNSytxF_UKHUvEAD-DPmbDx-O3CNKQkm1nWVFFVWxgXeTWmynsJ9OuxjY9uyyJoR7Pqfe7QOQXXO_-Aryt9v2PeVW9d6vzAO9pSD5MHUMdrEC-uQSORMl9H4QM6C77MCp3Rtoo5786P-46nUmiQIqGvSISjYK4canAl7EtxcUsu0q7LaVZWHnAAAAAA.webp",
+    "date": "24 Sept 2026",
+    "snippet": "Papaya leaf extract has been tried in a few small trials in dengue patients, with mixed and limited results. That evidence isn't strong enough to change ...",
+    "snippet_highlighted_words": [
+     "Papaya leaf extract has been tried in a few small trials in dengue patients"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Papaya leaf extract has been tried in a few small trials in dengue patients, with mixed and limited results. That evidence isn't strong enough to change ...",
+      "source_info_link": "https://thecareonline.com/dengue-papaya-leaf-platelet-myths/",
+      "icon": "https://serpapi.com/images/i/UklGRrwAAABXRUJQVlA4ILAAAADQBACdASocABwAPtEwtFooIigoGAEAGgljAAPiQg38QdGeQjbtNSytxF_UKHUvEAD-DPmbDx-O3CNKQkm1nWVFFVWxgXeTWmynsJ9OuxjY9uyyJoR7Pqfe7QOQXXO_-Aryt9v2PeVW9d6vzAO9pSD5MHUMdrEC-uQSORMl9H4QM6C77MCp3Rtoo5786P-46nUmiQIqGvSISjYK4canAl7EtxcUsu0q7LaVZWHnAAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVml2NUkwcGkyYnBpTEpTbURmUnIyc19Lejd5ejRpa01UNFlmdnJjaDNCazE2R0xhamNLS2VsOW9iemhENHlBaDZ6QW0zYmRORm8yOGY0eVFwdEZmSXU5NWg1bEVseW5ERVlzVFRDRVk2MTBrUDFmd1N4cllMUFlxdk1VQkJuRV9idFR4X2Vrc0xGNmljczhDWHdKbmNhUGZ4EgQaAggAGvkHEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQNUHCAAQABgAIAAqQAoGcGFwYXlhFRf65UAaB3BhcGF5YXMaB3BhdyBwYXcaBnBhd3BhdxoKcGFwYXlhbGVhZhoLaXY7cDtwYXBheWEqNwoEbGVhZhWNFN5AGgZsZWF2ZXMaCnBhcGF5YWxlYWYaC2xlYWZleHRyYWN0GglpdjtwO2xlYWYqeAoHZXh0cmFjdBXEVR9AGgdleGNlcnB0GglleHRyYWN0ZWQaCmV4dHJhY3RpbmcaCmV4dHJhY3Rpb24aCGV4dHJhY3RzGgVqdWljZRoEcHVsbBoKc3VwcGxlbWVudBoLbGVhZmV4dHJhY3QaDGl2O3A7ZXh0cmFjdCpRCglpbmNyZWFzZXMVAAAAABoFYm9vc3QaCWRlY3JlYXNlcxoHaW1wcm92ZRoIaW1wcm92ZXMaCGluY3JlYXNlGglpbmNyZWFzZWQaBXJhaXNlKkUKCHBsYXRlbGV0FQBLzUAaCXBsYXRlbGV0cxoLdGhyb21ib2N5dGUaDXBsYXRlbGV0Y291bnQaDWl2O3A7cGxhdGVsZXQqRgoFY291bnQVEuIBQBoHY291bnRlZBoIY291bnRpbmcaBmNvdW50cxoGbGV2ZWxzGgZudW1iZXIaDXBsYXRlbGV0Y291bnQqGgoGZGVuZ3VlFXKS_EAaC2l2O3A7ZGVuZ3VlKioKCHBhdGllbnRzFVihAD8aBWZldmVyGgdwYXRpZW50GglwYXRpZW50J3MyrgEvZ290bz91cmw9Q0FFU2R3SHJPekFWaXY1STBwaTJicGlMSlNtRGZScjJzX0t6N3l6NGlrTVQ0WWZ2cmNoM0JrMTZHTGFqY0tLZWw5b2J6aEQ0eUFoNnpBbTNiZE5GbzI4ZjR5UXB0RmZJdTk1aDVsRWx5bkRFWXNUVENFWTYxMGtQMWZ3U3hyWUxQWXF2TVVCQm5FX2J0VHhfZWtzTEY2aWNzOENYd0puY2FQZng6TDxiPkRlbmd1ZTwvYj4gU2Vhc29uOiA8Yj5QYXBheWEgTGVhZjwvYj4gYW5kIDxiPlBsYXRlbGV0PC9iPiBDbGFpbXMgRXhhbWluZWRCrAE8Yj5QYXBheWEgbGVhZiBleHRyYWN0IGhhcyBiZWVuIHRyaWVkIGluIGEgZmV3IHNtYWxsIHRyaWFscyBpbiBkZW5ndWUgcGF0aWVudHM8L2I-LCB3aXRoIG1peGVkIGFuZCBsaW1pdGVkIHJlc3VsdHMuIFRoYXQgZXZpZGVuY2UgaXNuJiMzOTt0IHN0cm9uZyBlbm91Z2ggdG8gY2hhbmdlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVml2NUkwcGkyYnBpTEpTbURmUnIyc19Lejd5ejRpa01UNFlmdnJjaDNCazE2R0xhamNLS2VsOW9iemhENHlBaDZ6QW0zYmRORm8yOGY0eVFwdEZmSXU5NWg1bEVseW5ERVlzVFRDRVk2MTBrUDFmd1N4cllMUFlxdk1VQkJuRV9idFR4X2Vrc0xGNmljczhDWHdKbmNhUGZ4EgQaAggAGvkHEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQNUHCAAQABgAIAAqQAoGcGFwYXlhFRf65UAaB3BhcGF5YXMaB3BhdyBwYXcaBnBhd3BhdxoKcGFwYXlhbGVhZhoLaXY7cDtwYXBheWEqNwoEbGVhZhWNFN5AGgZsZWF2ZXMaCnBhcGF5YWxlYWYaC2xlYWZleHRyYWN0GglpdjtwO2xlYWYqeAoHZXh0cmFjdBXEVR9AGgdleGNlcnB0GglleHRyYWN0ZWQaCmV4dHJhY3RpbmcaCmV4dHJhY3Rpb24aCGV4dHJhY3RzGgVqdWljZRoEcHVsbBoKc3VwcGxlbWVudBoLbGVhZmV4dHJhY3QaDGl2O3A7ZXh0cmFjdCpRCglpbmNyZWFzZXMVAAAAABoFYm9vc3QaCWRlY3JlYXNlcxoHaW1wcm92ZRoIaW1wcm92ZXMaCGluY3JlYXNlGglpbmNyZWFzZWQaBXJhaXNlKkUKCHBsYXRlbGV0FQBLzUAaCXBsYXRlbGV0cxoLdGhyb21ib2N5dGUaDXBsYXRlbGV0Y291bnQaDWl2O3A7cGxhdGVsZXQqRgoFY291bnQVEuIBQBoHY291bnRlZBoIY291bnRpbmcaBmNvdW50cxoGbGV2ZWxzGgZudW1iZXIaDXBsYXRlbGV0Y291bnQqGgoGZGVuZ3VlFXKS_EAaC2l2O3A7ZGVuZ3VlKioKCHBhdGllbnRzFVihAD8aBWZldmVyGgdwYXRpZW50GglwYXRpZW50J3MyrgEvZ290bz91cmw9Q0FFU2R3SHJPekFWaXY1STBwaTJicGlMSlNtRGZScjJzX0t6N3l6NGlrTVQ0WWZ2cmNoM0JrMTZHTGFqY0tLZWw5b2J6aEQ0eUFoNnpBbTNiZE5GbzI4ZjR5UXB0RmZJdTk1aDVsRWx5bkRFWXNUVENFWTYxMGtQMWZ3U3hyWUxQWXF2TVVCQm5FX2J0VHhfZWtzTEY2aWNzOENYd0puY2FQZng6TDxiPkRlbmd1ZTwvYj4gU2Vhc29uOiA8Yj5QYXBheWEgTGVhZjwvYj4gYW5kIDxiPlBsYXRlbGV0PC9iPiBDbGFpbXMgRXhhbWluZWRCrAE8Yj5QYXBheWEgbGVhZiBleHRyYWN0IGhhcyBiZWVuIHRyaWVkIGluIGEgZmV3IHNtYWxsIHRyaWFscyBpbiBkZW5ndWUgcGF0aWVudHM8L2I-LCB3aXRoIG1peGVkIGFuZCBsaW1pdGVkIHJlc3VsdHMuIFRoYXQgZXZpZGVuY2UgaXNuJiMzOTt0IHN0cm9uZyBlbm91Z2ggdG8gY2hhbmdlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "thecareonline.com",
+    "read_more_link": "https://thecareonline.com/dengue-papaya-leaf-platelet-myths/#:~:text=Papaya%20leaf%20extract%20has%20been,established%20dengue%20treatment%20protocols%20anywhere."
+   }
+  ]
+ }
+}

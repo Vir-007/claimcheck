@@ -1,0 +1,448 @@
+{
+ "engine": "google",
+ "params": {
+  "engine": "google",
+  "q": "UNESCO declared Jana Gana Mana the best national anthem in the world",
+  "gl": "in",
+  "hl": "en"
+ },
+ "fetched_at": "2026-10-03T17:02:46Z",
+ "response": {
+  "search_metadata": {
+   "id": "6ac13527868180b26a88ef2f",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/pDj2bXsS8tkfP9-QI56Tz8nWHqCbEcy-5SJPYJdjZU8/6ac13527868180b26a88ef2f.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/pDj2bXsS8tkfP9-QI56Tz8nWHqCbEcy-5SJPYJdjZU8/6ac13527868180b26a88ef2f.json_with_pixel_position",
+   "created_at": "2026-10-03 17:02:31 UTC",
+   "processed_at": "2026-10-03 17:02:31 UTC",
+   "google_url": "https://www.google.com/search?q=UNESCO+declared+Jana+Gana+Mana+the+best+national+anthem+in+the+world&oq=UNESCO+declared+Jana+Gana+Mana+the+best+national+anthem+in+the+world&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+   "total_time_taken": 14.82
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "UNESCO declared Jana Gana Mana the best national anthem in the world",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "UNESCO declared Jana Gana Mana the best national anthem in the world",
+   "total_results": 105,
+   "time_taken_displayed": 0.27,
+   "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+   "spelling_fix": "UNESCO declared Jana Gana Mana the best national anthem in the world",
+   "showing_results_for": "UNESCO declared Jana Gana Mana the best national anthem in the world"
+  },
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "UNESCO did not declare India's national anthem the best in ...",
+    "link": "https://www.facebook.com/CrescendoFactCheck/videos/unesco-did-not-declare-indias-national-anthem-the-best-in-the-world-unesco-has-c/1123869418634434/",
+    "thumbnail": "https://serpapi.com/searches/6ac13527868180b26a88ef2f/images/_7S53gfmqpCAsxxNp3CY8TVLNtTDilpsxpbFMhTJQzc.jpeg",
+    "channel": "Fact Crescendo",
+    "duration": "1:00",
+    "platform": "Facebook",
+    "date": "28 Mar 2024",
+    "snippet": "UNESCO debunked the viral claim that India's national anthem, Jana Gana Mana, was declared the best in the world. It's false propaganda."
+   },
+   {
+    "position": 2,
+    "title": "UNESCO declared 'Jana Gana Mana' as the world's best ...",
+    "link": "https://www.facebook.com/factlytelugu/videos/unesco-declared-jana-gana-mana-as-the-worlds-best-anthemfind-out-herejanaganaman/968891774807000/",
+    "thumbnail": "https://serpapi.com/searches/6ac13527868180b26a88ef2f/images/-4VxZr5TJpbfRt1WYheBDINpaLEfrNvaUpQ1khn8Xm4.jpeg",
+    "channel": "Factly తెలుగు",
+    "duration": "1:07",
+    "platform": "Facebook",
+    "date": "24 Mar 2024"
+   },
+   {
+    "position": 3,
+    "title": "UNESCO Did Not Declare India's National Anthem The Best In ...",
+    "link": "https://www.instagram.com/reel/C5DUprJrkfI/?hl=en",
+    "thumbnail": "https://serpapi.com/searches/6ac13527868180b26a88ef2f/images/fnR-ZM0m2fwEPsb-8vm0blg30f7AgjJo7gAPJMeQD9g.jpeg",
+    "channel": "Fact Crescendo",
+    "duration": "0:59",
+    "platform": "Instagram",
+    "date": "28 Mar 2024",
+    "snippet": "UNESCO has not declared India's national anthem the best in the world; this claim has been debunked by UNESCO authorities.",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTh53DYC7oVDDy7ucotGwwzCJrDVdwFW3lqVA"
+   }
+  ],
+  "short_videos": [
+   {
+    "position": 1,
+    "title": "UNESCO did not declare India's national anthem the best in ... by Fact Crescendo on Facebook. Play on Facebook. 1:00",
+    "source": "Facebook",
+    "profile_name": "Fact Crescendo",
+    "extensions": [
+     "Fact Crescendo"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "1:00",
+    "thumbnail": "https://serpapi.com/searches/6ac13527868180b26a88ef2f/images/bbsIdxAzzLJT3S_9UMsWR_ZIZB1nQIg934rj-7sojNQ.jpeg",
+    "link": "https://www.facebook.com/CrescendoFactCheck/videos/unesco-did-not-declare-indias-national-anthem-the-best-in-the-world-unesco-has-c/1123869418634434/"
+   },
+   {
+    "position": 2,
+    "title": "UNESCO declared 'Jana Gana Mana' as the world's best ... by Factly తెలుగు on Facebook. Play on Facebook. 1:07",
+    "source": "Facebook",
+    "profile_name": "Factly తెలుగు",
+    "extensions": [
+     "Factly తెలుగు"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "1:07",
+    "thumbnail": "https://serpapi.com/searches/6ac13527868180b26a88ef2f/images/YUcbV0y2UjMod8cWl-GhfhNK9_TbXMZ1oiNxUZIwrHw.jpeg",
+    "link": "https://www.facebook.com/factlytelugu/videos/unesco-declared-jana-gana-mana-as-the-worlds-best-anthemfind-out-herejanaganaman/968891774807000/"
+   },
+   {
+    "position": 3,
+    "title": "declaring \"Jana Gana Mana\" as the best national anthem in the ... by Indiatimes on Facebook. Play on Facebook. 1:46",
+    "source": "Facebook",
+    "profile_name": "Indiatimes",
+    "extensions": [
+     "Indiatimes"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "1:46",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ_1NOZFVmbQc0ym8V2vLUvLVnNUr9Vm6oT4w",
+    "thumbnail": "https://serpapi.com/searches/6ac13527868180b26a88ef2f/images/aLuG9ehPfQYFCNtGHIb7dnIwVON7Hz5dzs0rm0YS-mA.jpeg",
+    "link": "https://www.facebook.com/indiatimes/videos/hoaxes-that-shook-the-world/1200901549961809/"
+   },
+   {
+    "position": 4,
+    "title": "UNESCO Did Not Declare India's National Anthem The Best In ... by Fact Crescendo on Instagram. Play on Instagram. 0:59",
+    "source": "Instagram",
+    "profile_name": "Fact Crescendo",
+    "extensions": [
+     "Fact Crescendo"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "0:59",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRSpEg9TjYS012qG770tahukgW_FQJEfXoOeQ",
+    "thumbnail": "https://serpapi.com/searches/6ac13527868180b26a88ef2f/images/JbDCOy93G3lNw2jHEHfROhDy8JFg2AZR5XFy_moEU_U.jpeg",
+    "link": "https://www.instagram.com/reel/C5DUprJrkfI/?hl=en"
+   },
+   {
+    "position": 5,
+    "title": "Our national anthem \"Jana Gana Mana... \"is declared as the \" ... by Asgari Jambughoda on Facebook. Play on Facebook. 0:55",
+    "source": "Facebook",
+    "profile_name": "Asgari Jambughoda",
+    "extensions": [
+     "Asgari Jambughoda"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:55",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3BKH0uCsYpJjJ3t2N0PxTJ-VPebXGKlnJHnvHV6nBweom-cob3qLAFE&s=10",
+    "link": "https://www.facebook.com/groups/154375401815277/posts/1802026663716801/"
+   },
+   {
+    "position": 6,
+    "title": "UNESCO declared 'Jana Gana Mana' as the world's best ... by FACTLY తెలుగు on Instagram. Play on Instagram. 1:06",
+    "source": "Instagram",
+    "profile_name": "FACTLY తెలుగు",
+    "extensions": [
+     "FACTLY తెలుగు"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "1:06",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTfCBKvLU-0NFSSfPWzistPSXoA8P1__VBlRA",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIbiAuH5GqtNnoJWoTcUNTUWggkKdr7M1CLBUFP5ajubYfSdOSFEMqEmI&s=10",
+    "link": "https://www.instagram.com/reel/C47V-6AL4w6/?hl=en"
+   },
+   {
+    "position": 7,
+    "title": "Happy news, Our national anthem \"Jana Gana Mana... ... by Asgari Jambughoda on Facebook. Play on Facebook. 0:55",
+    "source": "Facebook",
+    "profile_name": "Asgari Jambughoda",
+    "extensions": [
+     "Asgari Jambughoda"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:55",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTALkehbVSPOgc4EWJZo2asJwuoBxiDERk4A3LPp9AWO35BIzKa-bByJpU&s=10",
+    "link": "https://www.facebook.com/groups/963583663713501/posts/2208693792535809/"
+   },
+   {
+    "position": 8,
+    "title": "Today our national anthem-\"Jana Gana Mana\"Declared \"BEST ...",
+    "source": "YouTube",
+    "profile_name": "Rehanshi fun activities",
+    "extensions": [
+     "Rehanshi fun activities"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "duration": "0:14",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQJjvcjIlbJyBkDevPlSdA2YEaIq8LadtnkQA",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlMjvPqCAhQ11FOZhY93tszXFOd8JJyT93gxeMmLzQqo8GbISLiBh5Lo&s=10",
+    "link": "https://www.youtube.com/shorts/pZdTmOl6Bt0"
+   },
+   {
+    "position": 9,
+    "title": "Congratulations to all of us. Our national anthem \"Jana Gana ... by Asgari Jambughoda on Facebook. Play on Facebook. 0:55",
+    "source": "Facebook",
+    "profile_name": "Asgari Jambughoda",
+    "extensions": [
+     "Asgari Jambughoda"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:55",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTALkehbVSPOgc4EWJZo2asJwuoBxiDERk4A3LPp9AWO35BIzKa-bByJpU&s=10",
+    "link": "https://www.facebook.com/groups/582994583159704/posts/1216559306469892/"
+   },
+   {
+    "position": 10,
+    "title": "Happy news, Our national anthem \" ... by Asgari Jambughoda on Facebook. Play on Facebook. 0:55",
+    "source": "Facebook",
+    "profile_name": "Asgari Jambughoda",
+    "extensions": [
+     "Asgari Jambughoda"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:55",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTALkehbVSPOgc4EWJZo2asJwuoBxiDERk4A3LPp9AWO35BIzKa-bByJpU&s=10",
+    "link": "https://www.facebook.com/groups/2280703078907830/posts/2862656584045807/"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "Who is the best National Anthem in the world?",
+    "type": "ai_overview",
+    "page_token": "qrBe0nicHdDBTsIwAADQ-DMcYWWCkYQYt7XIYB3rbGG9mNIBZXRbhUmlN__Fr_JrNN7f6X1962Nz-rm7qq4zl8lgYK3tH9r2oHd92dYDcbk1ciCF1lshT5Pxwxg87eUUfsyD8H0eZNQYFhEvf0WNpDjBgGXY6Y76wQYDEwrNViIHaeJ0mFQKbVlrxcyOcleaXRWrJY1b4j2eudOrZI0B0SaULgPZ2uRshmCONGKg6FKEX1I4YsUQ2hJxL4HqyiOCaRRzyZArXDkkPl_LiIylVguC4D2N2PzPVBzEJ1KjK5kBj294voXqXFLgluvyyIZxKprY4pPBokKprNCiYEEAVZkSpMJi83yjdDQUTPmFjzPpY0pnOhCf7TGjxMlK1ywEtxyVMW6KblcXXtJozDYlFRDjzANoyQ6W295eXqd-7_9z-ravu4k5t4dftr6Ceg",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qrBe0nicHdDBTsIwAADQ-DMcYWWCkYQYt7XIYB3rbGG9mNIBZXRbhUmlN__Fr_JrNN7f6X1962Nz-rm7qq4zl8lgYK3tH9r2oHd92dYDcbk1ciCF1lshT5Pxwxg87eUUfsyD8H0eZNQYFhEvf0WNpDjBgGXY6Y76wQYDEwrNViIHaeJ0mFQKbVlrxcyOcleaXRWrJY1b4j2eudOrZI0B0SaULgPZ2uRshmCONGKg6FKEX1I4YsUQ2hJxL4HqyiOCaRRzyZArXDkkPl_LiIylVguC4D2N2PzPVBzEJ1KjK5kBj294voXqXFLgluvyyIZxKprY4pPBokKprNCiYEEAVZkSpMJi83yjdDQUTPmFjzPpY0pnOhCf7TGjxMlK1ywEtxyVMW6KblcXXtJozDYlFRDjzANoyQ6W295eXqd-7_9z-ravu4k5t4dftr6Ceg",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJXOTBURVpsWTNCU01tUmlYMWROYm1kVFdYcE9iMmhZYVZsWFkxOVhTMkZoV0hKMVVFaHNRbVpuV0ZOMWVqZHNYMjlwYTJ4bldqRnJka1UyVDBKTmJVbERaM2xzTjNseFJsbHJRa2hKWTNscmQwdENWWFl3ZW5OYVVSSVhUa1JZUW1Gd01sRk9kbWxZZDJOelVITnpWRkJwUVdzYUlrRkVjM0k1WmxGRlptUjZjRzExY1RGNFkyMDJWMGxXT0hjNGVWcGtVbUpaWDFFIiwiZmN2IjoiMyIsImVpIjoiTkRYQmFwMlFOdmlYd2NzUHNzVFBpQWsiLCJxYyI6ImMtTnlLYzFMTFU3T1YwaEpUYzVKTEVwTlVjaEt6RXRVU0FjUnVTQ2lKQ05WSVNtMXVFUWhMN0VrTXo4dk1VY2hNUThvbHF1UW1RZVdLODh2eWtrUllLamRmSXJGSGdBIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGJlc3QgTmF0aW9uYWwgQW50aGVtIGluIHRoZSB3b3JsZD8iLCJsayI6ImM1UFNLY19JVjhnc1ZpakpTRlZJU2kwdVVjaExMTW5NejB2TVVVak1BNHJsS21UbWdlWEs4NHR5VWdBIiwiYnMiOiJjMjJQUFdfQ01CQ0d4ZXFKQ1ZXWnJtTGphOGlNRkRHbFJVcEhHQmpRRVY4VEktZE9jdHo0NzllSkJJTEE4ZzYtNTcxN3JNNXFmYXdGVEF1LUpyaFE2LUVIdlJGR0N6dU9idzBZSG1aQm5OVlp1a2xXWVZUZ1d3RmZDLXFrbHYyQjRNUVRISkExUVlFZUhUWVIxN0JIUnNqN0tHSms2U3BaaER2ZURYanpnRjk3c3VxamlhRnl0ZnlTQUZhNHVobU43WVVCTzNKWVVaWi1KTE94cXlXdWZLMUt0VDNXNUFoS1pQZ0dhMXBQOFJjeXJNUV9iUVFjbGVLMGlaZms5MFY3bm55LW9aNXRwNU5fIiwiaWQiOiJmY19ORFhCYXAyUU52aVh3Y3NQc3NUUGlBa181In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJXOTBURVpsWTNCU01tUmlYMWROYm1kVFdYcE9iMmhZYVZsWFkxOVhTMkZoV0hKMVVFaHNRbVpuV0ZOMWVqZHNYMjlwYTJ4bldqRnJka1UyVDBKTmJVbERaM2xzTjNseFJsbHJRa2hKWTNscmQwdENWWFl3ZW5OYVVSSVhUa1JZUW1Gd01sRk9kbWxZZDJOelVITnpWRkJwUVdzYUlrRkVjM0k1WmxGRlptUjZjRzExY1RGNFkyMDJWMGxXT0hjNGVWcGtVbUpaWDFFIiwiZmN2IjoiMyIsImVpIjoiTkRYQmFwMlFOdmlYd2NzUHNzVFBpQWsiLCJxYyI6ImMtTnlLYzFMTFU3T1YwaEpUYzVKTEVwTlVjaEt6RXRVU0FjUnVTQ2lKQ05WSVNtMXVFUWhMN0VrTXo4dk1VY2hNUThvbHF1UW1RZVdLODh2eWtrUllLamRmSXJGSGdBIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGJlc3QgTmF0aW9uYWwgQW50aGVtIGluIHRoZSB3b3JsZD8iLCJsayI6ImM1UFNLY19JVjhnc1ZpakpTRlZJU2kwdVVjaExMTW5NejB2TVVVak1BNHJsS21UbWdlWEs4NHR5VWdBIiwiYnMiOiJjMjJQUFdfQ01CQ0d4ZXFKQ1ZXWnJtTGphOGlNRkRHbFJVcEhHQmpRRVY4VEktZE9jdHo0NzllSkJJTEE4ZzYtNTcxN3JNNXFmYXdGVEF1LUpyaFE2LUVIdlJGR0N6dU9idzBZSG1aQm5OVlp1a2xXWVZUZ1d3RmZDLXFrbHYyQjRNUVRISkExUVlFZUhUWVIxN0JIUnNqN0tHSms2U3BaaER2ZURYanpnRjk3c3VxamlhRnl0ZnlTQUZhNHVobU43WVVCTzNKWVVaWi1KTE94cXlXdWZLMUt0VDNXNUFoS1pQZ0dhMXBQOFJjeXJNUV9iUVFjbGVLMGlaZms5MFY3bm55LW9aNXRwNU5fIiwiaWQiOiJmY19ORFhCYXAyUU52aVh3Y3NQc3NUUGlBa181In0%3D"
+   },
+   {
+    "question": "Who wrote Vande Mataram and Jana Gana Mana?",
+    "type": "ai_overview",
+    "page_token": "S8HMTXicHdBbboJAGEDhdDM-6sAUG01MIzeL1TED_APMSzOMF5TbtCIIb91LV9XV1HQBJ19yvn-Kc5X_PrVZ06jrfDLpum58qutTcRjLupyIa1_JiRRFkQqZz6cvU-31KBfOzTOtT8-koBSzfRREnEdvpOK9hmLNtwQuVFjSQaD1e8CWiDj0LrCKA3sf-BHfBNi1k5ict7qywpgIlhtt6pA8LO821Xy0h66nSN1i7CaR89yEq64HRggB95oAC8JcawGBxtDW2MLap6URReVsIweTy5U3QOl2ic4qYiEdcp6A7jYM8aNAtR5csgvPmzq9UPQwQ-bS4dG3G-CC6QQHSFVOtt_5bmYl8bIHMHTBMpxgQiUmAKvCFPf6TMEf5KUoAZtExCRJQ9MQq5m3rbLzPiQ74cyEtF3vUJAr70ZH2S7w6P_n4uNYNnP1VZ_-ALKJgV4",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=S8HMTXicHdBbboJAGEDhdDM-6sAUG01MIzeL1TED_APMSzOMF5TbtCIIb91LV9XV1HQBJ19yvn-Kc5X_PrVZ06jrfDLpum58qutTcRjLupyIa1_JiRRFkQqZz6cvU-31KBfOzTOtT8-koBSzfRREnEdvpOK9hmLNtwQuVFjSQaD1e8CWiDj0LrCKA3sf-BHfBNi1k5ict7qywpgIlhtt6pA8LO821Xy0h66nSN1i7CaR89yEq64HRggB95oAC8JcawGBxtDW2MLap6URReVsIweTy5U3QOl2ic4qYiEdcp6A7jYM8aNAtR5csgvPmzq9UPQwQ-bS4dG3G-CC6QQHSFVOtt_5bmYl8bIHMHTBMpxgQiUmAKvCFPf6TMEf5KUoAZtExCRJQ9MQq5m3rbLzPiQ74cyEtF3vUJAr70ZH2S7w6P_n4uNYNnP1VZ_-ALKJgV4",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJXOTBURVpsWTNCU01tUmlYMWROYm1kVFdYcE9iMmhZYVZsWFkxOVhTMkZoV0hKMVVFaHNRbVpuV0ZOMWVqZHNYMjlwYTJ4bldqRnJka1UyVDBKTmJVbERaM2xzTjNseFJsbHJRa2hKWTNscmQwdENWWFl3ZW5OYVVSSVhUa1JZUW1Gd01sRk9kbWxZZDJOelVITnpWRkJwUVdzYUlrRkVjM0k1WmxGRlptUjZjRzExY1RGNFkyMDJWMGxXT0hjNGVWcGtVbUpaWDFFIiwiZmN2IjoiMyIsImVpIjoiTkRYQmFwMlFOdmlYd2NzUHNzVFBpQWsiLCJxYyI6ImMtTnlLYzFMTFU3T1YwaEpUYzVKTEVwTlVjaEt6RXRVU0FjUnVTQ2lKQ05WSVNtMXVFUWhMN0VrTXo4dk1VY2hNUThvbHF1UW1RZVdLODh2eWtrUllLamRmSXJGSGdBIiwicXVlc3Rpb24iOiJXaG8gd3JvdGUgVmFuZGUgTWF0YXJhbSBhbmQgSmFuYSBHYW5hIE1hbmE/IiwibGsiOiJjNVBTS3NfSVZ5Z3Z5aTlKVlNoTHpFdEpWY2hOTEVrc1NzeFZBSElVc2hMekVoWFNRVVF1a0FBQSIsImJzIjoiYzIyUFBXX0NNQkNHeGVxSkNWV1pybUxqYThpTUZER2xSVXBIR0JqUUVWOFRJLWRPY3R6NDc5ZUpCSUxBOGc2LTU3MTdyTTVxZmF3RlRBdS1KcmhRNi1FSHZSRkdDenVPYncwWUhtWkJuTlZadWtsV1lWVGdXd0ZmQy1xa2x2MkI0TVFUSEpBMVFZRWVIVFlSMTdCSFJzajdLR0prNlNwWmhEdmVEWGp6Z0Y5N3N1cWppYUZ5dGZ5U0FGYTR1aG1ON1lVQk8zSllVWlotSkxPeHF5V3VmSzFLdFQzVzVBaEtaUGdHYTFwUDhSY3lyTVFfYlFRY2xlSzBpWmZrOTBWN25ueS1vWjV0cDVOXyIsImlkIjoiZmNfTkRYQmFwMlFOdmlYd2NzUHNzVFBpQWtfNSJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJXOTBURVpsWTNCU01tUmlYMWROYm1kVFdYcE9iMmhZYVZsWFkxOVhTMkZoV0hKMVVFaHNRbVpuV0ZOMWVqZHNYMjlwYTJ4bldqRnJka1UyVDBKTmJVbERaM2xzTjNseFJsbHJRa2hKWTNscmQwdENWWFl3ZW5OYVVSSVhUa1JZUW1Gd01sRk9kbWxZZDJOelVITnpWRkJwUVdzYUlrRkVjM0k1WmxGRlptUjZjRzExY1RGNFkyMDJWMGxXT0hjNGVWcGtVbUpaWDFFIiwiZmN2IjoiMyIsImVpIjoiTkRYQmFwMlFOdmlYd2NzUHNzVFBpQWsiLCJxYyI6ImMtTnlLYzFMTFU3T1YwaEpUYzVKTEVwTlVjaEt6RXRVU0FjUnVTQ2lKQ05WSVNtMXVFUWhMN0VrTXo4dk1VY2hNUThvbHF1UW1RZVdLODh2eWtrUllLamRmSXJGSGdBIiwicXVlc3Rpb24iOiJXaG8gd3JvdGUgVmFuZGUgTWF0YXJhbSBhbmQgSmFuYSBHYW5hIE1hbmE%2FIiwibGsiOiJjNVBTS3NfSVZ5Z3Z5aTlKVlNoTHpFdEpWY2hOTEVrc1NzeFZBSElVc2hMekVoWFNRVVF1a0FBQSIsImJzIjoiYzIyUFBXX0NNQkNHeGVxSkNWV1pybUxqYThpTUZER2xSVXBIR0JqUUVWOFRJLWRPY3R6NDc5ZUpCSUxBOGc2LTU3MTdyTTVxZmF3RlRBdS1KcmhRNi1FSHZSRkdDenVPYncwWUhtWkJuTlZadWtsV1lWVGdXd0ZmQy1xa2x2MkI0TVFUSEpBMVFZRWVIVFlSMTdCSFJzajdLR0prNlNwWmhEdmVEWGp6Z0Y5N3N1cWppYUZ5dGZ5U0FGYTR1aG1ON1lVQk8zSllVWlotSkxPeHF5V3VmSzFLdFQzVzVBaEtaUGdHYTFwUDhSY3lyTVFfYlFRY2xlSzBpWmZrOTBWN25ueS1vWjV0cDVOXyIsImlkIjoiZmNfTkRYQmFwMlFOdmlYd2NzUHNzVFBpQWtfNSJ9"
+   },
+   {
+    "question": "How long is the National Anthem on average?",
+    "type": "ai_overview",
+    "page_token": "rBYB53icHdBRbpswHIBx9TJ9bHAYnRopmgYFUm0Y2fiPY14mMAlubMCtaSC87S471U6zagf4fg_f7z_mddB_765qmqzbbTbzPD9049iZ04Mc-03tboPcyNqYppZ69_j1EX07y3388RJGby8hAWvLZ-oVJRYlR1GWUJZBYPGKt8y0URWhHK-Vo-YpIheliRdwyd2tjNC10mLJ4tYWmoac0-dKo5zHdhB8_lIdwrHhZG2Z-pnzaQt9wnPogkqbQ21i75TAXFwSIMy4xkNY9mSpUHn5tBcKyDV9YBumdHYMXcFomqdG8CQRpEcf7FjeToMdar8tJKA-S3EgGEbY2ANL5AJMDbFqc5qoSBy_3wCCbV0qX_iYSB8DpCasl_GVAF3lxfRQdmvrKy148ANSt2WxmyCubAvdAnGrPhuPkPuzvO79-_8_97_O_bSz72P3D6pXhEY",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rBYB53icHdBRbpswHIBx9TJ9bHAYnRopmgYFUm0Y2fiPY14mMAlubMCtaSC87S471U6zagf4fg_f7z_mddB_765qmqzbbTbzPD9049iZ04Mc-03tboPcyNqYppZ69_j1EX07y3388RJGby8hAWvLZ-oVJRYlR1GWUJZBYPGKt8y0URWhHK-Vo-YpIheliRdwyd2tjNC10mLJ4tYWmoac0-dKo5zHdhB8_lIdwrHhZG2Z-pnzaQt9wnPogkqbQ21i75TAXFwSIMy4xkNY9mSpUHn5tBcKyDV9YBumdHYMXcFomqdG8CQRpEcf7FjeToMdar8tJKA-S3EgGEbY2ANL5AJMDbFqc5qoSBy_3wCCbV0qX_iYSB8DpCasl_GVAF3lxfRQdmvrKy148ANSt2WxmyCubAvdAnGrPhuPkPuzvO79-_8_97_O_bSz72P3D6pXhEY",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJXOTBURVpsWTNCU01tUmlYMWROYm1kVFdYcE9iMmhZYVZsWFkxOVhTMkZoV0hKMVVFaHNRbVpuV0ZOMWVqZHNYMjlwYTJ4bldqRnJka1UyVDBKTmJVbERaM2xzTjNseFJsbHJRa2hKWTNscmQwdENWWFl3ZW5OYVVSSVhUa1JZUW1Gd01sRk9kbWxZZDJOelVITnpWRkJwUVdzYUlrRkVjM0k1WmxGRlptUjZjRzExY1RGNFkyMDJWMGxXT0hjNGVWcGtVbUpaWDFFIiwiZmN2IjoiMyIsImVpIjoiTkRYQmFwMlFOdmlYd2NzUHNzVFBpQWsiLCJxYyI6ImMtTnlLYzFMTFU3T1YwaEpUYzVKTEVwTlVjaEt6RXRVU0FjUnVTQ2lKQ05WSVNtMXVFUWhMN0VrTXo4dk1VY2hNUThvbHF1UW1RZVdLODh2eWtrUllLamRmSXJGSGdBIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBpcyB0aGUgTmF0aW9uYWwgQW50aGVtIG9uIGF2ZXJhZ2U/IiwibGsiOiJHaFp1WVhScGIyNWhiQ0JoYm5Sb1pXMGdiR1Z1WjNSbyIsImJzIjoiYzIyUFBXX0NNQkNHeGVxSkNWV1pybUxqYThpTUZER2xSVXBIR0JqUUVWOFRJLWRPY3R6NDc5ZUpCSUxBOGc2LTU3MTdyTTVxZmF3RlRBdS1KcmhRNi1FSHZSRkdDenVPYncwWUhtWkJuTlZadWtsV1lWVGdXd0ZmQy1xa2x2MkI0TVFUSEpBMVFZRWVIVFlSMTdCSFJzajdLR0prNlNwWmhEdmVEWGp6Z0Y5N3N1cWppYUZ5dGZ5U0FGYTR1aG1ON1lVQk8zSllVWlotSkxPeHF5V3VmSzFLdFQzVzVBaEtaUGdHYTFwUDhSY3lyTVFfYlFRY2xlSzBpWmZrOTBWN25ueS1vWjV0cDVOXyIsImlkIjoiZmNfTkRYQmFwMlFOdmlYd2NzUHNzVFBpQWtfNSJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJXOTBURVpsWTNCU01tUmlYMWROYm1kVFdYcE9iMmhZYVZsWFkxOVhTMkZoV0hKMVVFaHNRbVpuV0ZOMWVqZHNYMjlwYTJ4bldqRnJka1UyVDBKTmJVbERaM2xzTjNseFJsbHJRa2hKWTNscmQwdENWWFl3ZW5OYVVSSVhUa1JZUW1Gd01sRk9kbWxZZDJOelVITnpWRkJwUVdzYUlrRkVjM0k1WmxGRlptUjZjRzExY1RGNFkyMDJWMGxXT0hjNGVWcGtVbUpaWDFFIiwiZmN2IjoiMyIsImVpIjoiTkRYQmFwMlFOdmlYd2NzUHNzVFBpQWsiLCJxYyI6ImMtTnlLYzFMTFU3T1YwaEpUYzVKTEVwTlVjaEt6RXRVU0FjUnVTQ2lKQ05WSVNtMXVFUWhMN0VrTXo4dk1VY2hNUThvbHF1UW1RZVdLODh2eWtrUllLamRmSXJGSGdBIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBpcyB0aGUgTmF0aW9uYWwgQW50aGVtIG9uIGF2ZXJhZ2U%2FIiwibGsiOiJHaFp1WVhScGIyNWhiQ0JoYm5Sb1pXMGdiR1Z1WjNSbyIsImJzIjoiYzIyUFBXX0NNQkNHeGVxSkNWV1pybUxqYThpTUZER2xSVXBIR0JqUUVWOFRJLWRPY3R6NDc5ZUpCSUxBOGc2LTU3MTdyTTVxZmF3RlRBdS1KcmhRNi1FSHZSRkdDenVPYncwWUhtWkJuTlZadWtsV1lWVGdXd0ZmQy1xa2x2MkI0TVFUSEpBMVFZRWVIVFlSMTdCSFJzajdLR0prNlNwWmhEdmVEWGp6Z0Y5N3N1cWppYUZ5dGZ5U0FGYTR1aG1ON1lVQk8zSllVWlotSkxPeHF5V3VmSzFLdFQzVzVBaEtaUGdHYTFwUDhSY3lyTVFfYlFRY2xlSzBpWmZrOTBWN25ueS1vWjV0cDVOXyIsImlkIjoiZmNfTkRYQmFwMlFOdmlYd2NzUHNzVFBpQWtfNSJ9"
+   },
+   {
+    "question": "Where can I listen to the audio recording of Jana Gana Mana?",
+    "type": "ai_overview",
+    "page_token": "Gnl_GnicHdBRbtowAIBh7TJ9LElM2IqEqkLiACvu7MR27JfJOICpHeIVD5q89Qo9Q0-106zqBX59-t8-3PFk_317NyH483Q0ul6vt4euO7jdre7akTr3Jz3Syrmt0nY6-T6J7_d6ll_0fPGi55h6zzISlYn8W0YhwdwdqU2dbt2eZ9JQSDAGLpZLKLdJ2rIMeRw1YscDeIJkxaxJVSt7CWyvIDvT-K5GjPyi0AQa-2VVrQktSCghxI814yyTAkdpigo_sNx5Gm_CdnAYfbYUl1BncsXywAVfxRsOxxWYX1h-d_p0TvgJj1Ub-GbpsjJunnFNFlXFXqtijarECOR8pxj50xRhg6LzwAYKhBXjOvkBdq3tMfc_hYWX3DRPBJqFqB96StNEMQMEQFgDRGnh5uq1O2JKBv3sWurMY7lECeOGiNZPGsiOJFpTlMR2Z6GlwJnmerPXlxm4-Xo9-71vw9S_dIf_eKCMDg",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Gnl_GnicHdBRbtowAIBh7TJ9LElM2IqEqkLiACvu7MR27JfJOICpHeIVD5q89Qo9Q0-106zqBX59-t8-3PFk_317NyH483Q0ul6vt4euO7jdre7akTr3Jz3Syrmt0nY6-T6J7_d6ll_0fPGi55h6zzISlYn8W0YhwdwdqU2dbt2eZ9JQSDAGLpZLKLdJ2rIMeRw1YscDeIJkxaxJVSt7CWyvIDvT-K5GjPyi0AQa-2VVrQktSCghxI814yyTAkdpigo_sNx5Gm_CdnAYfbYUl1BncsXywAVfxRsOxxWYX1h-d_p0TvgJj1Ub-GbpsjJunnFNFlXFXqtijarECOR8pxj50xRhg6LzwAYKhBXjOvkBdq3tMfc_hYWX3DRPBJqFqB96StNEMQMEQFgDRGnh5uq1O2JKBv3sWurMY7lECeOGiNZPGsiOJFpTlMR2Z6GlwJnmerPXlxm4-Xo9-71vw9S_dIf_eKCMDg",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJXOTBURVpsWTNCU01tUmlYMWROYm1kVFdYcE9iMmhZYVZsWFkxOVhTMkZoV0hKMVVFaHNRbVpuV0ZOMWVqZHNYMjlwYTJ4bldqRnJka1UyVDBKTmJVbERaM2xzTjNseFJsbHJRa2hKWTNscmQwdENWWFl3ZW5OYVVSSVhUa1JZUW1Gd01sRk9kbWxZZDJOelVITnpWRkJwUVdzYUlrRkVjM0k1WmxGRlptUjZjRzExY1RGNFkyMDJWMGxXT0hjNGVWcGtVbUpaWDFFIiwiZmN2IjoiMyIsImVpIjoiTkRYQmFwMlFOdmlYd2NzUHNzVFBpQWsiLCJxYyI6ImMtTnlLYzFMTFU3T1YwaEpUYzVKTEVwTlVjaEt6RXRVU0FjUnVTQ2lKQ05WSVNtMXVFUWhMN0VrTXo4dk1VY2hNUThvbHF1UW1RZVdLODh2eWtrUllLamRmSXJGSGdBIiwicXVlc3Rpb24iOiJXaGVyZSBjYW4gSSBsaXN0ZW4gdG8gdGhlIGF1ZGlvIHJlY29yZGluZyBvZiBKYW5hIEdhbmEgTWFuYT8iLCJsayI6ImM1TlNUQ3hOeWN4WEtFcE56aTlLeWN4TFY4aFBVOGhLekV0VVNBY1J1VUFDQUEiLCJicyI6ImMyMlBQV19DTUJDR3hlcUpDVldacm1MamE4aU1GREdsUlVwSEdCalFFVjhUSS1kT2N0ejQ3OWVKQklMQThnNi01NzE3ck01cWZhd0ZUQXUtSnJoUTYtRUh2UkZHQ3p1T2J3MFlIbVpCbk5WWnVrbFdZVlRnV3dGZkMtcWtsdjJCNE1RVEhKQTFRWUVlSFRZUjE3QkhSc2o3S0dKazZTcFpoRHZlRFhqemdGOTdzdXFqaWFGeXRmeVNBRmE0dWhtTjdZVUJPM0pZVVpaLUpMT3hxeVd1ZksxS3RUM1c1QWhLWlBnR2ExcFA4UmN5ck1RX2JRUWNsZUswaVpmazkwVjdubnktb1o1dHA1Tl8iLCJpZCI6ImZjX05EWEJhcDJRTnZpWHdjc1Bzc1RQaUFrXzUifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJXOTBURVpsWTNCU01tUmlYMWROYm1kVFdYcE9iMmhZYVZsWFkxOVhTMkZoV0hKMVVFaHNRbVpuV0ZOMWVqZHNYMjlwYTJ4bldqRnJka1UyVDBKTmJVbERaM2xzTjNseFJsbHJRa2hKWTNscmQwdENWWFl3ZW5OYVVSSVhUa1JZUW1Gd01sRk9kbWxZZDJOelVITnpWRkJwUVdzYUlrRkVjM0k1WmxGRlptUjZjRzExY1RGNFkyMDJWMGxXT0hjNGVWcGtVbUpaWDFFIiwiZmN2IjoiMyIsImVpIjoiTkRYQmFwMlFOdmlYd2NzUHNzVFBpQWsiLCJxYyI6ImMtTnlLYzFMTFU3T1YwaEpUYzVKTEVwTlVjaEt6RXRVU0FjUnVTQ2lKQ05WSVNtMXVFUWhMN0VrTXo4dk1VY2hNUThvbHF1UW1RZVdLODh2eWtrUllLamRmSXJGSGdBIiwicXVlc3Rpb24iOiJXaGVyZSBjYW4gSSBsaXN0ZW4gdG8gdGhlIGF1ZGlvIHJlY29yZGluZyBvZiBKYW5hIEdhbmEgTWFuYT8iLCJsayI6ImM1TlNUQ3hOeWN4WEtFcE56aTlLeWN4TFY4aFBVOGhLekV0VVNBY1J1VUFDQUEiLCJicyI6ImMyMlBQV19DTUJDR3hlcUpDVldacm1MamE4aU1GREdsUlVwSEdCalFFVjhUSS1kT2N0ejQ3OWVKQklMQThnNi01NzE3ck01cWZhd0ZUQXUtSnJoUTYtRUh2UkZHQ3p1T2J3MFlIbVpCbk5WWnVrbFdZVlRnV3dGZkMtcWtsdjJCNE1RVEhKQTFRWUVlSFRZUjE3QkhSc2o3S0dKazZTcFpoRHZlRFhqemdGOTdzdXFqaWFGeXRmeVNBRmE0dWhtTjdZVUJPM0pZVVpaLUpMT3hxeVd1ZksxS3RUM1c1QWhLWlBnR2ExcFA4UmN5ck1RX2JRUWNsZUswaVpmazkwVjdubnktb1o1dHA1Tl8iLCJpZCI6ImZjX05EWEJhcDJRTnZpWHdjc1Bzc1RQaUFrXzUifQ%3D%3D"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "CtSr7niczVZbcuo4EF3ArGP8Q4aHCRBS5bolKY6xAYOBJMCPyy9kGz8CMnHI3-xltjKbmNWM_AJDIPfxMTWqsmVJ3U1365w6_PmX5wTrf377246iV3Jfq8VxXMVhiD2raoR-TSP7wKitQo9sDfsb9jgnYGyPswJm_8Y1GYNwdcZyOPlhDrVXVpHfnHlskDEhs7ED1kzqzqm6RiyXRn93SU2t0df69-YDXVRJ1QpUAVYFQRn2RsPZG6lX2TrbrI5qmk9twH86sAgUAAGiDxCvWtFD9CPReJ7aioAvecJ0KnljegyTSVTS9eP1aGIaSLQPAVS35wsxAPIhlnLVWyovBtkkDrNsqBfkP3l8ObIEEM5T-67l5c209GwIpdOrneepX7lE2ix-jGlT-cIFn_6MUrZPbOL0qyeCMWwDJVautztxFwHygSwpX1cIEkRM5rhfrHRQpzs1E1P81mv6lk6NmmPYRvqxJQms0axbD4WV39-sXl_ct1EP7Dd205W2M9AZi5DFNUOndl6omZap2mr9W7pusI1Wvdvs3N2klDLIgVOkzKlFbC90hyWyBKqDKmwUbELl5pY7mew-XUJPQoakenjhLLlHEXwGHULhyTK_FIrwBQ_4016ix15yfOA5_XjHYHd6kYUHZcknNqEik2PGACswT2pyvLuTNEUeHRNBJyAdfaoSlnGV9U8Us4wxBMOipfEhkZNmYSkBYvEL6LxfmJaBaGtw2qdng89CHfmgwCFEk_OcxKT31AtnMeEhevo-eicHz6m9wFP6IDiZ0vaAaV5RkkuYF_eIzuhDl2cb-ZjSZ3AZEd8b8AJeLlkVtDljQZk9PWHstczJR09ZSXj4h-yy_FwdjiPFEPBltoS-_nMSZPzfKFUIFM4E6jql0I9QigoUviBQOR8yMBUCpUi5QF2nVD9NJBeoxLsQqHFuchSoz5SSypQa5Cy7ywo6F6ifphT_BaUO3L9AKVr6JUqJ1yhVCFSJUutzgSpfw1GgCkr9mkApvyZQKcOsbDpVq52Lr6pWrx-hdRv1bJttdBtktnQ77my-Ah7R4u-q1sqP7n3N9G5Ux7yHrBTtzRuVboT3lslsuCeZn6JRxbQMT9taZkXSAq0iJK9h8opsq6JbJKoEWuSEgeZVtIDu-RUnSM_icOuZjO9tQ66u3W5n0F3dGXNI3P57vxO_vOs7PxJvtaXcakXzqWki2dyv2m1F3oW-6g-fex_rwdjte2tXH_atHg58FteN7jvb5t1N_6UDw6gzQfL8STBmA7STlotm5Az2CxA-GE73eYy60jhaLvXHDxyFO_Nhsxp1RtMItpQ0KcLd3kn7-XSzXBmA8bcGR_Fyi4GsgBcMDYAWQKGQfdJCOsdAESgEeMjSy2WIoakWof-4DV3XTN3strRWUzd1xsfR_pVrtxgSbLnGv1yuV04",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CtSr7niczVZbcuo4EF3ArGP8Q4aHCRBS5bolKY6xAYOBJMCPyy9kGz8CMnHI3-xltjKbmNWM_AJDIPfxMTWqsmVJ3U1365w6_PmX5wTrf377246iV3Jfq8VxXMVhiD2raoR-TSP7wKitQo9sDfsb9jgnYGyPswJm_8Y1GYNwdcZyOPlhDrVXVpHfnHlskDEhs7ED1kzqzqm6RiyXRn93SU2t0df69-YDXVRJ1QpUAVYFQRn2RsPZG6lX2TrbrI5qmk9twH86sAgUAAGiDxCvWtFD9CPReJ7aioAvecJ0KnljegyTSVTS9eP1aGIaSLQPAVS35wsxAPIhlnLVWyovBtkkDrNsqBfkP3l8ObIEEM5T-67l5c209GwIpdOrneepX7lE2ix-jGlT-cIFn_6MUrZPbOL0qyeCMWwDJVautztxFwHygSwpX1cIEkRM5rhfrHRQpzs1E1P81mv6lk6NmmPYRvqxJQms0axbD4WV39-sXl_ct1EP7Dd205W2M9AZi5DFNUOndl6omZap2mr9W7pusI1Wvdvs3N2klDLIgVOkzKlFbC90hyWyBKqDKmwUbELl5pY7mew-XUJPQoakenjhLLlHEXwGHULhyTK_FIrwBQ_4016ix15yfOA5_XjHYHd6kYUHZcknNqEik2PGACswT2pyvLuTNEUeHRNBJyAdfaoSlnGV9U8Us4wxBMOipfEhkZNmYSkBYvEL6LxfmJaBaGtw2qdng89CHfmgwCFEk_OcxKT31AtnMeEhevo-eicHz6m9wFP6IDiZ0vaAaV5RkkuYF_eIzuhDl2cb-ZjSZ3AZEd8b8AJeLlkVtDljQZk9PWHstczJR09ZSXj4h-yy_FwdjiPFEPBltoS-_nMSZPzfKFUIFM4E6jql0I9QigoUviBQOR8yMBUCpUi5QF2nVD9NJBeoxLsQqHFuchSoz5SSypQa5Cy7ywo6F6ifphT_BaUO3L9AKVr6JUqJ1yhVCFSJUutzgSpfw1GgCkr9mkApvyZQKcOsbDpVq52Lr6pWrx-hdRv1bJttdBtktnQ77my-Ah7R4u-q1sqP7n3N9G5Ux7yHrBTtzRuVboT3lslsuCeZn6JRxbQMT9taZkXSAq0iJK9h8opsq6JbJKoEWuSEgeZVtIDu-RUnSM_icOuZjO9tQ66u3W5n0F3dGXNI3P57vxO_vOs7PxJvtaXcakXzqWki2dyv2m1F3oW-6g-fex_rwdjte2tXH_atHg58FteN7jvb5t1N_6UDw6gzQfL8STBmA7STlotm5Az2CxA-GE73eYy60jhaLvXHDxyFO_Nhsxp1RtMItpQ0KcLd3kn7-XSzXBmA8bcGR_Fyi4GsgBcMDYAWQKGQfdJCOsdAESgEeMjSy2WIoakWof-4DV3XTN3strRWUzd1xsfR_pVrtxgSbLnGv1yuV04"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "UNESCO declared 'Jana Gana Mana' as the world's best ...",
+    "link": "https://www.instagram.com/reel/C47V-6AL4w6/?hl=en",
+    "displayed_link": "50+ likes · 2 years ago",
+    "thumbnail": "https://serpapi.com/searches/6ac13527868180b26a88ef2f/images/KoAdMx0aZ9O0E3WCxXzWurlNMxlNJdPCKgDvBeRkrNg.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "snippet": "UNESCO declared 'Jana Gana Mana' as the world's best anthem? Find out here! #janaganamana #national #anthem #worldsbest #best #unesco #un ...",
+    "duration": "1:06",
+    "about_this_result": {
+     "source": {
+      "description": "UNESCO declared 'Jana Gana Mana' as the world's best anthem? Find out here! #janaganamana #national #anthem #worldsbest #best #unesco #un ...",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkstWWREVGtkWXlPelYxQkRTM0lJeXpEOTJPeW1lYU14UTNrLXBZWmJTQnY3ZTZPWWh6OVB4VS1aaUUwWkZVc2hIN3ZaY2pYX3VCMjZhYVRoWm5NazFfM0lDVjI4YUp6RHF5cHFBT0tJODhkS0pvZnhWalQ1OTZreFlwTGRJMmZMa1RQeVBSMWlIZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkstWWREVGtkWXlPelYxQkRTM0lJeXpEOTJPeW1lYU14UTNrLXBZWmJTQnY3ZTZPWWh6OVB4VS1aaUUwWkZVc2hIN3ZaY2pYX3VCMjZhYVRoWm5NazFfM0lDVjI4YUp6RHF5cHFBT0tJODhkS0pvZnhWalQ1OTZreFlwTGRJMmZMa1RQeVBSMWlIZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTiwZePSPge9ROo5Hr3edREVqpZgf8FZ62wAQ",
+    "source": "Instagram · factlytelugu"
+   },
+   {
+    "position": 2,
+    "title": "Happy news, Our national anthem \"Jana Gana Mana... \"is ...",
+    "link": "https://brainly.in/question/31455255",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAV-TrdxBwF9I7GpimLipHATEFhYaGC3OfsRpE3bNO03hdT7MmQvBeJhk5xlo5VmYtxpXTAgSHGsCkyOuqr4YlzRjRQ0RDEIcJIQd8ebAKwyL3XmP266js3JwlH&ved=2ahUKEwid-vjwqZ6XAxX4S3ADHTLiE5EQFnoECCwQAQ&uoh=1",
+    "displayed_link": "https://brainly.in › Chemistry › Secondary School",
+    "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBgCdASocABwAPtEwtFooIigoGAEAGglsALEfjujYeVUrmVFvePfopq4YEKkgjGUwSJxNXx6tCxAAAP7ok4Z-oj154nFXNCQfL5_GR-HUt1enSHpQs4JKJaDL_hnAfTMfpZ55AbUU5K3iFy4V43bqjRuhFcxDFm-y03hJoy5ob0biY_OkcraP5PHiwXeb3q4S8md_FJuOkv1fgUUzWnPthUGFaCV_rPW7rbv8vgQEHP4sBf9Ifs1DNP-bQ1RNXNGI6UiGmo-f--lOZSdNV5ldnfgBmfVlmC7J79-4HsgJg_n-bH6WCMoBnjmhRpdmbOJ_96g-aqeWmIKa2s6-ra8hIBiPtz_V1LzGRqRQTn6Rr3JGbYn7bHZBjzBq5-I3v2HwrT5fo6cYvSLDFowWnTW0pbtXoAEV6BTrIzlCv859t1AA.webp",
+    "date": "18 Dec 2020",
+    "snippet": "Our national anthem \"Jana Gana Mana... \"is declared as the \"BEST ANTHEM OF THE WORLD\"by UNESCO. Jana = People Gana = Group Mana = Mind Adhinayaka ...",
+    "snippet_highlighted_words": [
+     "Jana Gana Mana... \"is declared as the \"BEST ANTHEM OF THE WORLD\"by UNESCO"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Our national anthem \"Jana Gana Mana... \"is declared as the \"BEST ANTHEM OF THE WORLD\"by UNESCO. Jana = People Gana = Group Mana = Mind Adhinayaka ...",
+      "source_info_link": "https://brainly.in/question/31455255",
+      "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBgCdASocABwAPtEwtFooIigoGAEAGglsALEfjujYeVUrmVFvePfopq4YEKkgjGUwSJxNXx6tCxAAAP7ok4Z-oj154nFXNCQfL5_GR-HUt1enSHpQs4JKJaDL_hnAfTMfpZ55AbUU5K3iFy4V43bqjRuhFcxDFm-y03hJoy5ob0biY_OkcraP5PHiwXeb3q4S8md_FJuOkv1fgUUzWnPthUGFaCV_rPW7rbv8vgQEHP4sBf9Ifs1DNP-bQ1RNXNGI6UiGmo-f--lOZSdNV5ldnfgBmfVlmC7J79-4HsgJg_n-bH6WCMoBnjmhRpdmbOJ_96g-aqeWmIKa2s6-ra8hIBiPtz_V1LzGRqRQTn6Rr3JGbYn7bHZBjzBq5-I3v2HwrT5fo6cYvSLDFowWnTW0pbtXoAEV6BTrIzlCv859t1AA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVi1UcmR4QndGOUk3R3BpbUxpcEhBVEVGaFlhR0MzT2ZzUnBFM2JOTzAzaGRUN01tUXZCZUpoazV4bG81Vm1ZdHhwWFRBZ1NIR3NDa3lPdXFyNFlselJqUlEwUkRFSWNKSVFkOGViQUt3eUwzWG1QMjY2anMzSndsSBIEGgIIABq4BxIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCUBwgAEAAYACAAKhoKBnVuZXNjbxVenzpAGgtpdjtwO3VuZXNjbyo-CghkZWNsYXJlZBUSdpZAGglhbm5vdW5jZWQaCGRlY2xhcmVzGglkZWNsYXJpbmcaDWl2O3A7ZGVjbGFyZWQqLgoEamFuYRX05adAGghqYW5hZ2FuYRoMamFuYWdhbmFtYW5hGglpdjtwO2phbmEqOgoEZ2FuYRUS16hAGgRnYW5lGgRnZWV0GghqYW5hZ2FuYRoMamFuYWdhbmFtYW5hGglpdjtwO2dhbmEqJAoEbWFuYRUGLaZAGgxqYW5hZ2FuYW1hbmEaCWl2O3A7bWFuYSoKCgN0aGUVAAAAACpACgRiZXN0FWJGREAaB2F3ZXNvbWUaBmZhbW91cxoFZ3JlYXQaCGdyZWF0ZXN0GgdyYW5raW5nGghyYW5raW5ncyooCghuYXRpb25hbBVPea1AGgdjb3VudHJ5Gg5uYXRpb25hbGFudGhlbSozCgZhbnRoZW0Vb7HaQBoHYW50aGVtcxoObmF0aW9uYWxhbnRoZW0aC2l2O3A7YW50aGVtKgkKAmluFQAAAAAqCgoDdGhlFQAAAAAqMgoFd29ybGQVeKJbQBoFZWFydGgaBGV2ZXIaBmdsb2JhbBoHd29ybGQncxoGd29ybGRzMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVi1UcmR4QndGOUk3R3BpbUxpcEhBVEVGaFlhR0MzT2ZzUnBFM2JOTzAzaGRUN01tUXZCZUpoazV4bG81Vm1ZdHhwWFRBZ1NIR3NDa3lPdXFyNFlselJqUlEwUkRFSWNKSVFkOGViQUt3eUwzWG1QMjY2anMzSndsSDpSSGFwcHkgbmV3cywgT3VyIDxiPm5hdGlvbmFsIGFudGhlbTwvYj4gJnF1b3Q7PGI-SmFuYSBHYW5hIE1hbmE8L2I-Li4uICZxdW90O2lzIC4uLkK1AU91ciBuYXRpb25hbCBhbnRoZW0gJnF1b3Q7PGI-SmFuYSBHYW5hIE1hbmEuLi4gJnF1b3Q7aXMgZGVjbGFyZWQgYXMgdGhlICZxdW90O0JFU1QgQU5USEVNIE9GIFRIRSBXT1JMRCZxdW90O2J5IFVORVNDTzwvYj4uIEphbmEgPSBQZW9wbGUgR2FuYSA9IEdyb3VwIE1hbmEgPSBNaW5kIEFkaGluYXlha2EmbmJzcDsuLi5KAmluSgN0aGUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVi1UcmR4QndGOUk3R3BpbUxpcEhBVEVGaFlhR0MzT2ZzUnBFM2JOTzAzaGRUN01tUXZCZUpoazV4bG81Vm1ZdHhwWFRBZ1NIR3NDa3lPdXFyNFlselJqUlEwUkRFSWNKSVFkOGViQUt3eUwzWG1QMjY2anMzSndsSBIEGgIIABq4BxIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCUBwgAEAAYACAAKhoKBnVuZXNjbxVenzpAGgtpdjtwO3VuZXNjbyo-CghkZWNsYXJlZBUSdpZAGglhbm5vdW5jZWQaCGRlY2xhcmVzGglkZWNsYXJpbmcaDWl2O3A7ZGVjbGFyZWQqLgoEamFuYRX05adAGghqYW5hZ2FuYRoMamFuYWdhbmFtYW5hGglpdjtwO2phbmEqOgoEZ2FuYRUS16hAGgRnYW5lGgRnZWV0GghqYW5hZ2FuYRoMamFuYWdhbmFtYW5hGglpdjtwO2dhbmEqJAoEbWFuYRUGLaZAGgxqYW5hZ2FuYW1hbmEaCWl2O3A7bWFuYSoKCgN0aGUVAAAAACpACgRiZXN0FWJGREAaB2F3ZXNvbWUaBmZhbW91cxoFZ3JlYXQaCGdyZWF0ZXN0GgdyYW5raW5nGghyYW5raW5ncyooCghuYXRpb25hbBVPea1AGgdjb3VudHJ5Gg5uYXRpb25hbGFudGhlbSozCgZhbnRoZW0Vb7HaQBoHYW50aGVtcxoObmF0aW9uYWxhbnRoZW0aC2l2O3A7YW50aGVtKgkKAmluFQAAAAAqCgoDdGhlFQAAAAAqMgoFd29ybGQVeKJbQBoFZWFydGgaBGV2ZXIaBmdsb2JhbBoHd29ybGQncxoGd29ybGRzMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVi1UcmR4QndGOUk3R3BpbUxpcEhBVEVGaFlhR0MzT2ZzUnBFM2JOTzAzaGRUN01tUXZCZUpoazV4bG81Vm1ZdHhwWFRBZ1NIR3NDa3lPdXFyNFlselJqUlEwUkRFSWNKSVFkOGViQUt3eUwzWG1QMjY2anMzSndsSDpSSGFwcHkgbmV3cywgT3VyIDxiPm5hdGlvbmFsIGFudGhlbTwvYj4gJnF1b3Q7PGI-SmFuYSBHYW5hIE1hbmE8L2I-Li4uICZxdW90O2lzIC4uLkK1AU91ciBuYXRpb25hbCBhbnRoZW0gJnF1b3Q7PGI-SmFuYSBHYW5hIE1hbmEuLi4gJnF1b3Q7aXMgZGVjbGFyZWQgYXMgdGhlICZxdW90O0JFU1QgQU5USEVNIE9GIFRIRSBXT1JMRCZxdW90O2J5IFVORVNDTzwvYj4uIEphbmEgPSBQZW9wbGUgR2FuYSA9IEdyb3VwIE1hbmEgPSBNaW5kIEFkaGluYXlha2EmbmJzcDsuLi5KAmluSgN0aGUiAhABSABYAGgA",
+    "source": "Brainly.in"
+   },
+   {
+    "position": 3,
+    "title": "Jana Gana Mana",
+    "link": "https://en.wikipedia.org/wiki/Jana_Gana_Mana",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVfAhe4cU13Uk7WnmwTsWwhpZfFOX4EfrQ8tyKJYW4B1-aM5MZ0GhgmxKxDjwal0tYY-2oWs8IWTABb_wv1hvyUYYq9EVYa8u_Muup8SHSNHc5MOYuveW3OlyPl378ombkGm0&ved=2ahUKEwid-vjwqZ6XAxX4S3ADHTLiE5EQFnoECDgQAQ&uoh=1",
+    "displayed_link": "https://en.wikipedia.org › wiki › Jana_Gana_Mana",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "snippet": "\"Jana Gana Mana \" is the national anthem of the Republic of India. It was originally composed as \"Bharoto Bhagyo Bidhata\" in Sādhu Bhāṣā, a 19th-century ...",
+    "snippet_highlighted_words": [
+     "Jana Gana Mana \" is the national anthem of the Republic of India"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "\"Jana Gana Mana \" is the national anthem of the Republic of India. It was originally composed as \"Bharoto Bhagyo Bidhata\" in Sādhu Bhāṣā, a 19th-century ...",
+      "source_info_link": "https://en.wikipedia.org/wiki/Jana_Gana_Mana",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVmZBaGU0Y1UxM1VrN1dubXdUc1d3aHBaZkZPWDRFZnJROHR5S0pZVzRCMS1hTTVNWjBHaGdteEt4RGp3YWwwdFlZLTJvV3M4SVdUQUJiX3d2MWh2eVVZWXE5RVZZYTh1X011dXA4U0hTTkhjNU1PWXV2ZVczT2x5UGwzNzhvbWJrR20wEgQaAggAGqAHEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA-gYIABAAGAAgACoaCgZ1bmVzY28VAAAAABoLaXY7cDt1bmVzY28qPgoIZGVjbGFyZWQVAAAAABoJYW5ub3VuY2VkGghkZWNsYXJlcxoJZGVjbGFyaW5nGg1pdjtwO2RlY2xhcmVkKi4KBGphbmEViH65QBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtqYW5hKjoKBGdhbmEVMmi4QBoEZ2FuZRoEZ2VldBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtnYW5hKiQKBG1hbmEVuAy5QBoMamFuYWdhbmFtYW5hGglpdjtwO21hbmEqCgoDdGhlFQAAAAAqQAoEYmVzdBUAAAAAGgdhd2Vzb21lGgZmYW1vdXMaBWdyZWF0GghncmVhdGVzdBoHcmFua2luZxoIcmFua2luZ3MqKAoIbmF0aW9uYWwVJ0NsQBoHY291bnRyeRoObmF0aW9uYWxhbnRoZW0qMwoGYW50aGVtFdNyV0AaB2FudGhlbXMaDm5hdGlvbmFsYW50aGVtGgtpdjtwO2FudGhlbSoJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFQypvD4aBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczKZAS9nb3RvP3VybD1DQUVTWndIck96QVZmQWhlNGNVMTNVazdXbm13VHNXd2hwWmZGT1g0RWZyUTh0eUtKWVc0QjEtYU01TVowR2hnbXhLeERqd2FsMHRZWS0yb1dzOElXVEFCYl93djFodnlVWVlxOUVWWWE4dV9NdXVwOFNIU05IYzVNT1l1dmVXM09seVBsMzc4b21ia0dtMDohPGI-SmFuYSBHYW5hIE1hbmE8L2I-IC0gV2lraXBlZGlhQsEBJnF1b3Q7PGI-SmFuYSBHYW5hIE1hbmEgJnF1b3Q7IGlzIHRoZSBuYXRpb25hbCBhbnRoZW0gb2YgdGhlIFJlcHVibGljIG9mIEluZGlhPC9iPi4gSXQgd2FzIG9yaWdpbmFsbHkgY29tcG9zZWQgYXMgJnF1b3Q7Qmhhcm90byBCaGFneW8gQmlkaGF0YSZxdW90OyBpbiBTxIFkaHUgQmjEgeG5o8SBLCBhIDE5dGgtY2VudHVyeSZuYnNwOy4uLkoCaW5KA3RoZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVmZBaGU0Y1UxM1VrN1dubXdUc1d3aHBaZkZPWDRFZnJROHR5S0pZVzRCMS1hTTVNWjBHaGdteEt4RGp3YWwwdFlZLTJvV3M4SVdUQUJiX3d2MWh2eVVZWXE5RVZZYTh1X011dXA4U0hTTkhjNU1PWXV2ZVczT2x5UGwzNzhvbWJrR20wEgQaAggAGqAHEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA-gYIABAAGAAgACoaCgZ1bmVzY28VAAAAABoLaXY7cDt1bmVzY28qPgoIZGVjbGFyZWQVAAAAABoJYW5ub3VuY2VkGghkZWNsYXJlcxoJZGVjbGFyaW5nGg1pdjtwO2RlY2xhcmVkKi4KBGphbmEViH65QBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtqYW5hKjoKBGdhbmEVMmi4QBoEZ2FuZRoEZ2VldBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtnYW5hKiQKBG1hbmEVuAy5QBoMamFuYWdhbmFtYW5hGglpdjtwO21hbmEqCgoDdGhlFQAAAAAqQAoEYmVzdBUAAAAAGgdhd2Vzb21lGgZmYW1vdXMaBWdyZWF0GghncmVhdGVzdBoHcmFua2luZxoIcmFua2luZ3MqKAoIbmF0aW9uYWwVJ0NsQBoHY291bnRyeRoObmF0aW9uYWxhbnRoZW0qMwoGYW50aGVtFdNyV0AaB2FudGhlbXMaDm5hdGlvbmFsYW50aGVtGgtpdjtwO2FudGhlbSoJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFQypvD4aBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczKZAS9nb3RvP3VybD1DQUVTWndIck96QVZmQWhlNGNVMTNVazdXbm13VHNXd2hwWmZGT1g0RWZyUTh0eUtKWVc0QjEtYU01TVowR2hnbXhLeERqd2FsMHRZWS0yb1dzOElXVEFCYl93djFodnlVWVlxOUVWWWE4dV9NdXVwOFNIU05IYzVNT1l1dmVXM09seVBsMzc4b21ia0dtMDohPGI-SmFuYSBHYW5hIE1hbmE8L2I-IC0gV2lraXBlZGlhQsEBJnF1b3Q7PGI-SmFuYSBHYW5hIE1hbmEgJnF1b3Q7IGlzIHRoZSBuYXRpb25hbCBhbnRoZW0gb2YgdGhlIFJlcHVibGljIG9mIEluZGlhPC9iPi4gSXQgd2FzIG9yaWdpbmFsbHkgY29tcG9zZWQgYXMgJnF1b3Q7Qmhhcm90byBCaGFneW8gQmlkaGF0YSZxdW90OyBpbiBTxIFkaHUgQmjEgeG5o8SBLCBhIDE5dGgtY2VudHVyeSZuYnNwOy4uLkoCaW5KA3RoZSICEAFIAFgAaAA",
+    "source": "Wikipedia",
+    "read_more_link": "https://en.wikipedia.org/wiki/Jana_Gana_Mana#:~:text=%22Jana%20Gana%20Mana,in%20S%C4%81dhu%20Bh%C4%81%E1%B9%A3%C4%81%2C%20a%2019th%2Dcentury"
+   },
+   {
+    "position": 4,
+    "title": "क्या UNESCO द्वारा भारतीय राष्ट्रगान को घोषित किया गया ...",
+    "link": "https://newschecker.in/hi/uncategorized/unesco-did-not-announce-that-indian-national-anthem-is-best-anthem-fake-claim-viral",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEB6zswFUZXKVOhl1jnY7-T_1WNHEVR2S5_5Glei0B2fW7y90k9jlVw6T3tFWIxxqZK-GGBwfwiBN-mPs3gKjfGki9_KeJKvMcLviD6ZT0viuXaTZlDVFNqTA5d4kL8DU8QBWLwiS3IIB06yPHp-E6Dxv2WFsY-flZqBzk5RlwiTCQPsYGpB7aRW8vQf1sUWdaKXoMAAkpul0_7iGVXS9WwrwIKr95UOKjJZ3FrKh-hbA_bHVBsVg&ved=2ahUKEwid-vjwqZ6XAxX4S3ADHTLiE5EQFnoECD8QAQ&uoh=1",
+    "displayed_link": "https://newschecker.in › unesco-di...",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAADwBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y4OACadHx7WB4AaTWZv4xHuHoVlhn4lo-ydTLk3XfCWkapn1YO9eO3by04QAA_vfqX89KS4T86zHUfA3kYVv7QhlnQBMWrXAbsBhscU21lG1XH-2Q7OpFCP6qcLvEi0RHtKk03SOOyNurIeqpFFYI6Se9EsjktahsUmm_vK-YPwcj3fj6tGCYJzTjNDt49vhlYcpvNXYpGwk_yVfJ8qtD1ocfKdod_kNBBTj709UrgNEpfWy26wR05ywUr_dKbG0vUH1JG0LXngGsfif3tZvL64l9KW4cVI0iD41Kavej5rhOu-YPvXiA2q4kmOntOL1vYiR4iea7-nb4IyPc62Ik1KDlRvmbVwFJopw4bASn5yJ84bm4Qb5Ojj0U3vT16pVQZYWtYqhrYIIKeU2sadq8T7ZmTZVK0-2RzyWyijoGgBwp3nJSksbpn-8LCVwsjuEy-vXszgqp-uHOds4L6K3jccElUQyeIRs0pOS-ggSP-5aoL0HP3P-8sifTf3ModATnAAA.webp",
+    "date": "25 Jan 2021",
+    "snippet": "Congratulation to all of us.Our national anthem \"Jana Gana Mana. \"is declared as the \"BEST ANTHEM OF THE WORLD\"by UNESCO#ProudIndian",
+    "snippet_highlighted_words": [
+     "national anthem",
+     "Jana Gana Mana",
+     "declared",
+     "BEST ANTHEM",
+     "WORLD",
+     "UNESCO"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Congratulation to all of us.Our national anthem \"Jana Gana Mana. \"is declared as the \"BEST ANTHEM OF THE WORLD\"by UNESCO#ProudIndian",
+      "source_info_link": "https://newschecker.in/hi/uncategorized/unesco-did-not-announce-that-indian-national-anthem-is-best-anthem-fake-claim-viral",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAADwBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y4OACadHx7WB4AaTWZv4xHuHoVlhn4lo-ydTLk3XfCWkapn1YO9eO3by04QAA_vfqX89KS4T86zHUfA3kYVv7QhlnQBMWrXAbsBhscU21lG1XH-2Q7OpFCP6qcLvEi0RHtKk03SOOyNurIeqpFFYI6Se9EsjktahsUmm_vK-YPwcj3fj6tGCYJzTjNDt49vhlYcpvNXYpGwk_yVfJ8qtD1ocfKdod_kNBBTj709UrgNEpfWy26wR05ywUr_dKbG0vUH1JG0LXngGsfif3tZvL64l9KW4cVI0iD41Kavej5rhOu-YPvXiA2q4kmOntOL1vYiR4iea7-nb4IyPc62Ik1KDlRvmbVwFJopw4bASn5yJ84bm4Qb5Ojj0U3vT16pVQZYWtYqhrYIIKeU2sadq8T7ZmTZVK0-2RzyWyijoGgBwp3nJSksbpn-8LCVwsjuEy-vXszgqp-uHOds4L6K3jccElUQyeIRs0pOS-ggSP-5aoL0HP3P-8sifTf3ModATnAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCNnpzd0ZVWlhLVk9obDFqblk3LVRfMVdOSEVWUjJTNV81R2xlaTBCMmZXN3k5MGs5amxWdzZUM3RGV0l4eHFaSy1HR0J3ZndpQk4tbVBzM2dLamZHa2k5X0tlSkt2TWNMdmlENlpUMHZpdVhhVFpsRFZGTnFUQTVkNGtMOERVOFFCV0x3aVMzSUlCMDZ5UEhwLUU2RHh2MldGc1ktZmxacUJ6azVSbHdpVENRUHNZR3BCN2FSVzh2UWYxc1VXZGFLWG9NQUFrcHVsMF83aUdWWFM5V3dyd0lLcjk1VU9LakpaM0ZyS2gtaGJBX2JIVkJzVmcSBBoCCAAajgkSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA6ggIABAAGAAgACoaCgZ1bmVzY28V818AQRoLaXY7cDt1bmVzY28qPgoIZGVjbGFyZWQVQcMZQBoJYW5ub3VuY2VkGghkZWNsYXJlcxoJZGVjbGFyaW5nGg1pdjtwO2RlY2xhcmVkKi4KBGphbmEVFKU5QBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtqYW5hKjoKBGdhbmEVFKU5QBoEZ2FuZRoEZ2VldBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtnYW5hKiQKBG1hbmEVFKU5QBoMamFuYWdhbmFtYW5hGglpdjtwO21hbmEqCgoDdGhlFQAAAAAqQAoEYmVzdBV1cGRAGgdhd2Vzb21lGgZmYW1vdXMaBWdyZWF0GghncmVhdGVzdBoHcmFua2luZxoIcmFua2luZ3MqKAoIbmF0aW9uYWwVdU5tQBoHY291bnRyeRoObmF0aW9uYWxhbnRoZW0qMwoGYW50aGVtFegJoUAaB2FudGhlbXMaDm5hdGlvbmFsYW50aGVtGgtpdjtwO2FudGhlbSoJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFRSlOUAaBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczKEAi9nb3RvP3VybD1DQUVTdGdFQjZ6c3dGVVpYS1ZPaGwxam5ZNy1UXzFXTkhFVlIyUzVfNUdsZWkwQjJmVzd5OTBrOWpsVnc2VDN0RldJeHhxWkstR0dCd2Z3aUJOLW1QczNnS2pmR2tpOV9LZUpLdk1jTHZpRDZaVDB2aXVYYVRabERWRk5xVEE1ZDRrTDhEVThRQldMd2lTM0lJQjA2eVBIcC1FNkR4djJXRnNZLWZsWnFCems1Umx3aVRDUVBzWUdwQjdhUlc4dlFmMXNVV2RhS1hvTUFBa3B1bDBfN2lHVlhTOVd3cndJS3I5NVVPS2pKWjNGcktoLWhiQV9iSFZCc1ZnOqQB4KSV4KWN4KSv4KS-IDxiPlVORVNDTzwvYj4g4KSm4KWN4KS14KS-4KSw4KS-IOCkreCkvuCksOCkpOClgOCkryDgpLDgpL7gpLfgpY3gpJ_gpY3gpLDgpJfgpL7gpKgg4KSV4KWLIOCkmOCli-Ckt-Ckv-CkpCDgpJXgpL_gpK_gpL4g4KSX4KSv4KS-IOCkpuClgeCkqOCkv-Ckr-CkviAuLi5CwgFDb25ncmF0dWxhdGlvbiB0byBhbGwgb2YgdXMuT3VyIDxiPm5hdGlvbmFsIGFudGhlbTwvYj4gJnF1b3Q7PGI-SmFuYSBHYW5hIE1hbmE8L2I-LiAmcXVvdDtpcyA8Yj5kZWNsYXJlZDwvYj4gYXMgdGhlICZxdW90OzxiPkJFU1QgQU5USEVNPC9iPiBPRiBUSEUgPGI-V09STEQ8L2I-JnF1b3Q7YnkgPGI-VU5FU0NPPC9iPiNQcm91ZEluZGlhbkoDdGhlSgJpbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCNnpzd0ZVWlhLVk9obDFqblk3LVRfMVdOSEVWUjJTNV81R2xlaTBCMmZXN3k5MGs5amxWdzZUM3RGV0l4eHFaSy1HR0J3ZndpQk4tbVBzM2dLamZHa2k5X0tlSkt2TWNMdmlENlpUMHZpdVhhVFpsRFZGTnFUQTVkNGtMOERVOFFCV0x3aVMzSUlCMDZ5UEhwLUU2RHh2MldGc1ktZmxacUJ6azVSbHdpVENRUHNZR3BCN2FSVzh2UWYxc1VXZGFLWG9NQUFrcHVsMF83aUdWWFM5V3dyd0lLcjk1VU9LakpaM0ZyS2gtaGJBX2JIVkJzVmcSBBoCCAAajgkSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA6ggIABAAGAAgACoaCgZ1bmVzY28V818AQRoLaXY7cDt1bmVzY28qPgoIZGVjbGFyZWQVQcMZQBoJYW5ub3VuY2VkGghkZWNsYXJlcxoJZGVjbGFyaW5nGg1pdjtwO2RlY2xhcmVkKi4KBGphbmEVFKU5QBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtqYW5hKjoKBGdhbmEVFKU5QBoEZ2FuZRoEZ2VldBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtnYW5hKiQKBG1hbmEVFKU5QBoMamFuYWdhbmFtYW5hGglpdjtwO21hbmEqCgoDdGhlFQAAAAAqQAoEYmVzdBV1cGRAGgdhd2Vzb21lGgZmYW1vdXMaBWdyZWF0GghncmVhdGVzdBoHcmFua2luZxoIcmFua2luZ3MqKAoIbmF0aW9uYWwVdU5tQBoHY291bnRyeRoObmF0aW9uYWxhbnRoZW0qMwoGYW50aGVtFegJoUAaB2FudGhlbXMaDm5hdGlvbmFsYW50aGVtGgtpdjtwO2FudGhlbSoJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFRSlOUAaBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczKEAi9nb3RvP3VybD1DQUVTdGdFQjZ6c3dGVVpYS1ZPaGwxam5ZNy1UXzFXTkhFVlIyUzVfNUdsZWkwQjJmVzd5OTBrOWpsVnc2VDN0RldJeHhxWkstR0dCd2Z3aUJOLW1QczNnS2pmR2tpOV9LZUpLdk1jTHZpRDZaVDB2aXVYYVRabERWRk5xVEE1ZDRrTDhEVThRQldMd2lTM0lJQjA2eVBIcC1FNkR4djJXRnNZLWZsWnFCems1Umx3aVRDUVBzWUdwQjdhUlc4dlFmMXNVV2RhS1hvTUFBa3B1bDBfN2lHVlhTOVd3cndJS3I5NVVPS2pKWjNGcktoLWhiQV9iSFZCc1ZnOqQB4KSV4KWN4KSv4KS-IDxiPlVORVNDTzwvYj4g4KSm4KWN4KS14KS-4KSw4KS-IOCkreCkvuCksOCkpOClgOCkryDgpLDgpL7gpLfgpY3gpJ_gpY3gpLDgpJfgpL7gpKgg4KSV4KWLIOCkmOCli-Ckt-Ckv-CkpCDgpJXgpL_gpK_gpL4g4KSX4KSv4KS-IOCkpuClgeCkqOCkv-Ckr-CkviAuLi5CwgFDb25ncmF0dWxhdGlvbiB0byBhbGwgb2YgdXMuT3VyIDxiPm5hdGlvbmFsIGFudGhlbTwvYj4gJnF1b3Q7PGI-SmFuYSBHYW5hIE1hbmE8L2I-LiAmcXVvdDtpcyA8Yj5kZWNsYXJlZDwvYj4gYXMgdGhlICZxdW90OzxiPkJFU1QgQU5USEVNPC9iPiBPRiBUSEUgPGI-V09STEQ8L2I-JnF1b3Q7YnkgPGI-VU5FU0NPPC9iPiNQcm91ZEluZGlhbkoDdGhlSgJpbiICEAFIAFgAaAA",
+    "source": "Newschecker"
+   },
+   {
+    "position": 5,
+    "title": "“Jana Gana Mana....” is now declared as the BEST ...",
+    "link": "https://www.facebook.com/indians.incredible.india/photos/jana-gana-mana-is-now-declared-as-the-best-anthem-of-the-world-by-unesco-dr-a-p-/409600235717259/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1gEB6zswFct7kBTBiBdALcEJEzomZCNtlaO9bYuAfZclp15V5o1vmKTf3xf8wdq0i-vcRGxfF7IR5JpefVlyBWnHGlET7xeZ5-dnMdzGfEB5sAHJpQ1PfLLTYZMdgasSWwwOPEMs9G1rLFryjCs3nPW9fKVJzFBAr9R174WhC22ifkZHmacrfIL4d0WKhrQeXPuV8raI8etDSfjeJ7AJE9FQw3Md0PxRbCms3IzjD19JtRZTc4ucHEjGDvagH1n7dIN1V0hVtKRXTbWxUQIb0b8vMpW9FLck&ved=2ahUKEwid-vjwqZ6XAxX4S3ADHTLiE5EQFnoECDcQAQ&uoh=1",
+    "displayed_link": "40+ reactions · 14 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Jana Gana Mana....” is now declared as the BEST ANTHEM OF THE WORLD by UNESCO!! Dr. A. P. J Abdul Kalam: declared as the BEST ANTHEM OF THE WORLD ...",
+    "snippet_highlighted_words": [
+     "is now declared as the BEST ANTHEM OF THE WORLD by UNESCO"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Jana Gana Mana....” is now declared as the BEST ANTHEM OF THE WORLD by UNESCO!! Dr. A. P. J Abdul Kalam: declared as the BEST ANTHEM OF THE WORLD ...",
+      "source_info_link": "https://www.facebook.com/indians.incredible.india/photos/jana-gana-mana-is-now-declared-as-the-best-anthem-of-the-world-by-unesco-dr-a-p-/409600235717259/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4CL2dvdG8_dXJsPUNBRVMxZ0VCNnpzd0ZjdDdrQlRCaUJkQUxjRUpFem9tWkNOdGxhTzliWXVBZlpjbHAxNVY1bzF2bUtUZjN4Zjh3ZHEwaS12Y1JHeGZGN0lSNUpwZWZWbHlCV25IR2xFVDd4ZVo1LWRuTWR6R2ZFQjVzQUhKcFExUGZMTFRZWk1kZ2FzU1d3d09QRU1zOUcxckxGcnlqQ3MzblBXOWZLVkp6RkJBcjlSMTc0V2hDMjJpZmtaSG1hY3JmSUw0ZDBXS2hyUWVYUHVWOHJhSThldERTZmplSjdBSkU5RlF3M01kMFB4UmJDbXMzSXpqRDE5SnRSWlRjNHVjSEVqR0R2YWdIMW43ZElOMVYwaFZ0S1JYVGJXeFVRSWIwYjh2TXBXOUZMY2sSBBoCCAAayAgSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJApAgIABAAGAAgACoaCgZ1bmVzY28VETs-QBoLaXY7cDt1bmVzY28qPgoIZGVjbGFyZWQVKm2OQBoJYW5ub3VuY2VkGghkZWNsYXJlcxoJZGVjbGFyaW5nGg1pdjtwO2RlY2xhcmVkKi4KBGphbmEVuRqfQBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtqYW5hKjoKBGdhbmEVuRqfQBoEZ2FuZRoEZ2VldBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtnYW5hKiQKBG1hbmEVuRqfQBoMamFuYWdhbmFtYW5hGglpdjtwO21hbmEqCgoDdGhlFQAAAAAqQAoEYmVzdBVWHZlAGgdhd2Vzb21lGgZmYW1vdXMaBWdyZWF0GghncmVhdGVzdBoHcmFua2luZxoIcmFua2luZ3MqKAoIbmF0aW9uYWwV3YqEPxoHY291bnRyeRoObmF0aW9uYWxhbnRoZW0qMwoGYW50aGVtFTj-pkAaB2FudGhlbXMaDm5hdGlvbmFsYW50aGVtGgtpdjtwO2FudGhlbSoJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFUphYUAaBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczKuAi9nb3RvP3VybD1DQUVTMWdFQjZ6c3dGY3Q3a0JUQmlCZEFMY0VKRXpvbVpDTnRsYU85Yll1QWZaY2xwMTVWNW8xdm1LVGYzeGY4d2RxMGktdmNSR3hmRjdJUjVKcGVmVmx5QlduSEdsRVQ3eGVaNS1kbk1kekdmRUI1c0FISnBRMVBmTExUWVpNZGdhc1NXd3dPUEVNczlHMXJMRnJ5akNzM25QVzlmS1ZKekZCQXI5UjE3NFdoQzIyaWZrWkhtYWNyZklMNGQwV0toclFlWFB1VjhyYUk4ZXREU2ZqZUo3QUpFOUZRdzNNZDBQeFJiQ21zM0l6akQxOUp0UlpUYzR1Y0hFakdEdmFnSDFuN2RJTjFWMGhWdEtSWFRiV3hVUUliMGI4dk1wVzlGTGNrOlTigJw8Yj5KYW5hIEdhbmEgTWFuYTwvYj4uLi4u4oCdIGlzIG5vdyA8Yj5kZWNsYXJlZDwvYj4gYXMgdGhlIDxiPkJFU1QgQU5USEVNPC9iPiAuLi5CowFKYW5hIEdhbmEgTWFuYS4uLi7igJ0gPGI-aXMgbm93IGRlY2xhcmVkIGFzIHRoZSBCRVNUIEFOVEhFTSBPRiBUSEUgV09STEQgYnkgVU5FU0NPPC9iPiEhIERyLiBBLiBQLiBKIEFiZHVsIEthbGFtOiBkZWNsYXJlZCBhcyB0aGUgQkVTVCBBTlRIRU0gT0YgVEhFIFdPUkxEJm5ic3A7Li4uSgJpbkoDdGhlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4CL2dvdG8_dXJsPUNBRVMxZ0VCNnpzd0ZjdDdrQlRCaUJkQUxjRUpFem9tWkNOdGxhTzliWXVBZlpjbHAxNVY1bzF2bUtUZjN4Zjh3ZHEwaS12Y1JHeGZGN0lSNUpwZWZWbHlCV25IR2xFVDd4ZVo1LWRuTWR6R2ZFQjVzQUhKcFExUGZMTFRZWk1kZ2FzU1d3d09QRU1zOUcxckxGcnlqQ3MzblBXOWZLVkp6RkJBcjlSMTc0V2hDMjJpZmtaSG1hY3JmSUw0ZDBXS2hyUWVYUHVWOHJhSThldERTZmplSjdBSkU5RlF3M01kMFB4UmJDbXMzSXpqRDE5SnRSWlRjNHVjSEVqR0R2YWdIMW43ZElOMVYwaFZ0S1JYVGJXeFVRSWIwYjh2TXBXOUZMY2sSBBoCCAAayAgSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJApAgIABAAGAAgACoaCgZ1bmVzY28VETs-QBoLaXY7cDt1bmVzY28qPgoIZGVjbGFyZWQVKm2OQBoJYW5ub3VuY2VkGghkZWNsYXJlcxoJZGVjbGFyaW5nGg1pdjtwO2RlY2xhcmVkKi4KBGphbmEVuRqfQBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtqYW5hKjoKBGdhbmEVuRqfQBoEZ2FuZRoEZ2VldBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtnYW5hKiQKBG1hbmEVuRqfQBoMamFuYWdhbmFtYW5hGglpdjtwO21hbmEqCgoDdGhlFQAAAAAqQAoEYmVzdBVWHZlAGgdhd2Vzb21lGgZmYW1vdXMaBWdyZWF0GghncmVhdGVzdBoHcmFua2luZxoIcmFua2luZ3MqKAoIbmF0aW9uYWwV3YqEPxoHY291bnRyeRoObmF0aW9uYWxhbnRoZW0qMwoGYW50aGVtFTj-pkAaB2FudGhlbXMaDm5hdGlvbmFsYW50aGVtGgtpdjtwO2FudGhlbSoJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFUphYUAaBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczKuAi9nb3RvP3VybD1DQUVTMWdFQjZ6c3dGY3Q3a0JUQmlCZEFMY0VKRXpvbVpDTnRsYU85Yll1QWZaY2xwMTVWNW8xdm1LVGYzeGY4d2RxMGktdmNSR3hmRjdJUjVKcGVmVmx5QlduSEdsRVQ3eGVaNS1kbk1kekdmRUI1c0FISnBRMVBmTExUWVpNZGdhc1NXd3dPUEVNczlHMXJMRnJ5akNzM25QVzlmS1ZKekZCQXI5UjE3NFdoQzIyaWZrWkhtYWNyZklMNGQwV0toclFlWFB1VjhyYUk4ZXREU2ZqZUo3QUpFOUZRdzNNZDBQeFJiQ21zM0l6akQxOUp0UlpUYzR1Y0hFakdEdmFnSDFuN2RJTjFWMGhWdEtSWFRiV3hVUUliMGI4dk1wVzlGTGNrOlTigJw8Yj5KYW5hIEdhbmEgTWFuYTwvYj4uLi4u4oCdIGlzIG5vdyA8Yj5kZWNsYXJlZDwvYj4gYXMgdGhlIDxiPkJFU1QgQU5USEVNPC9iPiAuLi5CowFKYW5hIEdhbmEgTWFuYS4uLi7igJ0gPGI-aXMgbm93IGRlY2xhcmVkIGFzIHRoZSBCRVNUIEFOVEhFTSBPRiBUSEUgV09STEQgYnkgVU5FU0NPPC9iPiEhIERyLiBBLiBQLiBKIEFiZHVsIEthbGFtOiBkZWNsYXJlZCBhcyB0aGUgQkVTVCBBTlRIRU0gT0YgVEhFIFdPUkxEJm5ic3A7Li4uSgJpbkoDdGhlIgIQAUgAWABoAA",
+    "source": "Facebook · Traveller India"
+   },
+   {
+    "position": 6,
+    "title": "Congratulations to all of us. Our national anthem \"Jana ...",
+    "link": "https://www.facebook.com/biploveguru/posts/congratulations-to-all-of-us-our-national-anthem-jana-gana-mana-is-declared-as-t/10226813036581437/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESygEB6zswFWyy00YsnvvsW9DCnzl8vq93YfuGzj6-1RcsPRAOyVD4UKx8mMkpw4CFw7RHXiBwv6xR8eiKXhMijfb-AjEhHK2mz6EX25OGzJQz7K-4utmjNYq1I3Qbin0NhmpKAAgehDTxc4z713UMdZKLLv0ne-YhC6u2KwJgrEXB3FavRVaXdkqNV2ZD3j90E72FIAB17NRfCmH6Lw9HxBkejS5X2GWAjYBLiIuCbVvFbfXLoK9MiW02WHAsTfryCqj6--TLj5APf5s3&ved=2ahUKEwid-vjwqZ6XAxX4S3ADHTLiE5EQFnoECDkQAQ&uoh=1",
+    "displayed_link": "4 reactions · 1 year ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Our national anthem \"Jana Gana Mana... \"is declared as the \"BEST ANTHEM OF THE WORLD\"by UNESCO. Just few minutes ago. Kindly share this.",
+    "snippet_highlighted_words": [
+     "national anthem",
+     "Jana Gana Mana",
+     "declared",
+     "BEST",
+     "WORLD",
+     "UNESCO"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Our national anthem \"Jana Gana Mana... \"is declared as the \"BEST ANTHEM OF THE WORLD\"by UNESCO. Just few minutes ago. Kindly share this.",
+      "source_info_link": "https://www.facebook.com/biploveguru/posts/congratulations-to-all-of-us-our-national-anthem-jana-gana-mana-is-declared-as-t/10226813036581437/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZXeXkwMFlzbnZ2c1c5RENuemw4dnE5M1lmdUd6ajYtMVJjc1BSQU95VkQ0VUt4OG1Na3B3NENGdzdSSFhpQnd2NnhSOGVpS1hoTWlqZmItQWpFaEhLMm16NkVYMjVPR3pKUXo3Sy00dXRtak5ZcTFJM1FiaW4wTmhtcEtBQWdlaERUeGM0ejcxM1VNZFpLTEx2MG5lLVloQzZ1Mkt3SmdyRVhCM0ZhdlJWYVhka3FOVjJaRDNqOTBFNzJGSUFCMTdOUmZDbUg2THc5SHhCa2VqUzVYMkdXQWpZQkxpSXVDYlZ2RmJmWExvSzlNaVcwMldIQXNUZnJ5Q3FqNi0tVExqNUFQZjVzMxIEGgIIABraCBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC2CAgAEAAYACAAKhoKBnVuZXNjbxX8LDVAGgtpdjtwO3VuZXNjbyo-CghkZWNsYXJlZBV_81BAGglhbm5vdW5jZWQaCGRlY2xhcmVzGglkZWNsYXJpbmcaDWl2O3A7ZGVjbGFyZWQqLgoEamFuYRXBPuVAGghqYW5hZ2FuYRoMamFuYWdhbmFtYW5hGglpdjtwO2phbmEqOgoEZ2FuYRXBPuVAGgRnYW5lGgRnZWV0GghqYW5hZ2FuYRoMamFuYWdhbmFtYW5hGglpdjtwO2dhbmEqJAoEbWFuYRWs3spAGgxqYW5hZ2FuYW1hbmEaCWl2O3A7bWFuYSoKCgN0aGUVAAAAACpACgRiZXN0FRbXM0AaB2F3ZXNvbWUaBmZhbW91cxoFZ3JlYXQaCGdyZWF0ZXN0GgdyYW5raW5nGghyYW5raW5ncyooCghuYXRpb25hbBWJhdJAGgdjb3VudHJ5Gg5uYXRpb25hbGFudGhlbSozCgZhbnRoZW0VQ6_qQBoHYW50aGVtcxoObmF0aW9uYWxhbnRoZW0aC2l2O3A7YW50aGVtKgkKAmluFQAAAAAqCgoDdGhlFQAAAAAqMgoFd29ybGQVBy9KQBoFZWFydGgaBGV2ZXIaBmdsb2JhbBoHd29ybGQncxoGd29ybGRzMp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZXeXkwMFlzbnZ2c1c5RENuemw4dnE5M1lmdUd6ajYtMVJjc1BSQU95VkQ0VUt4OG1Na3B3NENGdzdSSFhpQnd2NnhSOGVpS1hoTWlqZmItQWpFaEhLMm16NkVYMjVPR3pKUXo3Sy00dXRtak5ZcTFJM1FiaW4wTmhtcEtBQWdlaERUeGM0ejcxM1VNZFpLTEx2MG5lLVloQzZ1Mkt3SmdyRVhCM0ZhdlJWYVhka3FOVjJaRDNqOTBFNzJGSUFCMTdOUmZDbUg2THc5SHhCa2VqUzVYMkdXQWpZQkxpSXVDYlZ2RmJmWExvSzlNaVcwMldIQXNUZnJ5Q3FqNi0tVExqNUFQZjVzMzpTQ29uZ3JhdHVsYXRpb25zIHRvIGFsbCBvZiB1cy4gT3VyIDxiPm5hdGlvbmFsIGFudGhlbTwvYj4gJnF1b3Q7PGI-SmFuYSBHYW5hPC9iPiAuLi5CxgFPdXIgPGI-bmF0aW9uYWwgYW50aGVtPC9iPiAmcXVvdDs8Yj5KYW5hIEdhbmEgTWFuYTwvYj4uLi4gJnF1b3Q7aXMgPGI-ZGVjbGFyZWQ8L2I-IGFzIHRoZSAmcXVvdDs8Yj5CRVNUPC9iPiBBTlRIRU0gT0YgVEhFIDxiPldPUkxEPC9iPiZxdW90O2J5IDxiPlVORVNDTzwvYj4uIEp1c3QgZmV3IG1pbnV0ZXMgYWdvLiBLaW5kbHkgc2hhcmUgdGhpcy5KA3RoZUoCaW4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZXeXkwMFlzbnZ2c1c5RENuemw4dnE5M1lmdUd6ajYtMVJjc1BSQU95VkQ0VUt4OG1Na3B3NENGdzdSSFhpQnd2NnhSOGVpS1hoTWlqZmItQWpFaEhLMm16NkVYMjVPR3pKUXo3Sy00dXRtak5ZcTFJM1FiaW4wTmhtcEtBQWdlaERUeGM0ejcxM1VNZFpLTEx2MG5lLVloQzZ1Mkt3SmdyRVhCM0ZhdlJWYVhka3FOVjJaRDNqOTBFNzJGSUFCMTdOUmZDbUg2THc5SHhCa2VqUzVYMkdXQWpZQkxpSXVDYlZ2RmJmWExvSzlNaVcwMldIQXNUZnJ5Q3FqNi0tVExqNUFQZjVzMxIEGgIIABraCBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC2CAgAEAAYACAAKhoKBnVuZXNjbxX8LDVAGgtpdjtwO3VuZXNjbyo-CghkZWNsYXJlZBV_81BAGglhbm5vdW5jZWQaCGRlY2xhcmVzGglkZWNsYXJpbmcaDWl2O3A7ZGVjbGFyZWQqLgoEamFuYRXBPuVAGghqYW5hZ2FuYRoMamFuYWdhbmFtYW5hGglpdjtwO2phbmEqOgoEZ2FuYRXBPuVAGgRnYW5lGgRnZWV0GghqYW5hZ2FuYRoMamFuYWdhbmFtYW5hGglpdjtwO2dhbmEqJAoEbWFuYRWs3spAGgxqYW5hZ2FuYW1hbmEaCWl2O3A7bWFuYSoKCgN0aGUVAAAAACpACgRiZXN0FRbXM0AaB2F3ZXNvbWUaBmZhbW91cxoFZ3JlYXQaCGdyZWF0ZXN0GgdyYW5raW5nGghyYW5raW5ncyooCghuYXRpb25hbBWJhdJAGgdjb3VudHJ5Gg5uYXRpb25hbGFudGhlbSozCgZhbnRoZW0VQ6_qQBoHYW50aGVtcxoObmF0aW9uYWxhbnRoZW0aC2l2O3A7YW50aGVtKgkKAmluFQAAAAAqCgoDdGhlFQAAAAAqMgoFd29ybGQVBy9KQBoFZWFydGgaBGV2ZXIaBmdsb2JhbBoHd29ybGQncxoGd29ybGRzMp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZXeXkwMFlzbnZ2c1c5RENuemw4dnE5M1lmdUd6ajYtMVJjc1BSQU95VkQ0VUt4OG1Na3B3NENGdzdSSFhpQnd2NnhSOGVpS1hoTWlqZmItQWpFaEhLMm16NkVYMjVPR3pKUXo3Sy00dXRtak5ZcTFJM1FiaW4wTmhtcEtBQWdlaERUeGM0ejcxM1VNZFpLTEx2MG5lLVloQzZ1Mkt3SmdyRVhCM0ZhdlJWYVhka3FOVjJaRDNqOTBFNzJGSUFCMTdOUmZDbUg2THc5SHhCa2VqUzVYMkdXQWpZQkxpSXVDYlZ2RmJmWExvSzlNaVcwMldIQXNUZnJ5Q3FqNi0tVExqNUFQZjVzMzpTQ29uZ3JhdHVsYXRpb25zIHRvIGFsbCBvZiB1cy4gT3VyIDxiPm5hdGlvbmFsIGFudGhlbTwvYj4gJnF1b3Q7PGI-SmFuYSBHYW5hPC9iPiAuLi5CxgFPdXIgPGI-bmF0aW9uYWwgYW50aGVtPC9iPiAmcXVvdDs8Yj5KYW5hIEdhbmEgTWFuYTwvYj4uLi4gJnF1b3Q7aXMgPGI-ZGVjbGFyZWQ8L2I-IGFzIHRoZSAmcXVvdDs8Yj5CRVNUPC9iPiBBTlRIRU0gT0YgVEhFIDxiPldPUkxEPC9iPiZxdW90O2J5IDxiPlVORVNDTzwvYj4uIEp1c3QgZmV3IG1pbnV0ZXMgYWdvLiBLaW5kbHkgc2hhcmUgdGhpcy5KA3RoZUoCaW4iAhABSABYAGgA",
+    "source": "Facebook · Biplab Kumar Das",
+    "read_more_link": "https://www.facebook.com/biploveguru/posts/congratulations-to-all-of-us-our-national-anthem-jana-gana-mana-is-declared-as-t/10226813036581437/#:~:text=Our%20national%20anthem%20%22Jana%20Gana,ago.%20%F0%9F%8C%B9%F0%9F%92%90%F0%9F%8C%B9%20Kindly%20share%20this."
+   },
+   {
+    "position": 7,
+    "title": "Is that a fake news to declare the Indian national amthem ...",
+    "link": "https://www.quora.com/Is-that-a-fake-news-to-declare-the-Indian-national-amthem-best-by-UNESCO",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFb17gby9wU2P1bObB2jNP29iykpAi7Xq3kC_XSRCZCUNqMX5XfmMp7uwi6q8AnxzwcFwX1bOTtudl1x2iCySZsExv5AKdM9WYhoGv2vmd5SfhROwxn2wlRtttUryjw9L6wb3hm4_Wycu35lJZcZf7Ce_KghciduRHKCJVy1Lgjh_tj424k0EcDu4IiiXPstoSvJpl7g&ved=2ahUKEwid-vjwqZ6XAxX4S3ADHTLiE5EQFnoECDwQAQ&uoh=1",
+    "displayed_link": "30+ answers · 8 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+    "snippet": "Is that a fake news to declare the Indian national amthem best by UNESCO?",
+    "about_this_result": {
+     "source": {
+      "description": "UNESCO clarifies that they didn't issue any certificate declaring INDIA's National Anthem is the worlds best National anthem and that it was ...",
+      "source_info_link": "https://www.quora.com/Is-that-a-fake-news-to-declare-the-Indian-national-amthem-best-by-UNESCO",
+      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZiMTdnYnk5d1UyUDFiT2JCMmpOUDI5aXlrcEFpN1hxM2tDX1hTUkNaQ1VOcU1YNVhmbU1wN3V3aTZxOEFueHp3Y0Z3WDFiT1R0dWRsMXgyaUN5U1pzRXh2NUFLZE05V1lob0d2MnZtZDVTZmhST3d4bjJ3bFJ0dHRVcnlqdzlMNndiM2htNF9XeWN1MzVsSlpjWmY3Q2VfS2doY2lkdVJIS0NKVnkxTGdqaF90ajQyNGswRWNEdTRJaWlYUHN0b1N2SnBsN2cSBBoCCAAaiQgSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA5QcIABAAGAAgACoaCgZ1bmVzY28VLS2nQBoLaXY7cDt1bmVzY28qPgoIZGVjbGFyZWQVGIIHQBoJYW5ub3VuY2VkGghkZWNsYXJlcxoJZGVjbGFyaW5nGg1pdjtwO2RlY2xhcmVkKi4KBGphbmEViqG0PxoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtqYW5hKjoKBGdhbmEViqG0PxoEZ2FuZRoEZ2VldBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtnYW5hKiQKBG1hbmEViqG0PxoMamFuYWdhbmFtYW5hGglpdjtwO21hbmEqCgoDdGhlFQAAAAAqQAoEYmVzdBXttdlAGgdhd2Vzb21lGgZmYW1vdXMaBWdyZWF0GghncmVhdGVzdBoHcmFua2luZxoIcmFua2luZ3MqKAoIbmF0aW9uYWwVnUPLQBoHY291bnRyeRoObmF0aW9uYWxhbnRoZW0qMwoGYW50aGVtFboBgUAaB2FudGhlbXMaDm5hdGlvbmFsYW50aGVtGgtpdjtwO2FudGhlbSoJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFVPYT0AaBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczLdAS9nb3RvP3VybD1DQUVTbVFFQjZ6c3dGYjE3Z2J5OXdVMlAxYk9iQjJqTlAyOWl5a3BBaTdYcTNrQ19YU1JDWkNVTnFNWDVYZm1NcDd1d2k2cThBbnh6d2NGd1gxYk9UdHVkbDF4MmlDeVNac0V4djVBS2RNOVdZaG9HdjJ2bWQ1U2ZoUk93eG4yd2xSdHR0VXJ5anc5TDZ3YjNobTRfV3ljdTM1bEpaY1pmN0NlX0tnaGNpZHVSSEtDSlZ5MUxnamhfdGo0MjRrMEVjRHU0SWlpWFBzdG9TdkpwbDdnOlBJcyB0aGF0IGEgZmFrZSBuZXdzIHRvIGRlY2xhcmUgdGhlIEluZGlhbiA8Yj5uYXRpb25hbDwvYj4gYW10aGVtIDxiPmJlc3Q8L2I-IC4uLkK5ATxiPlVORVNDTzwvYj4gY2xhcmlmaWVzIHRoYXQgdGhleSBkaWRuJiMzOTt0IGlzc3VlIGFueSBjZXJ0aWZpY2F0ZSA8Yj5kZWNsYXJpbmc8L2I-IElORElBJiMzOTtzIDxiPk5hdGlvbmFsIEFudGhlbTwvYj4gaXMgdGhlIDxiPndvcmxkcyBiZXN0IE5hdGlvbmFsIGFudGhlbTwvYj4gYW5kIHRoYXQgaXQgd2FzJm5ic3A7Li4uSgJpbkoDdGhlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZiMTdnYnk5d1UyUDFiT2JCMmpOUDI5aXlrcEFpN1hxM2tDX1hTUkNaQ1VOcU1YNVhmbU1wN3V3aTZxOEFueHp3Y0Z3WDFiT1R0dWRsMXgyaUN5U1pzRXh2NUFLZE05V1lob0d2MnZtZDVTZmhST3d4bjJ3bFJ0dHRVcnlqdzlMNndiM2htNF9XeWN1MzVsSlpjWmY3Q2VfS2doY2lkdVJIS0NKVnkxTGdqaF90ajQyNGswRWNEdTRJaWlYUHN0b1N2SnBsN2cSBBoCCAAaiQgSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA5QcIABAAGAAgACoaCgZ1bmVzY28VLS2nQBoLaXY7cDt1bmVzY28qPgoIZGVjbGFyZWQVGIIHQBoJYW5ub3VuY2VkGghkZWNsYXJlcxoJZGVjbGFyaW5nGg1pdjtwO2RlY2xhcmVkKi4KBGphbmEViqG0PxoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtqYW5hKjoKBGdhbmEViqG0PxoEZ2FuZRoEZ2VldBoIamFuYWdhbmEaDGphbmFnYW5hbWFuYRoJaXY7cDtnYW5hKiQKBG1hbmEViqG0PxoMamFuYWdhbmFtYW5hGglpdjtwO21hbmEqCgoDdGhlFQAAAAAqQAoEYmVzdBXttdlAGgdhd2Vzb21lGgZmYW1vdXMaBWdyZWF0GghncmVhdGVzdBoHcmFua2luZxoIcmFua2luZ3MqKAoIbmF0aW9uYWwVnUPLQBoHY291bnRyeRoObmF0aW9uYWxhbnRoZW0qMwoGYW50aGVtFboBgUAaB2FudGhlbXMaDm5hdGlvbmFsYW50aGVtGgtpdjtwO2FudGhlbSoJCgJpbhUAAAAAKgoKA3RoZRUAAAAAKjIKBXdvcmxkFVPYT0AaBWVhcnRoGgRldmVyGgZnbG9iYWwaB3dvcmxkJ3MaBndvcmxkczLdAS9nb3RvP3VybD1DQUVTbVFFQjZ6c3dGYjE3Z2J5OXdVMlAxYk9iQjJqTlAyOWl5a3BBaTdYcTNrQ19YU1JDWkNVTnFNWDVYZm1NcDd1d2k2cThBbnh6d2NGd1gxYk9UdHVkbDF4MmlDeVNac0V4djVBS2RNOVdZaG9HdjJ2bWQ1U2ZoUk93eG4yd2xSdHR0VXJ5anc5TDZ3YjNobTRfV3ljdTM1bEpaY1pmN0NlX0tnaGNpZHVSSEtDSlZ5MUxnamhfdGo0MjRrMEVjRHU0SWlpWFBzdG9TdkpwbDdnOlBJcyB0aGF0IGEgZmFrZSBuZXdzIHRvIGRlY2xhcmUgdGhlIEluZGlhbiA8Yj5uYXRpb25hbDwvYj4gYW10aGVtIDxiPmJlc3Q8L2I-IC4uLkK5ATxiPlVORVNDTzwvYj4gY2xhcmlmaWVzIHRoYXQgdGhleSBkaWRuJiMzOTt0IGlzc3VlIGFueSBjZXJ0aWZpY2F0ZSA8Yj5kZWNsYXJpbmc8L2I-IElORElBJiMzOTtzIDxiPk5hdGlvbmFsIEFudGhlbTwvYj4gaXMgdGhlIDxiPndvcmxkcyBiZXN0IE5hdGlvbmFsIGFudGhlbTwvYj4gYW5kIHRoYXQgaXQgd2FzJm5ic3A7Li4uSgJpbkoDdGhlIgIQAUgAWABoAA",
+    "source": "Quora"
+   }
+  ]
+ }
+}

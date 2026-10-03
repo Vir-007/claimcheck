@@ -1,0 +1,421 @@
+{
+ "engine": "google_scholar",
+ "params": {
+  "engine": "google_scholar",
+  "q": "Seven people killed truck hit pickup van Amravati",
+  "hl": "en"
+ },
+ "fetched_at": "2026-10-03T17:03:47Z",
+ "response": {
+  "search_metadata": {
+   "id": "6ac1357274268e0a6ed9fa9a",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/NoDHBsKgwddJI_1g7RhpkAZyGppNLEqyRBQac8eiwAc/6ac1357274268e0a6ed9fa9a.md",
+   "created_at": "2026-10-03 17:03:46 UTC",
+   "processed_at": "2026-10-03 17:03:46 UTC",
+   "google_scholar_url": "https://scholar.google.com/scholar?q=Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en",
+   "total_time_taken": 1.0
+  },
+  "search_parameters": {
+   "engine": "google_scholar",
+   "q": "Seven people killed truck hit pickup van Amravati",
+   "hl": "en"
+  },
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "total_results": 75,
+   "time_taken_displayed": 0.27,
+   "query_displayed": "Seven people killed truck hit pickup van Amravati"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Road Traffic Accident Analysis on NH-6 of Amravati City (Maharashtra)",
+    "result_id": "vrsvFU90S-0J",
+    "type": "Pdf",
+    "link": "https://www.academia.edu/download/58136550/IRJET-V5I1228.pdf",
+    "snippet": "… NH-6 of Amravati district in Maharashtra state. The annual, monthly, hourly variation of accident rate on the road and vehicles … The following stretches were selected for data collection. …",
+    "publication_info": {
+     "summary": "MAM More, MR Vyawahare, MAR Bijwe - injury, 2007 - academia.edu",
+     "authors": [
+      {
+       "name": "MAM More"
+      },
+      {
+       "name": "MR Vyawahare"
+      },
+      {
+       "name": "MAR Bijwe"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "academia.edu",
+      "file_format": "PDF",
+      "link": "https://www.academia.edu/download/58136550/IRJET-V5I1228.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vrsvFU90S-0J",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:vrsvFU90S-0J:scholar.google.com/&scioq=Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&as_sdt=0,38",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C38&engine=google_scholar&hl=en&q=related%3AvrsvFU90S-0J%3Ascholar.google.com%2F",
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:vrsvFU90S-0J:scholar.google.com/+Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&as_sdt=0,38"
+    }
+   },
+   {
+    "position": 2,
+    "title": "Analysis of accident data and identification of blackspots on national highway 44 between Kundli and Panipat, Haryana",
+    "result_id": "5FJRuxOnrygJ",
+    "type": "Pdf",
+    "link": "https://www.academia.edu/download/97023969/IRJET_V9I12209.pdf",
+    "snippet": "… struck by car. The study further showed that in both the cities the highest percentage of fatal accidents are of the ‘vehicles hit … killed and injured (with grievous & minor injuries), vehicles/ …",
+    "publication_info": {
+     "summary": "P Chaudhary, G Singh - Int. Res. J. Eng. Technol, 2022 - academia.edu",
+     "authors": [
+      {
+       "name": "P Chaudhary"
+      },
+      {
+       "name": "G Singh",
+       "link": "https://scholar.google.com/citations?user=ok_Q-coAAAAJ&hl=en&oi=sra",
+       "author_id": "ok_Q-coAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ok_Q-coAAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "academia.edu",
+      "file_format": "PDF",
+      "link": "https://www.academia.edu/download/97023969/IRJET_V9I12209.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5FJRuxOnrygJ",
+     "cited_by": {
+      "total": 4,
+      "link": "https://scholar.google.com/scholar?cites=2931745585630368484&as_sdt=5,38&sciodt=0,38&hl=en",
+      "cites_id": "2931745585630368484",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C38&cites=2931745585630368484&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:5FJRuxOnrygJ:scholar.google.com/&scioq=Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&as_sdt=0,38",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C38&engine=google_scholar&hl=en&q=related%3A5FJRuxOnrygJ%3Ascholar.google.com%2F",
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:5FJRuxOnrygJ:scholar.google.com/+Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&as_sdt=0,38"
+    }
+   },
+   {
+    "position": 3,
+    "title": "An exploratory qualitative study of the prevention of road traffic collisions and neurotrauma in India: perspectives from key informants in an Indian industrial city …",
+    "result_id": "36v3ApXxi-AJ",
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8008519/",
+    "snippet": "… 469, 418 injured and 151,417 killed [7]. The Indian government … many people dying in the road accidents, how many people and … hits the stopped car also people blame on car vehicle …",
+    "publication_info": {
+     "summary": "SM Selveindran, GDN Samarutilake… - BMC public …, 2021 - pmc.ncbi.nlm.nih.gov",
+     "authors": [
+      {
+       "name": "SM Selveindran"
+      },
+      {
+       "name": "GDN Samarutilake"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "nih.gov",
+      "file_format": "PDF",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8008519/pdf/12889_2021_Article_10686.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=36v3ApXxi-AJ",
+     "cited_by": {
+      "total": 13,
+      "link": "https://scholar.google.com/scholar?cites=16180291708560845791&as_sdt=5,38&sciodt=0,38&hl=en",
+      "cites_id": "16180291708560845791",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C38&cites=16180291708560845791&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:36v3ApXxi-AJ:scholar.google.com/&scioq=Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&as_sdt=0,38",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C38&engine=google_scholar&hl=en&q=related%3A36v3ApXxi-AJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 15,
+      "link": "https://scholar.google.com/scholar?cluster=16180291708560845791&hl=en&as_sdt=0,38",
+      "cluster_id": "16180291708560845791",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C38&cluster=16180291708560845791&engine=google_scholar&hl=en"
+     }
+    }
+   },
+   {
+    "position": 4,
+    "title": "An exploratory qualitative study of the prevention of road traffic collisions and neurotrauma in India: perspectives from key informants in an Indian industrial city …",
+    "result_id": "wR5kxrM-RCsJ",
+    "link": "https://link.springer.com/article/10.1186/s12889-021-10686-z",
+    "snippet": "… 469, 418 injured and 151,417 killed [7]. The Indian government … many people dying in the road accidents, how many people and … hits the stopped car also people blame on car vehicle …",
+    "publication_info": {
+     "summary": "SM Selveindran, GDN Samarutilake, KMN Rao… - BMC Public Health, 2021 - Springer",
+     "authors": [
+      {
+       "name": "SM Selveindran"
+      },
+      {
+       "name": "GDN Samarutilake"
+      },
+      {
+       "name": "KMN Rao",
+       "link": "https://scholar.google.com/citations?user=MYkBUCQAAAAJ&hl=en&oi=sra",
+       "author_id": "MYkBUCQAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MYkBUCQAAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "springer.com",
+      "file_format": "PDF",
+      "link": "https://link.springer.com/content/pdf/10.1186/s12889-021-10686-z.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wR5kxrM-RCsJ",
+     "cited_by": {
+      "total": 2,
+      "link": "https://scholar.google.com/scholar?cites=3117685783895744193&as_sdt=5,38&sciodt=0,38&hl=en",
+      "cites_id": "3117685783895744193",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C38&cites=3117685783895744193&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:wR5kxrM-RCsJ:scholar.google.com/&scioq=Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&as_sdt=0,38",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C38&engine=google_scholar&hl=en&q=related%3AwR5kxrM-RCsJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 4,
+      "link": "https://scholar.google.com/scholar?cluster=3117685783895744193&hl=en&as_sdt=0,38",
+      "cluster_id": "3117685783895744193",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C38&cluster=3117685783895744193&engine=google_scholar&hl=en"
+     }
+    }
+   },
+   {
+    "position": 5,
+    "title": "Communal riots, 2003",
+    "result_id": "eWGrfZzgf7sJ",
+    "link": "https://www.jstor.org/stable/4414457",
+    "snippet": "… in Amravati district of Maharashtra. Asif Pathan whose wife … hit in the crossfire and died. More than a dozen scooters and … exercise we require badly, this collection is a welcome step in …",
+    "publication_info": {
+     "summary": "AA Engineer - Economic and Political Weekly, 2004 - JSTOR",
+     "authors": [
+      {
+       "name": "AA Engineer"
+      }
+     ]
+    },
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=eWGrfZzgf7sJ",
+     "cited_by": {
+      "total": 23,
+      "link": "https://scholar.google.com/scholar?cites=13510764369862680953&as_sdt=5,38&sciodt=0,38&hl=en",
+      "cites_id": "13510764369862680953",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C38&cites=13510764369862680953&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:eWGrfZzgf7sJ:scholar.google.com/&scioq=Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&as_sdt=0,38",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C38&engine=google_scholar&hl=en&q=related%3AeWGrfZzgf7sJ%3Ascholar.google.com%2F"
+    }
+   },
+   {
+    "position": 6,
+    "title": "Analysis of traffic volume and accidents for rolling barrier system at NH06 Khamgaon",
+    "result_id": "FMe-IFAXyQEJ",
+    "type": "Html",
+    "link": "https://www.academia.edu/download/86893072/traffic-volume-and-accidents-for-rolling-barrier-system-at-nh06-khamgaon.pdf",
+    "snippet": "… Accident data were collection is year wise form each police … Every year, approximately 1.25 million people die as a result of … vehicles have to remain in the same area though that was hit …",
+    "publication_info": {
+     "summary": "R Ingole - International journal for research in applied science …, 2022 - academia.edu",
+     "authors": [
+      {
+       "name": "R Ingole"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "HTML",
+      "link": null
+     },
+     {
+      "title": "academia.edu",
+      "file_format": "HTML",
+      "link": "https://www.academia.edu/download/86893072/traffic-volume-and-accidents-for-rolling-barrier-system-at-nh06-khamgaon.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FMe-IFAXyQEJ",
+     "html_version": "https://www.academia.edu/download/86893072/traffic-volume-and-accidents-for-rolling-barrier-system-at-nh06-khamgaon.pdf",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:FMe-IFAXyQEJ:scholar.google.com/&scioq=Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&as_sdt=0,38",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C38&engine=google_scholar&hl=en&q=related%3AFMe-IFAXyQEJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 3,
+      "link": "https://scholar.google.com/scholar?cluster=128659697270966036&hl=en&as_sdt=0,38",
+      "cluster_id": "128659697270966036",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C38&cluster=128659697270966036&engine=google_scholar&hl=en"
+     },
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:FMe-IFAXyQEJ:scholar.google.com/+Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&as_sdt=0,38"
+    }
+   },
+   {
+    "position": 7,
+    "title": "Reflections and Reminiscences of Police Officers",
+    "result_id": "RpwuqMZJA9gJ",
+    "type": "Book",
+    "link": "https://books.google.com/books?hl=en&lr=&id=YwZs02kZSxAC&oi=fnd&pg=PA5&dq=Seven+people+killed+truck+hit+pickup+van+Amravati&ots=FINelJmkLi&sig=t3dqizGFkyd2ftmzvfH_wUzq0HY",
+    "snippet": "… MP was insistent and repeatedly claimed that \"Dada\", the very distinguished litterateur and popular, Veer Waman Rao Joshi, leader of the Congress in Berar and residing in Amravati …",
+    "publication_info": {
+     "summary": "S Sen - 2006 - books.google.com",
+     "authors": [
+      {
+       "name": "S Sen"
+      }
+     ]
+    },
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=RpwuqMZJA9gJ",
+     "cited_by": {
+      "total": 3,
+      "link": "https://scholar.google.com/scholar?cites=15565365854696545350&as_sdt=5,38&sciodt=0,38&hl=en",
+      "cites_id": "15565365854696545350",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C38&cites=15565365854696545350&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:RpwuqMZJA9gJ:scholar.google.com/&scioq=Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&as_sdt=0,38",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C38&engine=google_scholar&hl=en&q=related%3ARpwuqMZJA9gJ%3Ascholar.google.com%2F"
+    }
+   },
+   {
+    "position": 8,
+    "title": "Rude Awakenings: Two Englishmen on Foot in Buddhism's Holy Land",
+    "result_id": "6j-36n8G-ZEJ",
+    "type": "Book",
+    "link": "https://books.google.com/books?hl=en&lr=&id=A0Yr7Ui5tqwC&oi=fnd&pg=PR11&dq=Seven+people+killed+truck+hit+pickup+van+Amravati&ots=0SVh0ULHPU&sig=UUw4xWeSjoYhMOufBOqz5fUL_xM",
+    "snippet": "… Any who die while making a pilgrimage to these shrines with … I was living at Amaravati monastery in Hertfordshire when … the monks and nuns at Amaravati during the two months of the …",
+    "publication_info": {
+     "summary": "N Scott - 2006 - books.google.com",
+     "authors": [
+      {
+       "name": "N Scott"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "amaravati.org",
+      "file_format": "PDF",
+      "link": "https://cdn.amaravati.org/wp-content/uploads/2014/09/Rude_Awakenings_-_Ajahn_Sucitto_and_Nick_Scott.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6j-36n8G-ZEJ",
+     "cited_by": {
+      "total": 5,
+      "link": "https://scholar.google.com/scholar?cites=10518445551168995306&as_sdt=5,38&sciodt=0,38&hl=en",
+      "cites_id": "10518445551168995306",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C38&cites=10518445551168995306&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:6j-36n8G-ZEJ:scholar.google.com/&scioq=Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&as_sdt=0,38",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C38&engine=google_scholar&hl=en&q=related%3A6j-36n8G-ZEJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 9,
+      "link": "https://scholar.google.com/scholar?cluster=10518445551168995306&hl=en&as_sdt=0,38",
+      "cluster_id": "10518445551168995306",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C38&cluster=10518445551168995306&engine=google_scholar&hl=en"
+     }
+    }
+   },
+   {
+    "position": 9,
+    "title": "Gas Tragedy, an Eye Witness",
+    "result_id": "bOlU-zzSil4J",
+    "type": "Book",
+    "link": "https://books.google.com/books?hl=en&lr=&id=nGl0mxhTCAoC&oi=fnd&pg=PR7&dq=Seven+people+killed+truck+hit+pickup+van+Amravati&ots=aZncx5kGdC&sig=8hQnyP26OeTMyEq4Q-y4bQ7jh5s",
+    "snippet": "… factory bringing in its trail death, devastation and genetic terror. … too late and the tragedy struck, and struck violently. How true … them to send more vehicles which was immediately done.7 …",
+    "publication_info": {
+     "summary": "HL Prajapati - 2003 - books.google.com",
+     "authors": [
+      {
+       "name": "HL Prajapati"
+      }
+     ]
+    },
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bOlU-zzSil4J",
+     "cited_by": {
+      "total": 6,
+      "link": "https://scholar.google.com/scholar?cites=6812488545707813228&as_sdt=5,38&sciodt=0,38&hl=en",
+      "cites_id": "6812488545707813228",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C38&cites=6812488545707813228&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:bOlU-zzSil4J:scholar.google.com/&scioq=Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&as_sdt=0,38",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C38&engine=google_scholar&hl=en&q=related%3AbOlU-zzSil4J%3Ascholar.google.com%2F"
+    }
+   },
+   {
+    "position": 10,
+    "title": "The Case that shook the empire: one man's fight for the truth about the Jallianwala Bagh massacre",
+    "result_id": "KL3M4OXHbsQJ",
+    "type": "Book",
+    "link": "https://books.google.com/books?hl=en&lr=&id=zGeqDwAAQBAJ&oi=fnd&pg=PT4&dq=Seven+people+killed+truck+hit+pickup+van+Amravati&ots=FhCBsFaTEE&sig=ddzlpCIpAiflgSrhH01aPshXQyU",
+    "snippet": "… Congress at Amroati (now Amravati) – the youngest president in … of property of a person after his death to the government if he … in a row and seven young men were picked out. The other …",
+    "publication_info": {
+     "summary": "R Palat, P Palat - 2019 - books.google.com",
+     "authors": [
+      {
+       "name": "R Palat"
+      },
+      {
+       "name": "P Palat"
+      }
+     ]
+    },
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=KL3M4OXHbsQJ",
+     "cited_by": {
+      "total": 5,
+      "link": "https://scholar.google.com/scholar?cites=14154470469004999976&as_sdt=5,38&sciodt=0,38&hl=en",
+      "cites_id": "14154470469004999976",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C38&cites=14154470469004999976&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:KL3M4OXHbsQJ:scholar.google.com/&scioq=Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&as_sdt=0,38",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C38&engine=google_scholar&hl=en&q=related%3AKL3M4OXHbsQJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 3,
+      "link": "https://scholar.google.com/scholar?cluster=14154470469004999976&hl=en&as_sdt=0,38",
+      "cluster_id": "14154470469004999976",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C38&cluster=14154470469004999976&engine=google_scholar&hl=en"
+     }
+    }
+   }
+  ]
+ }
+}

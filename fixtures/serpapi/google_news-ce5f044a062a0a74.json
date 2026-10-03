@@ -1,0 +1,661 @@
+{
+ "engine": "google_news",
+ "params": {
+  "engine": "google_news",
+  "q": "Seven people killed truck hit pickup van Amravati",
+  "gl": "in",
+  "hl": "en"
+ },
+ "fetched_at": "2026-10-03T17:03:50Z",
+ "response": {
+  "search_metadata": {
+   "id": "6ac13572d3fb85256f61fb37",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/iv8J-txoawK1B1ieJJW9ekjV_w624SeZc47sXfI8p2U/6ac13572d3fb85256f61fb37.md",
+   "created_at": "2026-10-03 17:03:46 UTC",
+   "processed_at": "2026-10-03 17:03:46 UTC",
+   "google_news_url": "https://news.google.com/search?q=Seven+people+killed+truck+hit+pickup+van+Amravati&hl=en&gl=IN",
+   "total_time_taken": 3.21
+  },
+  "search_parameters": {
+   "engine": "google_news",
+   "gl": "in",
+   "hl": "en",
+   "q": "Seven people killed truck hit pickup van Amravati"
+  },
+  "news_results": [
+   {
+    "position": 1,
+    "title": "Seven killed, 19 injured as truck hits pickup van in Maharashtra’s Amravati",
+    "source": {
+     "name": "The Hindu",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.thehindu.com/news/national/maharashtra/seven-killed-19-injured-as-truck-hits-pickup-van-in-maharashtras-amravati/article71538056.ece",
+    "thumbnail": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjMll5TjBOVFpUQjRNSEZ4VFJDcUJCaXFCQ2dLTWdhTmtwQUlOUVk",
+    "date": "10/02/2026, 04:23 PM, +0000 UTC",
+    "iso_date": "2026-10-02T16:23:39Z"
+   },
+   {
+    "position": 2,
+    "title": "Seven killed, five critical as truck hits pick-up van in Maharashtra's Amravati",
+    "source": {
+     "name": "deccanherald.com",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "mrityunjay bose"
+     ]
+    },
+    "link": "https://www.deccanherald.com/india/maharashtra/seven-killed-five-critical-as-truck-hits-pick-up-van-in-maharashtras-amravati-4168068",
+    "thumbnail": "https://media.assettype.com/deccanherald%2F2026-05-29%2Faro2mdm6%2Fdeccanherald2025-03-03ru2qy7q1accident-2020-10-09t024142418-899382-1602191672-1087570-1646311377-1089016-1646690364.avif?rect=0%2C34%2C900%2C473&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1VR2RUYkMxcFRXWTVaVzlPVFJDUkF4ajhCU2dLTWdrSkFMRE9BSzBzOXdB",
+    "date": "10/02/2026, 10:16 AM, +0000 UTC",
+    "iso_date": "2026-10-02T10:16:04Z"
+   },
+   {
+    "position": 3,
+    "title": "7 killed in mishap on Samruddhi E’way Devotees were carrying idol of Goddess Durga in Tata Ace that was hit by truck",
+    "source": {
+     "name": "thehitavada.com",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thehitavada.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.thehitavada.com/Encyc/2026/10/3/7-killed-in-mishap-on-samruddhi-eway.html",
+    "thumbnail": "https://www.thehitavada.com/Encyc/2026/10/3/The-heart-wrenching-picture-of-Tata-Ace-that-met-with-accident_202610031201486336_H@@IGHT_533_W@@IDTH_400.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVljbVJ1V2tWWWNITkhjazVWVFJDVkJCaVFBeWdLTWdZSm9JWXp3UVk",
+    "date": "10/03/2026, 06:37 AM, +0000 UTC",
+    "iso_date": "2026-10-03T06:37:42Z"
+   },
+   {
+    "position": 4,
+    "title": "Maharashtra: Seven killed, 19 injured as truck hits pickup van on Samruddhi Highway",
+    "source": {
+     "name": "Pioneer Daily",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dailypioneer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://dailypioneer.com/news/seven-killed-19-injured-samruddhi-highway-accident-amravati",
+    "thumbnail": "https://dailypioneer.com/uploads/2026/story/images/big/maharashtra--five-killed--20-injured-as-truck-hits-pickup-van-on-samruddhi-highway-2026-10-02.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtRbTlXZGtKM2VVcEJOVmx0VFJDbUF4alhCU2dLTWdhRldKYmtwZ2c",
+    "date": "10/02/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-10-02T07:00:14Z"
+   },
+   {
+    "position": 5,
+    "title": "7 killed, 19 injured as truck hits pickup van in Maharashtra",
+    "source": {
+     "name": "The Times of India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://timesofindia.indiatimes.com/city/amaravati/7-killed-19-injured-as-truck-hits-pickup-van-in-maharashtra/amp_articleshow/134632976.cms",
+    "date": "10/02/2026, 06:08 AM, +0000 UTC",
+    "iso_date": "2026-10-02T06:08:00Z"
+   },
+   {
+    "position": 6,
+    "title": "7 killed, 19 injured as truck hits pickup van in Maharashtras Amravati",
+    "source": {
+     "name": "The Tribune",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tribuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.tribuneindia.com/news/india/7-killed-19-injured-as-truck-hits-pickup-van-in-maharashtras-amravati/",
+    "thumbnail": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY3M2YzYzEwLWJlMjktMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURYMEZNWkhWT2FqWnpUVWxLVFJEZ0F4aUFCU2dLTWdZSllwUW5MZ1k",
+    "date": "10/02/2026, 06:20 AM, +0000 UTC",
+    "iso_date": "2026-10-02T06:20:40Z"
+   },
+   {
+    "position": 7,
+    "title": "Five killed, 21 injured as truck hits pickup van in Maharashtra's Amravati",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/tragic-truck-accident-in-maharashtra-five-dead-and-21-injured-on-samruddhi-highway/articleshow/134630410.cms",
+    "thumbnail": "https://m.economictimes.com/thumb/msid-134630418,width-1200,height-900,resizemode-4,imgsize-77146/five-killed-21-injured-after-truck-hits-pickup-van-in-maharashtras-amravati.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXNVakJGYUc5d056TjFha1ZEVFJEZ0F4aUFCU2dLTWdzSlk0TEtLU0t5dENoWkxR",
+    "date": "10/02/2026, 02:15 AM, +0000 UTC",
+    "iso_date": "2026-10-02T02:15:44Z"
+   },
+   {
+    "position": 8,
+    "title": "Truck-pickup van crash kills 7 in Maharashtra’s Amravati: 18 injured on Samruddhi Expressway; victims were ...",
+    "source": {
+     "name": "Bhaskar English",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.bhaskarenglish.in/national/news/amravati-samruddhi-highway-accident-durga-idol-pickup-truck-collision-139218082.html",
+    "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/10/02/cover_1790905013785.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZNRXRUWjJVMFV6QllPRkJ5VFJEZ0F4aUFCU2dLTWdZZElJTHlHQWs",
+    "date": "10/02/2026, 01:44 AM, +0000 UTC",
+    "iso_date": "2026-10-02T01:44:10Z"
+   },
+   {
+    "position": 9,
+    "title": "Five Youths Killed, Over A Dozen Injured As Truck Hits Pickup Van Carrying Maa Durga Idol In Maharashtra's Amravati",
+    "source": {
+     "name": "ETV Bharat",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.etvbharat.com/en/state/truck-hits-pickup-van-in-amravati-maharashtra-updates-enn26100200733",
+    "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/02-10-2026/1200-675-27769247-140-27769247-1790913217614.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdTRVZTY1dReVVVRnRYMkpLVFJDZkF4ampCU2dLTWdZTkVJWlZJQWc",
+    "date": "10/02/2026, 02:35 AM, +0000 UTC",
+    "iso_date": "2026-10-02T02:35:29Z"
+   },
+   {
+    "position": 10,
+    "title": "Maharashtra: 7 killed, 20 injured as truck rams Bolero on Samruddhi Mahamarg in Amravati | Mumbai news",
+    "source": {
+     "name": "Hindustan Times",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.hindustantimes.com/cities/mumbai-news/maharashtra-7-killed-20-injured-as-truck-rams-bolero-on-samruddhi-mahamarg-in-amravati-101790932108325.html",
+    "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/At-least-seven-devotees-died-and-around-20-were-in_1790932105995_kf65.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNWMFJGTVdkWmNrSlhWMFF0VFJDZkF4ampCU2dLTWdZTlpvb29LZ1E",
+    "date": "10/02/2026, 09:08 AM, +0000 UTC",
+    "iso_date": "2026-10-02T09:08:27Z"
+   },
+   {
+    "position": 11,
+    "title": "Five killed, 21 injured as truck hits pickup van in Maharashtra's Amravati",
+    "source": {
+     "name": "udayavani.com",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://udayavani.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://udayavani.com/karnataka/five-killed-21-injured-as-truck-hits-pickup-van-in-maharashtras-amravati-426058?lang=en",
+    "thumbnail": "https://d3jde0c4xcko0v.cloudfront.net/production/06-04-26/news/60g4r4mnms8a3faccident%20.webp",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdlWEUxUVhSaWRGZFZOV2RwVFJDdEF4akxCU2dLTWdhbFE0Q3R4UUU",
+    "date": "10/02/2026, 06:04 AM, +0000 UTC",
+    "iso_date": "2026-10-02T06:04:44Z"
+   },
+   {
+    "position": 12,
+    "title": "'Owners failed to take safety precautions': Delhi Police to HC on Satya Niketan building collapse",
+    "source": {
+     "name": "Press Trust of India",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ptinews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.ptinews.com/story/business/Owners-failed-to-take-safety-precautions-Delhi-Police-to-HC-on-Satya-Niketan-building-collapse/4097433",
+    "thumbnail": "https://pti-xml.multitvsolution.com/ptiimage/gall_content/2022/PTI09_07_2026_000027B.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdla2xmYjFwVmRYVlNla0p2VFJDM0F4aTdCU2dLTWdZQk1JWnFMQVE",
+    "date": "09/24/2026, 02:48 PM, +0000 UTC",
+    "iso_date": "2026-09-24T14:48:29Z"
+   },
+   {
+    "position": 13,
+    "title": "Samruddhi expressway crash kills 7, Injures 20",
+    "source": {
+     "name": "The Times of India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Anil Jadhav"
+     ]
+    },
+    "link": "https://timesofindia.indiatimes.com/city/nagpur/samruddhi-expressway-crash-kills-7-injures-20/amp_articleshow/134645640.cms",
+    "thumbnail": "https://static.toiimg.com/thumb/msid-134645639,width-1280,height-720,imgsize-137181,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9lRkZSUzBkbVpVOVdSRWx6VFJDZkF4ampCU2dLTWdhQk1ZeEtvUVU",
+    "date": "10/02/2026, 06:47 PM, +0000 UTC",
+    "iso_date": "2026-10-02T18:47:00Z"
+   },
+   {
+    "position": 14,
+    "title": "Surat records 17 rain-related deaths so far; CM announces Rs 500 cr for measures to prevent flooding",
+    "source": {
+     "name": "Press Trust of India",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ptinews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.ptinews.com/detail/national/Surat-records-17-rain-related-deaths-so-far;-CM-announces-Rs-500-cr-for-measures-to-prevent-flooding/3846150",
+    "thumbnail": "https://pti-xml.multitvsolution.com/ptiimage/gall_content/2022/PTI07_09_2026_000435B.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpOVlJPU3kxc09EWnhVamhhVFJEWEF4aUxCU2dLTWdhWkU1Q3JKUWM",
+    "date": "07/09/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-09T07:00:00Z"
+   },
+   {
+    "position": 15,
+    "title": "Garlic - 7 smells that can help keep snakes away from home after heavy rains",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/7-smells-that-can-help-keep-snakes-away-from-home-after-heavy-rains/garlic/slideshow/132232226.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-132232230,width-480,height-360,imgsize-60298,resizemode-75/cinnamon-oil.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdUakJYY1hGUWFUWldZVTUzVFJEb0FoamdBeWdLTWdrQm9JckR2dVV0VWdF",
+    "date": "07/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-07T07:00:00Z"
+   },
+   {
+    "position": 16,
+    "title": "Four Killed As Bus Collides With Trailer In Uttar Pradesh's Ambedkar Nagar",
+    "source": {
+     "name": "ETV Bharat",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.etvbharat.com/en/state/four-killed-four-seriously-injured-as-ac-bus-collides-with-trailer-on-gorakhpur-link-expressway-in-ambedkar-nagar-enn26100201857",
+    "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/02-10-2026/1200-675-27770371-1036-27770371-1790925892023.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVhM05aWlcxRll6QlVjek5HVFJDZkF4ampCU2dLTWdZQkVZNnVFUXM",
+    "date": "10/02/2026, 08:18 AM, +0000 UTC",
+    "iso_date": "2026-10-02T08:18:38Z"
+   },
+   {
+    "position": 17,
+    "title": "OTT releases this week (March 1-7): Subedaar, Young Sherlock, Gandhi Talks & more on Netflix, JioHotstar, Prime Video & ZEE5",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/ott-releases-this-week-march-1-7-subedaar-young-sherlock-gandhi-talks-and-more-on-netflix-jiohotstar-prime-video-and-zee5/one-battle-after-another-ott-release-date-and-where-to-watch/slideshow/128915306.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-128915315,width-480,height-360,imgsize-103354,resizemode-75/ott-releases-this-week-march-1-7-new-movie-and-shows.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVpPVTFWTjJsWVdUVTNSekJXVFJEb0FoamdBeWdLTWd1TklZVEVHdW84RkZrUHVR",
+    "date": "03/01/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-03-01T08:00:00Z"
+   },
+   {
+    "position": 18,
+    "title": "IT fresher hiring rebounds; Agrani's Rs 800 crore raise",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/tech/newsletters/morning-dispatch/it-fresher-hiring-rebounds-agranis-rs-800-crore-raise/articleshow/134630053.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-134630053,width-1200,height-900,imgsize-244810,overlay-ettech/editionshow-amp.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5OVzFEWmtWT01VeFVWblZ3VFJEZ0F4aUFCU2dLTWdtVklveVBrV3BNQ3dJ",
+    "date": "10/02/2026, 02:13 AM, +0000 UTC",
+    "iso_date": "2026-10-02T02:13:00Z"
+   },
+   {
+    "position": 19,
+    "title": "Delhi Police denies permission for Oct 2 protest at Jantar Mantar, security beefed up",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/delhi-police-denies-protest-permission-at-jantar-mantar-security-heightened-ahead-of-gandhi-jayanti/articleshow/134630593.cms",
+    "thumbnail": "https://m.economictimes.com/thumb/msid-134630602,width-1200,height-900,resizemode-4,imgsize-118820/delhi-police-denies-permission-for-oct-2-protest-against-cec-at-jantar-mantar-security-tightened.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtYMVJ4U0dGeE9FNVFRVU53VFJEZ0F4aUFCU2dLTWdZQmtKUUN0Z2M",
+    "date": "10/02/2026, 02:36 AM, +0000 UTC",
+    "iso_date": "2026-10-02T02:36:03Z"
+   },
+   {
+    "position": 20,
+    "title": "Govt launches 62,500 Cr ‘Mobile Phone Manufacturing Scheme’, aims strong Indian brand by 2027",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/videos/govt-launches-62500-cr-mobile-phone-manufacturing-scheme-aims-strong-indian-brand-by-2027/podcast/133429404.cms",
+    "thumbnail": "https://economictimes.indiatimes.com/thumb/msid-133429404,width-1600,height-900,resizemode-4/news/videos/govt-launches-62500-cr-mobile-phone-manufacturing-scheme-aims-strong-indian-brand-by-2027.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNUVkk0TFd4VE9EbHJSMkozVFJDZkF4ampCU2dLTWdhQmdaRFZPQVk",
+    "date": "08/22/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-22T07:00:00Z"
+   },
+   {
+    "position": 21,
+    "title": "Combine Foil With Better Router Placement For Maximum Effect - 7 tricks to use aluminum foil to improve Wi-Fi",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/7-tricks-to-use-aluminum-foil-to-improve-your-wi-fi/combine-foil-with-better-router-placement-for-maximum-effect/slideshow/132461458.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-132461469,width-480,height-360,imgsize-128805,resizemode-75/make-a-curved-reflector-behind-your-router-antenna.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdXazh5UzJwS1QyWmhiR1JZVFJEb0FoamdBeWdLTWdrQmNJWUR0MlUxeXdF",
+    "date": "07/17/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-17T07:00:00Z"
+   },
+   {
+    "position": 22,
+    "title": "Iran discovers over 7.5 trillion cubic feet of gas reserves as war, US sanctions hamper production",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/videos/iran-discovers-over-7-5-trillion-cubic-feet-of-gas-reserves-as-war-us-sanctions-hamper-production/podcast/133451854.cms",
+    "thumbnail": "https://economictimes.indiatimes.com/thumb/msid-133451854,width-1600,height-900,resizemode-4/news/videos/iran-discovers-over-7-5-trillion-cubic-feet-of-gas-reserves-as-war-us-sanctions-hamper-production.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhNMHROTjJOUGNIcG5VbGhOVFJDZkF4ampCU2dLTWdZcGM0eXVMUWM",
+    "date": "08/23/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-23T07:00:00Z"
+   },
+   {
+    "position": 23,
+    "title": "Raw mango vs ripe mango: Which one is better for health?",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/raw-mango-vs-ripe-mango-which-one-is-better-for-health/raw-mango-has-more-vitamin-c-and-that-matters-in-summer/slideshow/132415157.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-132415157,width-480,height-360,imgsize-62128,resizemode-75/raw-mango-has-more-vitamin-c-and-that-matters-in-summer.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9VVnBNYms1a1VGY3hOVVJwVFJEb0FoamdBeWdLTWdrQkVZekJwT1kwRXdF",
+    "date": "07/15/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-15T07:00:00Z"
+   },
+   {
+    "position": 24,
+    "title": "Hibiscus - 7 indoor plants that may attract ants into home",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/7-indoor-plants-that-may-attract-ants-into-home/hibiscus/slideshow/132231526.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-132231527,width-480,height-360,imgsize-105854,resizemode-75/money-plant-pothos.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJXVkJyTWpjMGNHb3haRVpLVFJEb0FoamdBeWdLTWdhQlFvcUVxZ1U",
+    "date": "07/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-07T07:00:00Z"
+   },
+   {
+    "position": 25,
+    "title": "India, Bulgaria review bilateral ties; push for early India-EU FTA",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/economy/foreign-trade/india-bulgaria-review-bilateral-ties-push-for-early-india-eu-fta/amp_articleshow/134630911.cms",
+    "thumbnail": "https://m.economictimes.com/thumb/msid-134630910,width-1200,height-900,resizemode-4,imgsize-71174/india-bulgaria-review-bilateral-ties-push-for-early-india-eu-fta.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBWakJtYUd0SlFYVjNXblV6VFJEZ0F4aUFCU2dLTWdhaEZJaUxIUWs",
+    "date": "10/02/2026, 03:05 AM, +0000 UTC",
+    "iso_date": "2026-10-02T03:05:00Z"
+   },
+   {
+    "position": 26,
+    "title": "Eugenol (The Active Compound In Cloves) - How to keep snakes away from home: 7 natural smells that can help",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/7-smells-that-can-keep-snakes-away-from-home-naturally/eugenol-the-active-compound-in-cloves/slideshow/133681376.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-133681379,width-480,height-360,imgsize-2354820,resizemode-75/cinnamon-oil.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNhbFZLYlRoWmRIcGhla0pNVFJEb0FoamdBeWdLTWdZTlFZN0dtZ2s",
+    "date": "09/01/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-01T07:00:00Z"
+   },
+   {
+    "position": 27,
+    "title": "Over 4,000 arrested in J&K anti-drug drive since April, DGP says",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Hakeem Irfan"
+     ]
+    },
+    "link": "https://m.economictimes.com/news/india/over-4000-arrested-in-jk-anti-drug-drive-since-april-dgp-says/amp_articleshow/134630675.cms",
+    "thumbnail": "https://m.economictimes.com/thumb/msid-134630690,width-1200,height-900,resizemode-4,imgsize-112418/after-article-370-terror-groups-turn-to-jampk-local-issues-to-fuel-unrest-recruit-youth.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZZVVF3ZVhkSVdubHlWSHBDVFJEZ0F4aUFCU2dLTWdhQmdKTFZMQWc",
+    "date": "10/02/2026, 02:45 AM, +0000 UTC",
+    "iso_date": "2026-10-02T02:45:00Z"
+   },
+   {
+    "position": 28,
+    "title": "New OTT releases this weekend; 13 new movies and TV shows on Netflix, JioHotstar, Prime Video and more",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/new-ott-releases-this-weekend-13-new-movies-and-tv-shows-on-netflix-jiohotstar-prime-videoa-and-more/dacoit-ott-release-date-where-to-watch/slideshow/130949639.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-130949640,width-480,height-360,imgsize-140530,resizemode-75/top-new-ott-releases-this-weekend.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpUbkp1ZEhKT1UxY3diSFZrVFJEb0FoamdBeWdLTWdrTllJQ1QwT0ZyV2dB",
+    "date": "05/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-08T07:00:00Z"
+   },
+   {
+    "position": 29,
+    "title": "Chaitra Navratri 2026: Day-wise colours list, significance and all you need to know about the 9-day festival​",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/chaitra-navratri-2026-day-wise-colours-list-significance-and-all-you-need-to-know-about-the-9-day-festival/day-9-navami-purple/slideshow/129651739.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-129651754,width-480,height-360,imgsize-1773689,resizemode-75/chaitra-navratri.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdUbVF0Wm5aVWRXczFlVGd5VFJEb0FoamdBeWdLTWdZZFVvcU5xUVU",
+    "date": "03/18/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-18T07:00:00Z"
+   },
+   {
+    "position": 30,
+    "title": "8 Personal Tax Changes You Must Know | Budget 2026, Shalini Jain from EY India explains",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/wealth/tax/8-personal-tax-changes-you-must-know-budget-2026-shalini-jain-from-ey-india-explains/videoshow/127888990.cms",
+    "thumbnail": "https://economictimes.indiatimes.com/thumb/msid-127888990,width-1600,height-900,resizemode-4/wealth/tax/8-personal-tax-changes-you-must-know-budget-2026-shalini-jain-from-ey-india-explains.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVlkRWxHVkZSWGVUUldkVTlrVFJDZkF4ampCU2dLTWdB",
+    "date": "02/03/2026, 08:00 AM, +0000 UTC",
+    "iso_date": "2026-02-03T08:00:00Z"
+   },
+   {
+    "position": 31,
+    "title": "Good Omens Season 3: The Finale - New OTT releases this weekend: Dhurandhar 2, Project Hail Mary to Berlin S2 - New movies and shows on Netflix, JioHotstar, Prime Video & more",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/new-ott-releases-this-weekend-dhurandhar-2-project-hail-mary-to-berlin-s2-new-movies-and-shows-on-netflix-jiohotstar-prime-video-more/good-omens-season-3-the-finale-ott-release-date-where-to-watch/slideshow/131111706.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-131111714,width-480,height-360,imgsize-88936,resizemode-75/ott-releases-this-weekend.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdaMkZ0U2xWelNUVnFXV05JVFJEb0FoamdBeWdLTWdZTklZTGxHZ28",
+    "date": "05/15/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-15T07:00:00Z"
+   },
+   {
+    "position": 32,
+    "title": "India dominates World's 100 Hottest Cities list for second week in a row; check all names",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/weather/india-dominates-worlds-100-hottest-cities-list-for-second-week-in-a-row-check-full-list-bihar-uttar-pradesh-chhattisgarh-maharashtra-heatwave-alert/articleshow/131260485.cms",
+    "thumbnail": "https://m.economictimes.com/thumb/msid-131260968,width-1200,height-900,resizemode-4,imgsize-44470/india-dominates-worlds-100-hottest-cities-list-for-second-week-in-a-row-check-full-listbr.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1kMkkxVUVWaFVFb3RkbTFZVFJEZ0F4aUFCU2dLTWdrVlFvb3ZzV1U5aVFJ",
+    "date": "05/22/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-22T07:00:00Z"
+   },
+   {
+    "position": 33,
+    "title": "Trump confirms US, Iran traded fire in Hormuz; says American naval vessels transited successfully",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/videos/trump-confirms-us-iran-traded-fire-in-hormuz-says-american-naval-vessels-transited-successfully/podcast/130941034.cms",
+    "thumbnail": "https://economictimes.indiatimes.com/thumb/msid-130941034,width-1600,height-900,resizemode-4/news/videos/trump-confirms-us-iran-traded-fire-in-hormuz-says-american-naval-vessels-transited-successfully.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFhbEpPVEVReVpsaEpXVlJCVFJDZkF4ampCU2dLTWdZaFZwVHJxUWM",
+    "date": "05/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-07T07:00:00Z"
+   },
+   {
+    "position": 34,
+    "title": "Bubble Braid - 6 Easy festive hairstyles to copy from bollywood celebrities",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/6-easy-festive-hairstyles-to-copy-from-bollywood-celebrities/bubble-braid/slideshow/123781344.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-123781349,width-480,height-360,imgsize-1386183,resizemode-75/easy-bollywood-inspired-looks-for-your-festive-hair.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdPVVJJU1hoSU9GTm1XazR0VFJEb0FoamdBeWdLTWdZQkJaeXVqUXM",
+    "date": "09/09/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-09-09T07:00:00Z"
+   },
+   {
+    "position": 35,
+    "title": "Lansdowne - 7 best places to visit in Uttarakhand this winter",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/7-best-places-to-visit-in-uttarakhand-this-winter/lansdowne/slideshow/115968407.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-115968423,width-480,height-360,imgsize-2858082,resizemode-75/uttarakhand-in-winter.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRZWE52Y0VkTE9VdzFXRGxLVFJEb0FoamdBeWdLTWdrZEFJaXRNV1VtVVFF",
+    "date": "12/04/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-12-04T08:00:00Z"
+   },
+   {
+    "position": 36,
+    "title": "Jim Corbett National Park - 7 best places to visit in Uttarakhand this winter",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/7-best-places-to-visit-in-uttarakhand-this-winter/jim-corbett-national-park/slideshow/115968409.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-115968423,width-480,height-360,imgsize-2858082,resizemode-75/uttarakhand-in-winter.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRZWE52Y0VkTE9VdzFXRGxLVFJEb0FoamdBeWdLTWdrZEFJaXRNV1VtVVFF",
+    "date": "12/04/2024, 08:00 AM, +0000 UTC",
+    "iso_date": "2024-12-04T08:00:00Z"
+   },
+   {
+    "position": 37,
+    "title": "Amravati Tragedy: 5 Killed, 21 Injured After Truck Rams Bolero Pickup Van On Samruddhi Expressway Near",
+    "source": {
+     "name": "Free Press Journal",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.freepressjournal.in/amp/mumbai/amravati-tragedy-5-killed-21-injured-after-truck-rams-bolero-pickup-van-on-samruddhi-expressway-near-dhamangaon-video",
+    "thumbnail": "https://media.assettype.com/freepressjournal/2025-12-03/zuhly7sg/roadaccident1703426551.avif",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZMWE5FYWtkc2FqWkNiRTFJVFJDZkF4ampCU2dLTWdrQllZQm4zdUV0OVFB",
+    "date": "10/02/2026, 03:03 AM, +0000 UTC",
+    "iso_date": "2026-10-02T03:03:33Z"
+   },
+   {
+    "position": 38,
+    "title": "A symbol of unity - Onam Sadhya 2024: A guide to Kerala's feast, dishes, and banana leaf tradition",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/india/onam-sadhya-2024-a-guide-to-keralas-feast-dishes-and-banana-leaf-tradition/a-symbol-of-unity/slideshow/113312966.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-113312973,width-480,height-360,imgsize-75668,resizemode-75/onam-sadhya-2024.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRiVEZIVmpKaVdFMXRSSEJxVFJEb0FoamdBeWdLTWdZRklvZ3FzUVk",
+    "date": "09/13/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-09-13T07:00:00Z"
+   },
+   {
+    "position": 39,
+    "title": "Maharashtra Accident: 7 killed, 19 injured as truck rams Bolero pickup on Samruddhi Expressway",
+    "source": {
+     "name": "dnaindia.com",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dnaindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Varsha Agarwal"
+     ]
+    },
+    "link": "https://www.dnaindia.com/india/report-maharashtra-accident-7-killed-19-injured-as-truck-rams-bolero-pickup-on-samruddhi-expressway-3221566",
+    "thumbnail": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2026/10/02/2759463-untitled-design-2026-10-02t090343.261.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBibXhoVW01Q1YxQlJZV2RpVFJEb0FoaUFCU2dLTWdrQmNKQkhNU2FLaXdJ",
+    "date": "10/02/2026, 03:25 AM, +0000 UTC",
+    "iso_date": "2026-10-02T03:25:00Z"
+   },
+   {
+    "position": 40,
+    "title": "Coronavirus Latest News: Maharashtra extends lockdown till 31st October",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/newsblogs/latest-daily-news-and-updates-september30/liveblog/msid-78396608,curpg-7.cms",
+    "thumbnail": "https://img.etimg.com/thumb/msid-78396608,width-1200,height-900,resizemode-4,imgsize-691817/latest-daily-news-and-updates-september30.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9RekZLZVdGMExWSnpaVkpZVFJEZ0F4aUFCU2dLTWdtQlFJaUZtcWc4RVFF",
+    "date": "10/01/2020, 07:00 AM, +0000 UTC",
+    "iso_date": "2020-10-01T07:00:00Z"
+   },
+   {
+    "position": 41,
+    "title": "Andheri Bus Crash: Driver Booked After Bus Rams Into 14 Vehicles; Woman Doctor Suffers Waist Fracture| Video",
+    "source": {
+     "name": "Free Press Journal",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Megha Kuchik"
+     ]
+    },
+    "link": "https://www.freepressjournal.in/mumbai/andheri-bus-crash-driver-booked-after-bus-rams-into-14-vehicles-woman-doctor-suffers-waist-fracture-video",
+    "thumbnail": "https://media.assettype.com/freepressjournal/2026-07-11/2rfzz7f2/Untitled-design-2026-07-11T082137.870.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNDRiWFExUVhCRWIydGpOa3hVVFJDZkF4ampCU2dLTWc0QkFJVFNMR0p5OGpnVHFxS0xGQQ",
+    "date": "07/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-11T07:00:00Z"
+   },
+   {
+    "position": 42,
+    "title": "Truck Rams Into Tempo In Amravati, 7 Killed And 19 Injured In Deadly Crash",
+    "source": {
+     "name": "NewsX",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newsx.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.newsx.com/regionals/truck-rams-into-tempo-in-amravati-7-killed-and-19-injured-in-deadly-crash-278656/amp/",
+    "thumbnail": "https://www.newsx.com/wp-content/uploads/2026/10/representative-image-2026-10-02t152514659.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNW1VREpJYUhaSk9URlhUR1JLVFJEZ0F4aUFCU2dLTWc0TkFJeXJuS1pySTR2c1kyNmdJQQ",
+    "date": "10/02/2026, 09:56 AM, +0000 UTC",
+    "iso_date": "2026-10-02T09:56:04Z"
+   },
+   {
+    "position": 43,
+    "title": "Maharashtra FDA Launches Massive Crackdown On Misleading Medicine Advertisements Across State",
+    "source": {
+     "name": "Free Press Journal",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.freepressjournal.in/mumbai/maharashtra-fda-launches-massive-crackdown-on-misleading-medicine-advertisements-across-state",
+    "thumbnail": "https://media.assettype.com/freepressjournal/2026-02-23/10gszood/ChatGPT-Image-Feb-23-2026-083155-PM.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFjV3M1YzE5UVIydzRkbGRHVFJDZkF4ampCU2dLTWdZQkFJQ0NGQWs",
+    "date": "05/29/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-29T07:00:00Z"
+   },
+   {
+    "position": 44,
+    "title": "Mumbai AC Compressor Blast: 1 Dead, 7 Injured In Mahim Cloud Kitchen Explosion; Contractor Booked For Culpable",
+    "source": {
+     "name": "Free Press Journal",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.freepressjournal.in/mumbai/mumbai-ac-compressor-blast-1-dead-7-injured-in-mahim-cloud-kitchen-explosion-contractor-booked-for-culpable-homicide",
+    "thumbnail": "https://media.assettype.com/freepressjournal/2025-06-14/f59bado1/FotoJet-2025-06-14T193035.200.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW1SSGhEUTI1SVpuTnBZamg2VFJDZkF4ampCU2dLTWdB",
+    "date": "06/14/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-06-14T07:00:00Z"
+   }
+  ],
+  "menu_links": [
+   {
+    "title": "India",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+   },
+   {
+    "title": "World",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Your local news",
+    "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+   },
+   {
+    "title": "Business",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Technology",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Entertainment",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Sports",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Science",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Health",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+   }
+  ]
+ }
+}

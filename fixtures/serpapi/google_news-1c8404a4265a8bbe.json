@@ -1,0 +1,205 @@
+{
+ "engine": "google_news",
+ "params": {
+  "engine": "google_news",
+  "q": "Papaya leaf extract increases platelet count dengue patients fact check",
+  "gl": "in",
+  "hl": "en"
+ },
+ "fetched_at": "2026-10-03T17:04:10Z",
+ "response": {
+  "search_metadata": {
+   "id": "6ac1358945a66a43c170c6e4",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/eNV6sqrJN645sLULztPheB-9ys_nvleqsNN1cqKqAp8/6ac1358945a66a43c170c6e4.md",
+   "created_at": "2026-10-03 17:04:09 UTC",
+   "processed_at": "2026-10-03 17:04:09 UTC",
+   "google_news_url": "https://news.google.com/search?q=Papaya+leaf+extract+increases+platelet+count+dengue+patients+fact+check&hl=en&gl=IN",
+   "total_time_taken": 1.08
+  },
+  "search_parameters": {
+   "engine": "google_news",
+   "gl": "in",
+   "hl": "en",
+   "q": "Papaya leaf extract increases platelet count dengue patients fact check"
+  },
+  "news_results": [
+   {
+    "position": 1,
+    "title": "Fact Check: Do papaya leaves increase platelet in just 12 hrs?",
+    "source": {
+     "name": "The Healthy Indian Project (THIP)",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thip.media&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Garima Dev Verman"
+     ]
+    },
+    "link": "https://www.thip.media/health-news-fact-check/fact-check-do-papaya-leaves-increase-platelet-in-just-12-hrs/85226/",
+    "thumbnail": "https://static.thip.media/wp-content/uploads/2022/11/09131019/papaya--1068x775.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9VbGd0YzBnNVoxbGxSRlZLVFJEWUF4aUtCU2dLTWdZVlVJeE1yUVU",
+    "date": "10/28/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-10-28T07:00:00Z"
+   },
+   {
+    "position": 2,
+    "title": "Can papaya leaves help increase platelet count?",
+    "source": {
+     "name": "The Times of India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/can-papaya-leaves-help-increase-platelet-count/articleshow/101575483.cms",
+    "thumbnail": "https://static.toiimg.com/thumb/msid-101575516,width-1280,height-720,resizemode-4/101575516.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdaa0pwT0RRM2NtOXNkMkYwVFJDZkF4ampCU2dLTWdZQkFJSXRtUUk",
+    "date": "07/08/2023, 07:00 AM, +0000 UTC",
+    "iso_date": "2023-07-08T07:00:00Z"
+   },
+   {
+    "position": 3,
+    "title": "TNM Fact Check: Papaya leaf juice doesn't cure dengue",
+    "source": {
+     "name": "The News Minute",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thenewsminute.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Manasa Rao"
+     ]
+    },
+    "link": "https://www.thenewsminute.com/news/tnm-fact-check-papaya-leaf-juice-doesnt-cure-dengue-113078",
+    "thumbnail": "https://cf-images.assettype.com/tnm/import/sites/default/files/DengueFakeNewsFactCheck750.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHpkRVZhUzJaSVJqazJka0ZzVFJERUF4aW1CU2dLTWdB",
+    "date": "11/28/2019, 08:00 AM, +0000 UTC",
+    "iso_date": "2019-11-28T08:00:00Z"
+   },
+   {
+    "position": 4,
+    "title": "VERA FILES FACT CHECK: FB post on papaya leaves as homemade ‘cure’ for dengue needs context",
+    "source": {
+     "name": "VERA Files",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://verafiles.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://verafiles.org/articles/vera-files-fact-check-fb-post-papaya-leaves-homemade-cure-de",
+    "thumbnail": "https://verafiles.org/wp-content/uploads/9815/66/20190822_PAPAYALEAFFC_thumbnail.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUpVM0Z5V1RsdVpYbFdkV0o2VFJEZ0F4ai1CQ2dLTWdNWmRRdw",
+    "date": "08/22/2019, 07:00 AM, +0000 UTC",
+    "iso_date": "2019-08-22T07:00:00Z"
+   },
+   {
+    "position": 5,
+    "title": "Dengue cannot be cured or prevented with homeopathic treatment Eupatorium Perfoliatum",
+    "source": {
+     "name": "Alt News",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.altnews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sumaiya Shaikh"
+     ]
+    },
+    "link": "https://www.altnews.in/dengue-cannot-be-cured-with-homeopathic-treatment-eupatorium-perfoliatum/",
+    "thumbnail": "https://www.altnews.in/wp-content/uploads/2019/11/Untitled-design-2019-11-22T161210.832-1.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJWR1phYTNCSFlXeFdOV2haVFJDUUF4ai1CU2dLTWdtQlFZcmxQbVE5WndJ",
+    "date": "11/22/2019, 08:00 AM, +0000 UTC",
+    "iso_date": "2019-11-22T08:00:00Z"
+   },
+   {
+    "position": 6,
+    "title": "This Medicine Can Cure Dengue In Just 48 Hours!",
+    "source": {
+     "name": "Newschecker",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newschecker.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.newschecker.in/fact-check/this-medicine-can-cure-dengue-in-just-48-hours",
+    "thumbnail": "https://newschecker.dietpixels.net/2021/02/New-Project-5.jpg?quality=71&format=webp&w=1920",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUpkM1F6ZGxCVFozSmFVVTFuVFJEZ0F4aUFCU2dLTWdtRklveG5GdXRNalFF",
+    "date": "09/25/2019, 07:00 AM, +0000 UTC",
+    "iso_date": "2019-09-25T07:00:00Z"
+   },
+   {
+    "position": 7,
+    "title": "Does Papaya Leaf Juice Really Help You Recover From Dengue?",
+    "source": {
+     "name": "says.com",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://says.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://says.com/my/lifestyle/can-papaya-leaf-juice-cure-dengue-fever",
+    "thumbnail": "https://says.com/my/_next/image?url=https%3A%2F%2Fmedia.says.com%2F2025%2F03%2F7fc0.png&w=3840&q=75",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRYM05sTVdFek0zUXRlaTFPVFJDbEFSaXhBaWdCTWdZbFFveld3QVE",
+    "date": "05/10/2015, 07:00 AM, +0000 UTC",
+    "iso_date": "2015-05-10T07:00:00Z"
+   },
+   {
+    "position": 8,
+    "title": "VERA FILES FACT CHECK YEARENDER: ‘Cancer-killers’ and dengue ‘cures’: Dissecting viral health misinfo in PH",
+    "source": {
+     "name": "VERA Files",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://verafiles.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Celine Isabelle Samson"
+     ]
+    },
+    "link": "https://verafiles.org/articles/vera-files-fact-check-yearender-cancer-killers-and-dengue-cu",
+    "thumbnail": "https://verafiles.org/wp-content/uploads/8115/77/20191228-health-misinformation_banner.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1WemN4VFZsNU1WWkpVVUppVFJEdkFoakRCaWdLTWdrSkFvcmt4S1JLeHdJ",
+    "date": "12/28/2019, 08:00 AM, +0000 UTC",
+    "iso_date": "2019-12-28T08:00:00Z"
+   },
+   {
+    "position": 9,
+    "title": "Fact-check: No, papaya leaf juice does not cure dengue",
+    "source": {
+     "name": "Geo News",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.geo.tv&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.geo.tv/latest/453973-papaya-leaf-juice-may-cause-more-harm-than-benefit-to-dengue-patients-says-health-expert",
+    "thumbnail": "https://www.geo.tv/assets/uploads/updates/2022-11-22/453973_125018_fullstory.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUdORmxrVjFOT2ExbE5Sa2xsVFJEaEFoamxCaWdLTWdB",
+    "date": "11/22/2022, 08:00 AM, +0000 UTC",
+    "iso_date": "2022-11-22T08:00:00Z"
+   }
+  ],
+  "menu_links": [
+   {
+    "title": "India",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+   },
+   {
+    "title": "World",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Your local news",
+    "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+   },
+   {
+    "title": "Business",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Technology",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Entertainment",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Sports",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Science",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Health",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+   }
+  ]
+ }
+}

@@ -1,0 +1,598 @@
+{
+ "engine": "google_scholar",
+ "params": {
+  "engine": "google_scholar",
+  "q": "Papaya leaf extract increases platelet count dengue patients",
+  "hl": "en"
+ },
+ "fetched_at": "2026-10-03T17:04:10Z",
+ "response": {
+  "search_metadata": {
+   "id": "6ac13589d114dfcdd5b7bd9e",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/hM9wr_AzsWJFXWWP9w2cAvVLp8FP2j4kAt0cj5Du8xM/6ac13589d114dfcdd5b7bd9e.md",
+   "created_at": "2026-10-03 17:04:09 UTC",
+   "processed_at": "2026-10-03 17:04:09 UTC",
+   "google_scholar_url": "https://scholar.google.com/scholar?q=Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en",
+   "total_time_taken": 0.54
+  },
+  "search_parameters": {
+   "engine": "google_scholar",
+   "q": "Papaya leaf extract increases platelet count dengue patients",
+   "hl": "en"
+  },
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "total_results": 1470,
+   "time_taken_displayed": 0.14,
+   "query_displayed": "Papaya leaf extract increases platelet count dengue patients"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Carica papaya Leaves Juice Significantly Accelerates the Rate of Increase in Platelet Count among Patients with Dengue Fever and Dengue Haemorrhagic Fever",
+    "result_id": "Sq355pTpHaYJ",
+    "link": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2013/616737",
+    "snippet": "… platelet increasing property of Carica papaya leaves juice (CPLJ) in patients with dengue fever (… on 228 patients with DF and dengue haemorrhagic fever (DHF). Approximately half the …",
+    "publication_info": {
+     "summary": "S Subenthiran, TC Choon, KC Cheong… - Evidence‐Based …, 2013 - Wiley Online Library",
+     "authors": [
+      {
+       "name": "S Subenthiran"
+      },
+      {
+       "name": "TC Choon"
+      },
+      {
+       "name": "KC Cheong",
+       "link": "https://scholar.google.com/citations?user=JaLd87sAAAAJ&hl=en&oi=sra",
+       "author_id": "JaLd87sAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JaLd87sAAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "wiley.com",
+      "file_format": "PDF",
+      "link": "https://onlinelibrary.wiley.com/doi/pdf/10.1155/2013/616737"
+     },
+     {
+      "title": "Full View",
+      "link": "https://scholar.google.com/scholar?output=instlink&q=info:Sq355pTpHaYJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=7725599629147019556&oi=lle"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Sq355pTpHaYJ",
+     "cited_by": {
+      "total": 309,
+      "link": "https://scholar.google.com/scholar?cites=11969980210360200522&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "11969980210360200522",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11969980210360200522&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:Sq355pTpHaYJ:scholar.google.com/&scioq=Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3ASq355pTpHaYJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 13,
+      "link": "https://scholar.google.com/scholar?cluster=11969980210360200522&hl=en&as_sdt=0,5",
+      "cluster_id": "11969980210360200522",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=11969980210360200522&engine=google_scholar&hl=en"
+     }
+    }
+   },
+   {
+    "position": 2,
+    "title": "Protective Mechanisms of Carica papaya Leaf Extract and Its Bioactive Compounds Against Dengue: Insights and Prospects",
+    "result_id": "Cb9yov89YxcJ",
+    "type": "Html",
+    "link": "https://www.mdpi.com/2673-5601/4/4/37",
+    "snippet": "… dengue patients due to their ability to raise platelets and alleviate symptoms. Papaya leaf extract … to help raise platelet counts in dengue patients [13,14]. It is believed that compounds in …",
+    "publication_info": {
+     "summary": "TZ Shoyshob, IA Heya, N Afrin, MA Enni, IJ Asha… - Immuno, 2024 - mdpi.com",
+     "authors": [
+      {
+       "name": "TZ Shoyshob",
+       "link": "https://scholar.google.com/citations?user=nOmOXG4AAAAJ&hl=en&oi=sra",
+       "author_id": "nOmOXG4AAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nOmOXG4AAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "IA Heya"
+      },
+      {
+       "name": "N Afrin"
+      },
+      {
+       "name": "MA Enni",
+       "link": "https://scholar.google.com/citations?user=9azsv9AAAAAJ&hl=en&oi=sra",
+       "author_id": "9azsv9AAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9azsv9AAAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "IJ Asha",
+       "link": "https://scholar.google.com/citations?user=b-TUf7kAAAAJ&hl=en&oi=sra",
+       "author_id": "b-TUf7kAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=b-TUf7kAAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "HTML",
+      "link": null
+     },
+     {
+      "title": "mdpi.com",
+      "file_format": "HTML",
+      "link": "https://www.mdpi.com/2673-5601/4/4/37"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Cb9yov89YxcJ",
+     "html_version": "https://www.mdpi.com/2673-5601/4/4/37",
+     "cited_by": {
+      "total": 18,
+      "link": "https://scholar.google.com/scholar?cites=1685258853718081289&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "1685258853718081289",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1685258853718081289&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:Cb9yov89YxcJ:scholar.google.com/&scioq=Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3ACb9yov89YxcJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 7,
+      "link": "https://scholar.google.com/scholar?cluster=1685258853718081289&hl=en&as_sdt=0,5",
+      "cluster_id": "1685258853718081289",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=1685258853718081289&engine=google_scholar&hl=en"
+     },
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Cb9yov89YxcJ:scholar.google.com/+Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5"
+    }
+   },
+   {
+    "position": 3,
+    "title": "Effect of Carica papaya Leaf Extract Capsule on Platelet Count in Patients of Dengue Fever with Thrombocytopenia.",
+    "result_id": "jrKPrmeXDeUJ",
+    "link": "https://europepmc.org/article/med/27739263",
+    "snippet": "… It is concluded that Carica papaya leaf extract increases the platelet count in dengue fever without any side effect and … So, it can be used in dengue fever with thrombocytopenia patients. …",
+    "publication_info": {
+     "summary": "AK Gadhwal, BS Ankit, C Chahar, P Tantia… - The Journal of the …, 2016 - europepmc.org",
+     "authors": [
+      {
+       "name": "AK Gadhwal"
+      },
+      {
+       "name": "BS Ankit"
+      },
+      {
+       "name": "C Chahar"
+      },
+      {
+       "name": "P Tantia"
+      }
+     ]
+    },
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=jrKPrmeXDeUJ",
+     "cited_by": {
+      "total": 92,
+      "link": "https://scholar.google.com/scholar?cites=16505014680948814478&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "16505014680948814478",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16505014680948814478&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:jrKPrmeXDeUJ:scholar.google.com/&scioq=Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AjrKPrmeXDeUJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 3,
+      "link": "https://scholar.google.com/scholar?cluster=16505014680948814478&hl=en&as_sdt=0,5",
+      "cluster_id": "16505014680948814478",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=16505014680948814478&engine=google_scholar&hl=en"
+     },
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:jrKPrmeXDeUJ:scholar.google.com/+Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5"
+    }
+   },
+   {
+    "position": 4,
+    "title": "The effect of Carica papaya L. leaves extract capsules on platelets count and hematocrit level in dengue fever patient.",
+    "result_id": "5wkeYhQefAIJ",
+    "type": "Pdf",
+    "link": "http://biorex.co.in/wp-content/uploads/2018/07/JUMPLAT-in-Dengue-3.pdf",
+    "snippet": "… leaves were believed to increase platelet count and dengue … papaya leaves extract capsules (CPC) to dengue fever … of CP leaves extract capsules in adults with dengue fever, included …",
+    "publication_info": {
+     "summary": "F Yunita, E Hanani, J Kristianto - 2012 - biorex.co.in",
+     "authors": [
+      {
+       "name": "F Yunita",
+       "link": "https://scholar.google.com/citations?user=U2KxtEsAAAAJ&hl=en&oi=sra",
+       "author_id": "U2KxtEsAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=U2KxtEsAAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "E Hanani",
+       "link": "https://scholar.google.com/citations?user=nflUkEIAAAAJ&hl=en&oi=sra",
+       "author_id": "nflUkEIAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nflUkEIAAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "J Kristianto",
+       "link": "https://scholar.google.com/citations?user=bSh5sLEAAAAJ&hl=en&oi=sra",
+       "author_id": "bSh5sLEAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bSh5sLEAAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "biorex.co.in",
+      "file_format": "PDF",
+      "link": "http://biorex.co.in/wp-content/uploads/2018/07/JUMPLAT-in-Dengue-3.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5wkeYhQefAIJ",
+     "cited_by": {
+      "total": 102,
+      "link": "https://scholar.google.com/scholar?cites=179051158082292199&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "179051158082292199",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=179051158082292199&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:5wkeYhQefAIJ:scholar.google.com/&scioq=Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3A5wkeYhQefAIJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 2,
+      "link": "https://scholar.google.com/scholar?cluster=179051158082292199&hl=en&as_sdt=0,5",
+      "cluster_id": "179051158082292199",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=179051158082292199&engine=google_scholar&hl=en"
+     }
+    }
+   },
+   {
+    "position": 5,
+    "title": "Efficacy & safety of Carica papaya leaf extract (CPLE) in severe thrombocytopenia (≤30,000/μl) in adult dengue – Results of a pilot study",
+    "result_id": "Yu2vkV1cJQMJ",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228699",
+    "snippet": "… of CPLE in increasing platelet counts in severe thrombocytopenia in dengue infections. A possible … Our analysis also showed that a pronounced increase in platelet counts with CPLE …",
+    "publication_info": {
+     "summary": "DT Sathyapalan, A Padmanabhan, M Moni… - PLoS one, 2020 - journals.plos.org",
+     "authors": [
+      {
+       "name": "DT Sathyapalan",
+       "link": "https://scholar.google.com/citations?user=5lLc648AAAAJ&hl=en&oi=sra",
+       "author_id": "5lLc648AAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5lLc648AAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "A Padmanabhan"
+      },
+      {
+       "name": "M Moni"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "plos.org",
+      "file_format": "PDF",
+      "link": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0228699&type=printable"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Yu2vkV1cJQMJ",
+     "cited_by": {
+      "total": 57,
+      "link": "https://scholar.google.com/scholar?cites=226688913198017890&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "226688913198017890",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=226688913198017890&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:Yu2vkV1cJQMJ:scholar.google.com/&scioq=Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AYu2vkV1cJQMJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 12,
+      "link": "https://scholar.google.com/scholar?cluster=226688913198017890&hl=en&as_sdt=0,5",
+      "cluster_id": "226688913198017890",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=226688913198017890&engine=google_scholar&hl=en"
+     },
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Yu2vkV1cJQMJ:scholar.google.com/+Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5"
+    }
+   },
+   {
+    "position": 6,
+    "title": "Dengue fever treatment with Carica papaya leaves extracts",
+    "result_id": "fWV0d0um1HkJ",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2221169111600555",
+    "snippet": "… serotype, a subsequent infection with a different serotype increases the risk of contracting … Patients with known or suspected dengue fever should have their platelet count and …",
+    "publication_info": {
+     "summary": "N Ahmad, H Fazal, M Ayaz, BH Abbasi… - Asian Pacific journal of …, 2011 - Elsevier",
+     "authors": [
+      {
+       "name": "N Ahmad",
+       "link": "https://scholar.google.com/citations?user=QBougCkAAAAJ&hl=en&oi=sra",
+       "author_id": "QBougCkAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QBougCkAAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "H Fazal",
+       "link": "https://scholar.google.com/citations?user=IctYegIAAAAJ&hl=en&oi=sra",
+       "author_id": "IctYegIAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IctYegIAAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "M Ayaz",
+       "link": "https://scholar.google.com/citations?user=eYcqcEwAAAAJ&hl=en&oi=sra",
+       "author_id": "eYcqcEwAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eYcqcEwAAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "BH Abbasi",
+       "link": "https://scholar.google.com/citations?user=DbN5ynMAAAAJ&hl=en&oi=sra",
+       "author_id": "DbN5ynMAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DbN5ynMAAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "nih.gov",
+      "file_format": "PDF",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3614241/pdf/apjtb-01-04-330.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fWV0d0um1HkJ",
+     "cited_by": {
+      "total": 417,
+      "link": "https://scholar.google.com/scholar?cites=8778824416708814205&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "8778824416708814205",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8778824416708814205&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:fWV0d0um1HkJ:scholar.google.com/&scioq=Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AfWV0d0um1HkJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 12,
+      "link": "https://scholar.google.com/scholar?cluster=8778824416708814205&hl=en&as_sdt=0,5",
+      "cluster_id": "8778824416708814205",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8778824416708814205&engine=google_scholar&hl=en"
+     }
+    }
+   },
+   {
+    "position": 7,
+    "title": "Efficacy and safety of Carica papaya leaf extract in the dengue: A systematic review and meta-analysis",
+    "result_id": "aGKcKE479pUJ",
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5108100/",
+    "snippet": "… papaya leaf extract can be considered as a potential candidate for increase in platelet count in patients of dengue, however; there is need of high-quality evidence in the form of large …",
+    "publication_info": {
+     "summary": "J Charan, D Saxena, JP Goyal… - International Journal of …, 2016 - pmc.ncbi.nlm.nih.gov",
+     "authors": [
+      {
+       "name": "J Charan",
+       "link": "https://scholar.google.com/citations?user=HX6AZWsAAAAJ&hl=en&oi=sra",
+       "author_id": "HX6AZWsAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HX6AZWsAAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "D Saxena",
+       "link": "https://scholar.google.com/citations?user=6W21CTQAAAAJ&hl=en&oi=sra",
+       "author_id": "6W21CTQAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6W21CTQAAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "JP Goyal",
+       "link": "https://scholar.google.com/citations?user=wzRo11oAAAAJ&hl=en&oi=sra",
+       "author_id": "wzRo11oAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wzRo11oAAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "nih.gov",
+      "file_format": "PDF",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5108100/pdf/IJABMR-6-249.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=aGKcKE479pUJ",
+     "cited_by": {
+      "total": 69,
+      "link": "https://scholar.google.com/scholar?cites=10805889562796909160&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "10805889562796909160",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10805889562796909160&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:aGKcKE479pUJ:scholar.google.com/&scioq=Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AaGKcKE479pUJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 14,
+      "link": "https://scholar.google.com/scholar?cluster=10805889562796909160&hl=en&as_sdt=0,5",
+      "cluster_id": "10805889562796909160",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=10805889562796909160&engine=google_scholar&hl=en"
+     }
+    }
+   },
+   {
+    "position": 8,
+    "title": "Papaya extract to treat dengue: a novel therapeutic option?",
+    "result_id": "_o0hLzvqpQ8J",
+    "type": "Pdf",
+    "link": "https://www.ajol.info/index.php/amhsr/article/download/112162/101918",
+    "snippet": "… A study in the journal of Medicinal and Aromatic Plants reported an increase in platelet counts in five patients within 24 h who had taken papaya leaf extract for dengue. However, no …",
+    "publication_info": {
+     "summary": "N Sarala, SS Paknikar - Annals of medical and health sciences research, 2014 - ajol.info",
+     "authors": [
+      {
+       "name": "N Sarala",
+       "link": "https://scholar.google.com/citations?user=cKFlFh4AAAAJ&hl=en&oi=sra",
+       "author_id": "cKFlFh4AAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=cKFlFh4AAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "SS Paknikar"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "ajol.info",
+      "file_format": "PDF",
+      "link": "https://www.ajol.info/index.php/amhsr/article/download/112162/101918"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_o0hLzvqpQ8J",
+     "cited_by": {
+      "total": 87,
+      "link": "https://scholar.google.com/scholar?cites=1127564821640875518&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "1127564821640875518",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1127564821640875518&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:_o0hLzvqpQ8J:scholar.google.com/&scioq=Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3A_o0hLzvqpQ8J%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 8,
+      "link": "https://scholar.google.com/scholar?cluster=1127564821640875518&hl=en&as_sdt=0,5",
+      "cluster_id": "1127564821640875518",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=1127564821640875518&engine=google_scholar&hl=en"
+     },
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:_o0hLzvqpQ8J:scholar.google.com/+Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5"
+    }
+   },
+   {
+    "position": 9,
+    "title": "A review on marketed Carica papaya leaf extract (CPLE) supplements for the treatment of dengue fever with thrombocytopenia and its drawback",
+    "result_id": "EJi09PrBY50J",
+    "type": "Pdf",
+    "link": "https://www.researchgate.net/profile/Suraj-Mandal-4/publication/343097807_A_review_on_marketed_Carica_papaya_leaf_extract_CPLE_supplements_for_the_treatment_of_dengue_fever_with_thrombocytopenia_and_its_drawback/links/5f169ae792851c1eff23d5ae/A-review-on-marketed-Carica-papaya-leaf-extract-CPLE-supplements-for-the-treatment-of-dengue-fever-with-thrombocytopenia-and-its-drawback.pdf",
+    "snippet": "… that dengue patient having low platelet count if platelet count will increases then rate of dengue patient … Papaya leaves extract having the anti-dengue therapeutic activity because of its …",
+    "publication_info": {
+     "summary": "S Mandal, DV Jaiswal, K Shiva - International Journal of …, 2020 - researchgate.net",
+     "authors": [
+      {
+       "name": "S Mandal",
+       "link": "https://scholar.google.com/citations?user=AWuM5ZoAAAAJ&hl=en&oi=sra",
+       "author_id": "AWuM5ZoAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AWuM5ZoAAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "DV Jaiswal",
+       "link": "https://scholar.google.com/citations?user=dBJKOm8AAAAJ&hl=en&oi=sra",
+       "author_id": "dBJKOm8AAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dBJKOm8AAAAJ&engine=google_scholar_author&hl=en"
+      },
+      {
+       "name": "K Shiva"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "researchgate.net",
+      "file_format": "PDF",
+      "link": "https://www.researchgate.net/profile/Suraj-Mandal-4/publication/343097807_A_review_on_marketed_Carica_papaya_leaf_extract_CPLE_supplements_for_the_treatment_of_dengue_fever_with_thrombocytopenia_and_its_drawback/links/5f169ae792851c1eff23d5ae/A-review-on-marketed-Carica-papaya-leaf-extract-CPLE-supplements-for-the-treatment-of-dengue-fever-with-thrombocytopenia-and-its-drawback.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=EJi09PrBY50J",
+     "cited_by": {
+      "total": 69,
+      "link": "https://scholar.google.com/scholar?cites=11341121570240501776&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "11341121570240501776",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11341121570240501776&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:EJi09PrBY50J:scholar.google.com/&scioq=Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AEJi09PrBY50J%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 6,
+      "link": "https://scholar.google.com/scholar?cluster=11341121570240501776&hl=en&as_sdt=0,5",
+      "cluster_id": "11341121570240501776",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=11341121570240501776&engine=google_scholar&hl=en"
+     },
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:EJi09PrBY50J:scholar.google.com/+Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5"
+    }
+   },
+   {
+    "position": 10,
+    "title": "… prospective study to evaluate the efficacy and safety of Carica papaya leaf extract for thrombocytopenia associated with dengue fever in pediatric subjects",
+    "result_id": "sAxPLtAlj3YJ",
+    "link": "https://www.tandfonline.com/doi/abs/10.2147/PHMT.S176712",
+    "snippet": "… in dengue. Papaya leaf extract raised the platelet count by Day 3 with decreased requirement of … Does Carica papaya leaf-extract increase the platelet count? An experimental study in a …",
+    "publication_info": {
+     "summary": "BK Srikanth, L Reddy, S Biradar… - … health, medicine and …, 2019 - Taylor & Francis",
+     "authors": [
+      {
+       "name": "BK Srikanth"
+      },
+      {
+       "name": "L Reddy"
+      },
+      {
+       "name": "S Biradar"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "tandfonline.com",
+      "file_format": "PDF",
+      "link": "https://www.tandfonline.com/doi/pdf/10.2147/PHMT.S176712"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sAxPLtAlj3YJ",
+     "cited_by": {
+      "total": 44,
+      "link": "https://scholar.google.com/scholar?cites=8543088594205478064&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "8543088594205478064",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8543088594205478064&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:sAxPLtAlj3YJ:scholar.google.com/&scioq=Papaya+leaf+extract+increases+platelet+count+dengue+patients&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AsAxPLtAlj3YJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 11,
+      "link": "https://scholar.google.com/scholar?cluster=8543088594205478064&hl=en&as_sdt=0,5",
+      "cluster_id": "8543088594205478064",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8543088594205478064&engine=google_scholar&hl=en"
+     }
+    }
+   }
+  ]
+ }
+}
