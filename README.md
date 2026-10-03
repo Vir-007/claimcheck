@@ -20,6 +20,12 @@ $ claimcheck "Seven people were killed when a truck hit a pickup van in Amravati
   2  3 copies  ◐ partial   wire copy, spread 4h    Economic Times, ETV Bharat, Udayavani   ("Five killed, 21 injured")
 ```
 
+| Web UI: wire story collapsed | Web UI: hoax, copy-paste forwards collapsed |
+|---|---|
+| ![Amravati crash verdict card](docs/amravati.png) | ![UNESCO anthem verdict card](docs/anthem.png) |
+
+**Demo video:** _link added after recording_
+
 ## Why this exists
 
 Forwarded claims in India travel faster than corrections. The usual check is "search it

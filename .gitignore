@@ -5,3 +5,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 TASK.md
+REPORT.md
+OUTBOX.md
+NEEDS_SUDO.md
