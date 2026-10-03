@@ -75,7 +75,7 @@ def norm_tokens(text: str) -> list[str]:
 
 def _stem(t: str) -> str:
     for suf in ("ing", "ed", "es", "s", "e"):
-        if len(t) > 4 and t.endswith(suf):
+        if len(t) > (3 if suf == "s" else 4) and t.endswith(suf):
             return t[: -len(suf)]
     return t
 
@@ -236,6 +236,10 @@ class NLIBackend:
             elif ent >= 0.5 or question or h.label == PARTIAL and HEDGE.search(src.text) \
                     or numeric_conflict(claim, src.text):
                 label, conf = PARTIAL, max(ent, neu) * 0.75
+            elif h.relevance >= 0.6 and h.label == SUPPORTS:
+                # On-topic and consistent, but less specific than the claim
+                # ("7 killed in Maharashtra" vs "... in Amravati").
+                label, conf = PARTIAL, 0.4
             else:
                 # Topical but takes no position (NLI neutral): it is not evidence.
                 label, conf = UNRELATED, neu
