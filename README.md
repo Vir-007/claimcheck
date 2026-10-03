@@ -204,7 +204,7 @@ uv run claimcheck "Papaya leaf extract increases platelet count in dengue patien
 uv run claimcheck --account      # credits left (free call)
 uv run claimcheck "…" --json     # machine-readable verdict
 
-uv run pytest                    # 48 tests, offline
+uv run pytest                    # 48 tests, offline (1 skips unless `uv sync --extra llm`)
 ```
 
 The first run downloads the 87 MB NLI model from Hugging Face into `~/.cache/huggingface`. With
