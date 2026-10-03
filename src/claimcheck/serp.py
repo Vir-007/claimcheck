@@ -116,7 +116,13 @@ class SerpClient:
                     "raise CLAIMCHECK_MAX_LIVE_CALLS to allow more"
                 )
             self.live_calls += 1
-        resp = httpx.get(SERPAPI_URL, params={**params, "api_key": self.api_key}, timeout=self.timeout)
+        try:
+            resp = httpx.get(SERPAPI_URL, params={**params, "api_key": self.api_key}, timeout=self.timeout)
+        except httpx.TimeoutException:
+            # Google web searches occasionally take >60s. SerpApi keeps finished
+            # searches in its own 1-hour cache and does not bill repeats, so one
+            # retry is cheap and usually instant.
+            resp = httpx.get(SERPAPI_URL, params={**params, "api_key": self.api_key}, timeout=self.timeout * 1.5)
         data = resp.json() if resp.headers.get("content-type", "").startswith("application/json") else {}
         if resp.status_code != 200 or "error" in data and not _is_empty_result(data):
             raise SerpApiError(f"SerpApi {resp.status_code}: {data.get('error', resp.text[:200])}")

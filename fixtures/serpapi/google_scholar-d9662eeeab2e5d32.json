@@ -1,0 +1,347 @@
+{
+ "engine": "google_scholar",
+ "params": {
+  "engine": "google_scholar",
+  "q": "Gujarat became second state Uttarakhand get Uniform Civil",
+  "hl": "en"
+ },
+ "fetched_at": "2026-10-03T17:18:25Z",
+ "response": {
+  "search_metadata": {
+   "id": "6ac138e0bde97948cc7511e1",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/ONRtwuM7Zc048Q6_16usrOCPe7fooxoWDxwMRjxZJB8/6ac138e0bde97948cc7511e1.md",
+   "created_at": "2026-10-03 17:18:24 UTC",
+   "processed_at": "2026-10-03 17:18:24 UTC",
+   "google_scholar_url": "https://scholar.google.com/scholar?q=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en",
+   "total_time_taken": 1.1
+  },
+  "search_parameters": {
+   "engine": "google_scholar",
+   "q": "Gujarat became second state Uttarakhand get Uniform Civil",
+   "hl": "en"
+  },
+  "search_information": {
+   "organic_results_state": "Results for exact spelling",
+   "total_results": 4710,
+   "time_taken_displayed": 0.26,
+   "query_displayed": "Gujarat became second state Uttarakhand get Uniform Civil"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Journey of Indian society towards uniform civil code",
+    "result_id": "9oEqpHJuo0wJ",
+    "type": "Html",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2590291126000239",
+    "snippet": "… Central to this analysis is the long-standing debate over a Uniform Civil Code (UCC), … Gujarat: preparing to implement UCC Following Uttarakhand's lead, the state of Gujarat has …",
+    "publication_info": {
+     "summary": "R Kumar - Social Sciences & Humanities Open, 2026 - Elsevier",
+     "authors": [
+      {
+       "name": "R Kumar"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "HTML",
+      "link": null
+     },
+     {
+      "title": "sciencedirect.com",
+      "file_format": "HTML",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590291126000239"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=9oEqpHJuo0wJ",
+     "html_version": "https://www.sciencedirect.com/science/article/pii/S2590291126000239",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:9oEqpHJuo0wJ:scholar.google.com/&scioq=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3A9oEqpHJuo0wJ%3Ascholar.google.com%2F"
+    }
+   },
+   {
+    "position": 2,
+    "title": "Uniform civil code: an overview",
+    "result_id": "tJ39EnI4kvYJ",
+    "link": "https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/injlolw9&section=331",
+    "snippet": "… Which raise a question - If we can have uniform criminal code than why not uniform civil code? … Uttarakhand government in all set to establish Uniform Civil Code in the State. The expert …",
+    "publication_info": {
+     "summary": "S Agrawal - Issue 6 Indian JL & Legal Rsch., 2022 - HeinOnline",
+     "authors": [
+      {
+       "name": "S Agrawal"
+      }
+     ]
+    },
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tJ39EnI4kvYJ",
+     "cited_by": {
+      "total": 4,
+      "link": "https://scholar.google.com/scholar?cites=17767325542526066100&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "17767325542526066100",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17767325542526066100&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:tJ39EnI4kvYJ:scholar.google.com/&scioq=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AtJ39EnI4kvYJ%3Ascholar.google.com%2F"
+    }
+   },
+   {
+    "position": 3,
+    "title": "The Uniform Civil Code in India: Constitutional Vision, Legislative Reality, and the Politics of Uniformity",
+    "result_id": "GYaNw0MlX5sJ",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7173638",
+    "snippet": "… the state to “endeavour to secure for the citizens a uniform civil … Uttarakhand, Gujarat, Assam, and Madhya Pradesh have … , Maharashtra, and Chhattisgarh have committees working on …",
+    "publication_info": {
+     "summary": "L ALI - papers.ssrn.com",
+     "authors": [
+      {
+       "name": "L ALI",
+       "link": "https://scholar.google.com/citations?user=4fKtFT4AAAAJ&hl=en&oi=sra",
+       "author_id": "4fKtFT4AAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4fKtFT4AAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "ssrn.com",
+      "file_format": "PDF",
+      "link": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=7173638"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GYaNw0MlX5sJ",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:GYaNw0MlX5sJ:scholar.google.com/&scioq=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AGYaNw0MlX5sJ%3Ascholar.google.com%2F",
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:GYaNw0MlX5sJ:scholar.google.com/+Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5"
+    }
+   },
+   {
+    "position": 4,
+    "title": "Uniform civil code and the dynamics of Muslim identity in India: an introduction",
+    "result_id": "MP2IWh5AGWIJ",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4833361",
+    "snippet": "… It seems as if the Uttarakhand UCC shall set a precedent for BJP-ruled Assam and Gujarat, which have already promised to implement UCC in their respective states.…",
+    "publication_info": {
+     "summary": "NA Siddiqui - 2024 - papers.ssrn.com",
+     "authors": [
+      {
+       "name": "NA Siddiqui",
+       "link": "https://scholar.google.com/citations?user=5nO7aKoAAAAJ&hl=en&oi=sra",
+       "author_id": "5nO7aKoAAAAJ",
+       "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5nO7aKoAAAAJ&engine=google_scholar_author&hl=en"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "ssrn.com",
+      "file_format": "PDF",
+      "link": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4833361"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=MP2IWh5AGWIJ",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:MP2IWh5AGWIJ:scholar.google.com/&scioq=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AMP2IWh5AGWIJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 5,
+      "link": "https://scholar.google.com/scholar?cluster=7068751589246827824&hl=en&as_sdt=0,5",
+      "cluster_id": "7068751589246827824",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=7068751589246827824&engine=google_scholar&hl=en"
+     },
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:MP2IWh5AGWIJ:scholar.google.com/+Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5"
+    }
+   },
+   {
+    "position": 5,
+    "title": "The Uniform Civil Code in India: Constitutional Promise or Political Agenda?",
+    "result_id": "T6TtCqjNJcUJ",
+    "link": "https://books.google.com/books?hl=en&lr=&id=Y8uYEQAAQBAJ&oi=fnd&pg=PA35&dq=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&ots=4B1_hXhLe7&sig=nr1baV2f_A3-YIwP9xwH5ZXPVFU",
+    "snippet": "… In 2023, Uttarakhand became the first Indian state to introduce a draft Uniform Civil Code. … has sparked interest in other states such as Himachal Pradesh and Gujarat, where similar …",
+    "publication_info": {
+     "summary": "R Banerjee - … AND SOCIAL SCIENCES (VOLUME-II), 2025 - books.google.com",
+     "authors": [
+      {
+       "name": "R Banerjee"
+      }
+     ]
+    },
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=T6TtCqjNJcUJ",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:T6TtCqjNJcUJ:scholar.google.com/&scioq=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AT6TtCqjNJcUJ%3Ascholar.google.com%2F"
+    }
+   },
+   {
+    "position": 6,
+    "title": "One Nation One Law: Need of Uniform Civil Code in India",
+    "result_id": "EATSQiJB894J",
+    "link": "https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/injloitd5&section=34",
+    "snippet": "… not hammer out a consensus on the Uniform Civil Code despite debating it extensively.… However, recently it has been reported that states such as Gujarat, Uttarakhand, and Assam are …",
+    "publication_info": {
+     "summary": "K Anuradha - Part 2 Indian J. Integrated Rsch. L., 2023 - HeinOnline",
+     "authors": [
+      {
+       "name": "K Anuradha"
+      }
+     ]
+    },
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=EATSQiJB894J",
+     "cited_by": {
+      "total": 1,
+      "link": "https://scholar.google.com/scholar?cites=16065255911166444560&as_sdt=2005&sciodt=0,5&hl=en",
+      "cites_id": "16065255911166444560",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16065255911166444560&engine=google_scholar&hl=en"
+     },
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:EATSQiJB894J:scholar.google.com/&scioq=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AEATSQiJB894J%3Ascholar.google.com%2F"
+    }
+   },
+   {
+    "position": 7,
+    "title": "ONE NATION, ONE LAW: THE UNIFORM CIVIL CODE DEBATE",
+    "result_id": "cDHqQg3nQcwJ",
+    "link": "https://pulr.puchd.ac.in/index.php/pulr/article/view/315",
+    "snippet": "… between a uniform code and … Uniform Civil Code of Uttarakhand Act, 2024, which came into force on 27 January 2025, making Uttarakhand the first Indian state to enact a uniform civil …",
+    "publication_info": {
+     "summary": "DRTK SAHIWAL, M Kaur - Panjab University Law Review, 2025 - pulr.puchd.ac.in",
+     "authors": [
+      {
+       "name": "DRTK SAHIWAL"
+      },
+      {
+       "name": "M Kaur"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "puchd.ac.in",
+      "file_format": "PDF",
+      "link": "https://pulr.puchd.ac.in/index.php/pulr/article/download/315/133"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=cDHqQg3nQcwJ",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:cDHqQg3nQcwJ:scholar.google.com/&scioq=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AcDHqQg3nQcwJ%3Ascholar.google.com%2F",
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:cDHqQg3nQcwJ:scholar.google.com/+Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5"
+    }
+   },
+   {
+    "position": 8,
+    "title": "Uniform Civil Code in India: Constitutional Vision, Federal Challenges, and Judicial Perspective",
+    "result_id": "Zb2EwVbpFx4J",
+    "type": "Pdf",
+    "link": "https://theresearchdialogue.com/wp-content/uploads/50.-Dr.-Surendra-Kumar.pdf",
+    "snippet": "… o While some states, like Gujarat, have begun to implement UCC committees or models, … a national Uniform Civil Code, statelevel attempts, such as Goa's civil code and Uttarakhand's …",
+    "publication_info": {
+     "summary": "S Kumar - theresearchdialogue.com",
+     "authors": [
+      {
+       "name": "S Kumar"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "theresearchdialogue.com",
+      "file_format": "PDF",
+      "link": "https://theresearchdialogue.com/wp-content/uploads/50.-Dr.-Surendra-Kumar.pdf"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Zb2EwVbpFx4J",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:Zb2EwVbpFx4J:scholar.google.com/&scioq=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AZb2EwVbpFx4J%3Ascholar.google.com%2F",
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Zb2EwVbpFx4J:scholar.google.com/+Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5"
+    }
+   },
+   {
+    "position": 9,
+    "title": "Statewise Uniform Civil Codes and the Federal Dilemma: Fragmentation in the Pursuit of Uniformity",
+    "result_id": "rw2jui6uP8gJ",
+    "link": "https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/ijlmhs34&section=178",
+    "snippet": "… new phenomenon of state-initiated Uniform Civil Codes (UCCs… Uttarakhand's recent move to introduce a state-level UCC is a … Uttarakhand Uniform Civil Code of 202445 is the first state-…",
+    "publication_info": {
+     "summary": "V Nandkeolyar - Issue 2 Int'l JL Mgmt. & Human., 2025 - HeinOnline",
+     "authors": [
+      {
+       "name": "V Nandkeolyar"
+      }
+     ]
+    },
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rw2jui6uP8gJ",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:rw2jui6uP8gJ:scholar.google.com/&scioq=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3Arw2jui6uP8gJ%3Ascholar.google.com%2F"
+    }
+   },
+   {
+    "position": 10,
+    "title": "Uniform Civil Code: A Comparative Constitutional Study of India and Global Jurisdictions with a Special Focus on Uttarakhand's Legal Framework",
+    "result_id": "NT-aoR3VZUUJ",
+    "type": "Pdf",
+    "link": "https://kommerstad.org/journal/article/download/287/222",
+    "snippet": "… The concept of a Uniform Civil Code (UCC) remains one of the most debated legal and … that have adopted uniform civil laws such as France, Turkey, and the United States alongside …",
+    "publication_info": {
+     "summary": "N Vijay - Minnesota Journal of Business Law and …, 2026 - kommerstad.org",
+     "authors": [
+      {
+       "name": "N Vijay"
+      }
+     ]
+    },
+    "resources": [
+     {
+      "title": "",
+      "file_format": "PDF",
+      "link": null
+     },
+     {
+      "title": "kommerstad.org",
+      "file_format": "PDF",
+      "link": "https://kommerstad.org/journal/article/download/287/222"
+     }
+    ],
+    "inline_links": {
+     "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NT-aoR3VZUUJ",
+     "related_pages_link": "https://scholar.google.com/scholar?q=related:NT-aoR3VZUUJ:scholar.google.com/&scioq=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5",
+     "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3ANT-aoR3VZUUJ%3Ascholar.google.com%2F",
+     "versions": {
+      "total": 2,
+      "link": "https://scholar.google.com/scholar?cluster=5000637284506812213&hl=en&as_sdt=0,5",
+      "cluster_id": "5000637284506812213",
+      "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=5000637284506812213&engine=google_scholar&hl=en"
+     },
+     "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:NT-aoR3VZUUJ:scholar.google.com/+Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&as_sdt=0,5"
+    }
+   }
+  ]
+ }
+}

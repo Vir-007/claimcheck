@@ -54,7 +54,7 @@ class Source:
     published: datetime | None
     date_text: str | None
     hits: list[Hit] = field(default_factory=list)
-    kind: str = "web"  # web | news | scholar | social | factcheck
+    kind: str = "web"  # web | news | scholar | social | factcheck | lowtrust
     cited_by: int | None = None
     wire: str | None = None
     extra: dict[str, Any] = field(default_factory=dict)
@@ -105,6 +105,20 @@ _SOCIAL = ("facebook.com", "instagram.com", "x.com", "twitter.com", "youtube.com
            "brainly.in", "quora.com", "reddit.com", "linkedin.com", "tiktok.com", "threads.net")
 
 
+# Throwaway TLDs favoured by scraper/spam sites that republish news with wrong dates.
+_LOW_TRUST_TLDS = {"pics", "xyz", "top", "click", "pro", "buzz", "icu", "cfd", "sbs", "lol", "monster", "quest",
+                   "rest", "bond", "shop", "online", "site", "fun", "live"}
+
+
+def is_low_trust(url: str) -> bool:
+    host = (urlsplit(url).hostname or "").lower()
+    labels = host.split(".")
+    if labels and labels[-1] in _LOW_TRUST_TLDS:
+        return True
+    # Random-looking subdomain, e.g. 81uyqn2p.example.pics
+    return len(labels) >= 3 and bool(re.fullmatch(r"(?=.*\d)[a-z0-9]{7,}", labels[0]))
+
+
 def is_factcheck_url(url: str) -> bool:
     canon = canonical_url(url).removeprefix("https://")
     host = canon.split("/")[0]
@@ -125,6 +139,8 @@ def classify_kind(url: str, engine: str, outlet: str = "") -> str:
     dom = domain_of(url)
     if any(dom == s or dom.endswith("." + s) for s in _SOCIAL):
         return "social"
+    if is_low_trust(url):
+        return "lowtrust"
     if engine == "google_news":
         return "news"
     return "web"

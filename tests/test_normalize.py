@@ -56,3 +56,12 @@ def test_dedup_merges_engines_and_keeps_best_fields():
     assert out[0].engines == ["google", "google_news"]
     assert out[0].snippet == "a much longer snippet"
     assert out[0].published is not None
+
+
+def test_low_trust_scraper_domains():
+    from claimcheck.normalize import is_low_trust
+    assert is_low_trust("https://81uyqn2p.sodolodi.pics/6abf/552b")
+    assert is_low_trust("https://news-today.xyz/a")
+    assert not is_low_trust("https://www.thehindu.com/news/a")
+    assert not is_low_trust("https://timesofindia.indiatimes.com/a")
+    assert classify_kind("https://81uyqn2p.sodolodi.pics/x", "google") == "lowtrust"

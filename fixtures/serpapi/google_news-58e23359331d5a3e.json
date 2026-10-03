@@ -1,0 +1,299 @@
+{
+ "engine": "google_news",
+ "params": {
+  "engine": "google_news",
+  "q": "Gujarat became second state Uttarakhand get Uniform Civil fact check",
+  "gl": "in",
+  "hl": "en"
+ },
+ "fetched_at": "2026-10-03T17:18:25Z",
+ "response": {
+  "search_metadata": {
+   "id": "6ac138e0550cc4bc2cb9401c",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/vTj-F-T3xsf_MOEm7zzO03u9nnXu_kcW_359s1Kumgk/6ac138e0550cc4bc2cb9401c.md",
+   "created_at": "2026-10-03 17:18:24 UTC",
+   "processed_at": "2026-10-03 17:18:24 UTC",
+   "google_news_url": "https://news.google.com/search?q=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil+fact+check&hl=en&gl=IN",
+   "total_time_taken": 0.58
+  },
+  "search_parameters": {
+   "engine": "google_news",
+   "gl": "in",
+   "hl": "en",
+   "q": "Gujarat became second state Uttarakhand get Uniform Civil fact check"
+  },
+  "news_results": [
+   {
+    "position": 1,
+    "title": "Gujarat becomes 2nd state to adopt UCC after President Droupadi Murmu's nod",
+    "source": {
+     "name": "India Today",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.indiatoday.in/india/story/after-president-murmus-nod-gujarat-becomes-2nd-indian-state-to-get-uniform-civil-code-3008022-2026-10-02",
+    "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/gujarat-cm-bhupendra-patel-024417596-16x9_0.png?VersionId=NDVpT0PDIyptnpG79mG7cstYM2oTQXcs&size=1280:720",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9OV3gyUkdGMmEzcFRiVkJYVFJDZkF4ampCU2dLTWdZdE5ZQ3ZuUWs",
+    "date": "10/02/2026, 08:40 AM, +0000 UTC",
+    "iso_date": "2026-10-02T08:40:11Z"
+   },
+   {
+    "position": 2,
+    "title": "Gujarat UCC Bill gets President Murmu’s nod paving way for implementation",
+    "source": {
+     "name": "The Times of India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://timesofindia.indiatimes.com/india/gujarat-ucc-bill-gets-president-murmus-nod-paving-way-for-implementation/amp_articleshow/134635734.cms",
+    "thumbnail": "https://static.toiimg.com/thumb/msid-134635769,width-1280,height-720,imgsize-87006,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpWbXBLZERaUmJtdFBTMlJMVFJDZkF4ampCU2dLTWdZcEphQ3VGUW8",
+    "date": "10/02/2026, 08:58 AM, +0000 UTC",
+    "iso_date": "2026-10-02T08:58:00Z"
+   },
+   {
+    "position": 3,
+    "title": "Gujarat UCC Clears Final Legal Hurdle with Presidential Assent as State Prepares for Implementation",
+    "source": {
+     "name": "GujaratSamachar English",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://english.gujaratsamachar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://english.gujaratsamachar.com/news/gujarat/gujarat-ucc-clears-final-legal-hurdle-with-presidential-assent-as-state-prepares-for-implementation-64341654497",
+    "thumbnail": "https://cdn.gujaratsamachar.com/media/post/2026/10/79757085ec5b8acd730b80d353a7fdeb.png?w=1060&f=webp&q=90",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVVMHRWWlhkWU5FTk9jbFpsVFJDb0FSaXNBaWdCTWdrQkFaalZJS25JQWdN",
+    "date": "10/02/2026, 08:19 AM, +0000 UTC",
+    "iso_date": "2026-10-02T08:19:30Z"
+   },
+   {
+    "position": 4,
+    "title": "Top News Audio Briefing - 02 Oct 2026, 3 PM",
+    "source": {
+     "name": "The Times of India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://timesofindia.indiatimes.com/top-news-now/top-news-audio-briefing-02-oct-2026-3-pm/amp_videoshow/134636313.cms",
+    "thumbnail": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-33486062/33486062.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDVlRXB5TWxSelIyWXlURnB5VFJDZkF4ampCU2dLTWdNTmt4SQ",
+    "date": "10/02/2026, 09:34 AM, +0000 UTC",
+    "iso_date": "2026-10-02T09:34:03Z"
+   },
+   {
+    "position": 5,
+    "title": "Assam clears Uniform Civil Code Bill, 3rd state to do so after Uttarakhand, Gujarat",
+    "source": {
+     "name": "India Today",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.indiatoday.in/india/story/assam-assembly-passes-uniform-civil-code-bill-3rd-state-to-do-so-after-uttarakhand-gujarat-news-agency-ani-2917895-2026-05-27",
+    "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/assam-chief-minister-himanta-biswa-sarma-153108183-16x9.png?VersionId=WiVO3MMQNCYMfsBBvfJAqVB06_y0Zd4w&size=1280:720",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdVbTR0ZVhaaVFrcHJlaTFZVFJDZkF4ampCU2dLTWdZUkJZYXZ2UVU",
+    "date": "05/27/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-27T07:00:00Z"
+   },
+   {
+    "position": 6,
+    "title": "Gujarat Passes UCC Bill; CM Bhupendra Patel Invokes 'Sanatan Values'",
+    "source": {
+     "name": "thequint.com",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thequint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.thequint.com/news/breaking-news/gujarat-uniform-civil-code-bill-passed-assembly-debate",
+    "thumbnail": "https://cf-images.assettype.com/thequint/2026-03-25/zj882ic5/Screenshot-2026-03-25-at-1.41.03-PM.png?auto=format,compress&fmt=webp&format=webp&w=1200&h=900&dpr=1.0",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhjVXRSVWtwc1NHdFRibnBwVFJEOUFoaXZCU2dLTWdZdE5ZQ3ZuUWs",
+    "date": "03/25/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-25T07:00:00Z"
+   },
+   {
+    "position": 7,
+    "title": "MP to implement UCC by Diwali, bill in 6 months",
+    "source": {
+     "name": "The Times of India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://timesofindia.indiatimes.com/city/bhopal/mp-to-implement-ucc-by-diwali-bill-in-6-months/articleshow/130123233.cms",
+    "thumbnail": "https://static.toiimg.com/thumb/msid-117517117,width-1280,height-720,imgsize-95639,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpTM0pITjBsWlVsWmhOREF0VFJDZkF4ampCU2dLTWdZQk1veHJLUWM",
+    "date": "04/09/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-09T07:00:00Z"
+   },
+   {
+    "position": 8,
+    "title": "Gujarat Assembly passes Uniform Civil Code Bill; Congress calls it 'anti-Muslim'",
+    "source": {
+     "name": "India Today",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Brijesh Doshi"
+     ]
+    },
+    "link": "https://www.indiatoday.in/india/story/gujarat-assembly-passes-uniform-civil-code-bill-congress-calls-it-anti-muslim-2886690-2026-03-25",
+    "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/gujarat-cm-bhupendra-patel-242435905-16x9.png?VersionId=h8lD2Ek6XyHVRlfNqB3CFMlaSYn9iE9p&size=1280:720",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVaUzFQYm5SUlkwWkNTVU5tVFJDZkF4ampCU2dLTWdZdE5ZQ3ZuUWs",
+    "date": "03/25/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-25T07:00:00Z"
+   },
+   {
+    "position": 9,
+    "title": "Did PM Modi Ask For A Missed Call To Support Uniform Civil Code? A FactCheck | BOOM",
+    "source": {
+     "name": "BOOM Fact Check",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.boomlive.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Nidhi Jacob"
+     ]
+    },
+    "link": "https://www.boomlive.in/fact-check/fact-check-did-pm-modi-ask-for-a-missed-call-to-support-uniform-civil-code-a-factcheck-25670",
+    "thumbnail": "https://www.boomlive.in/h-upload/2024/06/20/1500x900_1028719-ucc-02.webp",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpVbHAyYUd0elFUbDVXSHAwVFJDdEF4akxCU2dLTWdhRlFaTHRxQVk",
+    "date": "06/20/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-06-20T07:00:00Z"
+   },
+   {
+    "position": 10,
+    "title": "Is Uniform Civil Code bill passed in Gujarat truly uniform? Deputy CM responds - India Today",
+    "source": {
+     "name": "India Today",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.indiatoday.in/programme/to-the-point/video/is-uniform-civil-code-bill-passed-in-gujarat-truly-uniform-deputy-cm-responds-2887168-2026-03-25",
+    "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202603/ucc-251441848-16x9_0.png?VersionId=9G4nEiEMYR4W.gh4TdC8XMJbSJxPUiQq?size=647:363",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTFRUzFZY1hKWmMwVmZlVXhrVFJDNkFoaXZCQ2dLTWdB",
+    "date": "03/25/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-25T07:00:00Z"
+   },
+   {
+    "position": 11,
+    "title": "Gujarat passes Uniform Civil Code Bill 2026: Common law on marriage, divorce, live-in ties cleared; polyg",
+    "source": {
+     "name": "The Times of India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://timesofindia.indiatimes.com/city/ahmedabad/guj-passes-ucc-bill-with-uniformmarriage-divorce-live-in-norms/articleshow/129785922.cms",
+    "thumbnail": "https://static.toiimg.com/thumb/msid-129789642,width-1280,height-720,imgsize-36646,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZRM1J6V0Y5SmFUSmlhRmMzVFJDZkF4ampCU2dLTWdZbEJxRHNrUW8",
+    "date": "03/25/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-25T07:00:00Z"
+   },
+   {
+    "position": 12,
+    "title": "Unpolitics: Gujarat UCC pushes gender justice, says Deputy CM Harsh Sanghvi - India Today",
+    "source": {
+     "name": "India Today",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.indiatoday.in/india/video/unpolitics-gujarat-ucc-pushes-gender-justice-says-deputy-cm-harsh-sanghvi-2888506-2026-03-29",
+    "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202603/unpolitics-282806954-16x9_0.jpg?VersionId=lkSZHHBTk1a15GXvxtWNG4EDUC.RPKbS?size=647:363",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUplbFppWVRKRVoydHhSMHhJVFJDZkF4ampCU2dLTWdrRlVKaWpwV2tXQ3dJ",
+    "date": "03/29/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-29T07:00:00Z"
+   },
+   {
+    "position": 13,
+    "title": "Gujarat Becomes 2nd State With UCC After President Murmus Nod: What Changes For Marriage, Property, Live-Ins",
+    "source": {
+     "name": "ABP Live English",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.abplive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Bharathi SP"
+     ]
+    },
+    "link": "https://news.abplive.com/news/india/gujarat-uniform-civil-code-ucc-bill-gets-president-s-nod-what-the-new-law-says-marriage-property-live-ins-1869405",
+    "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/02/105d6b7bcb8e2cf9335549a8486f00a31790935568678240_original.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxPR2xUU21saGVFczJhbXc1VFJDZkF4ampCU2dLTWdZdFZZYXVxUVk",
+    "date": "10/02/2026, 09:03 AM, +0000 UTC",
+    "iso_date": "2026-10-02T09:03:18Z"
+   },
+   {
+    "position": 14,
+    "title": "UCC gets its second lab in Gujarat",
+    "source": {
+     "name": "India Today",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Jumana Shah"
+     ]
+    },
+    "link": "https://www.indiatoday.in/magazine/state-scan/story/20260413-ucc-gets-its-second-lab-in-gujarat-uniform-civil-code-2891312-2026-04-03",
+    "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/illustration-by-raj-verma-035434868-16x9_0.jpg?VersionId=8CAoZTD5H8sjpUJZkYk_Ck2Pa2jIuvyq&size=1280:720",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBWelJpYW1WZk5sVTVaMVIzVFJDZkF4ampCU2dLTWdhZE00ck9JUWM",
+    "date": "04/03/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-03T07:00:00Z"
+   },
+   {
+    "position": 15,
+    "title": "Gujarat set to implement Uniform Civil Code, report likely in monsoon session",
+    "source": {
+     "name": "India Today",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Brijesh Doshi"
+     ]
+    },
+    "link": "https://www.indiatoday.in/india/story/gujarat-set-to-implement-uniform-civil-code-report-likely-in-monsoon-session-2766880-2025-08-06",
+    "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202508/once-complete--the-government-is-expected-to-table-the-ucc-bill-in-the-upcoming-monsoon-session-of-t-050009580-16x9_0.jpeg?VersionId=5RH7T1qTeYVHvRCQJneaCK4Kx4m.KGhB&size=1280:720",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRSV2RPYW1SeWRtRlFaMjB3VFJDZkF4ampCU2dLTWdNQmNCSQ",
+    "date": "08/06/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-08-06T07:00:00Z"
+   },
+   {
+    "position": 16,
+    "title": "Explainer: What could the Uniform Civil Code look like in Assam?",
+    "source": {
+     "name": "EastMojo",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://eastmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://eastmojo.com/premium/2026/05/15/explainer-what-could-the-uniform-civil-code-look-like-in-assam/",
+    "thumbnail": "https://i0.wp.com/eastmojo.com/wp-content/uploads/2024/02/himanta.jpg?fit=780%2C439&ssl=1",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdTV3h5UzBaSWVEVm5SMHBWVFJDZkF4amlCU2dLTWdZdFJaU3VJUWs",
+    "date": "05/15/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-15T07:00:00Z"
+   }
+  ],
+  "menu_links": [
+   {
+    "title": "India",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+   },
+   {
+    "title": "World",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Your local news",
+    "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+   },
+   {
+    "title": "Business",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Technology",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Entertainment",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Sports",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Science",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Health",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+   }
+  ]
+ }
+}

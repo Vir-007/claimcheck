@@ -13,7 +13,7 @@ from .syndication import Cluster, cluster, registrable_domain
 # How much one independent voice of each kind counts. Fact-checkers and peer
 # review outrank a random Facebook post; this is deliberately simple and shown
 # to the user rather than hidden.
-KIND_WEIGHT = {"factcheck": 1.5, "scholar": 1.3, "news": 1.0, "web": 0.8, "social": 0.4}
+KIND_WEIGHT = {"factcheck": 1.5, "scholar": 1.3, "news": 1.0, "web": 0.8, "social": 0.4, "lowtrust": 0.2}
 
 
 @dataclass
@@ -36,7 +36,8 @@ class Voice:
 
     @property
     def origin(self) -> Evidence:
-        return self.items[0]
+        """Earliest member, skipping scraper sites whose dates cannot be trusted."""
+        return next((e for e in self.items if e.source.kind != "lowtrust"), self.items[0])
 
     @property
     def representative(self) -> Evidence:
@@ -184,6 +185,7 @@ def score_claim(claim: str, sources: list[Source], stances: list[Stance], engine
     # dates are too coarse to win this race unless nothing else is dated.
     dated = [e for e in evidence if e.source.published]
     trace = [e for e in dated if e.stance.label in (SUPPORTS, PARTIAL) and e.stance.relevance >= 0.75]
+    trace = [e for e in trace if e.source.kind != "lowtrust"] or trace
     precise = [e for e in trace if e.source.kind != "scholar"]
     earliest = min(precise or trace, key=_date_key, default=None) or min(dated, key=_date_key, default=None)
     earliest_support = min((e for e in dated if e.stance.label == SUPPORTS), key=_date_key, default=None)

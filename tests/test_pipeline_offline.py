@@ -20,7 +20,7 @@ def run(claim, stance="heuristic"):
 
 
 def test_three_demo_claims_have_fixtures():
-    assert set(DEMOS) == {"anthem", "amravati", "papaya"}
+    assert {"anthem", "amravati", "papaya", "ucc"} <= set(DEMOS)
     for claim in DEMOS.values():
         v, info = run(claim)
         assert info.live_calls == 0 and info.cache_hits == 6

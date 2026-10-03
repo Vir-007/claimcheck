@@ -1,0 +1,383 @@
+{
+ "engine": "google",
+ "params": {
+  "engine": "google",
+  "q": "Gujarat became second state Uttarakhand get Uniform Civil",
+  "tbs": "qdr:m",
+  "gl": "in",
+  "hl": "en"
+ },
+ "fetched_at": "2026-10-03T17:18:25Z",
+ "response": {
+  "search_metadata": {
+   "id": "6ac138e07a3b05ec74606860",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/KTwh4UfWiddKKsMmqHDVGgrtgDCqzobEJD62vXB0b3A/6ac138e07a3b05ec74606860.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/KTwh4UfWiddKKsMmqHDVGgrtgDCqzobEJD62vXB0b3A/6ac138e07a3b05ec74606860.json_with_pixel_position",
+   "created_at": "2026-10-03 17:18:24 UTC",
+   "processed_at": "2026-10-03 17:18:24 UTC",
+   "google_url": "https://www.google.com/search?q=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&oq=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil&hl=en&gl=in&tbs=qdr:m&sourceid=chrome&ie=UTF-8",
+   "total_time_taken": 0.9
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Gujarat became second state Uttarakhand get Uniform Civil",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop",
+   "tbs": "qdr:m"
+  },
+  "search_information": {
+   "query_displayed": "Gujarat became second state Uttarakhand get Uniform Civil",
+   "total_results": 9,
+   "time_taken_displayed": 0.22,
+   "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+   "spelling_fix": "Gujarat becomes second state Uttarakhand get Uniform Civil"
+  },
+  "inline_images": [
+   {
+    "source": "https://www.instagram.com/p/DeBgOxpSbcc/",
+    "thumbnail": "https://serpapi.com/searches/6ac138e07a3b05ec74606860/images/k6YcwKWBkUach2OB-tID-aKI-VVp40IgMRN7Pahu8WU.jpeg",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3999619696948786972",
+    "title": "Gujarat has received presidential assent for its Uniform Civil Code Bill,  becoming the second state after Uttarakhand to get approval. The code  covers areas including marriage, divorce, succession and ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.facebook.com/nd24updates/posts/gujarat-has-become-the-second-indian-state-to-receive-presidential-assent-for-it/1421344123422346/",
+    "thumbnail": "https://serpapi.com/searches/6ac138e07a3b05ec74606860/images/gwkgE7cZOf3noa0F_p-4ws7dkTkp4edQb6yuy1Kb3AA.jpeg",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1421343970089028",
+    "title": "Gujarat has become the second Indian state to receive ...",
+    "source_name": "Facebook"
+   },
+   {
+    "source": "https://www.instagram.com/p/DeBgOxpSbcc/",
+    "thumbnail": "https://serpapi.com/searches/6ac138e07a3b05ec74606860/images/SudR8F9kXaCn2wZPHPSsh3TNlm_Oh602g96zmyOC_So.jpeg",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3999057921960067648",
+    "title": "Gujarat has received presidential assent for its Uniform ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.facebook.com/ZeeNewsEnglish/posts/gujarat-becomes-2nd-state-to-implement-ucc-after-presidents-nod-president-droupa/1568337762000350/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfXHHwNzCrhM0UQyOIIpzVMwM5nc8FYM2QFpLYfeqKhnJK_3kovhQQ3eI&s",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1568337195333740",
+    "title": "Gujarat becomes 2nd state to implement UCC after President's ...",
+    "source_name": "Facebook"
+   },
+   {
+    "source": "https://www.indiatoday.in/india/story/after-president-murmus-nod-gujarat-becomes-2nd-indian-state-to-get-uniform-civil-code-3008022-2026-10-02",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-RAtvyivtG3O3Sn_ZQISmXhNW0zH2xbyBR6Vxnc89sClBCIecdtrPxr4&s",
+    "original": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/gujarat-cm-bhupendra-patel-024417596-16x9_0.png?VersionId=NDVpT0PDIyptnpG79mG7cstYM2oTQXcs&size=690:388",
+    "title": "After President Murmu's nod, Gujarat becomes 2nd Indian ...",
+    "source_name": "India Today"
+   },
+   {
+    "source": "https://www.instagram.com/p/DeBgOxpSbcc/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJglPLS0iZoHFrbpHIk2CgvOrE6fsydOeCA4ypKLlNYRL1MpmQAyvx_1Q&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3999044039222615493",
+    "title": "Gujarat has received presidential assent for its Uniform ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.instagram.com/p/DeAFr4vk_2f/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQZOCdmQgATmziQ-IsvrbaRchFfl737WmObV2f3kfNRPiQIJIZIAXyAh4&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3999221475202825631",
+    "title": "India Today | Gujarat has become the second state in India ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.dynamitenews.com/national/gujarat-ucc-gets-president-assent-set-to-become-second-state-to-implement-common-civil-code/amp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbtjWMWe-cnTxo4T7Y8ZXekD2GHA-5oOUR6rQJDzTHDCa-gjjWGUHhKYY&s",
+    "original": "https://s3.ap-south-1.amazonaws.com/static.dynamitenews.com/wp-content/uploads/2026/10/Gujarat-UCC.jpg",
+    "title": "Gujarat UCC Gets President Assent: Set To Become Second ...",
+    "source_name": "Dynamite News"
+   },
+   {
+    "source": "https://www.instagram.com/p/DeBgOxpSbcc/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9uprAPvpHtdeJ61XMVS10vSefTNsmG-Uwweu9picooRZPFeErYfJPCwk&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3999177995907657870",
+    "title": "Gujarat has received presidential assent for its Uniform ...",
+    "source_name": "Instagram"
+   }
+  ],
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "President Murmu gives assent to Gujarat Uniform Civil ...",
+    "link": "https://ta.obnews.co/Flow/News/id/17702752.html?val=bb07525c077d3c9e417058961b69684b&ch=transsion&g_v=%27nvOpzp%3B+AND+1%3D1+OR+%28%3C%27%22%3EiKO%29%29%2C&test=%27nvOpzp%3B+AND+1%3D1+OR+%28%3C%27%22%3EiKO%29%29%2C%27",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgIB6zswFU7-ljS__x9vgt0GfVoj3SZ6UTRtqY-ee-vO4fsInlVZJzL8KTWgTsgIYsFZKM8gBreE9QpAUON2XmB_-5QQTMLvV3KURdnyXC4QqOQ-nPCxg4L-Uj_z0KiymbuN4A8PC4UnbHnF5b1b71F_AQi9Z72Z5q3D-YE0IFWe1JgWwZRIn9iBkroN2WK3srXOrKf1P02uG5qc6I1abirw-t4eCECSosfORPazT_o8P_lmGlmZyZqgwpwVV0leaXPzdFDZp2DAfeu69elJ_V1zwnUBPWdEjKFRuypKwG3tYKyPz9blkUzBePx6FP0-lN9YmhGvTmSwH5f9t6-Vfg1sj9lg2uCqWIS1F3dxWJXjn6lv&ved=2ahUKEwixtP-wrZ6XAxV-nSsGHdepB8EQFnoECA0QAQ&uoh=1",
+    "displayed_link": "https://ta.obnews.co › Flow › News",
+    "favicon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAAAwCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHp_qvDsuBwGNsBuQN4W3nezY8xq7Jor5lHjle1on_tbo0ghn1ASOkpsVI2KgPFThDIAlPqYAP79L9Ec4PGVcsTFPlTCGLCfJnf-JQExLsbcz3L4I59KQVbWv0Z4oX1yCQLVWxceOxGjVpunmZGmkgP7DH658E_zj2y2wgN3YY3X_yq5Co7Xi6bZBhrj1Zp9ML2hXxbtFnfEV44Ta67mGP7Wg1pG1IWBkr9tkK-0W3qAce2twJCpCTdLPqpvoSL0JCBuNBQ3YNaAy-pQy-2lcjGebtQCScjujfo3SEq2POK2MM8yyY6oHA7BlBa3UtAICPOtUtY-sVydvzVZMJ64gQW9mv59zY93rOUm-YMndIIHx5Reu0awP9CVLq7ZxqB-6Ux7kWnBJw36j2MSiQ-KeypHuvMu2R_RYKiVvS7Uz0dUPWYEOlFICBbliD3RpEFTQkwSzOvCL9yqyrH89DjMhAdRed9xbt9mBZrRnXwC7RlwcyzzmI-__mBowelKnBpY4jVP4na6WZRI3slgAicyLvVPBNlP5igAAAA.webp",
+    "date": "24 hours ago",
+    "snippet": "Gujarat is now the second state after Uttarakhand to enact a UCC. The President gave her assent on September 17, according to the Gujarat Government Gazette ...",
+    "snippet_highlighted_words": [
+     "Gujarat is now the second state after Uttarakhand to enact a UCC"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Gujarat is now the second state after Uttarakhand to enact a UCC. The President gave her assent on September 17, according to the Gujarat Government Gazette ...",
+      "source_info_link": "https://ta.obnews.co/Flow/News/id/17702752.html?val=bb07525c077d3c9e417058961b69684b&ch=transsion&g_v=%27nvOpzp%3B+AND+1%3D1+OR+%28%3C%27%22%3EiKO%29%29%2C&test=%27nvOpzp%3B+AND+1%3D1+OR+%28%3C%27%22%3EiKO%29%29%2C%27",
+      "icon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAAAwCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHp_qvDsuBwGNsBuQN4W3nezY8xq7Jor5lHjle1on_tbo0ghn1ASOkpsVI2KgPFThDIAlPqYAP79L9Ec4PGVcsTFPlTCGLCfJnf-JQExLsbcz3L4I59KQVbWv0Z4oX1yCQLVWxceOxGjVpunmZGmkgP7DH658E_zj2y2wgN3YY3X_yq5Co7Xi6bZBhrj1Zp9ML2hXxbtFnfEV44Ta67mGP7Wg1pG1IWBkr9tkK-0W3qAce2twJCpCTdLPqpvoSL0JCBuNBQ3YNaAy-pQy-2lcjGebtQCScjujfo3SEq2POK2MM8yyY6oHA7BlBa3UtAICPOtUtY-sVydvzVZMJ64gQW9mv59zY93rOUm-YMndIIHx5Reu0awP9CVLq7ZxqB-6Ux7kWnBJw36j2MSiQ-KeypHuvMu2R_RYKiVvS7Uz0dUPWYEOlFICBbliD3RpEFTQkwSzOvCL9yqyrH89DjMhAdRed9xbt9mBZrRnXwC7RlwcyzzmI-__mBowelKnBpY4jVP4na6WZRI3slgAicyLvVPBNlP5igAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cv4CL2dvdG8_dXJsPUNBRVNrZ0lCNnpzd0ZVNy1salNfX3g5dmd0MEdmVm9qM1NaNlVUUnRxWS1lZS12TzRmc0lubFZaSnpMOEtUV2dUc2dJWXNGWktNOGdCcmVFOVFwQVVPTjJYbUJfLTVRUVRNTHZWM0tVUmRueVhDNFFxT1EtblBDeGc0TC1Val96MEtpeW1idU40QThQQzRVbmJIbkY1YjFiNzFGX0FRaTlaNzJaNXEzRC1ZRTBJRldlMUpnV3daUkluOWlCa3JvTjJXSzNzclhPcktmMVAwMnVHNXFjNkkxYWJpcnctdDRlQ0VDU29zZk9SUGF6VF9vOFBfbG1HbG1aeVpxZ3dwd1ZWMGxlYVhQemRGRFpwMkRBZmV1NjllbEpfVjF6d25VQlBXZEVqS0ZSdXlwS3dHM3RZS3lQejlibGtVekJlUHg2RlAwLWxOOVltaEd2VG1Td0g1Zjl0Ni1WZmcxc2o5bGcydUNxV0lTMUYzZHhXSlhqbjZsdhIEGgIIABrsCBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDICAgAEAAYACAAKjYKB2d1amFyYXQVuPTEQBoDZ3VqGghndWphcmF0aRoJaW4gZ3VqcmF0GgxpdjtwO2d1amFyYXQqOwoGYmVjYW1lFQAAAAAaBmJlY29tZRoHYmVjb21lcxoIYmVjb21pbmcaBWJlZ2FuGgRjYW1lGgR3ZW50Kl0KBnNlY29uZBUSJaxAGgdhbm90aGVyGgZkb3VibGUaB2ZvciAybmQaAmlpGgZpbiAybmQaBm9uIDJuZBoJc2Vjb25kYXJ5GgdzZWNvbmRzGgd0aGUgMm5kGgN0d28qJAoFc3RhdGUV0NHGQBoFc3RhZ2UaB3N0YXRlJ3MaBnN0YXRlcypKCgt1dHRhcmFraGFuZBUReldAGg1pbiB1dHRyYWtoYW5kGgt1dHRhcmFuY2hhbBoQaXY7cDt1dHRhcmFraGFuZBoIZGVocmFkdW4qNgoDZ2V0FQCLrT4aBGZpbmQaBGdldHMaB2dldHRpbmcaBGhhdmUaBm9idGFpbhoHcmVjZWl2ZSojCgd1bmlmb3JtFQbMmkAaCXVuaWZvcm1seRoIdW5pZm9ybXMqHgoFY2l2aWwVBsyaQBoIY2l2aWxpYW4aBmNpdmlsczL-Ai9nb3RvP3VybD1DQUVTa2dJQjZ6c3dGVTctbGpTX194OXZndDBHZlZvajNTWjZVVFJ0cVktZWUtdk80ZnNJbmxWWkp6TDhLVFdnVHNnSVlzRlpLTThnQnJlRTlRcEFVT04yWG1CXy01UVFUTUx2VjNLVVJkbnlYQzRRcU9RLW5QQ3hnNEwtVWpfejBLaXltYnVONEE4UEM0VW5iSG5GNWIxYjcxRl9BUWk5WjcyWjVxM0QtWUUwSUZXZTFKZ1d3WlJJbjlpQmtyb04yV0szc3JYT3JLZjFQMDJ1RzVxYzZJMWFiaXJ3LXQ0ZUNFQ1Nvc2ZPUlBhelRfbzhQX2xtR2xtWnlacWd3cHdWVjBsZWFYUHpkRkRacDJEQWZldTY5ZWxKX1YxenduVUJQV2RFaktGUnV5cEt3RzN0WUt5UHo5YmxrVXpCZVB4NkZQMC1sTjlZbWhHdlRtU3dINWY5dDYtVmZnMXNqOWxnMnVDcVdJUzFGM2R4V0pYam42bHY6RVByZXNpZGVudCBNdXJtdSBnaXZlcyBhc3NlbnQgdG8gPGI-R3VqYXJhdCBVbmlmb3JtIENpdmlsPC9iPiBDb2RlIC4uLkKsATxiPkd1amFyYXQgaXMgbm93IHRoZSBzZWNvbmQgc3RhdGUgYWZ0ZXIgVXR0YXJha2hhbmQgdG8gZW5hY3QgYSBVQ0M8L2I-LiBUaGUgUHJlc2lkZW50IGdhdmUgaGVyIGFzc2VudCBvbiBTZXB0ZW1iZXIgMTcsIGFjY29yZGluZyB0byB0aGUgR3VqYXJhdCBHb3Zlcm5tZW50IEdhemV0dGUmbmJzcDsuLi5SBGhhdmUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cv4CL2dvdG8_dXJsPUNBRVNrZ0lCNnpzd0ZVNy1salNfX3g5dmd0MEdmVm9qM1NaNlVUUnRxWS1lZS12TzRmc0lubFZaSnpMOEtUV2dUc2dJWXNGWktNOGdCcmVFOVFwQVVPTjJYbUJfLTVRUVRNTHZWM0tVUmRueVhDNFFxT1EtblBDeGc0TC1Val96MEtpeW1idU40QThQQzRVbmJIbkY1YjFiNzFGX0FRaTlaNzJaNXEzRC1ZRTBJRldlMUpnV3daUkluOWlCa3JvTjJXSzNzclhPcktmMVAwMnVHNXFjNkkxYWJpcnctdDRlQ0VDU29zZk9SUGF6VF9vOFBfbG1HbG1aeVpxZ3dwd1ZWMGxlYVhQemRGRFpwMkRBZmV1NjllbEpfVjF6d25VQlBXZEVqS0ZSdXlwS3dHM3RZS3lQejlibGtVekJlUHg2RlAwLWxOOVltaEd2VG1Td0g1Zjl0Ni1WZmcxc2o5bGcydUNxV0lTMUYzZHhXSlhqbjZsdhIEGgIIABrsCBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDICAgAEAAYACAAKjYKB2d1amFyYXQVuPTEQBoDZ3VqGghndWphcmF0aRoJaW4gZ3VqcmF0GgxpdjtwO2d1amFyYXQqOwoGYmVjYW1lFQAAAAAaBmJlY29tZRoHYmVjb21lcxoIYmVjb21pbmcaBWJlZ2FuGgRjYW1lGgR3ZW50Kl0KBnNlY29uZBUSJaxAGgdhbm90aGVyGgZkb3VibGUaB2ZvciAybmQaAmlpGgZpbiAybmQaBm9uIDJuZBoJc2Vjb25kYXJ5GgdzZWNvbmRzGgd0aGUgMm5kGgN0d28qJAoFc3RhdGUV0NHGQBoFc3RhZ2UaB3N0YXRlJ3MaBnN0YXRlcypKCgt1dHRhcmFraGFuZBUReldAGg1pbiB1dHRyYWtoYW5kGgt1dHRhcmFuY2hhbBoQaXY7cDt1dHRhcmFraGFuZBoIZGVocmFkdW4qNgoDZ2V0FQCLrT4aBGZpbmQaBGdldHMaB2dldHRpbmcaBGhhdmUaBm9idGFpbhoHcmVjZWl2ZSojCgd1bmlmb3JtFQbMmkAaCXVuaWZvcm1seRoIdW5pZm9ybXMqHgoFY2l2aWwVBsyaQBoIY2l2aWxpYW4aBmNpdmlsczL-Ai9nb3RvP3VybD1DQUVTa2dJQjZ6c3dGVTctbGpTX194OXZndDBHZlZvajNTWjZVVFJ0cVktZWUtdk80ZnNJbmxWWkp6TDhLVFdnVHNnSVlzRlpLTThnQnJlRTlRcEFVT04yWG1CXy01UVFUTUx2VjNLVVJkbnlYQzRRcU9RLW5QQ3hnNEwtVWpfejBLaXltYnVONEE4UEM0VW5iSG5GNWIxYjcxRl9BUWk5WjcyWjVxM0QtWUUwSUZXZTFKZ1d3WlJJbjlpQmtyb04yV0szc3JYT3JLZjFQMDJ1RzVxYzZJMWFiaXJ3LXQ0ZUNFQ1Nvc2ZPUlBhelRfbzhQX2xtR2xtWnlacWd3cHdWVjBsZWFYUHpkRkRacDJEQWZldTY5ZWxKX1YxenduVUJQV2RFaktGUnV5cEt3RzN0WUt5UHo5YmxrVXpCZVB4NkZQMC1sTjlZbWhHdlRtU3dINWY5dDYtVmZnMXNqOWxnMnVDcVdJUzFGM2R4V0pYam42bHY6RVByZXNpZGVudCBNdXJtdSBnaXZlcyBhc3NlbnQgdG8gPGI-R3VqYXJhdCBVbmlmb3JtIENpdmlsPC9iPiBDb2RlIC4uLkKsATxiPkd1amFyYXQgaXMgbm93IHRoZSBzZWNvbmQgc3RhdGUgYWZ0ZXIgVXR0YXJha2hhbmQgdG8gZW5hY3QgYSBVQ0M8L2I-LiBUaGUgUHJlc2lkZW50IGdhdmUgaGVyIGFzc2VudCBvbiBTZXB0ZW1iZXIgMTcsIGFjY29yZGluZyB0byB0aGUgR3VqYXJhdCBHb3Zlcm5tZW50IEdhemV0dGUmbmJzcDsuLi5SBGhhdmUiAhABSABYAGgA",
+    "source": "obnews.co",
+    "read_more_link": "https://ta.obnews.co/Flow/News/id/17702752.html?val=bb07525c077d3c9e417058961b69684b&ch=transsion&g_v='nvOpzp;+AND+1%3D1+OR+(%3C'%22%3EiKO)),&test='nvOpzp;+AND+1%3D1+OR+(%3C'%22%3EiKO)),'#:~:text=Gujarat%20is%20now%20the%20second,Extraordinary%20published%20on%20October%201."
+   },
+   {
+    "position": 2,
+    "title": "President Approves Gujarat UCC Bill, Second State After ...",
+    "link": "https://www.fact.net.in/states/gujarat/president-gives-assent-to-gujarat-ucc-bill-becomes-second-state-after-uttarakhand",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsAEB6zswFWL2OTHm5OhF9NJ6KQaUE-rRVXXU47-OEJAdYuc4XrMVH4dJ3Pf8aBzITq5nftHaafB77cOyiks6zsjmKCgAaTlexYDcWSCiZ-WFGD9yjdKFkJ17PV4N8_954fSl0GCmhNVR5SXDjWntOfHv3_-MwF_Q7PZ1zNOEdSgZOc56msI-LeY1p7P-QSxInjLfHJI7mc1gKmOVDqznnJdu3wzw6SY9CUmuEJDwlMjThg&ved=2ahUKEwixtP-wrZ6XAxV-nSsGHdepB8EQFnoECAsQAQ&uoh=1",
+    "displayed_link": "https://www.fact.net.in › States › Gujarat",
+    "favicon": "https://serpapi.com/images/i/UklGRqQAAABXRUJQVlA4IJgAAACwBACdASocABwAPtEutFooIagoGAEAGgliAKwAId-8kTz7skNDH1ehpLOmaC2AAP7iq2LSPLnusA8jXJK7SNd1xZcVyb9Wly5XzJO2JG9MZaRCD_6r_H34GY3ve6AyQcakZDjIvWiSMym9GakFnERqT5__QAPn31e8FYvpot1WjLYHiwGF1m_DTZ2HRceFEmIksV72vAAAAA.webp",
+    "date": "1 day ago",
+    "snippet": "Gujarat becomes the second state after Uttarakhand to enact a Uniform Civil Code, aiming to ensure equality and protect women's rights.",
+    "snippet_highlighted_words": [
+     "Gujarat becomes the second state after Uttarakhand to enact a Uniform Civil Code"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Gujarat becomes the second state after Uttarakhand to enact a Uniform Civil Code, aiming to ensure equality and protect women's rights.",
+      "source_info_link": "https://www.fact.net.in/states/gujarat/president-gives-assent-to-gujarat-ucc-bill-becomes-second-state-after-uttarakhand",
+      "icon": "https://serpapi.com/images/i/UklGRqQAAABXRUJQVlA4IJgAAACwBACdASocABwAPtEutFooIagoGAEAGgliAKwAId-8kTz7skNDH1ehpLOmaC2AAP7iq2LSPLnusA8jXJK7SNd1xZcVyb9Wly5XzJO2JG9MZaRCD_6r_H34GY3ve6AyQcakZDjIvWiSMym9GakFnERqT5__QAPn31e8FYvpot1WjLYHiwGF1m_DTZ2HRceFEmIksV72vAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZXTDJPVEhtNU9oRjlOSjZLUWFVRS1yUlZYWFU0Ny1PRUpBZFl1YzRYck1WSDRkSjNQZjhhQnpJVHE1bmZ0SGFhZkI3N2NPeWlrczZ6c2ptS0NnQWFUbGV4WURjV1NDaVotV0ZHRDl5amRLRmtKMTdQVjROOF85NTRmU2wwR0NtaE5WUjVTWERqV250T2ZIdjNfLU13Rl9RN1BaMXpOT0VkU2daT2M1Nm1zSS1MZVkxcDdQLVFTeEluakxmSEpJN21jMWdLbU9WRHF6bm5KZHUzd3p3NlNZOUNVbXVFSkR3bE1qVGhnEgQaAggAGtQHEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLAHCAAQABgAIAAqNgoHZ3VqYXJhdBVu0dlAGgNndWoaCGd1amFyYXRpGglpbiBndWpyYXQaDGl2O3A7Z3VqYXJhdCo7CgZiZWNhbWUVAAAAABoGYmVjb21lGgdiZWNvbWVzGghiZWNvbWluZxoFYmVnYW4aBGNhbWUaBHdlbnQqXQoGc2Vjb25kFUimp0AaB2Fub3RoZXIaBmRvdWJsZRoHZm9yIDJuZBoCaWkaBmluIDJuZBoGb24gMm5kGglzZWNvbmRhcnkaB3NlY29uZHMaB3RoZSAybmQaA3R3byokCgVzdGF0ZRUCgdpAGgVzdGFnZRoHc3RhdGUncxoGc3RhdGVzKkoKC3V0dGFyYWtoYW5kFagJr0AaDWluIHV0dHJha2hhbmQaC3V0dGFyYW5jaGFsGhBpdjtwO3V0dGFyYWtoYW5kGghkZWhyYWR1bio2CgNnZXQVAAAAABoEZmluZBoEZ2V0cxoHZ2V0dGluZxoEaGF2ZRoGb2J0YWluGgdyZWNlaXZlKiMKB3VuaWZvcm0VHCm6PxoJdW5pZm9ybWx5Ggh1bmlmb3JtcyoeCgVjaXZpbBUcKbo_GghjaXZpbGlhbhoGY2l2aWxzMvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZXTDJPVEhtNU9oRjlOSjZLUWFVRS1yUlZYWFU0Ny1PRUpBZFl1YzRYck1WSDRkSjNQZjhhQnpJVHE1bmZ0SGFhZkI3N2NPeWlrczZ6c2ptS0NnQWFUbGV4WURjV1NDaVotV0ZHRDl5amRLRmtKMTdQVjROOF85NTRmU2wwR0NtaE5WUjVTWERqV250T2ZIdjNfLU13Rl9RN1BaMXpOT0VkU2daT2M1Nm1zSS1MZVkxcDdQLVFTeEluakxmSEpJN21jMWdLbU9WRHF6bm5KZHUzd3p3NlNZOUNVbXVFSkR3bE1qVGhnOklQcmVzaWRlbnQgQXBwcm92ZXMgPGI-R3VqYXJhdDwvYj4gVUNDIEJpbGwsIDxiPlNlY29uZCBTdGF0ZTwvYj4gQWZ0ZXIgLi4uQpIBPGI-R3VqYXJhdCBiZWNvbWVzIHRoZSBzZWNvbmQgc3RhdGUgYWZ0ZXIgVXR0YXJha2hhbmQgdG8gZW5hY3QgYSBVbmlmb3JtIENpdmlsIENvZGU8L2I-LCBhaW1pbmcgdG8gZW5zdXJlIGVxdWFsaXR5IGFuZCBwcm90ZWN0IHdvbWVuJiMzOTtzIHJpZ2h0cy5SBGhhdmUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZXTDJPVEhtNU9oRjlOSjZLUWFVRS1yUlZYWFU0Ny1PRUpBZFl1YzRYck1WSDRkSjNQZjhhQnpJVHE1bmZ0SGFhZkI3N2NPeWlrczZ6c2ptS0NnQWFUbGV4WURjV1NDaVotV0ZHRDl5amRLRmtKMTdQVjROOF85NTRmU2wwR0NtaE5WUjVTWERqV250T2ZIdjNfLU13Rl9RN1BaMXpOT0VkU2daT2M1Nm1zSS1MZVkxcDdQLVFTeEluakxmSEpJN21jMWdLbU9WRHF6bm5KZHUzd3p3NlNZOUNVbXVFSkR3bE1qVGhnEgQaAggAGtQHEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLAHCAAQABgAIAAqNgoHZ3VqYXJhdBVu0dlAGgNndWoaCGd1amFyYXRpGglpbiBndWpyYXQaDGl2O3A7Z3VqYXJhdCo7CgZiZWNhbWUVAAAAABoGYmVjb21lGgdiZWNvbWVzGghiZWNvbWluZxoFYmVnYW4aBGNhbWUaBHdlbnQqXQoGc2Vjb25kFUimp0AaB2Fub3RoZXIaBmRvdWJsZRoHZm9yIDJuZBoCaWkaBmluIDJuZBoGb24gMm5kGglzZWNvbmRhcnkaB3NlY29uZHMaB3RoZSAybmQaA3R3byokCgVzdGF0ZRUCgdpAGgVzdGFnZRoHc3RhdGUncxoGc3RhdGVzKkoKC3V0dGFyYWtoYW5kFagJr0AaDWluIHV0dHJha2hhbmQaC3V0dGFyYW5jaGFsGhBpdjtwO3V0dGFyYWtoYW5kGghkZWhyYWR1bio2CgNnZXQVAAAAABoEZmluZBoEZ2V0cxoHZ2V0dGluZxoEaGF2ZRoGb2J0YWluGgdyZWNlaXZlKiMKB3VuaWZvcm0VHCm6PxoJdW5pZm9ybWx5Ggh1bmlmb3JtcyoeCgVjaXZpbBUcKbo_GghjaXZpbGlhbhoGY2l2aWxzMvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZXTDJPVEhtNU9oRjlOSjZLUWFVRS1yUlZYWFU0Ny1PRUpBZFl1YzRYck1WSDRkSjNQZjhhQnpJVHE1bmZ0SGFhZkI3N2NPeWlrczZ6c2ptS0NnQWFUbGV4WURjV1NDaVotV0ZHRDl5amRLRmtKMTdQVjROOF85NTRmU2wwR0NtaE5WUjVTWERqV250T2ZIdjNfLU13Rl9RN1BaMXpOT0VkU2daT2M1Nm1zSS1MZVkxcDdQLVFTeEluakxmSEpJN21jMWdLbU9WRHF6bm5KZHUzd3p3NlNZOUNVbXVFSkR3bE1qVGhnOklQcmVzaWRlbnQgQXBwcm92ZXMgPGI-R3VqYXJhdDwvYj4gVUNDIEJpbGwsIDxiPlNlY29uZCBTdGF0ZTwvYj4gQWZ0ZXIgLi4uQpIBPGI-R3VqYXJhdCBiZWNvbWVzIHRoZSBzZWNvbmQgc3RhdGUgYWZ0ZXIgVXR0YXJha2hhbmQgdG8gZW5hY3QgYSBVbmlmb3JtIENpdmlsIENvZGU8L2I-LCBhaW1pbmcgdG8gZW5zdXJlIGVxdWFsaXR5IGFuZCBwcm90ZWN0IHdvbWVuJiMzOTtzIHJpZ2h0cy5SBGhhdmUiAhABSABYAGgA",
+    "source": "fact.net.in"
+   },
+   {
+    "position": 3,
+    "title": "गुजरात UCC को राष्ट्रपति मुर्मू की मंजूरी, उत्तराखंड के बाद यह ...",
+    "link": "https://www.satyahindi.com/gujarat/president-murmu-assent-gujarat-ucc-second-state-after-uttarakhand-to-implement-uniform-civil-code-156957.html/amp",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzQEB6zswFY3T4wmg_FuQQGBXAonMtcXUlM4h4fyxpErT5h58Ro7WF23Aw6_Aj7LzcAqEzx7NEf5pnXxfd1rjENAnL0i4Y-rxSfqB4K1PEu6QvoLGPG4CZa4IcblFu5F_yDWoyP57m8T4rTvTsSIDufG7xbMFwL6puCXWvT3cg2sXyHGbRUHOoL2IVeIUYr8gI0y-M95nEBahk3b-1NAmxRoYXCvTdxrHsSX0f_2w6Eqg6zW8W3HqTuUMi-JKPfbHxshvhTRGLJr6iQ3frIkM&ved=2ahUKEwixtP-wrZ6XAxV-nSsGHdepB8EQFnoECBEQAQ&uoh=1",
+    "displayed_link": "https://www.satyahindi.com › amp",
+    "favicon": "https://serpapi.com/images/i/UklGRtABAABXRUJQVlA4IMQBAACQBwCdASogACAAAsBMJbACdMoR9GLk1qMQ_7u-Aby5WT-fBWB2W1ny8Zq_54iXxg5rVtu-bTskFeeLTNe8hL3vd_ScbwAA_vqtjraW7NpfjGz8TQu2NXDiGq8cj93Hk-774kyxLIkFMyTTjodRnDJ-XzL_MKbzumbdD452b46eU9YKT8Oao4G85la_ZaSckT_zlVvRf-9zBzmRWoDX-pTa4O82lfgA1q-ExNU7wch6dsvUs2jK5olE8ycJ04TMzbl_YRyDDO4GCluFTBW558cJz9l2r2cdHQ-c2HjqMdpZyXhV3Vv11tu2Ri31yWp68muQxYcW6Lf2gL3AJ1a34Dolr2F5cIH9-Gx-fS_QnCfkSwmveludtmEIbjUH-w8xGt9jIJ7A3mjhE_skoM5W-VgrgPuPRp61m3TsiVSJ-dDnsPjTKkqqik-9_jh20MXx2EWcx3s08_-Yu_6uPGeFPMpn_Di8AUwO0ScIrUhfeYFZZ0pWRXceCy0syc1tWR6zOwjuFjurBTIJs3qTFBaZNMXNwh1UQh-ejErpbi4c0M_Vx1PfYGBJi1lZFoWx1sYYap-KKZ-GallOZW2GBmNZbLsCFAAAAA.webp",
+    "date": "1 day ago",
+    "snippet": "गुजरात के इस यूसीसी के तहत सभी शादियों का रजिस्ट्रेशन 60 दिनों के भीतर कराना ज़रूरी है।",
+    "about_this_result": {
+     "source": {
+      "description": "गुजरात के इस यूसीसी के तहत सभी शादियों का रजिस्ट्रेशन 60 दिनों के भीतर कराना ज़रूरी है।",
+      "source_info_link": "https://www.satyahindi.com/gujarat/president-murmu-assent-gujarat-ucc-second-state-after-uttarakhand-to-implement-uniform-civil-code-156957.html/amp",
+      "icon": "https://serpapi.com/images/i/UklGRtABAABXRUJQVlA4IMQBAACQBwCdASogACAAAsBMJbACdMoR9GLk1qMQ_7u-Aby5WT-fBWB2W1ny8Zq_54iXxg5rVtu-bTskFeeLTNe8hL3vd_ScbwAA_vqtjraW7NpfjGz8TQu2NXDiGq8cj93Hk-774kyxLIkFMyTTjodRnDJ-XzL_MKbzumbdD452b46eU9YKT8Oao4G85la_ZaSckT_zlVvRf-9zBzmRWoDX-pTa4O82lfgA1q-ExNU7wch6dsvUs2jK5olE8ycJ04TMzbl_YRyDDO4GCluFTBW558cJz9l2r2cdHQ-c2HjqMdpZyXhV3Vv11tu2Ri31yWp68muQxYcW6Lf2gL3AJ1a34Dolr2F5cIH9-Gx-fS_QnCfkSwmveludtmEIbjUH-w8xGt9jIJ7A3mjhE_skoM5W-VgrgPuPRp61m3TsiVSJ-dDnsPjTKkqqik-9_jh20MXx2EWcx3s08_-Yu_6uPGeFPMpn_Di8AUwO0ScIrUhfeYFZZ0pWRXceCy0syc1tWR6zOwjuFjurBTIJs3qTFBaZNMXNwh1UQh-ejErpbi4c0M_Vx1PfYGBJi1lZFoWx1sYYap-KKZ-GallOZW2GBmNZbLsCFAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZZM1Q0d21nX0Z1UVFHQlhBb25NdGNYVWxNNGg0Znl4cEVyVDVoNThSbzdXRjIzQXc2X0FqN0x6Y0FxRXp4N05FZjVwblh4ZmQxcmpFTkFuTDBpNFktcnhTZnFCNEsxUEV1NlF2b0xHUEc0Q1phNEljYmxGdTVGX3lEV295UDU3bThUNHJUdlRzU0lEdWZHN3hiTUZ3TDZwdUNYV3ZUM2NnMnNYeUhHYlJVSE9vTDJJVmVJVVlyOGdJMHktTTk1bkVCYWhrM2ItMU5BbXhSb1lYQ3ZUZHhySHNTWDBmXzJ3NkVxZzZ6VzhXM0hxVHVVTWktSktQZmJIeHNodmhUUkdMSnI2aVEzZnJJa00SBBoCCAAaowkSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA_wgIABAAGAAgACo2CgdndWphcmF0FX5ZLD8aA2d1ahoIZ3VqYXJhdGkaCWluIGd1anJhdBoMaXY7cDtndWphcmF0KjsKBmJlY2FtZRUAAAAAGgZiZWNvbWUaB2JlY29tZXMaCGJlY29taW5nGgViZWdhbhoEY2FtZRoEd2VudCpdCgZzZWNvbmQVAAAAPxoHYW5vdGhlchoGZG91YmxlGgdmb3IgMm5kGgJpaRoGaW4gMm5kGgZvbiAybmQaCXNlY29uZGFyeRoHc2Vjb25kcxoHdGhlIDJuZBoDdHdvKiQKBXN0YXRlFQAAAD8aBXN0YWdlGgdzdGF0ZSdzGgZzdGF0ZXMqSgoLdXR0YXJha2hhbmQVAAAAPxoNaW4gdXR0cmFraGFuZBoLdXR0YXJhbmNoYWwaEGl2O3A7dXR0YXJha2hhbmQaCGRlaHJhZHVuKjYKA2dldBUAAAAAGgRmaW5kGgRnZXRzGgdnZXR0aW5nGgRoYXZlGgZvYnRhaW4aB3JlY2VpdmUqIwoHdW5pZm9ybRVzGJQ_Ggl1bmlmb3JtbHkaCHVuaWZvcm1zKh4KBWNpdmlsFXMYlD8aCGNpdmlsaWFuGgZjaXZpbHMyogIvZ290bz91cmw9Q0FFU3pRRUI2enN3RlkzVDR3bWdfRnVRUUdCWEFvbk10Y1hVbE00aDRmeXhwRXJUNWg1OFJvN1dGMjNBdzZfQWo3THpjQXFFeng3TkVmNXBuWHhmZDFyakVOQW5MMGk0WS1yeFNmcUI0SzFQRXU2UXZvTEdQRzRDWmE0SWNibEZ1NUZfeURXb3lQNTdtOFQ0clR2VHNTSUR1Zkc3eGJNRndMNnB1Q1hXdlQzY2cyc1h5SEdiUlVIT29MMklWZUlVWXI4Z0kweS1NOTVuRUJhaGszYi0xTkFteFJvWVhDdlRkeHJIc1NYMGZfMnc2RXFnNnpXOFczSHFUdVVNaS1KS1BmYkh4c2h2aFRSR0xKcjZpUTNmcklrTTqiAeCkl-ClgeCknOCksOCkvuCkpCBVQ0Mg4KSV4KWLIOCksOCkvuCkt-CljeCkn-CljeCksOCkquCkpOCkvyDgpK7gpYHgpLDgpY3gpK7gpYIg4KSV4KWAIOCkruCkguCknOClguCksOClgCwg4KSJ4KSk4KWN4KSk4KSw4KS-4KSW4KSC4KShIOCkleClhyDgpKzgpL7gpKYg4KSv4KS5IC4uLkLhAeCkl-ClgeCknOCksOCkvuCkpCDgpJXgpYcg4KSH4KS4IOCkr-ClguCkuOClgOCkuOClgCDgpJXgpYcg4KSk4KS54KSkIOCkuOCkreClgCDgpLbgpL7gpKbgpL_gpK_gpYvgpIIg4KSV4KS-IOCksOCknOCkv-CkuOCljeCkn-CljeCksOClh-CktuCkqCA2MCDgpKbgpL_gpKjgpYvgpIIg4KSV4KWHIOCkreClgOCkpOCksCDgpJXgpLDgpL7gpKjgpL4g4KSc4KS84KSw4KWC4KSw4KWAIOCkueCliOClpFIEaGF2ZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZZM1Q0d21nX0Z1UVFHQlhBb25NdGNYVWxNNGg0Znl4cEVyVDVoNThSbzdXRjIzQXc2X0FqN0x6Y0FxRXp4N05FZjVwblh4ZmQxcmpFTkFuTDBpNFktcnhTZnFCNEsxUEV1NlF2b0xHUEc0Q1phNEljYmxGdTVGX3lEV295UDU3bThUNHJUdlRzU0lEdWZHN3hiTUZ3TDZwdUNYV3ZUM2NnMnNYeUhHYlJVSE9vTDJJVmVJVVlyOGdJMHktTTk1bkVCYWhrM2ItMU5BbXhSb1lYQ3ZUZHhySHNTWDBmXzJ3NkVxZzZ6VzhXM0hxVHVVTWktSktQZmJIeHNodmhUUkdMSnI2aVEzZnJJa00SBBoCCAAaowkSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA_wgIABAAGAAgACo2CgdndWphcmF0FX5ZLD8aA2d1ahoIZ3VqYXJhdGkaCWluIGd1anJhdBoMaXY7cDtndWphcmF0KjsKBmJlY2FtZRUAAAAAGgZiZWNvbWUaB2JlY29tZXMaCGJlY29taW5nGgViZWdhbhoEY2FtZRoEd2VudCpdCgZzZWNvbmQVAAAAPxoHYW5vdGhlchoGZG91YmxlGgdmb3IgMm5kGgJpaRoGaW4gMm5kGgZvbiAybmQaCXNlY29uZGFyeRoHc2Vjb25kcxoHdGhlIDJuZBoDdHdvKiQKBXN0YXRlFQAAAD8aBXN0YWdlGgdzdGF0ZSdzGgZzdGF0ZXMqSgoLdXR0YXJha2hhbmQVAAAAPxoNaW4gdXR0cmFraGFuZBoLdXR0YXJhbmNoYWwaEGl2O3A7dXR0YXJha2hhbmQaCGRlaHJhZHVuKjYKA2dldBUAAAAAGgRmaW5kGgRnZXRzGgdnZXR0aW5nGgRoYXZlGgZvYnRhaW4aB3JlY2VpdmUqIwoHdW5pZm9ybRVzGJQ_Ggl1bmlmb3JtbHkaCHVuaWZvcm1zKh4KBWNpdmlsFXMYlD8aCGNpdmlsaWFuGgZjaXZpbHMyogIvZ290bz91cmw9Q0FFU3pRRUI2enN3RlkzVDR3bWdfRnVRUUdCWEFvbk10Y1hVbE00aDRmeXhwRXJUNWg1OFJvN1dGMjNBdzZfQWo3THpjQXFFeng3TkVmNXBuWHhmZDFyakVOQW5MMGk0WS1yeFNmcUI0SzFQRXU2UXZvTEdQRzRDWmE0SWNibEZ1NUZfeURXb3lQNTdtOFQ0clR2VHNTSUR1Zkc3eGJNRndMNnB1Q1hXdlQzY2cyc1h5SEdiUlVIT29MMklWZUlVWXI4Z0kweS1NOTVuRUJhaGszYi0xTkFteFJvWVhDdlRkeHJIc1NYMGZfMnc2RXFnNnpXOFczSHFUdVVNaS1KS1BmYkh4c2h2aFRSR0xKcjZpUTNmcklrTTqiAeCkl-ClgeCknOCksOCkvuCkpCBVQ0Mg4KSV4KWLIOCksOCkvuCkt-CljeCkn-CljeCksOCkquCkpOCkvyDgpK7gpYHgpLDgpY3gpK7gpYIg4KSV4KWAIOCkruCkguCknOClguCksOClgCwg4KSJ4KSk4KWN4KSk4KSw4KS-4KSW4KSC4KShIOCkleClhyDgpKzgpL7gpKYg4KSv4KS5IC4uLkLhAeCkl-ClgeCknOCksOCkvuCkpCDgpJXgpYcg4KSH4KS4IOCkr-ClguCkuOClgOCkuOClgCDgpJXgpYcg4KSk4KS54KSkIOCkuOCkreClgCDgpLbgpL7gpKbgpL_gpK_gpYvgpIIg4KSV4KS-IOCksOCknOCkv-CkuOCljeCkn-CljeCksOClh-CktuCkqCA2MCDgpKbgpL_gpKjgpYvgpIIg4KSV4KWHIOCkreClgOCkpOCksCDgpJXgpLDgpL7gpKjgpL4g4KSc4KS84KSw4KWC4KSw4KWAIOCkueCliOClpFIEaGF2ZSICEAFIAFgAaAA",
+    "source": "Satya Hindi",
+    "read_more_link": "https://www.satyahindi.com/gujarat/president-murmu-assent-gujarat-ucc-second-state-after-uttarakhand-to-implement-uniform-civil-code-156957.html/amp#:~:text=%E0%A4%97%E0%A5%81%E0%A4%9C%E0%A4%B0%E0%A4%BE%E0%A4%A4%20%E0%A4%95%E0%A5%87%20%E0%A4%87%E0%A4%B8%20%E0%A4%AF%E0%A5%82%E0%A4%B8%E0%A5%80%E0%A4%B8%E0%A5%80%20%E0%A4%95%E0%A5%87,%E0%A4%95%E0%A5%87%20%E0%A4%AD%E0%A5%80%E0%A4%A4%E0%A4%B0%20%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BE%20%E0%A4%9C%E0%A4%BC%E0%A4%B0%E0%A5%82%E0%A4%B0%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4"
+   },
+   {
+    "position": 4,
+    "title": "President Murmu gives assent to Gujarat Uniform Civil ...",
+    "link": "https://ta.obnews.co/Flow/News/id/17702752.html?val=bb07525c077d3c9e417058961b69684b&ch=default&g_v=sPl24M7UJ4ndUFBMoVtL5Rh65ppNOoph40JxrFo5NLs7nZ1c4EwdSPhtyEED0z1p",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES3QEB6zswFci7IoNWfVScW8mbekbC5yS9aoRpHZl6MOWYatnbNyXkNds3JHWHvXBddiq8gMReqBRATvWBc0q2X5-SG5FWurHEvoTFHBSxKn3gPXEHQtlBQDUP8lVj98X2RJrW5-7ZqYkI_M9vX60z2FZIyxmmcslAkpWByUdrZKH8ih1VayBm62DDK3Wvi4vuKqTal1tOJlE6T9Ji0T2IZwzGLr4hP94oJEwRixX42bgjOirQD3rkh-a6SQFyDbdEdBqWFQyAV4Pa5rVyOFIbMZPjxwFcKgsi6C5jeOEB5w&ved=2ahUKEwixtP-wrZ6XAxV-nSsGHdepB8EQFnoECBMQAQ&uoh=1",
+    "displayed_link": "https://ta.obnews.co › Flow › News",
+    "favicon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAAAwCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHp_qvDsuBwGNsBuQN4W3nezY8xq7Jor5lHjle1on_tbo0ghn1ASOkpsVI2KgPFThDIAlPqYAP79L9Ec4PGVcsTFPlTCGLCfJnf-JQExLsbcz3L4I59KQVbWv0Z4oX1yCQLVWxceOxGjVpunmZGmkgP7DH658E_zj2y2wgN3YY3X_yq5Co7Xi6bZBhrj1Zp9ML2hXxbtFnfEV44Ta67mGP7Wg1pG1IWBkr9tkK-0W3qAce2twJCpCTdLPqpvoSL0JCBuNBQ3YNaAy-pQy-2lcjGebtQCScjujfo3SEq2POK2MM8yyY6oHA7BlBa3UtAICPOtUtY-sVydvzVZMJ64gQW9mv59zY93rOUm-YMndIIHx5Reu0awP9CVLq7ZxqB-6Ux7kWnBJw36j2MSiQ-KeypHuvMu2R_RYKiVvS7Uz0dUPWYEOlFICBbliD3RpEFTQkwSzOvCL9yqyrH89DjMhAdRed9xbt9mBZrRnXwC7RlwcyzzmI-__mBowelKnBpY4jVP4na6WZRI3slgAicyLvVPBNlP5igAAAA.webp",
+    "date": "1 day ago",
+    "snippet": "Gujarat is now the second state after Uttarakhand to enact a UCC. The President gave her assent on September 17, within 60 days.",
+    "snippet_highlighted_words": [
+     "Gujarat is now the second state after Uttarakhand to enact a UCC"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Gujarat is now the second state after Uttarakhand to enact a UCC. The President gave her assent on September 17, within 60 days.",
+      "source_info_link": "https://ta.obnews.co/Flow/News/id/17702752.html?val=bb07525c077d3c9e417058961b69684b&ch=default&g_v=sPl24M7UJ4ndUFBMoVtL5Rh65ppNOoph40JxrFo5NLs7nZ1c4EwdSPhtyEED0z1p",
+      "icon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAAAwCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHp_qvDsuBwGNsBuQN4W3nezY8xq7Jor5lHjle1on_tbo0ghn1ASOkpsVI2KgPFThDIAlPqYAP79L9Ec4PGVcsTFPlTCGLCfJnf-JQExLsbcz3L4I59KQVbWv0Z4oX1yCQLVWxceOxGjVpunmZGmkgP7DH658E_zj2y2wgN3YY3X_yq5Co7Xi6bZBhrj1Zp9ML2hXxbtFnfEV44Ta67mGP7Wg1pG1IWBkr9tkK-0W3qAce2twJCpCTdLPqpvoSL0JCBuNBQ3YNaAy-pQy-2lcjGebtQCScjujfo3SEq2POK2MM8yyY6oHA7BlBa3UtAICPOtUtY-sVydvzVZMJ64gQW9mv59zY93rOUm-YMndIIHx5Reu0awP9CVLq7ZxqB-6Ux7kWnBJw36j2MSiQ-KeypHuvMu2R_RYKiVvS7Uz0dUPWYEOlFICBbliD3RpEFTQkwSzOvCL9yqyrH89DjMhAdRed9xbt9mBZrRnXwC7RlwcyzzmI-__mBowelKnBpY4jVP4na6WZRI3slgAicyLvVPBNlP5igAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgCL2dvdG8_dXJsPUNBRVMzUUVCNnpzd0ZjaTdJb05XZlZTY1c4bWJla2JDNXlTOWFvUnBIWmw2TU9XWWF0bmJOeVhrTmRzM0pIV0h2WEJkZGlxOGdNUmVxQlJBVHZXQmMwcTJYNS1TRzVGV3VySEV2b1RGSEJTeEtuM2dQWEVIUXRsQlFEVVA4bFZqOThYMlJKclc1LTdacVlrSV9NOXZYNjB6MkZaSXl4bW1jc2xBa3BXQnlVZHJaS0g4aWgxVmF5Qm02MkRESzNXdmk0dnVLcVRhbDF0T0psRTZUOUppMFQySVp3ekdMcjRoUDk0b0pFd1JpeFg0MmJnak9pclFEM3JraC1hNlNRRnlEYmRFZEJxV0ZReUFWNFBhNXJWeU9GSWJNWlBqeHdGY0tnc2k2QzVqZU9FQjV3EgQaAggAGoEIEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQN0HCAAQABgAIAAqNgoHZ3VqYXJhdBUI2sVAGgNndWoaCGd1amFyYXRpGglpbiBndWpyYXQaDGl2O3A7Z3VqYXJhdCo7CgZiZWNhbWUVAAAAABoGYmVjb21lGgdiZWNvbWVzGghiZWNvbWluZxoFYmVnYW4aBGNhbWUaBHdlbnQqXQoGc2Vjb25kFdY4r0AaB2Fub3RoZXIaBmRvdWJsZRoHZm9yIDJuZBoCaWkaBmluIDJuZBoGb24gMm5kGglzZWNvbmRhcnkaB3NlY29uZHMaB3RoZSAybmQaA3R3byokCgVzdGF0ZRUos8dAGgVzdGFnZRoHc3RhdGUncxoGc3RhdGVzKkoKC3V0dGFyYWtoYW5kFdXqXUAaDWluIHV0dHJha2hhbmQaC3V0dGFyYW5jaGFsGhBpdjtwO3V0dGFyYWtoYW5kGghkZWhyYWR1bio2CgNnZXQVAIstPhoEZmluZBoEZ2V0cxoHZ2V0dGluZxoEaGF2ZRoGb2J0YWluGgdyZWNlaXZlKiMKB3VuaWZvcm0VjlWeQBoJdW5pZm9ybWx5Ggh1bmlmb3JtcyoeCgVjaXZpbBWOVZ5AGghjaXZpbGlhbhoGY2l2aWxzMrgCL2dvdG8_dXJsPUNBRVMzUUVCNnpzd0ZjaTdJb05XZlZTY1c4bWJla2JDNXlTOWFvUnBIWmw2TU9XWWF0bmJOeVhrTmRzM0pIV0h2WEJkZGlxOGdNUmVxQlJBVHZXQmMwcTJYNS1TRzVGV3VySEV2b1RGSEJTeEtuM2dQWEVIUXRsQlFEVVA4bFZqOThYMlJKclc1LTdacVlrSV9NOXZYNjB6MkZaSXl4bW1jc2xBa3BXQnlVZHJaS0g4aWgxVmF5Qm02MkRESzNXdmk0dnVLcVRhbDF0T0psRTZUOUppMFQySVp3ekdMcjRoUDk0b0pFd1JpeFg0MmJnak9pclFEM3JraC1hNlNRRnlEYmRFZEJxV0ZReUFWNFBhNXJWeU9GSWJNWlBqeHdGY0tnc2k2QzVqZU9FQjV3OkVQcmVzaWRlbnQgTXVybXUgZ2l2ZXMgYXNzZW50IHRvIDxiPkd1amFyYXQgVW5pZm9ybSBDaXZpbDwvYj4gQ29kZSAuLi5ChwE8Yj5HdWphcmF0IGlzIG5vdyB0aGUgc2Vjb25kIHN0YXRlIGFmdGVyIFV0dGFyYWtoYW5kIHRvIGVuYWN0IGEgVUNDPC9iPi4gVGhlIFByZXNpZGVudCBnYXZlIGhlciBhc3NlbnQgb24gU2VwdGVtYmVyIDE3LCB3aXRoaW4gNjAgZGF5cy5SBGhhdmUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgCL2dvdG8_dXJsPUNBRVMzUUVCNnpzd0ZjaTdJb05XZlZTY1c4bWJla2JDNXlTOWFvUnBIWmw2TU9XWWF0bmJOeVhrTmRzM0pIV0h2WEJkZGlxOGdNUmVxQlJBVHZXQmMwcTJYNS1TRzVGV3VySEV2b1RGSEJTeEtuM2dQWEVIUXRsQlFEVVA4bFZqOThYMlJKclc1LTdacVlrSV9NOXZYNjB6MkZaSXl4bW1jc2xBa3BXQnlVZHJaS0g4aWgxVmF5Qm02MkRESzNXdmk0dnVLcVRhbDF0T0psRTZUOUppMFQySVp3ekdMcjRoUDk0b0pFd1JpeFg0MmJnak9pclFEM3JraC1hNlNRRnlEYmRFZEJxV0ZReUFWNFBhNXJWeU9GSWJNWlBqeHdGY0tnc2k2QzVqZU9FQjV3EgQaAggAGoEIEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQN0HCAAQABgAIAAqNgoHZ3VqYXJhdBUI2sVAGgNndWoaCGd1amFyYXRpGglpbiBndWpyYXQaDGl2O3A7Z3VqYXJhdCo7CgZiZWNhbWUVAAAAABoGYmVjb21lGgdiZWNvbWVzGghiZWNvbWluZxoFYmVnYW4aBGNhbWUaBHdlbnQqXQoGc2Vjb25kFdY4r0AaB2Fub3RoZXIaBmRvdWJsZRoHZm9yIDJuZBoCaWkaBmluIDJuZBoGb24gMm5kGglzZWNvbmRhcnkaB3NlY29uZHMaB3RoZSAybmQaA3R3byokCgVzdGF0ZRUos8dAGgVzdGFnZRoHc3RhdGUncxoGc3RhdGVzKkoKC3V0dGFyYWtoYW5kFdXqXUAaDWluIHV0dHJha2hhbmQaC3V0dGFyYW5jaGFsGhBpdjtwO3V0dGFyYWtoYW5kGghkZWhyYWR1bio2CgNnZXQVAIstPhoEZmluZBoEZ2V0cxoHZ2V0dGluZxoEaGF2ZRoGb2J0YWluGgdyZWNlaXZlKiMKB3VuaWZvcm0VjlWeQBoJdW5pZm9ybWx5Ggh1bmlmb3JtcyoeCgVjaXZpbBWOVZ5AGghjaXZpbGlhbhoGY2l2aWxzMrgCL2dvdG8_dXJsPUNBRVMzUUVCNnpzd0ZjaTdJb05XZlZTY1c4bWJla2JDNXlTOWFvUnBIWmw2TU9XWWF0bmJOeVhrTmRzM0pIV0h2WEJkZGlxOGdNUmVxQlJBVHZXQmMwcTJYNS1TRzVGV3VySEV2b1RGSEJTeEtuM2dQWEVIUXRsQlFEVVA4bFZqOThYMlJKclc1LTdacVlrSV9NOXZYNjB6MkZaSXl4bW1jc2xBa3BXQnlVZHJaS0g4aWgxVmF5Qm02MkRESzNXdmk0dnVLcVRhbDF0T0psRTZUOUppMFQySVp3ekdMcjRoUDk0b0pFd1JpeFg0MmJnak9pclFEM3JraC1hNlNRRnlEYmRFZEJxV0ZReUFWNFBhNXJWeU9GSWJNWlBqeHdGY0tnc2k2QzVqZU9FQjV3OkVQcmVzaWRlbnQgTXVybXUgZ2l2ZXMgYXNzZW50IHRvIDxiPkd1amFyYXQgVW5pZm9ybSBDaXZpbDwvYj4gQ29kZSAuLi5ChwE8Yj5HdWphcmF0IGlzIG5vdyB0aGUgc2Vjb25kIHN0YXRlIGFmdGVyIFV0dGFyYWtoYW5kIHRvIGVuYWN0IGEgVUNDPC9iPi4gVGhlIFByZXNpZGVudCBnYXZlIGhlciBhc3NlbnQgb24gU2VwdGVtYmVyIDE3LCB3aXRoaW4gNjAgZGF5cy5SBGhhdmUiAhABSABYAGgA",
+    "source": "obnews.co"
+   },
+   {
+    "position": 5,
+    "title": "Gujarat Becomes 2nd State With UCC After President ...",
+    "link": "https://ta.obnews.co/Index/newsDetail/id/17698553.html?val=7013da1f8b4ee02f690539d85cd5b9bf",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFfNP2j0JK6EzpnY-RA69ow-Vlln3DgoiOq872moBlSmd4BimlYeO-K7cj1pWBV4Updz7bsEKMMLShT3GwKcGMaH8eQOIe9i76RC5KXgCdYUUCDDBUzkDsgpXPwyOTihtVuRnqcUNarsJW7jiG3g521iycrHiOoth8cE0FhOZz6vlAk4Az2VLCYEFTr4khFQ&ved=2ahUKEwixtP-wrZ6XAxV-nSsGHdepB8EQFnoECAwQAQ&uoh=1",
+    "displayed_link": "https://ta.obnews.co › Index › newsDetail",
+    "favicon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAAAwCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHp_qvDsuBwGNsBuQN4W3nezY8xq7Jor5lHjle1on_tbo0ghn1ASOkpsVI2KgPFThDIAlPqYAP79L9Ec4PGVcsTFPlTCGLCfJnf-JQExLsbcz3L4I59KQVbWv0Z4oX1yCQLVWxceOxGjVpunmZGmkgP7DH658E_zj2y2wgN3YY3X_yq5Co7Xi6bZBhrj1Zp9ML2hXxbtFnfEV44Ta67mGP7Wg1pG1IWBkr9tkK-0W3qAce2twJCpCTdLPqpvoSL0JCBuNBQ3YNaAy-pQy-2lcjGebtQCScjujfo3SEq2POK2MM8yyY6oHA7BlBa3UtAICPOtUtY-sVydvzVZMJ64gQW9mv59zY93rOUm-YMndIIHx5Reu0awP9CVLq7ZxqB-6Ux7kWnBJw36j2MSiQ-KeypHuvMu2R_RYKiVvS7Uz0dUPWYEOlFICBbliD3RpEFTQkwSzOvCL9yqyrH89DjMhAdRed9xbt9mBZrRnXwC7RlwcyzzmI-__mBowelKnBpY4jVP4na6WZRI3slgAicyLvVPBNlP5igAAAA.webp",
+    "date": "1 day ago",
+    "snippet": "The Gujarat Uniform Civil Code Bill, 2026, was passed by the Assembly on March 24, making Gujarat the second state after Uttarakhand to clear a UCC law.",
+    "snippet_highlighted_words": [
+     "Gujarat Uniform Civil Code Bill, 2026"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "The Gujarat Uniform Civil Code Bill, 2026, was passed by the Assembly on March 24, making Gujarat the second state after Uttarakhand to clear a UCC law.",
+      "source_info_link": "https://ta.obnews.co/Index/newsDetail/id/17698553.html?val=7013da1f8b4ee02f690539d85cd5b9bf",
+      "icon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAAAwCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHp_qvDsuBwGNsBuQN4W3nezY8xq7Jor5lHjle1on_tbo0ghn1ASOkpsVI2KgPFThDIAlPqYAP79L9Ec4PGVcsTFPlTCGLCfJnf-JQExLsbcz3L4I59KQVbWv0Z4oX1yCQLVWxceOxGjVpunmZGmkgP7DH658E_zj2y2wgN3YY3X_yq5Co7Xi6bZBhrj1Zp9ML2hXxbtFnfEV44Ta67mGP7Wg1pG1IWBkr9tkK-0W3qAce2twJCpCTdLPqpvoSL0JCBuNBQ3YNaAy-pQy-2lcjGebtQCScjujfo3SEq2POK2MM8yyY6oHA7BlBa3UtAICPOtUtY-sVydvzVZMJ64gQW9mv59zY93rOUm-YMndIIHx5Reu0awP9CVLq7ZxqB-6Ux7kWnBJw36j2MSiQ-KeypHuvMu2R_RYKiVvS7Uz0dUPWYEOlFICBbliD3RpEFTQkwSzOvCL9yqyrH89DjMhAdRed9xbt9mBZrRnXwC7RlwcyzzmI-__mBowelKnBpY4jVP4na6WZRI3slgAicyLvVPBNlP5igAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZmTlAyajBKSzZFenBuWS1SQTY5b3ctVmxsbjNEZ29pT3E4NzJtb0JsU21kNEJpbWxZZU8tSzdjajFwV0JWNFVwZHo3YnNFS01NTFNoVDNHd0tjR01hSDhlUU9JZTlpNzZSQzVLWGdDZFlVVUNEREJVemtEc2dwWFB3eU9UaWh0VnVSbnFjVU5hcnNKVzdqaUczZzUyMWl5Y3JIaU9vdGg4Y0UwRmhPWno2dmxBazRBejJWTENZRUZUcjRraEZREgQaAggAGsEHEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQJ0HCAAQABgAIAAqNgoHZ3VqYXJhdBWQBLdAGgNndWoaCGd1amFyYXRpGglpbiBndWpyYXQaDGl2O3A7Z3VqYXJhdCo7CgZiZWNhbWUVAAAAABoGYmVjb21lGgdiZWNvbWVzGghiZWNvbWluZxoFYmVnYW4aBGNhbWUaBHdlbnQqXQoGc2Vjb25kFaTgyT8aB2Fub3RoZXIaBmRvdWJsZRoHZm9yIDJuZBoCaWkaBmluIDJuZBoGb24gMm5kGglzZWNvbmRhcnkaB3NlY29uZHMaB3RoZSAybmQaA3R3byokCgVzdGF0ZRUwibxAGgVzdGFnZRoHc3RhdGUncxoGc3RhdGVzKkoKC3V0dGFyYWtoYW5kFaw0qD8aDWluIHV0dHJha2hhbmQaC3V0dGFyYW5jaGFsGhBpdjtwO3V0dGFyYWtoYW5kGghkZWhyYWR1bio2CgNnZXQVAAAAABoEZmluZBoEZ2V0cxoHZ2V0dGluZxoEaGF2ZRoGb2J0YWluGgdyZWNlaXZlKiMKB3VuaWZvcm0VRLwtQBoJdW5pZm9ybWx5Ggh1bmlmb3JtcyoeCgVjaXZpbBX4ohFAGghjaXZpbGlhbhoGY2l2aWxzMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZmTlAyajBKSzZFenBuWS1SQTY5b3ctVmxsbjNEZ29pT3E4NzJtb0JsU21kNEJpbWxZZU8tSzdjajFwV0JWNFVwZHo3YnNFS01NTFNoVDNHd0tjR01hSDhlUU9JZTlpNzZSQzVLWGdDZFlVVUNEREJVemtEc2dwWFB3eU9UaWh0VnVSbnFjVU5hcnNKVzdqaUczZzUyMWl5Y3JIaU9vdGg4Y0UwRmhPWno2dmxBazRBejJWTENZRUZUcjRraEZROlA8Yj5HdWphcmF0IEJlY29tZXM8L2I-IDJuZCA8Yj5TdGF0ZTwvYj4gV2l0aCBVQ0MgQWZ0ZXIgUHJlc2lkZW50IE11cm11JiMzOTtzIC4uLkKfAVRoZSA8Yj5HdWphcmF0IFVuaWZvcm0gQ2l2aWwgQ29kZSBCaWxsLCAyMDI2PC9iPiwgd2FzIHBhc3NlZCBieSB0aGUgQXNzZW1ibHkgb24gTWFyY2ggMjQsIG1ha2luZyBHdWphcmF0IHRoZSBzZWNvbmQgc3RhdGUgYWZ0ZXIgVXR0YXJha2hhbmQgdG8gY2xlYXIgYSBVQ0MgbGF3LlIEaGF2ZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZmTlAyajBKSzZFenBuWS1SQTY5b3ctVmxsbjNEZ29pT3E4NzJtb0JsU21kNEJpbWxZZU8tSzdjajFwV0JWNFVwZHo3YnNFS01NTFNoVDNHd0tjR01hSDhlUU9JZTlpNzZSQzVLWGdDZFlVVUNEREJVemtEc2dwWFB3eU9UaWh0VnVSbnFjVU5hcnNKVzdqaUczZzUyMWl5Y3JIaU9vdGg4Y0UwRmhPWno2dmxBazRBejJWTENZRUZUcjRraEZREgQaAggAGsEHEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQJ0HCAAQABgAIAAqNgoHZ3VqYXJhdBWQBLdAGgNndWoaCGd1amFyYXRpGglpbiBndWpyYXQaDGl2O3A7Z3VqYXJhdCo7CgZiZWNhbWUVAAAAABoGYmVjb21lGgdiZWNvbWVzGghiZWNvbWluZxoFYmVnYW4aBGNhbWUaBHdlbnQqXQoGc2Vjb25kFaTgyT8aB2Fub3RoZXIaBmRvdWJsZRoHZm9yIDJuZBoCaWkaBmluIDJuZBoGb24gMm5kGglzZWNvbmRhcnkaB3NlY29uZHMaB3RoZSAybmQaA3R3byokCgVzdGF0ZRUwibxAGgVzdGFnZRoHc3RhdGUncxoGc3RhdGVzKkoKC3V0dGFyYWtoYW5kFaw0qD8aDWluIHV0dHJha2hhbmQaC3V0dGFyYW5jaGFsGhBpdjtwO3V0dGFyYWtoYW5kGghkZWhyYWR1bio2CgNnZXQVAAAAABoEZmluZBoEZ2V0cxoHZ2V0dGluZxoEaGF2ZRoGb2J0YWluGgdyZWNlaXZlKiMKB3VuaWZvcm0VRLwtQBoJdW5pZm9ybWx5Ggh1bmlmb3JtcyoeCgVjaXZpbBX4ohFAGghjaXZpbGlhbhoGY2l2aWxzMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZmTlAyajBKSzZFenBuWS1SQTY5b3ctVmxsbjNEZ29pT3E4NzJtb0JsU21kNEJpbWxZZU8tSzdjajFwV0JWNFVwZHo3YnNFS01NTFNoVDNHd0tjR01hSDhlUU9JZTlpNzZSQzVLWGdDZFlVVUNEREJVemtEc2dwWFB3eU9UaWh0VnVSbnFjVU5hcnNKVzdqaUczZzUyMWl5Y3JIaU9vdGg4Y0UwRmhPWno2dmxBazRBejJWTENZRUZUcjRraEZROlA8Yj5HdWphcmF0IEJlY29tZXM8L2I-IDJuZCA8Yj5TdGF0ZTwvYj4gV2l0aCBVQ0MgQWZ0ZXIgUHJlc2lkZW50IE11cm11JiMzOTtzIC4uLkKfAVRoZSA8Yj5HdWphcmF0IFVuaWZvcm0gQ2l2aWwgQ29kZSBCaWxsLCAyMDI2PC9iPiwgd2FzIHBhc3NlZCBieSB0aGUgQXNzZW1ibHkgb24gTWFyY2ggMjQsIG1ha2luZyBHdWphcmF0IHRoZSBzZWNvbmQgc3RhdGUgYWZ0ZXIgVXR0YXJha2hhbmQgdG8gY2xlYXIgYSBVQ0MgbGF3LlIEaGF2ZSICEAFIAFgAaAA",
+    "source": "obnews.co"
+   },
+   {
+    "position": 6,
+    "title": "⚖️🇮🇳 Gujarat passed its Uniform Civil Code Bill in March ...",
+    "link": "https://www.threads.com/@uncutupdates/post/Dd_ZDwylOP4/gujarat-passed-its-uniform-civil-code-bill-in-march-becoming-the-second-state/",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvgEB6zswFSAMC4i0Z6Xn2IVReEqGvd_PtggNyDMwc8jo-pyTIiP0FGVG9njolSko-72U33rsHS1f9bL0SWK3rxeR_U3puuBncYmpmmAPNy3ntTR_dPu8ELsqTXHMRq1GzyPQnGPkT5Ia0jnAmgAJPk0xT7pzZyB-WjJrQmoytuT33J2JS5R3zvAoT_VWWS3nZ2I4WKEQDjE550cjMfB0ch4SEf2viOxero8DjMl6CYHoOs3m4xL5MwdF7DExnF7U&ved=2ahUKEwixtP-wrZ6XAxV-nSsGHdepB8EQFnoECBIQAQ&uoh=1",
+    "displayed_link": "10+ likes",
+    "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglpABPOGbNhX2ffUA6QAeMNIAp5Rw7KJAv6gU4xijOAGFYYcbgKJvXnCAD-yrP351qyyj1gtMVU2yY_rk1LIs-FBw2t9NJyVqIJqdKBRR8VxF8feLAyeC_YVV8LfVi5vFin7IgYLW6Ms8Bsz-hAGAPV4eZwa2C71V1GZKzbcKH4_7uhLPdpX1nnAW9KSIhkxTZbJ1llgV_suUS1mmCJuSfKok5XvvG88tcbfcr5Utq5RezNTXnm9q6jePGigbzZb9rO9XSLsd7p-09XUH5opsN1xar_zW58On4EUY3_Dn7GgRmec7hZ3HEta51xSxUI1r8HBeS7aWGwEJM3n7QLmaQFAwW6KhifR1kyfx_gv1wu3RWYnK_8ZzYewxK2_7j77wOXl7d6H49hNy2C16VViF_kTbn6QZoC5dLmerxx0SlkPiRbyDr9f06QD7IAAA.webp",
+    "snippet": "Gujarat passed its Uniform Civil Code Bill in March 2026, becoming the second state after Uttarakhand to pass a UCC law. The President's website currently ...",
+    "snippet_highlighted_words": [
+     "Gujarat passed its Uniform Civil Code Bill in March 2026"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Gujarat passed its Uniform Civil Code Bill in March 2026, becoming the second state after Uttarakhand to pass a UCC law. The President's website currently ...",
+      "source_info_link": "https://www.threads.com/@uncutupdates/post/Dd_ZDwylOP4/gujarat-passed-its-uniform-civil-code-bill-in-march-becoming-the-second-state/",
+      "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglpABPOGbNhX2ffUA6QAeMNIAp5Rw7KJAv6gU4xijOAGFYYcbgKJvXnCAD-yrP351qyyj1gtMVU2yY_rk1LIs-FBw2t9NJyVqIJqdKBRR8VxF8feLAyeC_YVV8LfVi5vFin7IgYLW6Ms8Bsz-hAGAPV4eZwa2C71V1GZKzbcKH4_7uhLPdpX1nnAW9KSIhkxTZbJ1llgV_suUS1mmCJuSfKok5XvvG88tcbfcr5Utq5RezNTXnm9q6jePGigbzZb9rO9XSLsd7p-09XUH5opsN1xar_zW58On4EUY3_Dn7GgRmec7hZ3HEta51xSxUI1r8HBeS7aWGwEJM3n7QLmaQFAwW6KhifR1kyfx_gv1wu3RWYnK_8ZzYewxK2_7j77wOXl7d6H49hNy2C16VViF_kTbn6QZoC5dLmerxx0SlkPiRbyDr9f06QD7IAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4CL2dvdG8_dXJsPUNBRVN2Z0VCNnpzd0ZTQU1DNGkwWjZYbjJJVlJlRXFHdmRfUHRnZ055RE13Yzhqby1weVRJaVAwRkdWRzluam9sU2tvLTcyVTMzcnNIUzFmOWJMMFNXSzNyeGVSX1UzcHV1Qm5jWW1wbW1BUE55M250VFJfZFB1OEVMc3FUWEhNUnExR3p5UFFuR1BrVDVJYTBqbkFtZ0FKUGsweFQ3cHpaeUItV2pKclFtb3l0dVQzM0oySlM1UjN6dkFvVF9WV1dTM25aMkk0V0tFUURqRTU1MGNqTWZCMGNoNFNFZjJ2aU94ZXJvOERqTWw2Q1lIb09zM200eEw1TXdkRjdERXhuRjdVEgQaAggAGo0IEgAaAggBIgAqADIGCAMSAmluOgBCBAgCEABKAFoAcgB6AIJA5wcIABAAGAAgACo2CgdndWphcmF0FQR-xEAaA2d1ahoIZ3VqYXJhdGkaCWluIGd1anJhdBoMaXY7cDtndWphcmF0KjsKBmJlY2FtZRUAAAAAGgZiZWNvbWUaB2JlY29tZXMaCGJlY29taW5nGgViZWdhbhoEY2FtZRoEd2VudCpdCgZzZWNvbmQVzZJfQBoHYW5vdGhlchoGZG91YmxlGgdmb3IgMm5kGgJpaRoGaW4gMm5kGgZvbiAybmQaCXNlY29uZGFyeRoHc2Vjb25kcxoHdGhlIDJuZBoDdHdvKiQKBXN0YXRlFcTmjkAaBXN0YWdlGgdzdGF0ZSdzGgZzdGF0ZXMqSgoLdXR0YXJha2hhbmQV8kxYQBoNaW4gdXR0cmFraGFuZBoLdXR0YXJhbmNoYWwaEGl2O3A7dXR0YXJha2hhbmQaCGRlaHJhZHVuKjYKA2dldBUpPCE-GgRmaW5kGgRnZXRzGgdnZXR0aW5nGgRoYXZlGgZvYnRhaW4aB3JlY2VpdmUqIwoHdW5pZm9ybRXr0bNAGgl1bmlmb3JtbHkaCHVuaWZvcm1zKh4KBWNpdmlsFZZZv0AaCGNpdmlsaWFuGgZjaXZpbHMyjgIvZ290bz91cmw9Q0FFU3ZnRUI2enN3RlNBTUM0aTBaNlhuMklWUmVFcUd2ZF9QdGdnTnlETXdjOGpvLXB5VElpUDBGR1ZHOW5qb2xTa28tNzJVMzNyc0hTMWY5YkwwU1dLM3J4ZVJfVTNwdXVCbmNZbXBtbUFQTnkzbnRUUl9kUHU4RUxzcVRYSE1ScTFHenlQUW5HUGtUNUlhMGpuQW1nQUpQazB4VDdwelp5Qi1XakpyUW1veXR1VDMzSjJKUzVSM3p2QW9UX1ZXV1MzbloySTRXS0VRRGpFNTUwY2pNZkIwY2g0U0VmMnZpT3hlcm84RGpNbDZDWUhvT3MzbTR4TDVNd2RGN0RFeG5GN1U6Uu-4jyAgICAgPGI-R3VqYXJhdDwvYj4gcGFzc2VkIGl0cyA8Yj5Vbmlmb3JtIENpdmlsPC9iPiBDb2RlIEJpbGwgaW4gTWFyY2ggMjAyNiAuLi5CrgE8Yj5HdWphcmF0IHBhc3NlZCBpdHMgVW5pZm9ybSBDaXZpbCBDb2RlIEJpbGwgaW4gTWFyY2ggMjAyNjwvYj4sIGJlY29taW5nIHRoZSBzZWNvbmQgc3RhdGUgYWZ0ZXIgVXR0YXJha2hhbmQgdG8gcGFzcyBhIFVDQyBsYXcuIFRoZSBQcmVzaWRlbnQmIzM5O3Mgd2Vic2l0ZSBjdXJyZW50bHkmbmJzcDsuLi5SBGhhdmUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4CL2dvdG8_dXJsPUNBRVN2Z0VCNnpzd0ZTQU1DNGkwWjZYbjJJVlJlRXFHdmRfUHRnZ055RE13Yzhqby1weVRJaVAwRkdWRzluam9sU2tvLTcyVTMzcnNIUzFmOWJMMFNXSzNyeGVSX1UzcHV1Qm5jWW1wbW1BUE55M250VFJfZFB1OEVMc3FUWEhNUnExR3p5UFFuR1BrVDVJYTBqbkFtZ0FKUGsweFQ3cHpaeUItV2pKclFtb3l0dVQzM0oySlM1UjN6dkFvVF9WV1dTM25aMkk0V0tFUURqRTU1MGNqTWZCMGNoNFNFZjJ2aU94ZXJvOERqTWw2Q1lIb09zM200eEw1TXdkRjdERXhuRjdVEgQaAggAGo0IEgAaAggBIgAqADIGCAMSAmluOgBCBAgCEABKAFoAcgB6AIJA5wcIABAAGAAgACo2CgdndWphcmF0FQR-xEAaA2d1ahoIZ3VqYXJhdGkaCWluIGd1anJhdBoMaXY7cDtndWphcmF0KjsKBmJlY2FtZRUAAAAAGgZiZWNvbWUaB2JlY29tZXMaCGJlY29taW5nGgViZWdhbhoEY2FtZRoEd2VudCpdCgZzZWNvbmQVzZJfQBoHYW5vdGhlchoGZG91YmxlGgdmb3IgMm5kGgJpaRoGaW4gMm5kGgZvbiAybmQaCXNlY29uZGFyeRoHc2Vjb25kcxoHdGhlIDJuZBoDdHdvKiQKBXN0YXRlFcTmjkAaBXN0YWdlGgdzdGF0ZSdzGgZzdGF0ZXMqSgoLdXR0YXJha2hhbmQV8kxYQBoNaW4gdXR0cmFraGFuZBoLdXR0YXJhbmNoYWwaEGl2O3A7dXR0YXJha2hhbmQaCGRlaHJhZHVuKjYKA2dldBUpPCE-GgRmaW5kGgRnZXRzGgdnZXR0aW5nGgRoYXZlGgZvYnRhaW4aB3JlY2VpdmUqIwoHdW5pZm9ybRXr0bNAGgl1bmlmb3JtbHkaCHVuaWZvcm1zKh4KBWNpdmlsFZZZv0AaCGNpdmlsaWFuGgZjaXZpbHMyjgIvZ290bz91cmw9Q0FFU3ZnRUI2enN3RlNBTUM0aTBaNlhuMklWUmVFcUd2ZF9QdGdnTnlETXdjOGpvLXB5VElpUDBGR1ZHOW5qb2xTa28tNzJVMzNyc0hTMWY5YkwwU1dLM3J4ZVJfVTNwdXVCbmNZbXBtbUFQTnkzbnRUUl9kUHU4RUxzcVRYSE1ScTFHenlQUW5HUGtUNUlhMGpuQW1nQUpQazB4VDdwelp5Qi1XakpyUW1veXR1VDMzSjJKUzVSM3p2QW9UX1ZXV1MzbloySTRXS0VRRGpFNTUwY2pNZkIwY2g0U0VmMnZpT3hlcm84RGpNbDZDWUhvT3MzbTR4TDVNd2RGN0RFeG5GN1U6Uu-4jyAgICAgPGI-R3VqYXJhdDwvYj4gcGFzc2VkIGl0cyA8Yj5Vbmlmb3JtIENpdmlsPC9iPiBDb2RlIEJpbGwgaW4gTWFyY2ggMjAyNiAuLi5CrgE8Yj5HdWphcmF0IHBhc3NlZCBpdHMgVW5pZm9ybSBDaXZpbCBDb2RlIEJpbGwgaW4gTWFyY2ggMjAyNjwvYj4sIGJlY29taW5nIHRoZSBzZWNvbmQgc3RhdGUgYWZ0ZXIgVXR0YXJha2hhbmQgdG8gcGFzcyBhIFVDQyBsYXcuIFRoZSBQcmVzaWRlbnQmIzM5O3Mgd2Vic2l0ZSBjdXJyZW50bHkmbmJzcDsuLi5SBGhhdmUiAhABSABYAGgA",
+    "source": "Threads · uncutupdates",
+    "read_more_link": "https://www.threads.com/@uncutupdates/post/Dd_ZDwylOP4/gujarat-passed-its-uniform-civil-code-bill-in-march-becoming-the-second-state/#:~:text=%E2%9A%96%EF%B8%8F%F0%9F%87%AE%F0%9F%87%B3%20Gujarat%20passed%20its%20Uniform,law.%20The%20President's%20website%20currently"
+   },
+   {
+    "position": 7,
+    "title": "Gujarat UCC Bill gets President Murmu's assent, becomes ...",
+    "link": "https://www.khabaradda.pro/story/gujarat-ucc-bill-gets-president-murmu-s-assent-becomes-2nd-state-after-uttarakha.eyJ0IjoiR3VqYXJhdCBVQ0MgQmlsbCBnZXRzIFByZXNpZGVudCBNdXJtdeKAmXMgYXNzZW50LCBiZWNvbWVzIDJuZCBzdGF0ZSBhZnRlciBVdHRhcmFraGFuZCIsImwiOiJodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9ndWphcmF0LXVjYy1iaWxsLWdldHMtcHJlc2lkZW50LW11cm11LXMtYXNzZW50LWJlY29tZXMtMm5kLXN0YXRlLWFmdGVyLXV0dGFyYWtoYW5kLTEwMTc5MDk0MTUzNTI0OC5odG1sIiwicyI6IkhpbmR1c3RhbiBUaW1lcyIsImQiOiIyMDI2LTEwLTAyVDExOjQ1OjM0LjAwMFoiLCJpIjoiaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2h0LWltZy9pbWcvMjAyNi8xMC8wMi8xNjAweDkwMC9sb2dvL0d1amFyYXQtcy1VQ0MtQmlsbC1oYXMtcmVjZWl2ZWQtUHJlc2lkZW50LU11cm11LXMtXzE3OTA5NDE1Mjc4MThfNTZicS5qcGciLCJjIjoiUHJlc2lkZW50IE11cm11IGhhcyBhc3NlbnRlZCB0byBHdWphcmF04oCZcyBVQ0MgQmlsbCwgbWFraW5nIGl0IHRoZSBzZWNvbmQgc3RhdGUgYWZ0ZXIgVXR0YXJha2hhbmQgdG8gZW5hY3QgYSBjb21wcmVoZW5zaXZlIFVDQy4iLCJjcyI6InRvcCIsImNsIjoiVG9wIFN0b3JpZXMiLCJhYyI6ImFjY2VudCJ9",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES6wcB6zswFSiagtfbzcxNKIg5hUDVzfGU3Yz2Y6hZhSJ62bNuJGq3NoRUNTdEKr-cX_S7LKnhlZPE9uJhB7PQtyFjlXZhnsSLQhSkqP5OEKfTwecc2StzBWkFwvhHZRuzpE8J47Aw85nPeG2hdoeBP03iHE2KaFl8-1jMzajQPQirzbu_ycLydhAJ7fccQKkM4xUBkwgYprTtsL0b_bd2nwW4YOHl0Esz-eCIAYHMsjgBE5x4MWUR0mXtz5XVS40O3wJ9PVJ5Af7ZNAuDfdO6A7ZKdOrhMXplK_pP1H4eaAyZEHhabZPTvP6T9KQLXEvtTaeqrwvIJNkUQGfWHIZXXUTPn4YEnZ7u8G8UoUipjqrHWfgfUOH7lE-zB_eNldRlPK9iW-6L4JyYtPq0axUiS-2ec3GxgsEurZs9cpbYK2NG2fEYHZm7h-zTK-6rnCyu8RGlj-LmzgDDMmNAMYXQSe3S0DDYwJCsIFd6UCKh4HMbp_bpYK3DRatMEoq4-AQ_H1AaOkElrlm7BX658_A1DSDJoZ_cwvvJeiQHtbMbPI9rve5-6lO4TGF1PYDCsENhPfxZslwmTYSAD9Qk1Yhwixz6uafiCQXf3Cf_C95v_fpfkaA0R457t0jcdgX44kjEhPbpuovDoJDJVeG_A8GZ5eOQTGdeCetsg2-0EEGt6P94Vih5czHef_RVdpXRf5RAY508p8Jaje_1JFMRdB9OigkQRTlDbuATaLAHtMxknycZLziuc7DA2GbBYCjP5LHTeTwKyOXrc-CIdIiZS8h3O8EIK9KYOoDQ6hCBagdQuXg51F25RmDgHRdtQAUiE4Hu2BLLQwOGwOkxFaYXw7qVkTtQMtA-DKMeh_LAd7Aze4F04vZH-YAX3A4ZXkd1-3eLahbTFL8Hve5OMGkb7MxbubKxh74J3wlWCACzjAMdG7331Fohn9tGwpXg22bHtZnhwTv_4nKUtkcKXvCBTwlZw2tXDzwJ37KNgpH__6PAW-ebKbALl6Yg_BGSVO36EqQhJFrxrXUgj_y7RCRJ067ZuSO3rZMr2HjrV4P4UhoN6KDeCJ6MjLufUn-SKup76r8GThUaFU1LlM2FZbK3rRurU7hAA4YbuyNiEUfmprkCYcTTzZE7mPp8mOpG19sW3Oh1ybULR1vCAS9a0WYZkeMGTI0pFU9jKjO8qaXEHDj3FDJT1f-V_WIymvq9C9DM2y5OlZc4_qfokREaaOHrd2NwXJ9oiCsXBjqrP1vzFxzLnF6k4O3o-myQRdudEsDAh2gOrT4tXB4nitbIGSFsok16QGbext2hQz5mJWzR6-DA7mCVIylbLmNJYnOmP8jC&ved=2ahUKEwixtP-wrZ6XAxV-nSsGHdepB8EQFnoECA4QAQ&uoh=1",
+    "displayed_link": "https://www.khabaradda.pro › story › gujarat-ucc-bill-ge...",
+    "favicon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAADwCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHp41TTUaT5gPUBmKv7Ae__5__pgebdqr_7EDqO_rAh0R37SI10CrLNMo5OYa_fKP37GAAD-T_drbXDcoi6xBKd_t3_jGB9BliU_WvUR7cl-htteOH-JyNtwIHh_m1t9AGp8B0zJsuN6fkuT_Y4eco-zdBeXP2QEP7r7Kn-BC3J7t-2emEgVEDzpG9BHMjhlC5bffvmff0Q5g8wd5EEbuKEWBZr9tTqb4vsZ_z-uQdn35OV5z-cLAyDWFgUAlyyV12LkdSzguTZnkFumQiYDqH51-ExSuOAmOksnsneB0sNsaXF9lD_2kaHB2CV8h3mhdG2ewcjViyOI7NaT7FdJVaF3ozfggBs47sRrOeeD0706VaCVid3FeBBC3GUH_nH6bxdvVb66f9JAMxcN5FwdJzYAAAA.webp",
+    "date": "1 day ago",
+    "snippet": "President Murmu has assented to Gujarat's UCC Bill, making it the second state after Uttarakhand to enact a comprehensive UCC.",
+    "snippet_highlighted_words": [
+     "President Murmu has assented to Gujarat's UCC Bill"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "President Murmu has assented to Gujarat's UCC Bill, making it the second state after Uttarakhand to enact a comprehensive UCC.",
+      "source_info_link": "https://www.khabaradda.pro/story/gujarat-ucc-bill-gets-president-murmu-s-assent-becomes-2nd-state-after-uttarakha.eyJ0IjoiR3VqYXJhdCBVQ0MgQmlsbCBnZXRzIFByZXNpZGVudCBNdXJtdeKAmXMgYXNzZW50LCBiZWNvbWVzIDJuZCBzdGF0ZSBhZnRlciBVdHRhcmFraGFuZCIsImwiOiJodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9ndWphcmF0LXVjYy1iaWxsLWdldHMtcHJlc2lkZW50LW11cm11LXMtYXNzZW50LWJlY29tZXMtMm5kLXN0YXRlLWFmdGVyLXV0dGFyYWtoYW5kLTEwMTc5MDk0MTUzNTI0OC5odG1sIiwicyI6IkhpbmR1c3RhbiBUaW1lcyIsImQiOiIyMDI2LTEwLTAyVDExOjQ1OjM0LjAwMFoiLCJpIjoiaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2h0LWltZy9pbWcvMjAyNi8xMC8wMi8xNjAweDkwMC9sb2dvL0d1amFyYXQtcy1VQ0MtQmlsbC1oYXMtcmVjZWl2ZWQtUHJlc2lkZW50LU11cm11LXMtXzE3OTA5NDE1Mjc4MThfNTZicS5qcGciLCJjIjoiUHJlc2lkZW50IE11cm11IGhhcyBhc3NlbnRlZCB0byBHdWphcmF04oCZcyBVQ0MgQmlsbCwgbWFraW5nIGl0IHRoZSBzZWNvbmQgc3RhdGUgYWZ0ZXIgVXR0YXJha2hhbmQgdG8gZW5hY3QgYSBjb21wcmVoZW5zaXZlIFVDQy4iLCJjcyI6InRvcCIsImNsIjoiVG9wIFN0b3JpZXMiLCJhYyI6ImFjY2VudCJ9",
+      "icon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAADwCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHp41TTUaT5gPUBmKv7Ae__5__pgebdqr_7EDqO_rAh0R37SI10CrLNMo5OYa_fKP37GAAD-T_drbXDcoi6xBKd_t3_jGB9BliU_WvUR7cl-htteOH-JyNtwIHh_m1t9AGp8B0zJsuN6fkuT_Y4eco-zdBeXP2QEP7r7Kn-BC3J7t-2emEgVEDzpG9BHMjhlC5bffvmff0Q5g8wd5EEbuKEWBZr9tTqb4vsZ_z-uQdn35OV5z-cLAyDWFgUAlyyV12LkdSzguTZnkFumQiYDqH51-ExSuOAmOksnsneB0sNsaXF9lD_2kaHB2CV8h3mhdG2ewcjViyOI7NaT7FdJVaF3ozfggBs47sRrOeeD0706VaCVid3FeBBC3GUH_nH6bxdvVb66f9JAMxcN5FwdJzYAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoKL2dvdG8_dXJsPUNBRVM2d2NCNnpzd0ZTaWFndGZiemN4TktJZzVoVURWemZHVTNZejJZNmhaaFNKNjJiTnVKR3EzTm9SVU5UZEVLci1jWF9TN0xLbmhsWlBFOXVKaEI3UFF0eUZqbFhaaG5zU0xRaFNrcVA1T0VLZlR3ZWNjMlN0ekJXa0Z3dmhIWlJ1enBFOEo0N0F3ODVuUGVHMmhkb2VCUDAzaUhFMkthRmw4LTFqTXphalFQUWlyemJ1X3ljTHlkaEFKN2ZjY1FLa000eFVCa3dnWXByVHRzTDBiX2JkMm53VzRZT0hsMEVzei1lQ0lBWUhNc2pnQkU1eDRNV1VSMG1YdHo1WFZTNDBPM3dKOVBWSjVBZjdaTkF1RGZkTzZBN1pLZE9yaE1YcGxLX3BQMUg0ZWFBeVpFSGhhYlpQVHZQNlQ5S1FMWEV2dFRhZXFyd3ZJSk5rVVFHZldISVpYWFVUUG40WUVuWjd1OEc4VW9VaXBqcXJIV2ZnZlVPSDdsRS16Ql9lTmxkUmxQSzlpVy02TDRKeVl0UHEwYXhVaVMtMmVjM0d4Z3NFdXJaczljcGJZSzJORzJmRVlIWm03aC16VEstNnJuQ3l1OFJHbGotTG16Z0RETW1OQU1ZWFFTZTNTMEREWXdKQ3NJRmQ2VUNLaDRITWJwX2JwWUszRFJhdE1Fb3E0LUFRX0gxQWFPa0VscmxtN0JYNjU4X0ExRFNESm9aX2N3dnZKZWlRSHRiTWJQSTlydmU1LTZsTzRUR0YxUFlEQ3NFTmhQZnhac2x3bVRZU0FEOVFrMVlod2l4ejZ1YWZpQ1FYZjNDZl9DOTV2X2ZwZmthQTBSNDU3dDBqY2RnWDQ0a2pFaFBicHVvdkRvSkRKVmVHX0E4R1o1ZU9RVEdkZUNldHNnMi0wRUVHdDZQOTRWaWg1Y3pIZWZfUlZkcFhSZjVSQVk1MDhwOEphamVfMUpGTVJkQjlPaWdrUVJUbERidUFUYUxBSHRNeGtueWNaTHppdWM3REEyR2JCWUNqUDVMSFRlVHdLeU9YcmMtQ0lkSWlaUzhoM084RUlLOUtZT29EUTZoQ0JhZ2RRdVhnNTFGMjVSbURnSFJkdFFBVWlFNEh1MkJMTFF3T0d3T2t4RmFZWHc3cVZrVHRRTXRBLURLTWVoX0xBZDdBemU0RjA0dlpILVlBWDNBNFpYa2QxLTNlTGFoYlRGTDhIdmU1T01Ha2I3TXhidWJLeGg3NEozd2xXQ0FDempBTWRHNzMzMUZvaG45dEd3cFhnMjJiSHRabmh3VHZfNG5LVXRrY0tYdkNCVHdsWncydFhEendKMzdLTmdwSF9fNlBBVy1lYktiQUxsNllnX0JHU1ZPMzZFcVFoSkZyeHJYVWdqX3k3UkNSSjA2N1p1U08zclpNcjJIanJWNFA0VWhvTjZLRGVDSjZNakx1ZlVuLVNLdXA3NnI4R1RoVWFGVTFMbE0yRlpiSzNyUnVyVTdoQUE0WWJ1eU5pRVVmbXBya0NZY1RUelpFN21QcDhtT3BHMTlzVzNPaDF5YlVMUjF2Q0FTOWEwV1laa2VNR1RJMHBGVTlqS2pPOHFhWEVIRGozRkRKVDFmLVZfV0l5bXZxOUM5RE0yeTVPbFpjNF9xZm9rUkVhYU9IcmQyTndYSjlvaUNzWEJqcXJQMXZ6Rnh6TG5GNms0TzNvLW15UVJkdWRFc0RBaDJnT3JUNHRYQjRuaXRiSUdTRnNvazE2UUdiZXh0MmhRejVtSld6UjYtREE3bUNWSXlsYkxtTkpZbk9tUDhqQxIEGgIIABqkEBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCAEAgAEAAYACAAKjYKB2d1amFyYXQVRXiYQBoDZ3VqGghndWphcmF0aRoJaW4gZ3VqcmF0GgxpdjtwO2d1amFyYXQqOwoGYmVjYW1lFQAAAAAaBmJlY29tZRoHYmVjb21lcxoIYmVjb21pbmcaBWJlZ2FuGgRjYW1lGgR3ZW50Kl0KBnNlY29uZBUdK5I_Ggdhbm90aGVyGgZkb3VibGUaB2ZvciAybmQaAmlpGgZpbiAybmQaBm9uIDJuZBoJc2Vjb25kYXJ5GgdzZWNvbmRzGgd0aGUgMm5kGgN0d28qJAoFc3RhdGUVgj2mQBoFc3RhZ2UaB3N0YXRlJ3MaBnN0YXRlcypKCgt1dHRhcmFraGFuZBUS3JFAGg1pbiB1dHRyYWtoYW5kGgt1dHRhcmFuY2hhbBoQaXY7cDt1dHRhcmFraGFuZBoIZGVocmFkdW4qNgoDZ2V0FUs1mz8aBGZpbmQaBGdldHMaB2dldHRpbmcaBGhhdmUaBm9idGFpbhoHcmVjZWl2ZSojCgd1bmlmb3JtFQAAAAAaCXVuaWZvcm1seRoIdW5pZm9ybXMqHgoFY2l2aWwVAAAAABoIY2l2aWxpYW4aBmNpdmlsczLKCi9nb3RvP3VybD1DQUVTNndjQjZ6c3dGU2lhZ3RmYnpjeE5LSWc1aFVEVnpmR1UzWXoyWTZoWmhTSjYyYk51SkdxM05vUlVOVGRFS3ItY1hfUzdMS25obFpQRTl1SmhCN1BRdHlGamxYWmhuc1NMUWhTa3FQNU9FS2ZUd2VjYzJTdHpCV2tGd3ZoSFpSdXpwRThKNDdBdzg1blBlRzJoZG9lQlAwM2lIRTJLYUZsOC0xak16YWpRUFFpcnpidV95Y0x5ZGhBSjdmY2NRS2tNNHhVQmt3Z1lwclR0c0wwYl9iZDJud1c0WU9IbDBFc3otZUNJQVlITXNqZ0JFNXg0TVdVUjBtWHR6NVhWUzQwTzN3SjlQVko1QWY3Wk5BdURmZE82QTdaS2RPcmhNWHBsS19wUDFINGVhQXlaRUhoYWJaUFR2UDZUOUtRTFhFdnRUYWVxcnd2SUpOa1VRR2ZXSElaWFhVVFBuNFlFblo3dThHOFVvVWlwanFySFdmZ2ZVT0g3bEUtekJfZU5sZFJsUEs5aVctNkw0SnlZdFBxMGF4VWlTLTJlYzNHeGdzRXVyWnM5Y3BiWUsyTkcyZkVZSFptN2gtelRLLTZybkN5dThSR2xqLUxtemdERE1tTkFNWVhRU2UzUzBERFl3SkNzSUZkNlVDS2g0SE1icF9icFlLM0RSYXRNRW9xNC1BUV9IMUFhT2tFbHJsbTdCWDY1OF9BMURTREpvWl9jd3Z2SmVpUUh0Yk1iUEk5cnZlNS02bE80VEdGMVBZRENzRU5oUGZ4WnNsd21UWVNBRDlRazFZaHdpeHo2dWFmaUNRWGYzQ2ZfQzk1dl9mcGZrYUEwUjQ1N3QwamNkZ1g0NGtqRWhQYnB1b3ZEb0pESlZlR19BOEdaNWVPUVRHZGVDZXRzZzItMEVFR3Q2UDk0VmloNWN6SGVmX1JWZHBYUmY1UkFZNTA4cDhKYWplXzFKRk1SZEI5T2lna1FSVGxEYnVBVGFMQUh0TXhrbnljWkx6aXVjN0RBMkdiQllDalA1TEhUZVR3S3lPWHJjLUNJZElpWlM4aDNPOEVJSzlLWU9vRFE2aENCYWdkUXVYZzUxRjI1Um1EZ0hSZHRRQVVpRTRIdTJCTExRd09Hd09reEZhWVh3N3FWa1R0UU10QS1ES01laF9MQWQ3QXplNEYwNHZaSC1ZQVgzQTRaWGtkMS0zZUxhaGJURkw4SHZlNU9NR2tiN014YnViS3hoNzRKM3dsV0NBQ3pqQU1kRzczMzFGb2huOXRHd3BYZzIyYkh0Wm5od1R2XzRuS1V0a2NLWHZDQlR3bFp3MnRYRHp3SjM3S05ncEhfXzZQQVctZWJLYkFMbDZZZ19CR1NWTzM2RXFRaEpGcnhyWFVnal95N1JDUkowNjdadVNPM3JaTXIySGpyVjRQNFVob042S0RlQ0o2TWpMdWZVbi1TS3VwNzZyOEdUaFVhRlUxTGxNMkZaYkszclJ1clU3aEFBNFlidXlOaUVVZm1wcmtDWWNUVHpaRTdtUHA4bU9wRzE5c1czT2gxeWJVTFIxdkNBUzlhMFdZWmtlTUdUSTBwRlU5aktqTzhxYVhFSERqM0ZESlQxZi1WX1dJeW12cTlDOURNMnk1T2xaYzRfcWZva1JFYWFPSHJkMk53WEo5b2lDc1hCanFyUDF2ekZ4ekxuRjZrNE8zby1teVFSZHVkRXNEQWgyZ09yVDR0WEI0bml0YklHU0Zzb2sxNlFHYmV4dDJoUXo1bUpXelI2LURBN21DVkl5bGJMbU5KWW5PbVA4akM6VDxiPkd1amFyYXQ8L2I-IFVDQyBCaWxsIDxiPmdldHM8L2I-IFByZXNpZGVudCBNdXJtdSYjMzk7cyBhc3NlbnQsIDxiPmJlY29tZXM8L2I-IC4uLkKJATxiPlByZXNpZGVudCBNdXJtdSBoYXMgYXNzZW50ZWQgdG8gR3VqYXJhdCYjMzk7cyBVQ0MgQmlsbDwvYj4sIG1ha2luZyBpdCB0aGUgc2Vjb25kIHN0YXRlIGFmdGVyIFV0dGFyYWtoYW5kIHRvIGVuYWN0IGEgY29tcHJlaGVuc2l2ZSBVQ0MuUgRoYXZlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoKL2dvdG8_dXJsPUNBRVM2d2NCNnpzd0ZTaWFndGZiemN4TktJZzVoVURWemZHVTNZejJZNmhaaFNKNjJiTnVKR3EzTm9SVU5UZEVLci1jWF9TN0xLbmhsWlBFOXVKaEI3UFF0eUZqbFhaaG5zU0xRaFNrcVA1T0VLZlR3ZWNjMlN0ekJXa0Z3dmhIWlJ1enBFOEo0N0F3ODVuUGVHMmhkb2VCUDAzaUhFMkthRmw4LTFqTXphalFQUWlyemJ1X3ljTHlkaEFKN2ZjY1FLa000eFVCa3dnWXByVHRzTDBiX2JkMm53VzRZT0hsMEVzei1lQ0lBWUhNc2pnQkU1eDRNV1VSMG1YdHo1WFZTNDBPM3dKOVBWSjVBZjdaTkF1RGZkTzZBN1pLZE9yaE1YcGxLX3BQMUg0ZWFBeVpFSGhhYlpQVHZQNlQ5S1FMWEV2dFRhZXFyd3ZJSk5rVVFHZldISVpYWFVUUG40WUVuWjd1OEc4VW9VaXBqcXJIV2ZnZlVPSDdsRS16Ql9lTmxkUmxQSzlpVy02TDRKeVl0UHEwYXhVaVMtMmVjM0d4Z3NFdXJaczljcGJZSzJORzJmRVlIWm03aC16VEstNnJuQ3l1OFJHbGotTG16Z0RETW1OQU1ZWFFTZTNTMEREWXdKQ3NJRmQ2VUNLaDRITWJwX2JwWUszRFJhdE1Fb3E0LUFRX0gxQWFPa0VscmxtN0JYNjU4X0ExRFNESm9aX2N3dnZKZWlRSHRiTWJQSTlydmU1LTZsTzRUR0YxUFlEQ3NFTmhQZnhac2x3bVRZU0FEOVFrMVlod2l4ejZ1YWZpQ1FYZjNDZl9DOTV2X2ZwZmthQTBSNDU3dDBqY2RnWDQ0a2pFaFBicHVvdkRvSkRKVmVHX0E4R1o1ZU9RVEdkZUNldHNnMi0wRUVHdDZQOTRWaWg1Y3pIZWZfUlZkcFhSZjVSQVk1MDhwOEphamVfMUpGTVJkQjlPaWdrUVJUbERidUFUYUxBSHRNeGtueWNaTHppdWM3REEyR2JCWUNqUDVMSFRlVHdLeU9YcmMtQ0lkSWlaUzhoM084RUlLOUtZT29EUTZoQ0JhZ2RRdVhnNTFGMjVSbURnSFJkdFFBVWlFNEh1MkJMTFF3T0d3T2t4RmFZWHc3cVZrVHRRTXRBLURLTWVoX0xBZDdBemU0RjA0dlpILVlBWDNBNFpYa2QxLTNlTGFoYlRGTDhIdmU1T01Ha2I3TXhidWJLeGg3NEozd2xXQ0FDempBTWRHNzMzMUZvaG45dEd3cFhnMjJiSHRabmh3VHZfNG5LVXRrY0tYdkNCVHdsWncydFhEendKMzdLTmdwSF9fNlBBVy1lYktiQUxsNllnX0JHU1ZPMzZFcVFoSkZyeHJYVWdqX3k3UkNSSjA2N1p1U08zclpNcjJIanJWNFA0VWhvTjZLRGVDSjZNakx1ZlVuLVNLdXA3NnI4R1RoVWFGVTFMbE0yRlpiSzNyUnVyVTdoQUE0WWJ1eU5pRVVmbXBya0NZY1RUelpFN21QcDhtT3BHMTlzVzNPaDF5YlVMUjF2Q0FTOWEwV1laa2VNR1RJMHBGVTlqS2pPOHFhWEVIRGozRkRKVDFmLVZfV0l5bXZxOUM5RE0yeTVPbFpjNF9xZm9rUkVhYU9IcmQyTndYSjlvaUNzWEJqcXJQMXZ6Rnh6TG5GNms0TzNvLW15UVJkdWRFc0RBaDJnT3JUNHRYQjRuaXRiSUdTRnNvazE2UUdiZXh0MmhRejVtSld6UjYtREE3bUNWSXlsYkxtTkpZbk9tUDhqQxIEGgIIABqkEBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCAEAgAEAAYACAAKjYKB2d1amFyYXQVRXiYQBoDZ3VqGghndWphcmF0aRoJaW4gZ3VqcmF0GgxpdjtwO2d1amFyYXQqOwoGYmVjYW1lFQAAAAAaBmJlY29tZRoHYmVjb21lcxoIYmVjb21pbmcaBWJlZ2FuGgRjYW1lGgR3ZW50Kl0KBnNlY29uZBUdK5I_Ggdhbm90aGVyGgZkb3VibGUaB2ZvciAybmQaAmlpGgZpbiAybmQaBm9uIDJuZBoJc2Vjb25kYXJ5GgdzZWNvbmRzGgd0aGUgMm5kGgN0d28qJAoFc3RhdGUVgj2mQBoFc3RhZ2UaB3N0YXRlJ3MaBnN0YXRlcypKCgt1dHRhcmFraGFuZBUS3JFAGg1pbiB1dHRyYWtoYW5kGgt1dHRhcmFuY2hhbBoQaXY7cDt1dHRhcmFraGFuZBoIZGVocmFkdW4qNgoDZ2V0FUs1mz8aBGZpbmQaBGdldHMaB2dldHRpbmcaBGhhdmUaBm9idGFpbhoHcmVjZWl2ZSojCgd1bmlmb3JtFQAAAAAaCXVuaWZvcm1seRoIdW5pZm9ybXMqHgoFY2l2aWwVAAAAABoIY2l2aWxpYW4aBmNpdmlsczLKCi9nb3RvP3VybD1DQUVTNndjQjZ6c3dGU2lhZ3RmYnpjeE5LSWc1aFVEVnpmR1UzWXoyWTZoWmhTSjYyYk51SkdxM05vUlVOVGRFS3ItY1hfUzdMS25obFpQRTl1SmhCN1BRdHlGamxYWmhuc1NMUWhTa3FQNU9FS2ZUd2VjYzJTdHpCV2tGd3ZoSFpSdXpwRThKNDdBdzg1blBlRzJoZG9lQlAwM2lIRTJLYUZsOC0xak16YWpRUFFpcnpidV95Y0x5ZGhBSjdmY2NRS2tNNHhVQmt3Z1lwclR0c0wwYl9iZDJud1c0WU9IbDBFc3otZUNJQVlITXNqZ0JFNXg0TVdVUjBtWHR6NVhWUzQwTzN3SjlQVko1QWY3Wk5BdURmZE82QTdaS2RPcmhNWHBsS19wUDFINGVhQXlaRUhoYWJaUFR2UDZUOUtRTFhFdnRUYWVxcnd2SUpOa1VRR2ZXSElaWFhVVFBuNFlFblo3dThHOFVvVWlwanFySFdmZ2ZVT0g3bEUtekJfZU5sZFJsUEs5aVctNkw0SnlZdFBxMGF4VWlTLTJlYzNHeGdzRXVyWnM5Y3BiWUsyTkcyZkVZSFptN2gtelRLLTZybkN5dThSR2xqLUxtemdERE1tTkFNWVhRU2UzUzBERFl3SkNzSUZkNlVDS2g0SE1icF9icFlLM0RSYXRNRW9xNC1BUV9IMUFhT2tFbHJsbTdCWDY1OF9BMURTREpvWl9jd3Z2SmVpUUh0Yk1iUEk5cnZlNS02bE80VEdGMVBZRENzRU5oUGZ4WnNsd21UWVNBRDlRazFZaHdpeHo2dWFmaUNRWGYzQ2ZfQzk1dl9mcGZrYUEwUjQ1N3QwamNkZ1g0NGtqRWhQYnB1b3ZEb0pESlZlR19BOEdaNWVPUVRHZGVDZXRzZzItMEVFR3Q2UDk0VmloNWN6SGVmX1JWZHBYUmY1UkFZNTA4cDhKYWplXzFKRk1SZEI5T2lna1FSVGxEYnVBVGFMQUh0TXhrbnljWkx6aXVjN0RBMkdiQllDalA1TEhUZVR3S3lPWHJjLUNJZElpWlM4aDNPOEVJSzlLWU9vRFE2aENCYWdkUXVYZzUxRjI1Um1EZ0hSZHRRQVVpRTRIdTJCTExRd09Hd09reEZhWVh3N3FWa1R0UU10QS1ES01laF9MQWQ3QXplNEYwNHZaSC1ZQVgzQTRaWGtkMS0zZUxhaGJURkw4SHZlNU9NR2tiN014YnViS3hoNzRKM3dsV0NBQ3pqQU1kRzczMzFGb2huOXRHd3BYZzIyYkh0Wm5od1R2XzRuS1V0a2NLWHZDQlR3bFp3MnRYRHp3SjM3S05ncEhfXzZQQVctZWJLYkFMbDZZZ19CR1NWTzM2RXFRaEpGcnhyWFVnal95N1JDUkowNjdadVNPM3JaTXIySGpyVjRQNFVob042S0RlQ0o2TWpMdWZVbi1TS3VwNzZyOEdUaFVhRlUxTGxNMkZaYkszclJ1clU3aEFBNFlidXlOaUVVZm1wcmtDWWNUVHpaRTdtUHA4bU9wRzE5c1czT2gxeWJVTFIxdkNBUzlhMFdZWmtlTUdUSTBwRlU5aktqTzhxYVhFSERqM0ZESlQxZi1WX1dJeW12cTlDOURNMnk1T2xaYzRfcWZva1JFYWFPSHJkMk53WEo5b2lDc1hCanFyUDF2ekZ4ekxuRjZrNE8zby1teVFSZHVkRXNEQWgyZ09yVDR0WEI0bml0YklHU0Zzb2sxNlFHYmV4dDJoUXo1bUpXelI2LURBN21DVkl5bGJMbU5KWW5PbVA4akM6VDxiPkd1amFyYXQ8L2I-IFVDQyBCaWxsIDxiPmdldHM8L2I-IFByZXNpZGVudCBNdXJtdSYjMzk7cyBhc3NlbnQsIDxiPmJlY29tZXM8L2I-IC4uLkKJATxiPlByZXNpZGVudCBNdXJtdSBoYXMgYXNzZW50ZWQgdG8gR3VqYXJhdCYjMzk7cyBVQ0MgQmlsbDwvYj4sIG1ha2luZyBpdCB0aGUgc2Vjb25kIHN0YXRlIGFmdGVyIFV0dGFyYWtoYW5kIHRvIGVuYWN0IGEgY29tcHJlaGVuc2l2ZSBVQ0MuUgRoYXZlIgIQAUgAWABoAA",
+    "source": "khabaradda.pro",
+    "read_more_link": "https://www.khabaradda.pro/story/gujarat-ucc-bill-gets-president-murmu-s-assent-becomes-2nd-state-after-uttarakha.eyJ0IjoiR3VqYXJhdCBVQ0MgQmlsbCBnZXRzIFByZXNpZGVudCBNdXJtdeKAmXMgYXNzZW50LCBiZWNvbWVzIDJuZCBzdGF0ZSBhZnRlciBVdHRhcmFraGFuZCIsImwiOiJodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9ndWphcmF0LXVjYy1iaWxsLWdldHMtcHJlc2lkZW50LW11cm11LXMtYXNzZW50LWJlY29tZXMtMm5kLXN0YXRlLWFmdGVyLXV0dGFyYWtoYW5kLTEwMTc5MDk0MTUzNTI0OC5odG1sIiwicyI6IkhpbmR1c3RhbiBUaW1lcyIsImQiOiIyMDI2LTEwLTAyVDExOjQ1OjM0LjAwMFoiLCJpIjoiaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2h0LWltZy9pbWcvMjAyNi8xMC8wMi8xNjAweDkwMC9sb2dvL0d1amFyYXQtcy1VQ0MtQmlsbC1oYXMtcmVjZWl2ZWQtUHJlc2lkZW50LU11cm11LXMtXzE3OTA5NDE1Mjc4MThfNTZicS5qcGciLCJjIjoiUHJlc2lkZW50IE11cm11IGhhcyBhc3NlbnRlZCB0byBHdWphcmF04oCZcyBVQ0MgQmlsbCwgbWFraW5nIGl0IHRoZSBzZWNvbmQgc3RhdGUgYWZ0ZXIgVXR0YXJha2hhbmQgdG8gZW5hY3QgYSBjb21wcmVoZW5zaXZlIFVDQy4iLCJjcyI6InRvcCIsImNsIjoiVG9wIFN0b3JpZXMiLCJhYyI6ImFjY2VudCJ9#:~:text=President%20Murmu%20has%20assented%20to,to%20enact%20a%20comprehensive%20UCC."
+   },
+   {
+    "position": 8,
+    "title": "President Gives Assent, Gujarat Becomes 2nd State To Get ...",
+    "link": "https://internationly.com/news/president-gives-assent-gujarat-becomes-2nd-state-to-get-uniform-civil-code",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEB6zswFYCm3wio7pciTAPfMuIRD2m_qj6LxrMRBOemf0TYZ2l8YidQ1JgpRk0LFRdGDA50lDKEupbU_jONRPc2uB4ndEGCQQOpggY2JDULMQvvD65pg2LVKtw2i2bt-A0tRqTpTV0fQs4I_VFMgCUQYOPEFCYqxlAY6X0xZyZGRVQFS4V4TMgiu3G3tZgsEDYEAqKgVAGqrY0_Kv0OCqamsQ&ved=2ahUKEwixtP-wrZ6XAxV-nSsGHdepB8EQFnoECBAQAQ&uoh=1",
+    "displayed_link": "https://internationly.com › Politics",
+    "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAACQBgCdASocABwAPtE-tFooIigoFAEAGglmAMsw8BFAKvozo8wD9M0taxo6FkozNbdBXghxTtvruQXmz4AAAP79Ko__YLz2-rHlBaB1FXxoHP6dOv9UID8nBDDVkPhP9e_Tt52F7qh9Vzf0TD8V97__k2sbGr91wWDf-dt35et3-Lj0nc4m22fnXrQ72W4x8y81FWpE8MZku8oUPbIMDlf0h97KaIFzTNzDr1YnYGlc5YxrYeruIt_2rEJesjOYuOO0_QvCPbqLZVdhpilkdnmpgcxIifDxbloS_ZSbf425_v9nL1Lgmaq6dkTu1rzPzV4M143lEFcFUPxnTFcqjrZI6w44UXWQxTA7vfZ27SWBvlkl-d2CGiyIbxAPdKd2Tgt-WAAA.webp",
+    "date": "24 hours ago",
+    "snippet": "President Gives Assent, Gujarat Becomes 2nd State To Get Uniform Civil Code. The Gujarat Uniform Civil Code (UCC) Bill 2026 was passed by the BJP-dominated ...",
+    "snippet_highlighted_words": [
+     "Gujarat Becomes 2nd State To Get Uniform Civil Code"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "President Gives Assent, Gujarat Becomes 2nd State To Get Uniform Civil Code. The Gujarat Uniform Civil Code (UCC) Bill 2026 was passed by the BJP-dominated ...",
+      "source_info_link": "https://internationly.com/news/president-gives-assent-gujarat-becomes-2nd-state-to-get-uniform-civil-code",
+      "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAACQBgCdASocABwAPtE-tFooIigoFAEAGglmAMsw8BFAKvozo8wD9M0taxo6FkozNbdBXghxTtvruQXmz4AAAP79Ko__YLz2-rHlBaB1FXxoHP6dOv9UID8nBDDVkPhP9e_Tt52F7qh9Vzf0TD8V97__k2sbGr91wWDf-dt35et3-Lj0nc4m22fnXrQ72W4x8y81FWpE8MZku8oUPbIMDlf0h97KaIFzTNzDr1YnYGlc5YxrYeruIt_2rEJesjOYuOO0_QvCPbqLZVdhpilkdnmpgcxIifDxbloS_ZSbf425_v9nL1Lgmaq6dkTu1rzPzV4M143lEFcFUPxnTFcqjrZI6w44UXWQxTA7vfZ27SWBvlkl-d2CGiyIbxAPdKd2Tgt-WAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZZQ20zd2lvN3BjaVRBUGZNdUlSRDJtX3FqNkx4ck1SQk9lbWYwVFlaMmw4WWlkUTFKZ3BSazBMRlJkR0RBNTBsREtFdXBiVV9qT05SUGMydUI0bmRFR0NRUU9wZ2dZMkpEVUxNUXZ2RDY1cGcyTFZLdHcyaTJidC1BMHRScVRwVFYwZlFzNElfVkZNZ0NVUVlPUEVGQ1lxeGxBWTZYMHhaeVpHUlZRRlM0VjRUTWdpdTNHM3RaZ3NFRFlFQXFLZ1ZBR3FyWTBfS3YwT0NxYW1zURIEGgIIABrhBxIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC9BwgAEAAYACAAKjYKB2d1amFyYXQVdRS-QBoDZ3VqGghndWphcmF0aRoJaW4gZ3VqcmF0GgxpdjtwO2d1amFyYXQqOwoGYmVjYW1lFQAAAAAaBmJlY29tZRoHYmVjb21lcxoIYmVjb21pbmcaBWJlZ2FuGgRjYW1lGgR3ZW50Kl0KBnNlY29uZBUAAAAAGgdhbm90aGVyGgZkb3VibGUaB2ZvciAybmQaAmlpGgZpbiAybmQaBm9uIDJuZBoJc2Vjb25kYXJ5GgdzZWNvbmRzGgd0aGUgMm5kGgN0d28qJAoFc3RhdGUVdRS-QBoFc3RhZ2UaB3N0YXRlJ3MaBnN0YXRlcypKCgt1dHRhcmFraGFuZBUAAAAAGg1pbiB1dHRyYWtoYW5kGgt1dHRhcmFuY2hhbBoQaXY7cDt1dHRhcmFraGFuZBoIZGVocmFkdW4qNgoDZ2V0FZodwEAaBGZpbmQaBGdldHMaB2dldHRpbmcaBGhhdmUaBm9idGFpbhoHcmVjZWl2ZSojCgd1bmlmb3JtFcRry0AaCXVuaWZvcm1seRoIdW5pZm9ybXMqHgoFY2l2aWwVxGvLQBoIY2l2aWxpYW4aBmNpdmlsczLoAS9nb3RvP3VybD1DQUVTb1FFQjZ6c3dGWUNtM3dpbzdwY2lUQVBmTXVJUkQybV9xajZMeHJNUkJPZW1mMFRZWjJsOFlpZFExSmdwUmswTEZSZEdEQTUwbERLRXVwYlVfak9OUlBjMnVCNG5kRUdDUVFPcGdnWTJKRFVMTVF2dkQ2NXBnMkxWS3R3MmkyYnQtQTB0UnFUcFRWMGZRczRJX1ZGTWdDVVFZT1BFRkNZcXhsQVk2WDB4WnlaR1JWUUZTNFY0VE1naXUzRzN0WmdzRURZRUFxS2dWQUdxclkwX0t2ME9DcWFtc1E6UVByZXNpZGVudCBHaXZlcyBBc3NlbnQsIDxiPkd1amFyYXQgQmVjb21lczwvYj4gMm5kIDxiPlN0YXRlPC9iPiBUbyA8Yj5HZXQ8L2I-IC4uLkKrAVByZXNpZGVudCBHaXZlcyBBc3NlbnQsIDxiPkd1amFyYXQgQmVjb21lcyAybmQgU3RhdGUgVG8gR2V0IFVuaWZvcm0gQ2l2aWwgQ29kZTwvYj4uIFRoZSBHdWphcmF0IFVuaWZvcm0gQ2l2aWwgQ29kZSAoVUNDKSBCaWxsIDIwMjYgd2FzIHBhc3NlZCBieSB0aGUgQkpQLWRvbWluYXRlZCZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZZQ20zd2lvN3BjaVRBUGZNdUlSRDJtX3FqNkx4ck1SQk9lbWYwVFlaMmw4WWlkUTFKZ3BSazBMRlJkR0RBNTBsREtFdXBiVV9qT05SUGMydUI0bmRFR0NRUU9wZ2dZMkpEVUxNUXZ2RDY1cGcyTFZLdHcyaTJidC1BMHRScVRwVFYwZlFzNElfVkZNZ0NVUVlPUEVGQ1lxeGxBWTZYMHhaeVpHUlZRRlM0VjRUTWdpdTNHM3RaZ3NFRFlFQXFLZ1ZBR3FyWTBfS3YwT0NxYW1zURIEGgIIABrhBxIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC9BwgAEAAYACAAKjYKB2d1amFyYXQVdRS-QBoDZ3VqGghndWphcmF0aRoJaW4gZ3VqcmF0GgxpdjtwO2d1amFyYXQqOwoGYmVjYW1lFQAAAAAaBmJlY29tZRoHYmVjb21lcxoIYmVjb21pbmcaBWJlZ2FuGgRjYW1lGgR3ZW50Kl0KBnNlY29uZBUAAAAAGgdhbm90aGVyGgZkb3VibGUaB2ZvciAybmQaAmlpGgZpbiAybmQaBm9uIDJuZBoJc2Vjb25kYXJ5GgdzZWNvbmRzGgd0aGUgMm5kGgN0d28qJAoFc3RhdGUVdRS-QBoFc3RhZ2UaB3N0YXRlJ3MaBnN0YXRlcypKCgt1dHRhcmFraGFuZBUAAAAAGg1pbiB1dHRyYWtoYW5kGgt1dHRhcmFuY2hhbBoQaXY7cDt1dHRhcmFraGFuZBoIZGVocmFkdW4qNgoDZ2V0FZodwEAaBGZpbmQaBGdldHMaB2dldHRpbmcaBGhhdmUaBm9idGFpbhoHcmVjZWl2ZSojCgd1bmlmb3JtFcRry0AaCXVuaWZvcm1seRoIdW5pZm9ybXMqHgoFY2l2aWwVxGvLQBoIY2l2aWxpYW4aBmNpdmlsczLoAS9nb3RvP3VybD1DQUVTb1FFQjZ6c3dGWUNtM3dpbzdwY2lUQVBmTXVJUkQybV9xajZMeHJNUkJPZW1mMFRZWjJsOFlpZFExSmdwUmswTEZSZEdEQTUwbERLRXVwYlVfak9OUlBjMnVCNG5kRUdDUVFPcGdnWTJKRFVMTVF2dkQ2NXBnMkxWS3R3MmkyYnQtQTB0UnFUcFRWMGZRczRJX1ZGTWdDVVFZT1BFRkNZcXhsQVk2WDB4WnlaR1JWUUZTNFY0VE1naXUzRzN0WmdzRURZRUFxS2dWQUdxclkwX0t2ME9DcWFtc1E6UVByZXNpZGVudCBHaXZlcyBBc3NlbnQsIDxiPkd1amFyYXQgQmVjb21lczwvYj4gMm5kIDxiPlN0YXRlPC9iPiBUbyA8Yj5HZXQ8L2I-IC4uLkKrAVByZXNpZGVudCBHaXZlcyBBc3NlbnQsIDxiPkd1amFyYXQgQmVjb21lcyAybmQgU3RhdGUgVG8gR2V0IFVuaWZvcm0gQ2l2aWwgQ29kZTwvYj4uIFRoZSBHdWphcmF0IFVuaWZvcm0gQ2l2aWwgQ29kZSAoVUNDKSBCaWxsIDIwMjYgd2FzIHBhc3NlZCBieSB0aGUgQkpQLWRvbWluYXRlZCZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+    "source": "internationly.com",
+    "read_more_link": "https://internationly.com/news/president-gives-assent-gujarat-becomes-2nd-state-to-get-uniform-civil-code#:~:text=The%20Gujarat%20Uniform%20Civil%20Code,BJP%2Ddominated%20state%20assembly%20in%20March."
+   },
+   {
+    "position": 9,
+    "title": "President Murmu gives assent to Gujarat Uniform Civil ...",
+    "link": "https://t-en-yd.obnews.co/Flow/News/id/17702752.html?val=bb07525c077d3c9e417058961b69684b&ch=o_sp",
+    "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFaC9k915rQ2LY5uH5VKoPufar3bItgVKh8wYGc_gFSbmS_t67phkQdqUbKx7kCDhB3KVtc6ssQbXHQvygA2Hm9-zV7krqY4XU6TZNV35ryuWCvmptQs3I86Zw7Q6WwCKuaP7DPCJA5dEjJj2jCZrEU9CvXu0ibjAkyd2_JjgHUNShYu-QwQwW7J4DGEyMW_c-yZLIQo&ved=2ahUKEwixtP-wrZ6XAxV-nSsGHdepB8EQFnoECA8QAQ&uoh=1",
+    "displayed_link": "https://t-en-yd.obnews.co › Flow › News",
+    "favicon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAAAwCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHp_qvDsuBwGNsBuQN4W3nezY8xq7Jor5lHjle1on_tbo0ghn1ASOkpsVI2KgPFThDIAlPqYAP79L9Ec4PGVcsTFPlTCGLCfJnf-JQExLsbcz3L4I59KQVbWv0Z4oX1yCQLVWxceOxGjVpunmZGmkgP7DH658E_zj2y2wgN3YY3X_yq5Co7Xi6bZBhrj1Zp9ML2hXxbtFnfEV44Ta67mGP7Wg1pG1IWBkr9tkK-0W3qAce2twJCpCTdLPqpvoSL0JCBuNBQ3YNaAy-pQy-2lcjGebtQCScjujfo3SEq2POK2MM8yyY6oHA7BlBa3UtAICPOtUtY-sVydvzVZMJ64gQW9mv59zY93rOUm-YMndIIHx5Reu0awP9CVLq7ZxqB-6Ux7kWnBJw36j2MSiQ-KeypHuvMu2R_RYKiVvS7Uz0dUPWYEOlFICBbliD3RpEFTQkwSzOvCL9yqyrH89DjMhAdRed9xbt9mBZrRnXwC7RlwcyzzmI-__mBowelKnBpY4jVP4na6WZRI3slgAicyLvVPBNlP5igAAAA.webp",
+    "date": "1 day ago",
+    "snippet": "Gujarat is now the second state after Uttarakhand to enact a UCC. The President gave her assent on September 17, according to the Gujarat Government Gazette ...",
+    "snippet_highlighted_words": [
+     "Gujarat is now the second state after Uttarakhand to enact a UCC"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Gujarat is now the second state after Uttarakhand to enact a UCC. The President gave her assent on September 17, according to the Gujarat Government Gazette ...",
+      "source_info_link": "https://t-en-yd.obnews.co/Flow/News/id/17702752.html?val=bb07525c077d3c9e417058961b69684b&ch=o_sp",
+      "icon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAAAwCQCdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHp_qvDsuBwGNsBuQN4W3nezY8xq7Jor5lHjle1on_tbo0ghn1ASOkpsVI2KgPFThDIAlPqYAP79L9Ec4PGVcsTFPlTCGLCfJnf-JQExLsbcz3L4I59KQVbWv0Z4oX1yCQLVWxceOxGjVpunmZGmkgP7DH658E_zj2y2wgN3YY3X_yq5Co7Xi6bZBhrj1Zp9ML2hXxbtFnfEV44Ta67mGP7Wg1pG1IWBkr9tkK-0W3qAce2twJCpCTdLPqpvoSL0JCBuNBQ3YNaAy-pQy-2lcjGebtQCScjujfo3SEq2POK2MM8yyY6oHA7BlBa3UtAICPOtUtY-sVydvzVZMJ64gQW9mv59zY93rOUm-YMndIIHx5Reu0awP9CVLq7ZxqB-6Ux7kWnBJw36j2MSiQ-KeypHuvMu2R_RYKiVvS7Uz0dUPWYEOlFICBbliD3RpEFTQkwSzOvCL9yqyrH89DjMhAdRed9xbt9mBZrRnXwC7RlwcyzzmI-__mBowelKnBpY4jVP4na6WZRI3slgAicyLvVPBNlP5igAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZhQzlrOTE1clEyTFk1dUg1VktvUHVmYXIzYkl0Z1ZLaDh3WUdjX2dGU2JtU190NjdwaGtRZHFVYkt4N2tDRGhCM0tWdGM2c3NRYlhIUXZ5Z0EySG05LXpWN2tycVk0WFU2VFpOVjM1cnl1V0N2bXB0UXMzSTg2Wnc3UTZXd0NLdWFQN0RQQ0pBNWRFakpqMmpDWnJFVTlDdlh1MGliakFreWQyX0pqZ0hVTlNoWXUtUXdRd1c3SjRER0V5TVdfYy15WkxJUW8SBBoCCAAaywcSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJApwcIABAAGAAgACo2CgdndWphcmF0FQjaxUAaA2d1ahoIZ3VqYXJhdGkaCWluIGd1anJhdBoMaXY7cDtndWphcmF0KjsKBmJlY2FtZRUAAAAAGgZiZWNvbWUaB2JlY29tZXMaCGJlY29taW5nGgViZWdhbhoEY2FtZRoEd2VudCpdCgZzZWNvbmQV1jivQBoHYW5vdGhlchoGZG91YmxlGgdmb3IgMm5kGgJpaRoGaW4gMm5kGgZvbiAybmQaCXNlY29uZGFyeRoHc2Vjb25kcxoHdGhlIDJuZBoDdHdvKiQKBXN0YXRlFSizx0AaBXN0YWdlGgdzdGF0ZSdzGgZzdGF0ZXMqSgoLdXR0YXJha2hhbmQV1epdQBoNaW4gdXR0cmFraGFuZBoLdXR0YXJhbmNoYWwaEGl2O3A7dXR0YXJha2hhbmQaCGRlaHJhZHVuKjYKA2dldBUK8qA-GgRmaW5kGgRnZXRzGgdnZXR0aW5nGgRoYXZlGgZvYnRhaW4aB3JlY2VpdmUqIwoHdW5pZm9ybRWOVZ5AGgl1bmlmb3JtbHkaCHVuaWZvcm1zKh4KBWNpdmlsFY5VnkAaCGNpdmlsaWFuGgZjaXZpbHMy3QEvZ290bz91cmw9Q0FFU21RRUI2enN3RmFDOWs5MTVyUTJMWTV1SDVWS29QdWZhcjNiSXRnVktoOHdZR2NfZ0ZTYm1TX3Q2N3Boa1FkcVViS3g3a0NEaEIzS1Z0YzZzc1FiWEhRdnlnQTJIbTktelY3a3JxWTRYVTZUWk5WMzVyeXVXQ3ZtcHRRczNJODZadzdRNld3Q0t1YVA3RFBDSkE1ZEVqSmoyakNackVVOUN2WHUwaWJqQWt5ZDJfSmpnSFVOU2hZdS1Rd1F3VzdKNERHRXlNV19jLXlaTElRbzpFUHJlc2lkZW50IE11cm11IGdpdmVzIGFzc2VudCB0byA8Yj5HdWphcmF0IFVuaWZvcm0gQ2l2aWw8L2I-IENvZGUgLi4uQqwBPGI-R3VqYXJhdCBpcyBub3cgdGhlIHNlY29uZCBzdGF0ZSBhZnRlciBVdHRhcmFraGFuZCB0byBlbmFjdCBhIFVDQzwvYj4uIFRoZSBQcmVzaWRlbnQgZ2F2ZSBoZXIgYXNzZW50IG9uIFNlcHRlbWJlciAxNywgYWNjb3JkaW5nIHRvIHRoZSBHdWphcmF0IEdvdmVybm1lbnQgR2F6ZXR0ZSZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZhQzlrOTE1clEyTFk1dUg1VktvUHVmYXIzYkl0Z1ZLaDh3WUdjX2dGU2JtU190NjdwaGtRZHFVYkt4N2tDRGhCM0tWdGM2c3NRYlhIUXZ5Z0EySG05LXpWN2tycVk0WFU2VFpOVjM1cnl1V0N2bXB0UXMzSTg2Wnc3UTZXd0NLdWFQN0RQQ0pBNWRFakpqMmpDWnJFVTlDdlh1MGliakFreWQyX0pqZ0hVTlNoWXUtUXdRd1c3SjRER0V5TVdfYy15WkxJUW8SBBoCCAAaywcSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJApwcIABAAGAAgACo2CgdndWphcmF0FQjaxUAaA2d1ahoIZ3VqYXJhdGkaCWluIGd1anJhdBoMaXY7cDtndWphcmF0KjsKBmJlY2FtZRUAAAAAGgZiZWNvbWUaB2JlY29tZXMaCGJlY29taW5nGgViZWdhbhoEY2FtZRoEd2VudCpdCgZzZWNvbmQV1jivQBoHYW5vdGhlchoGZG91YmxlGgdmb3IgMm5kGgJpaRoGaW4gMm5kGgZvbiAybmQaCXNlY29uZGFyeRoHc2Vjb25kcxoHdGhlIDJuZBoDdHdvKiQKBXN0YXRlFSizx0AaBXN0YWdlGgdzdGF0ZSdzGgZzdGF0ZXMqSgoLdXR0YXJha2hhbmQV1epdQBoNaW4gdXR0cmFraGFuZBoLdXR0YXJhbmNoYWwaEGl2O3A7dXR0YXJha2hhbmQaCGRlaHJhZHVuKjYKA2dldBUK8qA-GgRmaW5kGgRnZXRzGgdnZXR0aW5nGgRoYXZlGgZvYnRhaW4aB3JlY2VpdmUqIwoHdW5pZm9ybRWOVZ5AGgl1bmlmb3JtbHkaCHVuaWZvcm1zKh4KBWNpdmlsFY5VnkAaCGNpdmlsaWFuGgZjaXZpbHMy3QEvZ290bz91cmw9Q0FFU21RRUI2enN3RmFDOWs5MTVyUTJMWTV1SDVWS29QdWZhcjNiSXRnVktoOHdZR2NfZ0ZTYm1TX3Q2N3Boa1FkcVViS3g3a0NEaEIzS1Z0YzZzc1FiWEhRdnlnQTJIbTktelY3a3JxWTRYVTZUWk5WMzVyeXVXQ3ZtcHRRczNJODZadzdRNld3Q0t1YVA3RFBDSkE1ZEVqSmoyakNackVVOUN2WHUwaWJqQWt5ZDJfSmpnSFVOU2hZdS1Rd1F3VzdKNERHRXlNV19jLXlaTElRbzpFUHJlc2lkZW50IE11cm11IGdpdmVzIGFzc2VudCB0byA8Yj5HdWphcmF0IFVuaWZvcm0gQ2l2aWw8L2I-IENvZGUgLi4uQqwBPGI-R3VqYXJhdCBpcyBub3cgdGhlIHNlY29uZCBzdGF0ZSBhZnRlciBVdHRhcmFraGFuZCB0byBlbmFjdCBhIFVDQzwvYj4uIFRoZSBQcmVzaWRlbnQgZ2F2ZSBoZXIgYXNzZW50IG9uIFNlcHRlbWJlciAxNywgYWNjb3JkaW5nIHRvIHRoZSBHdWphcmF0IEdvdmVybm1lbnQgR2F6ZXR0ZSZuYnNwOy4uLlIEaGF2ZSICEAFIAFgAaAA",
+    "source": "obnews.co",
+    "read_more_link": "https://t-en-yd.obnews.co/Flow/News/id/17702752.html?val=bb07525c077d3c9e417058961b69684b&ch=o_sp#:~:text=Gujarat%20is%20now%20the%20second,Extraordinary%20published%20on%20October%201."
+   }
+  ],
+  "dmca_messages": {
+   "title": "Notices about Filtered Results",
+   "messages": [
+    {
+     "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 9 already displayed.If you like, you can repeat the search with the omitted results included.",
+     "highlighted_words": [
+      {
+       "link": "https://www.google.com/search?q=Gujarat+became+second+state+Uttarakhand+get+Uniform+Civil+&sca_esv=3cbbadbd95a53bdb&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnta8E0jjhWqrdEcz0Z2uuDl8YC_Xw:1791047904525&filter=0",
+       "text": "repeat the search with the omitted results included"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

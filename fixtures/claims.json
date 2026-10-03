@@ -1,8 +1,22 @@
 [
-  {"id": "anthem", "claim": "UNESCO declared Jana Gana Mana the best national anthem in the world",
-   "why": "Classic WhatsApp forward since ~2008; false. Shows fact-checker consensus and copy-paste forwards collapsing to one voice."},
-  {"id": "amravati", "claim": "Seven people were killed when a truck hit a pickup van in Amravati, Maharashtra",
-   "why": "Real 2 Oct 2026 accident carried as PTI wire copy by many outlets. Shows syndication collapse and an earlier 'five killed' wire version."},
-  {"id": "papaya", "claim": "Papaya leaf extract increases platelet count in dengue patients",
-   "why": "Forwarded health remedy with genuine mixed evidence: Scholar finds supportive trials, fact-checkers push back on 'cure' framing."}
+ {
+  "id": "anthem",
+  "claim": "UNESCO declared Jana Gana Mana the best national anthem in the world",
+  "why": "Classic WhatsApp forward since ~2008; false. Shows fact-checker consensus and copy-paste forwards collapsing to one voice."
+ },
+ {
+  "id": "amravati",
+  "claim": "Seven people were killed when a truck hit a pickup van in Amravati, Maharashtra",
+  "why": "Real 2 Oct 2026 accident carried as PTI wire copy by many outlets. Shows syndication collapse and an earlier 'five killed' wire version."
+ },
+ {
+  "id": "papaya",
+  "claim": "Papaya leaf extract increases platelet count in dengue patients",
+  "why": "Forwarded health remedy with genuine mixed evidence: Scholar finds supportive trials, fact-checkers push back on 'cure' framing."
+ },
+ {
+  "id": "ucc",
+  "claim": "Gujarat became the second state after Uttarakhand to get a Uniform Civil Code after President Murmu gave assent",
+  "why": "True 2 Oct 2026 news recorded live by the CLI. Several near-identical write-ups collapse; a spam scraper with a wrong date is down-weighted and never chosen as the origin."
+ }
 ]
