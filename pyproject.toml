@@ -3,6 +3,7 @@ name = "claimcheck"
 version = "0.1.0"
 description = "Claim triangulation across SerpApi engines with syndication detection"
 readme = "README.md"
+license = "MIT"
 authors = [
     { name = "anarch", email = "2vir.sharma@gmail.com" }
 ]
