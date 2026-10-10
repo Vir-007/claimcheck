@@ -24,7 +24,7 @@ $ claimcheck "Seven people were killed when a truck hit a pickup van in Amravati
 |---|---|
 | ![Amravati crash verdict card](docs/amravati.png) | ![UNESCO anthem verdict card](docs/anthem.png) |
 
-**Demo video:** _link added after recording_
+**Demo video (2 min):** https://youtu.be/-hKMrFm8hik (voice-over is text-to-speech reading my script)
 
 ## Why this exists
 
